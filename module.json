@@ -6,9 +6,7 @@
     {
       "name": "Daekatriel",
       "discord": "Daekatriel#8765",
-      "url": "https://github.com/DKtric3L/The-Ultimate-Witcher.git",
-      "manifest": "https://github.com/DKtric3L/The-Ultimate-Witcher/raw/main/module.json",
-      "download": "https://github.com/DKtric3L/The-Ultimate-Witcher/releases/download/0.1/The-Ultimate-Witcher.zip"
+      "url": "https://discord.gg/scgKeUhNet"
     }
   ],
   "version": "1.0",
@@ -182,5 +180,8 @@
     "type": "module",
     "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
   }]
-}
+},
+"url": "https://github.com/DKtric3L/The-Ultimate-Witcher.git",
+"manifest": "https://github.com/DKtric3L/The-Ultimate-Witcher/raw/main/module.json",
+"download": "https://github.com/DKtric3L/The-Ultimate-Witcher/releases/download/0.1/The-Ultimate-Witcher.zip"    
 }
