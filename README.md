@@ -12,3 +12,7 @@
 Заходишь в фаундри, открываешь "Модули"->"Установка модуля", 
 
 Вставляешь ссылку https://github.com/DKtric3L/The-Ultimate-Witcher/raw/main/module.json
+
+???
+
+PROFIT!
