@@ -18,20 +18,6 @@
   "system": "TheWitcherTRPG",
   "packs": [
     {
-      "name": "boj",
-      "label": "Бой",
-      "path": "packs/boj.db",
-      "type": "RollTable",
-      "system": "TheWitcherTRPG"
-    },
-    {
-      "name": "dop-tablicy-predystorii-maga",
-      "label": "Доп таблицы предыстории мага",
-      "path": "packs/dop-tablicy-predystorii-maga.db",
-      "type": "RollTable",
-      "system": "TheWitcherTRPG"
-    },
-    {
       "name": "dospehi",
       "label": "Доспехи",
       "path": "packs/dospehi.db",
@@ -43,27 +29,6 @@
       "label": "Формулы и Рецепты",
       "path": "packs/formuly-i-recepty.db",
       "type": "Item",
-      "system": "TheWitcherTRPG"
-    },
-    {
-      "name": "generator-dop-tablicy",
-      "label": "Генератор Доп. Таблицы",
-      "path": "packs/generator-dop-tablicy.db",
-      "type": "RollTable",
-      "system": "TheWitcherTRPG"
-    },
-    {
-      "name": "generator-personazha",
-      "label": "Генератор персонажа",
-      "path": "packs/generator-personazha.db",
-      "type": "RollTable",
-      "system": "TheWitcherTRPG"
-    },
-    {
-      "name": "generatory",
-      "label": "Генераторы",
-      "path": "packs/generatory.db",
-      "type": "RollTable",
       "system": "TheWitcherTRPG"
     },
     {
@@ -95,24 +60,10 @@
       "system": "TheWitcherTRPG"
     },
     {
-      "name": "predystoriya-maga",
-      "label": "Предыстория мага",
-      "path": "packs/predystoriya-maga.db",
-      "type": "RollTable",
-      "system": "TheWitcherTRPG"
-    },
-    {
       "name": "prochee",
       "label": "Прочее",
       "path": "packs/prochee.db",
       "type": "Actor",
-      "system": "TheWitcherTRPG"
-    },
-    {
-      "name": "put-vedmaka-i-dop-tablicy",
-      "label": "Путь ведьмака и Доп Таблицы",
-      "path": "packs/put-vedmaka-i-dop-tablicy.db",
-      "type": "RollTable",
       "system": "TheWitcherTRPG"
     },
     {
@@ -134,13 +85,6 @@
       "label": "Состояния",
       "path": "packs/sostoyaniya.db",
       "type": "Item",
-      "system": "TheWitcherTRPG"
-    },
-    {
-      "name": "stil-i-imushestvo-doptablicy",
-      "label": "Стиль и имущество доп.таблицы",
-      "path": "packs/stil-i-imushestvo-doptablicy.db",
-      "type": "RollTable",
       "system": "TheWitcherTRPG"
     },
     {
