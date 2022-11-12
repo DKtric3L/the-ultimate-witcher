@@ -1,7 +1,7 @@
 {
   "id": "The-Ultimate-Witcher",
   "title": "Ультимативный Сборник По Ведьмаку",
-  "description": "<p>Здесь ты найдёшь всё, что тебе когда либо требовалось для комфортной игры в Ведьмака, и даже больше.</p>",
+  "description": "<p>Здесь ты найдёшь всё, что тебе когда либо требовалось для комфортной игры в Ведьмака, и даже больше. Заходи на наш дискорд-канал <a href=\"https://discord.gg/scgKeUhNet\">https://discord.gg/scgKeUhNet</a></p>",
   "authors": [
     {
       "name": "Daekatriel",
@@ -9,7 +9,7 @@
       "url": "https://discord.gg/scgKeUhNet"
     }
   ],
-  "version": "1.0",
+  "version": "0.1",
   "compatibility": {
     "minimum": 10,
     "verified": 10,
@@ -26,7 +26,7 @@
     },
     {
       "name": "dop-tablicy-predystorii-maga",
-      "label": "Доп. таблицы предыстории мага",
+      "label": "Доп таблицы предыстории мага",
       "path": "packs/dop-tablicy-predystorii-maga.db",
       "type": "RollTable",
       "system": "TheWitcherTRPG"
@@ -54,7 +54,7 @@
     },
     {
       "name": "generator-personazha",
-      "label": "Генератор Персонажа",
+      "label": "Генератор персонажа",
       "path": "packs/generator-personazha.db",
       "type": "RollTable",
       "system": "TheWitcherTRPG"
@@ -110,7 +110,7 @@
     },
     {
       "name": "put-vedmaka-i-dop-tablicy",
-      "label": "Путь ведьмака и Доп. Таблицы",
+      "label": "Путь ведьмака и Доп Таблицы",
       "path": "packs/put-vedmaka-i-dop-tablicy.db",
       "type": "RollTable",
       "system": "TheWitcherTRPG"
@@ -138,9 +138,9 @@
     },
     {
       "name": "stil-i-imushestvo-doptablicy",
-      "label": "Стиль и имущество доп. таблицы",
+      "label": "Стиль и имущество доп.таблицы",
       "path": "packs/stil-i-imushestvo-doptablicy.db",
-      "type": "Item",
+      "type": "RollTable",
       "system": "TheWitcherTRPG"
     },
     {
