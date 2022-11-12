@@ -11,7 +11,7 @@
 
 Заходишь в фаундри, открываешь "Модули"->"Установка модуля", 
 
-Вставляешь ссылку https://github.com/DKtric3L/The-Ultimate-Witcher/raw/main/module.json
+Вставляешь ссылку https://raw.githubusercontent.com/DKtric3L/The-Ultimate-Witcher/master/module.json
 
 Жмешь "Установка"
 
