@@ -182,6 +182,6 @@
   }]
 },
 "url": "https://github.com/DKtric3L/The-Ultimate-Witcher.git",
-"manifest": "https://github.com/DKtric3L/The-Ultimate-Witcher/raw/main/module.json",
-"download": "https://github.com/DKtric3L/The-Ultimate-Witcher/releases/download/0.1/The-Ultimate-Witcher.zip"    
+"manifest": "https://raw.githubusercontent.com/DKtric3L/The-Ultimate-Witcher/master/module.json",
+"download": "https://github.com/DKtric3L/The-Ultimate-Witcher/archive/refs/heads/main.zip"    
 }
