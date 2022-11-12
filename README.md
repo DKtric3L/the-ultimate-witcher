@@ -13,6 +13,10 @@
 
 Вставляешь ссылку https://github.com/DKtric3L/The-Ultimate-Witcher/raw/main/module.json
 
+Жмешь "Установка"
+
 ???
 
 PROFIT!
+
+При появлении обновлений - Нажать в фаундри на "Обновление".
