@@ -7,8 +7,8 @@
       "name": "Daekatriel",
       "discord": "Daekatriel#8765",
       "url": "https://github.com/DKtric3L/The-Ultimate-Witcher.git",
-      "manifest": "https://github.com/DKtric3L/The-Ultimate-Witcher/blob/main/module.json",
-      "download": "https://github.com/DKtric3L/The-Ultimate-Witcher/archive/refs/tags/0.1.zip"
+      "manifest": "https://github.com/DKtric3L/The-Ultimate-Witcher/raw/main/module.json",
+      "download": "https://github.com/DKtric3L/The-Ultimate-Witcher/releases/download/0.1/The-Ultimate-Witcher.zip"
     }
   ],
   "version": "1.0",
