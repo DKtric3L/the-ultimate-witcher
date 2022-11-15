@@ -1,5 +1,5 @@
 {
-  "id": "The-Ultimate-Witcher",
+  "id": "the-ultimate-witcher",
   "title": "Ультимативный Сборник По Ведьмаку",
   "description": "<p>Здесь ты найдёшь всё, что тебе когда либо требовалось для комфортной игры в Ведьмака, и даже больше.</p><p>Заходи на наш дискорд-канал <a href=\"https://discord.gg/scgKeUhNet\">https://discord.gg/scgKeUhNet</a></p>",
   "authors": [
@@ -9,7 +9,7 @@
       "url": "https://boosty.to/daekatrielmalinaproject"
     }
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": 10,
     "verified": 10,
