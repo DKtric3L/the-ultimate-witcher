@@ -134,19 +134,23 @@
   "protected": false,
   "coreTranslation": false,
   "library": false,
-  "relationships": {    
-    "systems": [{
-    "id": "TheWitcherTRPG",
-    "type": "system",
-    "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json"
-  }],
-  "requires": [{
-    "id": "compendium-folders",
-    "type": "module",
-    "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
-  }]
-},
-"url": "https://github.com/DKtric3L/the-ultimate-witcher.git",
-"manifest": "https://raw.githubusercontent.com/DKtric3L/the-ultimate-witcher/master/module.json",
-"download": "https://github.com/DKtric3L/the-ultimate-witcher/archive/refs/heads/main.zip"    
+  "relationships": {
+    "systems": [
+      {
+        "id": "TheWitcherTRPG",
+        "type": "system",
+        "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json"
+      }
+    ],
+    "requires": [
+      {
+        "id": "compendium-folders",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+      }
+    ]
+  },
+  "url": "https://github.com/DKtric3L/the-ultimate-witcher.git",
+  "manifest": "https://raw.githubusercontent.com/DKtric3L/the-ultimate-witcher/master/module.json",
+  "download": "https://github.com/DKtric3L/the-ultimate-witcher/archive/refs/heads/main.zip"
 }
