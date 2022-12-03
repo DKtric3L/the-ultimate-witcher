@@ -1,0 +1,152 @@
+{
+  "id": "the-ultimate-witcher",
+  "title": "Ультимативный Сборник По Ведьмаку",
+  "description": "<p>Здесь ты найдёшь всё, что тебе когда либо требовалось для комфортной игры в Ведьмака, и даже больше.</p><p>Заходи на наш дискорд-канал <a href=\"https://discord.gg/scgKeUhNet\">https://discord.gg/scgKeUhNet</a></p>",
+  "authors": [
+    {
+      "name": "Daekatriel",
+      "discord": "Daekatriel#8765",
+      "url": "https://boosty.to/daekatrielmalinaproject"
+    }
+  ],
+  "version": "1.0.3",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 10
+  },
+  "system": "TheWitcherTRPG",
+  "packs": [
+    {
+      "name": "boj",
+      "label": "Бой",
+      "path": "packs/boj.db",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "dospehi",
+      "label": "Доспехи",
+      "path": "packs/dospehi.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "formuly-i-recepty",
+      "label": "Формулы и Рецепты",
+      "path": "packs/formuly-i-recepty.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "generator-personazha",
+      "label": "Генератор персонажа",
+      "path": "packs/generator-personazha.db",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "generatory",
+      "label": "Генераторы",
+      "path": "packs/generatory.db",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "komponenty",
+      "label": "Компоненты",
+      "path": "packs/komponenty.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "monstry",
+      "label": "Монстры",
+      "path": "packs/monstry.db",
+      "type": "Actor",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "oruzhie",
+      "label": "Оружие",
+      "path": "packs/oruzhie.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "predmety",
+      "label": "Предметы",
+      "path": "packs/predmety.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "prochee",
+      "label": "Прочее",
+      "path": "packs/prochee.db",
+      "type": "Actor",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "rasy-i-professii",
+      "label": "Расы и Профессии",
+      "path": "packs/rasy-i-professii.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "relikvii",
+      "label": "Реликвии",
+      "path": "packs/relikvii.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "sostoyaniya",
+      "label": "Состояния",
+      "path": "packs/sostoyaniya.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "vedmache-snaryazhenie",
+      "label": "Ведьмачье Снаряжение",
+      "path": "packs/vedmache-snaryazhenie.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "zagotovki-personazhej",
+      "label": "Заготовки Персонажей",
+      "path": "packs/zagotovki-personazhej.db",
+      "type": "Actor",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "zaklinaniya",
+      "label": "Заклинания",
+      "path": "packs/zaklinaniya.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
+    }
+  ],
+  "socket": false,
+  "protected": false,
+  "coreTranslation": false,
+  "library": false,
+  "relationships": {    
+    "systems": [{
+    "id": "TheWitcherTRPG",
+    "type": "system",
+    "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json"
+  }],
+  "requires": [{
+    "id": "compendium-folders",
+    "type": "module",
+    "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+  }]
+},
+"url": "https://github.com/DKtric3L/the-ultimate-witcher.git",
+"manifest": "https://raw.githubusercontent.com/DKtric3L/the-ultimate-witcher/master/module.json",
+"download": "https://github.com/DKtric3L/the-ultimate-witcher/archive/refs/heads/main.zip"    
+}
