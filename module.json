@@ -107,6 +107,27 @@
       "path": "packs/zaklinaniya.db",
       "type": "Item",
       "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "generatory",
+      "label": "Генераторы",
+      "path": "packs/generatory.db",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "generator-personazha",
+      "label": "Генераторы персонажа",
+      "path": "packs/generator-personazha.db",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "rasshirennaya-vedmachya-alhimiya",
+      "label": "Расширенная Ведьмачья Алхимия",
+      "path": "packs/rasshirennaya-vedmachya-alhimiya.db",
+      "type": "Item",
+      "system": "TheWitcherTRPG"
     }
   ],
   "socket": false,
