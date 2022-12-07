@@ -9,7 +9,7 @@
       "url": "https://boosty.to/daekatrielmalinaproject"
     }
   ],
-  "version": "1.0.5",
+  "version": "1.0.62",
   "compatibility": {
     "minimum": 10,
     "verified": 10,
@@ -127,6 +127,13 @@
       "label": "Расширенная Ведьмачья Алхимия",
       "path": "packs/rasshirennaya-vedmachya-alhimiya.db",
       "type": "Item",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "poleznye-materialy",
+      "label": "Полезные Материалы",
+      "path": "packs/poleznye-materialy.db",
+      "type": "JournalEntry",
       "system": "TheWitcherTRPG"
     }
   ],
