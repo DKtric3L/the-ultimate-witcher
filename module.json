@@ -123,13 +123,6 @@
       "system": "TheWitcherTRPG"
     },
     {
-      "name": "rasshirennaya-vedmachya-alhimiya",
-      "label": "Расширенная Ведьмачья Алхимия",
-      "path": "packs/rasshirennaya-vedmachya-alhimiya.db",
-      "type": "Item",
-      "system": "TheWitcherTRPG"
-    },
-    {
       "name": "poleznye-materialy",
       "label": "Полезные Материалы",
       "path": "packs/poleznye-materialy.db",
