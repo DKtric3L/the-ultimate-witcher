@@ -12,14 +12,15 @@
   ],
   "version": "1.2.1",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
   },
   "packs": [
     {
       "name": "dospehi",
       "label": "Доспехи",
-      "path": "packs/dospehi",
+      "path": "packs/dospehi.db",
       "type": "Item",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -28,7 +29,7 @@
     {
       "name": "formuly-i-recepty",
       "label": "Формулы и Рецепты",
-      "path": "packs/formuly-i-recepty",
+      "path": "packs/formuly-i-recepty.db",
       "type": "Item",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -37,7 +38,7 @@
     {
       "name": "komponenty",
       "label": "Компоненты",
-      "path": "packs/komponenty",
+      "path": "packs/komponenty.db",
       "type": "Item",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -46,7 +47,7 @@
     {
       "name": "monstry",
       "label": "Монстры",
-      "path": "packs/monstry",
+      "path": "packs/monstry.db",
       "type": "Actor",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -55,7 +56,7 @@
     {
       "name": "oruzhie",
       "label": "Оружие",
-      "path": "packs/oruzhie",
+      "path": "packs/oruzhie.db",
       "type": "Item",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -64,17 +65,8 @@
     {
       "name": "predmety",
       "label": "Предметы",
-      "path": "packs/predmety",
+      "path": "packs/predmety.db",
       "type": "Item",
-      "system": "TheWitcherTRPG",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "predystoriya-maga",
-      "label": "Предистория мага",
-      "path": "packs/predystoriya-maga",
-      "type": "RollTable",
       "system": "TheWitcherTRPG",
       "private": false,
       "flags": {}
@@ -82,7 +74,7 @@
     {
       "name": "prochee",
       "label": "Прочее",
-      "path": "packs/prochee",
+      "path": "packs/prochee.db",
       "type": "Actor",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -91,7 +83,7 @@
     {
       "name": "rasy-i-professii",
       "label": "Расы и Профессии",
-      "path": "packs/rasy-i-professii",
+      "path": "packs/rasy-i-professii.db",
       "type": "Item",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -100,7 +92,7 @@
     {
       "name": "relikvii",
       "label": "Реликвии",
-      "path": "packs/relikvii",
+      "path": "packs/relikvii.db",
       "type": "Item",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -109,16 +101,7 @@
     {
       "name": "sostoyaniya",
       "label": "Состояния",
-      "path": "packs/sostoyaniya",
-      "type": "Item",
-      "system": "TheWitcherTRPG",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "valuable",
-      "label": "Ценности",
-      "path": "packs/valuable",
+      "path": "packs/sostoyaniya.db",
       "type": "Item",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -127,7 +110,7 @@
     {
       "name": "vedmache-snaryazhenie",
       "label": "Ведьмачье Снаряжение",
-      "path": "packs/vedmache-snaryazhenie",
+      "path": "packs/vedmache-snaryazhenie.db",
       "type": "Item",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -136,7 +119,7 @@
     {
       "name": "zagotovki-personazhej",
       "label": "Заготовки Персонажей",
-      "path": "packs/zagotovki-personazhej",
+      "path": "packs/zagotovki-personazhej.db",
       "type": "Actor",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -145,7 +128,7 @@
     {
       "name": "zaklinaniya",
       "label": "Заклинания",
-      "path": "packs/zaklinaniya",
+      "path": "packs/zaklinaniya.db",
       "type": "Item",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -154,7 +137,7 @@
     {
       "name": "generatory",
       "label": "Генераторы",
-      "path": "packs/generatory",
+      "path": "packs/generatory.db",
       "type": "RollTable",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -163,7 +146,7 @@
     {
       "name": "generator-personazha",
       "label": "Генераторы персонажа",
-      "path": "packs/generator-personazha",
+      "path": "packs/generator-personazha.db",
       "type": "RollTable",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -172,7 +155,7 @@
     {
       "name": "poleznye-materialy",
       "label": "Полезные Материалы",
-      "path": "packs/poleznye-materialy",
+      "path": "packs/poleznye-materialy.db",
       "type": "JournalEntry",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -181,7 +164,7 @@
     {
       "name": "boj",
       "label": "Таблицы для боя",
-      "path": "packs/boj",
+      "path": "packs/boj.db",
       "type": "RollTable",
       "system": "TheWitcherTRPG",
       "private": false,
@@ -197,7 +180,14 @@
         "compatibility": {}
       }
     ],
-    "requires": []
+    "requires": [
+      {
+        "id": "compendium-folders",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json",
+        "compatibility": {}
+      }
+    ]
   },
   "url": "https://github.com/DKtric3L/the-ultimate-witcher.git",
   "manifest": "https://raw.githubusercontent.com/DKtric3L/the-ultimate-witcher/master/module.json",
