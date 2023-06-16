@@ -13,8 +13,7 @@
   "version": "1.2.1",
   "compatibility": {
     "minimum": "10",
-    "verified": "10",
-    "maximum": "10"
+    "verified": "11"
   },
   "packs": [
     {
@@ -144,10 +143,28 @@
       "flags": {}
     },
     {
+      "name": "predystoriya-maga",
+      "label": "Предистория мага",
+      "path": "packs/predystoriya-maga.db",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
       "name": "generator-personazha",
       "label": "Генераторы персонажа",
       "path": "packs/generator-personazha.db",
       "type": "RollTable",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "valuable",
+      "label": "Ценности",
+      "path": "packs/valuable.db",
+      "type": "JournalEntry",
       "system": "TheWitcherTRPG",
       "private": false,
       "flags": {}
@@ -177,14 +194,6 @@
         "id": "TheWitcherTRPG",
         "type": "system",
         "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json",
-        "compatibility": {}
-      }
-    ],
-    "requires": [
-      {
-        "id": "compendium-folders",
-        "type": "module",
-        "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json",
         "compatibility": {}
       }
     ]
