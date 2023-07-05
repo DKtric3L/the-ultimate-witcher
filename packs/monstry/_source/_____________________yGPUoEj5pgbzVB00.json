@@ -1,0 +1,26 @@
+{
+  "_id": "yGPUoEj5pgbzVB00",
+  "name": "Бронированный корпус",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Драуги покрыты массивной броней, но все, чем они себя защищают, обычно находится в ужасном состоянии. Любые успешные атаки против драуга также наносят 2 единицы урона его Броне. Любой другой броню урон удваивается.."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!X1Y36RnnvQUsnBMC.yGPUoEj5pgbzVB00"
+}

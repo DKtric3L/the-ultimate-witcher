@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Высший вампир",
+  "img": "modules/the-ultimate-witcher/assets/monsters/higher_vampire.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "FAMVQXEj1p6yBzsc",
+  "_id": "ookNp9i4HU6cZMGx",
+  "flags": {},
+  "_key": "!tables.results!YGJTmsJ1rLJSj7Kh.ookNp9i4HU6cZMGx"
+}

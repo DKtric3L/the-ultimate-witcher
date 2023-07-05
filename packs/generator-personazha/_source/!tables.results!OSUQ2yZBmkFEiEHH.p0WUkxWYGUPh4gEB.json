@@ -1,0 +1,16 @@
+{
+  "_id": "p0WUkxWYGUPh4gEB",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Охотник. Наибольшее влияние на вас оказал охотник, научивший вас выживать в дикой природе. Снаряжение - Охотничий трофей.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!OSUQ2yZBmkFEiEHH.p0WUkxWYGUPh4gEB"
+}

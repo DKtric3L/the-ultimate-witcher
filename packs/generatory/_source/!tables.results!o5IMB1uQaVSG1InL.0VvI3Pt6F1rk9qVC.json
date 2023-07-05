@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Игральные кости",
+  "img": "icons/sundries/gaming/dice-runed-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "EkEh4COukGfksqIv",
+  "_id": "0VvI3Pt6F1rk9qVC",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.0VvI3Pt6F1rk9qVC"
+}

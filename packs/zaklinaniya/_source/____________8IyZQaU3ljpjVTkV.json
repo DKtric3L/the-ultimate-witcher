@@ -1,0 +1,60 @@
+{
+  "name": "Захват души",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-smoke-tendril-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Hb8gSDs5gLfCNF1L"
+    },
+    "cf": {
+      "id": "temp_0t82pqg9kah"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d10.\nПрикоснувшись к существу с 0 ПЗ или менее, вы захватываете душу, покидающую его тело, и возвращаете ее обратно. Существо немедленно стабилизируется. Совершите проверку Сотворения заклинаний со СЛ, равной тому, насколько ниже 0 находится ПЗ. При провале, существо получает 1d6 некротического урона. \nЕсли результат проверки равен или на 6 очков выше СЛ – существо больше не в предсмертном состоянии, но имеет 0 ВЫН. \nЕсли результат на 7-9 очков выше СЛ - оно выходит из пред- смертного состояния, теряя половину своего максимального показателя ВЫН. \nЕсли на 10-12 очков – существо выходит из предсмертного состояния как обычно. \nЕсли на 13 или 14 – существо выходит из предсмертного состояния и восполняет ПЗ, равное вашей Затрате ПЗ. \nЕсли на 15 или более – существо выходит из предсмертного состояния, восполняет ПЗ, равное вашей Затрате ПЗ и автоматически стабилизируются при следующем попадании в предсмертное состояние в течение следующего часа.",
+    "range": "Касание",
+    "duration": "Мгновенное",
+    "defence": "Нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон заклинателю"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496638860,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "8IyZQaU3ljpjVTkV",
+  "folder": "oUploplKQy7OzcxK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8IyZQaU3ljpjVTkV"
+}

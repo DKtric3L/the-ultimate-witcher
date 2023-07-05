@@ -1,0 +1,46 @@
+{
+  "name": "Высший вампир - Возраст",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "qq7bc3kzxIMM4xmJ",
+    "JNWCNTv3KfeIKL45",
+    "E4QtB7MA2dq5yKaz",
+    "vzd1zPTyHJxtjGfZ",
+    "WuqfRpjb898Z6fV0",
+    "mq9wF5T6k4sVAzVY",
+    "dvKugXj6XLkcNkaO",
+    "Q1wzHqBYJRyYiB4u",
+    "vfEwpOkXTjisauWo",
+    "7LUKcLfE1JzXxSKh",
+    "YFKIMxn6mEVkGDsk",
+    "lzN5Z2E8Zgw1sgJd"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "kFqwDYlgGZSaQCYZ",
+  "_key": "!tables!kFqwDYlgGZSaQCYZ"
+}

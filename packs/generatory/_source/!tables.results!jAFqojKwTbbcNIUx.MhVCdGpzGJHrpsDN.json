@@ -1,0 +1,16 @@
+{
+  "_id": "MhVCdGpzGJHrpsDN",
+  "type": 2,
+  "text": "Случайная Инвокация жреца",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "uz9ikhf4NEYfo1Fs",
+  "_key": "!tables.results!jAFqojKwTbbcNIUx.MhVCdGpzGJHrpsDN"
+}

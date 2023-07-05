@@ -1,0 +1,60 @@
+{
+  "name": "Исцеление души",
+  "type": "spell",
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OrSnfwQopYA2snw7"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "20",
+    "staminaIsVar": false,
+    "effect": "Исцеление души - это единственный способ исцелить некротические повреждения вашей души. По окончании ритуала существо исцеляет 20 единиц некротического урона. Если этот урон снижал порог Энергии существа, эта рана исцеляется и штрафы уходят.",
+    "range": "",
+    "duration": "постоянный",
+    "defence": "",
+    "components": "Совершенный самоцвет (x1), Пятая эс- сенция (x5), Дымные осколки (x5), Стекло (x2), Царская водка (x3), 1 сердце любого существа, 5 глаз любого существа",
+    "alternateComponents": "",
+    "preparationTime": "20 раундов",
+    "dificultyCheck": "20",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "20",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Исцеление некротического урона цели"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "iBw2yvE5Tf3hpdhn",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!iBw2yvE5Tf3hpdhn"
+}

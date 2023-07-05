@@ -1,0 +1,43 @@
+{
+  "name": "Эликсир Мец",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.vgiTABvmA1RTVXLL"
+    },
+    "cf": {
+      "id": "temp_6q0b5iuuekf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 1000,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Rare",
+    "effect": "Лечит бич катрионы.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1685496603978,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "fUGTU33cMWNtHnmL",
+  "folder": "hZqzoFHjJGUaINA2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!fUGTU33cMWNtHnmL"
+}

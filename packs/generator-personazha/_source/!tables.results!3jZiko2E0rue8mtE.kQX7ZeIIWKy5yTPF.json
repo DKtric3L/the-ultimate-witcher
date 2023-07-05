@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Уровень силы - 3",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!3jZiko2E0rue8mtE.kQX7ZeIIWKy5yTPF"
+}

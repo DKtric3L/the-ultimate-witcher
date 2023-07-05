@@ -1,0 +1,43 @@
+{
+  "name": "Мытые коренья",
+  "type": "alchemical",
+  "img": "icons/commodities/wood/kindling-sticks-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.0x0dLRH6yBg34O5g"
+    },
+    "cf": {
+      "id": "temp_6q0b5iuuekf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 42,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Everywhere",
+    "effect": "Смешав и потушив ингредиенты, Мытые коренья наносятся на лоб и больные места, чтобы снять ГОЛОВНУЮ БОЛЬ и МЫШЕЧНУЮ БОЛЬ на 1-2 дня.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1685496603978,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WPZpsoTeGyG1N5aq",
+  "folder": "hZqzoFHjJGUaINA2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WPZpsoTeGyG1N5aq"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Пепельная мазь",
+  "type": "effect",
+  "img": "icons/commodities/materials/powder-grey.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    },
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.C6c9eod6aJzrtz6U"
+    }
+  },
+  "system": {
+    "description": "Небольшой горшочек с серой мазью, отталкивающей тепло. При нанесении на все тело персонажа пепельная мазь делает персонажа невосприимчивым к состоянию горения.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883185,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "iv1PXuF0R8roincy",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!iv1PXuF0R8roincy"
+}

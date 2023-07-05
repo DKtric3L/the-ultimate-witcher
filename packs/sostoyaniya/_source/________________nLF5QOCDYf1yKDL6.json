@@ -1,0 +1,48 @@
+{
+  "name": "Эффект - Болото",
+  "type": "effect",
+  "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_m0e8p39jzoq"
+    }
+  },
+  "system": {
+    "description": "Вы увязли в болоте, что плохо сказывается на вашей мобильности.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_xfzlzr32t",
+        "skill": "WITCHER.SkRefDodge",
+        "modifier": "-2"
+      },
+      {
+        "id": "_90xsd80ok",
+        "skill": "WITCHER.SkDexAthletics",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883176,
+    "modifiedTime": 1685496622153,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nLF5QOCDYf1yKDL6",
+  "folder": "l4TH4PkRbRSfAV7t",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nLF5QOCDYf1yKDL6"
+}

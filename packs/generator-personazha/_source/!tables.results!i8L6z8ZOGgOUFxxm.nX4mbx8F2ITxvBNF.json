@@ -1,0 +1,16 @@
+{
+  "_id": "nX4mbx8F2ITxvBNF",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Сердце Нильфгаарда (+1 Обман)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!i8L6z8ZOGgOUFxxm.nX4mbx8F2ITxvBNF"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Туман прошлого",
+  "type": "spell",
+  "img": "icons/magic/unholy/orb-swirling-teal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_z7p1hjwewoi"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Расставив круг из свечей, создав пирамидальную стеклянную скульптуру с лунным осколком в центре и наполнив ее эссенцией призрака, вы создадите волшебный экрнан, вызывающий видение прошлого. При выполнении этого ритуала экран показывает наиболее эмоционально резонансный момент, который когда-либо происходил в этом районе. Этот момент может длиться до 5 минут и воспроизводится на повторе до конца ритуала",
+    "range": "",
+    "duration": "20 мин",
+    "defence": "",
+    "components": "Стекло (x5),Лунный осколок (x1), Свечи (x5), Эссенция призрака (x2)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496637468,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "UK3BBW2Qy9yvOygM",
+  "folder": "AhK4dA3YiQyQforR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!UK3BBW2Qy9yvOygM"
+}

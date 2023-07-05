@@ -1,0 +1,16 @@
+{
+  "_id": "9UKnHVAiKgMmt45g",
+  "type": 2,
+  "text": "Пол мага",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "ATEhQTCkgxvWh8q0",
+  "_key": "!tables.results!kOZJ5PQutstiJhXn.9UKnHVAiKgMmt45g"
+}

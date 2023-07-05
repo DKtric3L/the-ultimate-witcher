@@ -1,0 +1,16 @@
+{
+  "_id": "7F8XPaw6iN19ZxYz",
+  "flags": {},
+  "type": 0,
+  "text": "Любит вас.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Umq4TQLnnCa2fOz6.7F8XPaw6iN19ZxYz"
+}

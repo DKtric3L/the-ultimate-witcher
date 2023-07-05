@@ -1,0 +1,16 @@
+{
+  "text": "Струя воды",
+  "type": 2,
+  "img": "icons/magic/water/water-jet-wave-blue.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "vXAWuePJcYCKSUz7",
+  "documentId": "PAyoiub3JuCu4419",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.vXAWuePJcYCKSUz7"
+}

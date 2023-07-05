@@ -1,0 +1,16 @@
+{
+  "_id": "H0XA02QcwUBIRRWa",
+  "flags": {},
+  "type": 0,
+  "text": "Проломленный череп: Кровотечение, -1 к инт и лвк, последующие ранения в голову наносят в 4 раза больше урона, вместо 3 положенных. Стабилизация: Тот же эффект, но без кровотечения. Лечение; 4х урон в голову.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!dCJjGB6lKvY2je0y.H0XA02QcwUBIRRWa"
+}

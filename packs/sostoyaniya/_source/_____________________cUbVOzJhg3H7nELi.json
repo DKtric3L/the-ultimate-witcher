@@ -1,0 +1,54 @@
+{
+  "name": "Трансмутация: Риггер",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.N37tHOBO9eFqh4Px"
+    },
+    "cf": {
+      "id": "temp_njhvjakxvm"
+    }
+  },
+  "system": {
+    "description": "Вы получаете +5 к ТЕЛ, Стойкости и Силе.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_1utjux8db",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "5"
+      }
+    ],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_q4i5qw6qx",
+        "skill": "WITCHER.SkBodyPhys",
+        "modifier": "5"
+      },
+      {
+        "id": "_w2koqk41n",
+        "skill": "WITCHER.SkBodyEnd",
+        "modifier": "5"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883175,
+    "modifiedTime": 1685496621920,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cUbVOzJhg3H7nELi",
+  "folder": "cY1sx3EFSRP3cq5q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cUbVOzJhg3H7nELi"
+}

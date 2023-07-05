@@ -1,0 +1,68 @@
+{
+  "name": "Аард",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/aard.webp",
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "air",
+    "domain": "basic",
+    "stamina": "Мен",
+    "staminaIsVar": true,
+    "effect": "Аард выпускает волну телекинетической силы, ошеломляющей существ с 10%-ным шансом сбить их с ног. Шанс сбивания с ног повышается на 10% за каждое затраченное очко Вын.",
+    "range": "2м конус",
+    "duration": "мгновенное",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "0",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сбивает с ног(+10% шанс за 1 вын)",
+        "percentage": "10"
+      },
+      {
+        "id": "_x8a5mtfop",
+        "name": "Ошеломление",
+        "percentage": ""
+      }
+    ],
+    "quantity": 2
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_fwhvepus7l5"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.h2E35Mg2dD4V2Vhq"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892151,
+    "modifiedTime": 1671035655128,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "UzpmOxCDOzhYWB1w",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!k7OKybGxBGmKX5AY.UzpmOxCDOzhYWB1w"
+}

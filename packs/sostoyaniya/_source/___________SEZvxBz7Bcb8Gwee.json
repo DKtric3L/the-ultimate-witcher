@@ -1,0 +1,78 @@
+{
+  "name": "Окаменение",
+  "type": "armor",
+  "img": "icons/magic/earth/strike-fist-stone-gray.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.WMZj8eugKaQfz6Fo"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 8,
+    "headMaxStopping": 8,
+    "torsoStopping": 8,
+    "torsoMaxStopping": 8,
+    "leftArmStopping": 8,
+    "leftArmMaxStopping": 8,
+    "rightArmStopping": 8,
+    "rightArmMaxStopping": 8,
+    "leftLegStopping": 8,
+    "leftLegMaxStopping": 8,
+    "rightLegStopping": 8,
+    "rightLegMaxStopping": 8,
+    "type": "Natural",
+    "avail": "Rare",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Жертва не стареет"
+      },
+      {
+        "id": "_jduhfrk7n",
+        "name": "Вес умножен на 10.",
+        "percentage": ""
+      },
+      {
+        "id": "_d9azkhdkl",
+        "name": "Жертва без сознания",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883169,
+    "modifiedTime": 1685496622052,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SEZvxBz7Bcb8Gwee",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SEZvxBz7Bcb8Gwee"
+}

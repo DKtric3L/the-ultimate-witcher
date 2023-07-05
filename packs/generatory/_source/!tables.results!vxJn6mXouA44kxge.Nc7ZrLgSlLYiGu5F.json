@@ -1,0 +1,16 @@
+{
+  "text": "Разрыв фокусировки",
+  "type": 2,
+  "img": "icons/magic/sonic/explosion-impact-shock-wave.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "Nc7ZrLgSlLYiGu5F",
+  "documentId": "jgf4HPVMLsaamUWV",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.Nc7ZrLgSlLYiGu5F"
+}

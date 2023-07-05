@@ -1,0 +1,16 @@
+{
+  "_id": "fEC34SOBkzdDBUtx",
+  "flags": {},
+  "type": 2,
+  "text": "Fortune or Misfortune",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "StgKgOChwnB88jXT",
+  "_key": "!tables.results!fA5onQrA7GkMPH3O.fEC34SOBkzdDBUtx"
+}

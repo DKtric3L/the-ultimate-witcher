@@ -1,0 +1,76 @@
+{
+  "name": "Экстракты трав",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-brown-grey.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 18,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Пырей"
+      },
+      {
+        "id": "_mvp4db38p",
+        "name": "Мятлик",
+        "quantity": "1"
+      },
+      {
+        "id": "_x6vnvcezr",
+        "name": "Иовлевы Слёзы",
+        "quantity": "1"
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 2,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 2,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.GUACsUAxmYqBYgl6"
+    },
+    "cf": {
+      "id": "temp_5fs5k8llj4f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670747860132,
+    "modifiedTime": 1685496639186,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "MoEHlU2BhTZKp1h3",
+  "sort": 0,
+  "_id": "c6R9dvIP7oE3et4B",
+  "_key": "!items!c6R9dvIP7oE3et4B"
+}

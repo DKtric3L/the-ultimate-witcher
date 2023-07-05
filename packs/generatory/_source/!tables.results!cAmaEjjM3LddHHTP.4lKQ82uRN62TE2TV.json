@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Древень - бес",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Dreven_vepr_Bogna_Gawronska.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "51qaVOyqdmYImNN4",
+  "_id": "4lKQ82uRN62TE2TV",
+  "flags": {},
+  "_key": "!tables.results!cAmaEjjM3LddHHTP.4lKQ82uRN62TE2TV"
+}

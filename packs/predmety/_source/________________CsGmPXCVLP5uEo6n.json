@@ -1,0 +1,43 @@
+{
+  "name": "Ароматное зелье",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/fragrant_potion.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.CsGmPXCVLP5uEo6n"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 76,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "Любой, кто сделает глоток ароматного зелья, должен пройти проверку Стойкости со СЛ 16. При провале персонаж приходит в состояние опьянения на 1d10 часов. \nЭто опьянение можно снять только при помощи магии или зелья слёзы жён. Токсичность равна 25%.",
+    "time": "1d10 часов",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868970,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "CsGmPXCVLP5uEo6n",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!CsGmPXCVLP5uEo6n"
+}

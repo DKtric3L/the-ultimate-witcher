@@ -1,0 +1,16 @@
+{
+  "_id": "OAW3DJizEEzA919s",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Normal Outcome",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    76,
+    100
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "ktV009Uy20ZKNvX5",
+  "_key": "!tables.results!dsvsdl2GfKCWKsEO.OAW3DJizEEzA919s"
+}

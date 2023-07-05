@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "PaC2tM3KrjTKeYoP",
+  "text": "Наниматель платит тройную сумму за монстра, торговаться готов(СЛ 14)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!NNzGcBvEtf8ylxqr.PaC2tM3KrjTKeYoP"
+}

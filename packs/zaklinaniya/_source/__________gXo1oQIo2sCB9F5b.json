@@ -1,0 +1,60 @@
+{
+  "name": "Экзорцизм",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-shadow-monster-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.enZ98FaDSLuCAuyE"
+    },
+    "cf": {
+      "id": "temp_m5jdkghug28"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Экзорцизм позволяет заклинателю силой изгнать демона, вселившегося в человека или из одержимого места, обратно в его измерение. Это не убивает демона, и он может вернуться в наше измерение позже.",
+    "range": "",
+    "duration": "одно использование",
+    "defence": "",
+    "components": "Пятая эссенция (x2), Эссенция света (x2), Метеорит (x3), Кры- синное ухо (x1), Кости хирикки (x1)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892180,
+    "modifiedTime": 1685496639124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gXo1oQIo2sCB9F5b",
+  "folder": "9Po5TIJ5gLDJqbWG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gXo1oQIo2sCB9F5b"
+}

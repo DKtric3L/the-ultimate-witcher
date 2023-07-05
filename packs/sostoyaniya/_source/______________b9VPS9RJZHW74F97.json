@@ -1,0 +1,38 @@
+{
+  "name": "Дезориентация",
+  "type": "effect",
+  "img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.b9VPS9RJZHW74F97"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонаж дезориентирован. У него кружится голова, перед глазами всё плывёт. В этом состоянии он не может совершать каких-либо действий, а для того, чтобы попасть по нему, достаточно пройти проверку со СЛ 10. Чтобы завершить этот эффект, персонаж должен пройти испытание Устойчивости. Это действие занимает полный ход. Если по персонажу попадают, пока он дезориентирован, он тут же приходит в себя.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883167,
+    "modifiedTime": 1688508859762,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "b9VPS9RJZHW74F97",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!b9VPS9RJZHW74F97"
+}

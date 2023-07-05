@@ -1,0 +1,62 @@
+{
+  "_id": "mNGjZPdZL5t0dwqm",
+  "name": "Короткий лук",
+  "type": "weapon",
+  "img": "icons/weapons/bows/shortbow-leather.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_rpglc34ihvo"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.SOjDBYUX20KEEXoj"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 290,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "3d6+3",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "100м",
+    "equiped": false,
+    "effects": [],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Archery",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!USbRyk8ogDv1K0KF.mNGjZPdZL5t0dwqm"
+}

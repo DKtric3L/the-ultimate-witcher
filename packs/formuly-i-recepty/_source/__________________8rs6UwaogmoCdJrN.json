@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Ласточка",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.8rs6UwaogmoCdJrN"
+    },
+    "cf": {
+      "id": "temp_xirt4efj5k"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.hYO78LMJR2jCXvK6]{Ласточка}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "witcher",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 16,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 1,
+      "rebis": 0,
+      "aether": 1,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 1,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Ласточка",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/potions/swallow.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 21,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Rare",
+        "effect": "Вы восстанавливаете 3 ПЗ за раунд. В том раун-\nде, когда по вам попадают, вы не восстанавлива-\nете ПЗ. Эффект исцеления от нескольких порций\n«Ласточки» не суммируется.",
+        "time": "20 раундов",
+        "toxicity": "50%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_ablplrf0fnm"
+        },
+        "core": {
+          "sourceId": "Compendium.world.vedmache-snaryazhenie.hYO78LMJR2jCXvK6"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668182257235,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848419,
+    "modifiedTime": 1685496578618,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "8rs6UwaogmoCdJrN",
+  "folder": "n5pstsYQE8c0VVIa",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8rs6UwaogmoCdJrN"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Усиления",
+  "img": "icons/commodities/leather/leather-leaf-tan.webp",
+  "results": [
+    "b26miyvwu1q3nr7z",
+    "5vw2830fbm6hbawr",
+    "ujl204wocw84i808",
+    "dmytdpe0kf7b3bf3",
+    "tmk8f6848rl8xgj0",
+    "s9iu1wl6qdbh03wq",
+    "x6nr5oeq21r3l0ci",
+    "6gpoql6chllfxtw1",
+    "tlmzl33xjt2xukgs",
+    "b3wq2c4lmh7d1n5w",
+    "gft4jlmwawu7366s",
+    "oux7dybkbpqz3n0f",
+    "fbk4uxp97hq1xook"
+  ],
+  "formula": "1d13",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.L6Kg4r0XNIXZ7BUr"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932923,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9VoLryHXoH0ovQE6",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!9VoLryHXoH0ovQE6"
+}

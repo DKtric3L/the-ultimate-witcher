@@ -1,0 +1,16 @@
+{
+  "_id": "cImzzQVvwc5xYqEW",
+  "type": 0,
+  "text": "Снаряд рикошетит и задевает вашего союзника.",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!T6qJH0AiEbtoK55K.cImzzQVvwc5xYqEW"
+}

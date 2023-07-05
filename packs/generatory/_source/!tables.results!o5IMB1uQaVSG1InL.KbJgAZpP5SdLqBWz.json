@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    34,
+    34
+  ],
+  "drawn": false,
+  "text": "Флейта",
+  "img": "icons/tools/instruments/pipe-flute-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "TfsT3CkNKIhsIgKs",
+  "_id": "KbJgAZpP5SdLqBWz",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.KbJgAZpP5SdLqBWz"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Направление движение монстра",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Движение описано ориентируясь куда смотрит монстр. При определении непростого и сложного маршрута, ведущий сам решает сколько метров тратит на каждый из путей.",
+  "results": [
+    "j843Gjp5ITNCMiN1",
+    "mW5IjXPmR1JchJI0",
+    "s6krTosYr6RIE2BA",
+    "AEGQAiSSpmWIvzTC",
+    "PsA9tNwDiiYUAKwt",
+    "g48XwZ7GtGlAoYGm",
+    "eZwe35uNnrfvDukQ",
+    "hcWROmFCDbVfE2r4",
+    "hLtOlCVAJ0JnROFB",
+    "QMDmZpmYG9ywJBK4",
+    "AdgQyrVPJl48wgni",
+    "rNSBqTRTDcLNKbuF",
+    "Vdga95FfNLIZlCaz",
+    "WGl2DAzSBYXPxgsQ",
+    "ggR3O55biWNXiBxl"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_q4dkjwznxcf"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496658107,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "SlEiSknrdbvfUjco",
+  "sort": 0,
+  "_id": "w5R1p2Nw78P8MF6E",
+  "_key": "!tables!w5R1p2Nw78P8MF6E"
+}

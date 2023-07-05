@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    81,
+    100
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "H0tjG4vkEsA84Uk9",
+  "text": "Заброшенное здание. Шанс 70% (Результат - [[1d100]]), там будет -",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!2nPZyx6jaWlSsu2G.H0tjG4vkEsA84Uk9"
+}

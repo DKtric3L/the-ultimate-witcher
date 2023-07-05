@@ -1,0 +1,44 @@
+{
+  "name": "Трофей Куролиска",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/kurolisk.webp",
+  "system": {
+    "description": "Ваши атаки имеют 10% шанс ошеломить противника.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.KN7w5pNYw2HvOiqs"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1669962624947,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "ch1sdH6vZrKk10yR",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!sZSAlupbRzYM6g34.ch1sdH6vZrKk10yR"
+}

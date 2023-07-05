@@ -1,0 +1,16 @@
+{
+  "_id": "MGrLuHzN2tBHy1tD",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Background: What Was Your Most Important Event",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    10,
+    14
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "gjFbuG4CHkmj5k9y",
+  "_key": "!tables.results!jtpJ6pmgvVHReSPI.MGrLuHzN2tBHy1tD"
+}

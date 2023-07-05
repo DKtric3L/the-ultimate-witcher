@@ -1,0 +1,16 @@
+{
+  "_id": "WLL4GH2QBfngXygQ",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Одного или обоих ваших родителей считают членами банды Скоя'таэлей, из-за чего на них косо смотрят.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UR8Ih5M1voywvHL2.WLL4GH2QBfngXygQ"
+}

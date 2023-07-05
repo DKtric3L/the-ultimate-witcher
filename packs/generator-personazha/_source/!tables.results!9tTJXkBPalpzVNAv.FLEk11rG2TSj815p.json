@@ -1,0 +1,16 @@
+{
+  "_id": "FLEk11rG2TSj815p",
+  "type": 0,
+  "text": "Аптекарь. Частью вашего обучения была способность диагностировать и лечить болезни людей из вашего сообщества. Получите +2 к первой помощи. Вас взял в ученики маг.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!9tTJXkBPalpzVNAv.FLEk11rG2TSj815p"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Освежение воздуха",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-dense-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_cilmpkpuxju"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Позволяет на время действия заклинания очистить зону радиусом 4 метра (с заклинателем в центре) от дыма, яда или любого другого загрязнения воздуха",
+    "range": "Радиус 4м",
+    "duration": "актив(2 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "4",
+    "templateType": "circle",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1685496637828,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vX2tAFOCMc7JS14j",
+  "folder": "wsj51D7oIARoDcDr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vX2tAFOCMc7JS14j"
+}

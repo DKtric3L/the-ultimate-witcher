@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Изношенный башмак",
+  "img": "icons/commodities/leather/boot-torn-tan.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "tmjVKB39HW3RQWXO",
+  "_id": "sku4F6iwhuoPlYqN",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.sku4F6iwhuoPlYqN"
+}

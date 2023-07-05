@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Зерриканская смесь",
+  "img": "icons/commodities/materials/bowl-powder-pink.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "PF3i8vela4byBl1a",
+  "_id": "KJTzOvmGkuEnpmGD",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.KJTzOvmGkuEnpmGD"
+}

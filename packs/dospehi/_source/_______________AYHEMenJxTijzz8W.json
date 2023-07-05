@@ -1,0 +1,60 @@
+{
+  "name": "Стёганые штаны",
+  "type": "armor",
+  "img": "icons/equipment/leg/cuisses-leather-padded-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4zb4x6lgt3c"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 125,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 5,
+    "leftLegMaxStopping": 5,
+    "rightLegStopping": 5,
+    "rightLegMaxStopping": 5,
+    "type": "Light",
+    "avail": "Common",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "Leg",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837869,
+    "modifiedTime": 1685496574805,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AYHEMenJxTijzz8W",
+  "folder": "K1UIQAUt5QlrdJLB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AYHEMenJxTijzz8W"
+}

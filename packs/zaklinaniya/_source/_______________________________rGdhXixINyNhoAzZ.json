@@ -1,0 +1,57 @@
+{
+  "name": "Тень Блеобхериса (Блеобхерис )",
+  "type": "spell",
+  "img": "icons/magic/nature/tree-elm-roots-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2yvizi5odu8"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "druid",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Тень Блеобхериса призывает великий дуб, чтобы успокоить сердца людей и зверей. После произнесения этой инвокации все животные становятся послушными, а все затронутые бойцы теряют инициативу и не могут совершать враждебные действия в течение 1 дня. Кроме того, сущность Блеобхериса временно подавляет предубеждения всех затронутых существ, отменяя любые штрафы от Социального положения или чудовищного наследия. В каждый свой ход цель, затронутая этой инвокацией, может действием совершить проверку Сопротивления Магии против новой проверки Сотворения Заклинаний, чтобы отменить этот эффект. Если цель атакована, это заклинание больше не действует на нее.",
+    "range": "50м радиус",
+    "duration": "1 день",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496638288,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rGdhXixINyNhoAzZ",
+  "folder": "6IoQzlwq4UKLmeeO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rGdhXixINyNhoAzZ"
+}

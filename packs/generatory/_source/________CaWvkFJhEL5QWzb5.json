@@ -1,0 +1,44 @@
+{
+  "name": "Гибриды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Hybrids.png",
+  "description": "",
+  "results": [
+    "09xF4vAavwZierWE",
+    "xwfMFWWBQOvQOv44",
+    "UKzJR301HFEQhsB0",
+    "p3iV3S2r6uwSJGme",
+    "gQzSrHZHfichQ75E",
+    "NFkPfw47TR7Yb04e",
+    "yzMFJ9xidCY0hzM2",
+    "a5nnIU0afqUbvc0n",
+    "lXArYVKRcVHLahT6",
+    "sewZPnPDoZUzgvUU"
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "CaWvkFJhEL5QWzb5",
+  "_key": "!tables!CaWvkFJhEL5QWzb5"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Замораживание",
+  "type": "effect",
+  "img": "icons/magic/water/ice-snowman.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.8MHjwlAPxnA2q8Sq"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонаж не превратился в цельный кусок льда, но тело его плохо слушается, а одежда покрыта наледью. До тех пор, пока персонаж не сломает лёд, он получает штраф -3 к Скор и -1 к Реа. Лёд можно сломать, пройдя проверку Силы со СЛ 16 и потратив одно действие",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-3"
+      },
+      {
+        "id": "_sin45458c",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883168,
+    "modifiedTime": 1688508876283,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "8MHjwlAPxnA2q8Sq",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8MHjwlAPxnA2q8Sq"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Смешанная магия",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "cdnsqmXY8BI8jgWz",
+  "_id": "cnIlwgnwtzSIOWjW",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!cnIlwgnwtzSIOWjW"
+}

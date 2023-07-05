@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Зачарованный амулет(3)",
+  "img": "icons/equipment/neck/choker-rough-green.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Y4xPiB4qGU9nuHFI",
+  "_id": "oxSghD48R6YoHfk3",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.oxSghD48R6YoHfk3"
+}

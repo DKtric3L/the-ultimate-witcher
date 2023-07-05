@@ -1,0 +1,16 @@
+{
+  "text": "Иллюзия",
+  "type": 2,
+  "img": "icons/magic/control/silhouette-hold-change-green.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "zZD9SAfLYQXbp5D8",
+  "documentId": "7aTfqwsZR2J38zah",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.zZD9SAfLYQXbp5D8"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Растительные субстанции",
+  "img": "icons/commodities/flowers/buds-red.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "KazdLyCjT8qCW9UV",
+  "_id": "uwmAdv0BprCnnZhw",
+  "flags": {},
+  "_key": "!tables.results!Aylgxm2XemLxSSOc.uwmAdv0BprCnnZhw"
+}

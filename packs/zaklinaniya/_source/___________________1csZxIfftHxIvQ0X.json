@@ -1,0 +1,60 @@
+{
+  "name": "Элементаль воздуха",
+  "type": "spell",
+  "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.4lu0wyTLgb86GvQx"
+    },
+    "cf": {
+      "id": "temp_rkoyph3dfy"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "air",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Элементалей воздуха не существует. Но это заклинание создает нечто похожее. Вы вызываете гуманоида ростом 2,5 м, с созданным из ветра телом. Существо бесплотно, что делает его невосприимчивым к физическим немагическим атакам. Оно атакует дважды за раунд, нанося 4d6 дробящего урона и имеет 25% шанс сбить цель с ног. Если другое существо заканчивает свой ход на том же месте, что и «элементаль воздуха», в следующий ход оно начинает задыхаться. Если «элементаль» покидает зону действия заклинания, он моментально рассеивается.",
+    "range": "20м",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность призыва(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892180,
+    "modifiedTime": 1685496638961,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1csZxIfftHxIvQ0X",
+  "folder": "LTR8wJncOHVonFgc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1csZxIfftHxIvQ0X"
+}

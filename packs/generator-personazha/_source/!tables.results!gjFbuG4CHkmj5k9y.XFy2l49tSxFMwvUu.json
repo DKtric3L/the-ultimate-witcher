@@ -1,0 +1,16 @@
+{
+  "_id": "XFy2l49tSxFMwvUu",
+  "flags": {},
+  "type": 0,
+  "text": "Самое важное событие - Дурная слава. Вы избавили город от чудовища, но люди испугались и ополчились на вас. Возможно, они даже пытались вас убить. Так или иначе, вы повидали, чем платят за добро.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gjFbuG4CHkmj5k9y.XFy2l49tSxFMwvUu"
+}

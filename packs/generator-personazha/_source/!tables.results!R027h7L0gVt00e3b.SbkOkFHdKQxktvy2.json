@@ -1,0 +1,16 @@
+{
+  "_id": "SbkOkFHdKQxktvy2",
+  "type": 0,
+  "text": "Перегрузка с Места силы. Вы нашли Место Силы, но по своей неопытности взяли слишком много энергии из него, и в процессе остались шрамы. Каждое Место Силы, из которого вы черпаете, требует спасброска Вын, как если бы вы черпали из него во второй раз.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!R027h7L0gVt00e3b.SbkOkFHdKQxktvy2"
+}

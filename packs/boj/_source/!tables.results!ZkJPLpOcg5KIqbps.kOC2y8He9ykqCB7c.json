@@ -1,0 +1,16 @@
+{
+  "_id": "kOC2y8He9ykqCB7c",
+  "type": 0,
+  "text": "Персонаж спотыкается и падает, он считается сбитым с ног и вам нужно пройти проверку устойчивости, чтобы избежать дезориентации..",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZkJPLpOcg5KIqbps.kOC2y8He9ykqCB7c"
+}

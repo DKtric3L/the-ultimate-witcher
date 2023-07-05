@@ -1,0 +1,68 @@
+{
+  "name": "Копье",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/spear-hooked-double-engraved.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3.5,
+    "cost": 375,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее, Дробящее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "3d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "Тел+2",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длинное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Staff/Spear",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_upy3ob71tu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1663422641859,
+    "modifiedTime": 1672566612533,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "EJqulWAloYOOTRGJ",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!TbDY7PdVyaA6e4ar.EJqulWAloYOOTRGJ"
+}

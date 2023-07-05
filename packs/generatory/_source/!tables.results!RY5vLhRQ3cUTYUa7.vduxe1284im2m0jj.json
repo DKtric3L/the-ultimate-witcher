@@ -1,0 +1,16 @@
+{
+  "text": "Хвостовые перья Куролиска",
+  "type": 2,
+  "img": "systems/TheWitcherTRPG/assets/images/aether.png",
+  "weight": 1,
+  "range": [
+    31,
+    31
+  ],
+  "drawn": false,
+  "_id": "vduxe1284im2m0jj",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "Eo1iy4qLfMOLSZDM",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.vduxe1284im2m0jj"
+}

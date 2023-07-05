@@ -1,0 +1,44 @@
+{
+  "name": "Мутаген: Виверна",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-red.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_lwy4lq9cfk",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.q3LomQvNYKImH4xr"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "red",
+    "source": "Wyvern",
+    "effect": "+1 стойкости",
+    "alchemyDC": "18",
+    "minorMutation": "Грубая кожа"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868980,
+    "modifiedTime": 1685496603671,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "HyDX1wp2938RCRtQ",
+  "folder": "fDOxFOO0ZSOHcd4h",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!HyDX1wp2938RCRtQ"
+}

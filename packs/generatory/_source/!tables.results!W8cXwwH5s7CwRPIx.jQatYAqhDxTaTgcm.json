@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    23,
+    23
+  ],
+  "drawn": false,
+  "text": "Помощник следователя",
+  "img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Tih9lnWmQkXQUazH",
+  "_id": "jQatYAqhDxTaTgcm",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.jQatYAqhDxTaTgcm"
+}

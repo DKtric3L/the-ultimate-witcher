@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Болезнь: Заболевание желудка(1 стадия, день 1-2)",
+  "img": "icons/commodities/biological/organ-intestines-red.webp",
+  "documentCollection": "the-ultimate-witcher.sostoyaniya",
+  "documentId": "ajOFRMLlQu2gHzcM",
+  "_id": "UN2NRAXBeMnPpo35",
+  "flags": {},
+  "_key": "!tables.results!v58wVMnQsz3VdsdV.UN2NRAXBeMnPpo35"
+}

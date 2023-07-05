@@ -1,0 +1,60 @@
+{
+  "name": "Зов мести",
+  "type": "spell",
+  "img": "icons/magic/defensive/shield-barrier-flaming-diamond-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_2p80iyngdu1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "На время действия инвокации любое враждебное существо на расстоянии до 6 м от вас получает +2 к определению эффекта любого критического ранения, сделанному против него. Любые атаки имеющие эффекты увеличивают шанс их применения на 25%.",
+    "range": "5м",
+    "duration": "1d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496639258,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3PcbHPX87m3wn6v1",
+  "folder": "7qXEELZDYM9OW2E6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3PcbHPX87m3wn6v1"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Волокна Хана",
+  "img": "systems/TheWitcherTRPG/assets/images/rebis.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "zSiLov52qbhzFfPk",
+  "_id": "PknrZjhT5FypMHlH",
+  "flags": {},
+  "_key": "!tables.results!dOaoWvEwWPOSoPpQ.PknrZjhT5FypMHlH"
+}

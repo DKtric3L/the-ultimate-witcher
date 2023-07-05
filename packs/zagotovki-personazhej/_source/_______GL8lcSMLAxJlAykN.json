@@ -1,0 +1,67 @@
+{
+  "_id": "GL8lcSMLAxJlAykN",
+  "name": "Стилет",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-double-engraved-black.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.kGpGKDSOMbhlS9hj"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 275,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 2,
+    "avail": "Common",
+    "damage": "1d6",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "",
+    "equiped": "/",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Незаметное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Small Blades",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!3v0292IhRWNohwqu.GL8lcSMLAxJlAykN"
+}

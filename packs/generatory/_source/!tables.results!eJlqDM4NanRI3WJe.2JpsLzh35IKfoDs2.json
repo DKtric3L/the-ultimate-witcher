@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Совершенный Алмаз",
+  "img": "modules/the-ultimate-witcher/assets/gems/perfect_diamond.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "OP2k6X7SO7n8QiUC",
+  "_id": "2JpsLzh35IKfoDs2",
+  "flags": {},
+  "_key": "!tables.results!eJlqDM4NanRI3WJe.2JpsLzh35IKfoDs2"
+}

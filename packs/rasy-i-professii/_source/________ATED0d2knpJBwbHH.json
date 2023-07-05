@@ -1,0 +1,56 @@
+{
+  "name": "Человек",
+  "type": "race",
+  "img": "modules/the-ultimate-witcher/assets/professions/roche.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.RbL9M1jf7887v5DY"
+    },
+    "cf": {
+      "id": "temp_rwe5bpoyvsp"
+    }
+  },
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Доверие",
+      "description": "<p>+1 к проверкам харизмы, убеждени и соблазнения против других людей.</p>"
+    },
+    "perk2": {
+      "name": "Изобретательность",
+      "description": "<p>+1 к Дедукции.</p>"
+    },
+    "perk3": {
+      "name": "Упрямство",
+      "description": "<p>Можно перебросить провальные броски храбрости и сопротивления убеждению, но не более 3 раз за партию. Подряд использовать упрямство нельзя, в случае если и переброс не помог.</p>"
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "equal",
+      "nilfgaard": "equal",
+      "skellige": "equal",
+      "dolBlathanna": "hated",
+      "mahakam": "tolerated"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162873440,
+    "modifiedTime": 1685496612239,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ATED0d2knpJBwbHH",
+  "folder": "32GHdDmc9HcJHQ9n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ATED0d2knpJBwbHH"
+}

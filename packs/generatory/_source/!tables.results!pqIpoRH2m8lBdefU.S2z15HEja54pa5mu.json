@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "drawn": false,
+  "text": "Мантия из козьей шкуры",
+  "img": "icons/equipment/back/cloak-brown-fur-white.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "d2cuXi7St6ZyGyha",
+  "_id": "S2z15HEja54pa5mu",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.S2z15HEja54pa5mu"
+}

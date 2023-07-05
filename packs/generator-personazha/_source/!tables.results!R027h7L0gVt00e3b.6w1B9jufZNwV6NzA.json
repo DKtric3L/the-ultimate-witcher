@@ -1,0 +1,16 @@
+{
+  "_id": "6w1B9jufZNwV6NzA",
+  "type": 0,
+  "text": "Экстремальная уязвимость. Ты пытался сделать себя устойчивым к двимериту. Вы получили обратный результат. Вы получаете штраф -3 к проверкам Стойкости, чтобы сопротивляться эффектам двимерита.",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!R027h7L0gVt00e3b.6w1B9jufZNwV6NzA"
+}

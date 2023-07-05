@@ -1,0 +1,16 @@
+{
+  "_id": "oKZeEBIq2FLMNk2e",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли испытания - Тяжёлые последствия(Дополнительно -1 эмп). Испытание травами у вас прошло тяжело, и ведьмаки, следившие за процессом, не были до конца уверены, что вы справитесь. Вы выжили, но разум ваш травмирован.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!yAuYHC4nF2hyXD1Y.oKZeEBIq2FLMNk2e"
+}

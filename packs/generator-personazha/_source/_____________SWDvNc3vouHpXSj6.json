@@ -1,0 +1,45 @@
+{
+  "name": "Статус семьи",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "MsTH1e2h0dEdR4Bi",
+    "L1QheggbgsPfGHOl",
+    "upAyJ6tXn0VPFaFg",
+    "GkJTtZTUO8cPukvQ",
+    "toto5G0NcbBiXNRT",
+    "FAhbRgXhAlLt6uFc",
+    "vracBFyncimWxtAC",
+    "k3nK72AAq12wcub1",
+    "k90sVKZ6AzsjbXvf",
+    "GDr4C8YBVZTgrWCu"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.LYSmG9Tpcmjc9gDv"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901105,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "SWDvNc3vouHpXSj6",
+  "_key": "!tables!SWDvNc3vouHpXSj6"
+}

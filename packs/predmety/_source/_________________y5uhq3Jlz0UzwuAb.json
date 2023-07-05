@@ -1,0 +1,43 @@
+{
+  "name": "Поездка в карете",
+  "type": "valuable",
+  "img": "icons/sundries/scrolls/scroll-writing-beige.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.9lsDqFqs9EDpkmcQ"
+    },
+    "cf": {
+      "id": "temp_yd58wf1pts8"
+    }
+  },
+  "system": {
+    "description": "Сам-то я предпочитаю на лошади ездить, но если требуется куда-то добраться в безопасности и комфорте, то можно и в карете прокатиться.",
+    "quantity": 1,
+    "weight": null,
+    "cost": 85,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "service",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603173,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "y5uhq3Jlz0UzwuAb",
+  "folder": "QEpLVR9XgY47bXqF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!y5uhq3Jlz0UzwuAb"
+}

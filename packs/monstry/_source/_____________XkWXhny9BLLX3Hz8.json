@@ -1,0 +1,60 @@
+{
+  "_id": "XkWXhny9BLLX3Hz8",
+  "name": "Пламя Кората",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-dense-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wcrqgntympb"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.3qu5VBIqauyinShM"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "24",
+    "staminaIsVar": false,
+    "effect": "Пламя Кората позволяет создать изнуряющую ауру радиусом до 40 м, которая истощает Вын существ. При накладывании этого заклинания каждое существо в этой области снижает свою текущую Вын на 2d6. Кроме того, находясь в этой области, существа не могут выполнять Действие Отдыха. Если существо находится в области в начале своего хода или входит в область в свой ход, его текущая Вын снижается на 2d6. Если этим заклинанием Вын цели снижается до 0, она теряет сознание, пока не восстановит по крайней мере 20 единиц выносливости и не сделает успешный спасбросок от Дезориентации.",
+    "range": "100м",
+    "duration": "актив(4 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!18gHB3Adpvb9PMks.XkWXhny9BLLX3Hz8"
+}

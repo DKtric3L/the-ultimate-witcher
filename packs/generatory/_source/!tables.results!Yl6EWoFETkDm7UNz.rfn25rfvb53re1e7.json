@@ -1,0 +1,16 @@
+{
+  "text": "Благословение любви",
+  "type": 2,
+  "img": "icons/magic/life/heart-pink.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "rfn25rfvb53re1e7",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "LXptVvQ2eGAlt5dy",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.rfn25rfvb53re1e7"
+}

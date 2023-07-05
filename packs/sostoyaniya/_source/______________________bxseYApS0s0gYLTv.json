@@ -1,0 +1,50 @@
+{
+  "name": "Эффект еды: Сырая еда",
+  "type": "effect",
+  "img": "icons/consumables/meat/shank-bone-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xq906tikww"
+    }
+  },
+  "system": {
+    "description": "До следующего отдыха. Пройди проверку стойкости со сл. 14. При провале тебя тошнит 1d6 часов, ты получаешь штрафы этого эффекта, и счётчик голода не сбрасывается.\nТвою ж мать. Неужели не было нормальной еды? Меня сейчас стошнит...",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_x31awrkcc",
+        "derivedStat": "WITCHER.Actor.CoreStat.Rec",
+        "modifier": "-2"
+      },
+      {
+        "id": "_bdgxnztzv",
+        "derivedStat": "WITCHER.Actor.DerStat.HP",
+        "modifier": "-5"
+      },
+      {
+        "id": "_no0pelo9f",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "-5"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883179,
+    "modifiedTime": 1685496621661,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bxseYApS0s0gYLTv",
+  "folder": "1H4Dkaei03yMUCuF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bxseYApS0s0gYLTv"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Гигантский медведь",
+  "img": "modules/the-ultimate-witcher/assets/monsters/giant_bear.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "JSuYLE9KtVfHBlNA",
+  "_id": "xnb0ylFhaa2ey0pF",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.xnb0ylFhaa2ey0pF"
+}

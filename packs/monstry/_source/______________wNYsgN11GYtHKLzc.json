@@ -1,0 +1,46 @@
+{
+  "name": "Чешуя ослизга",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/plate_monstrous_64x64.png.6934.png",
+  "system": {
+    "description": "",
+    "quantity": "2d6",
+    "weight": 3,
+    "cost": 82,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Slyzards",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_7waal2pnsr2",
+      "color": "#ff0000"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.4fVyZeaZKYp1kl6q"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853707,
+    "modifiedTime": 1669962693938,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "wNYsgN11GYtHKLzc",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!QdpnQpyVmID9dpxE.wNYsgN11GYtHKLzc"
+}

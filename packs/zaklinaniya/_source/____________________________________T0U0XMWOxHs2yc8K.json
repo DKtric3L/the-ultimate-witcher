@@ -1,0 +1,60 @@
+{
+  "name": "Превосходное заразное прикосновение",
+  "type": "spell",
+  "img": "icons/magic/acid/dissolve-bone-skull.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.J0oT6ROKwJqFLrXt"
+    },
+    "cf": {
+      "id": "temp_yt9b8cjci6m"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 5d10.\nЗаразное прикосновение воздействует на существо, к которому вы прикасаетесь, вызывая у него симптомы опасной болезни. (Используйте хоумрул «Осложнения, Недуги и Лекарства»).",
+    "range": "Касание",
+    "duration": "Меняется",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "5d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон заклинателю"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496639054,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "T0U0XMWOxHs2yc8K",
+  "folder": "61JxKnK4vxszNzbe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!T0U0XMWOxHs2yc8K"
+}

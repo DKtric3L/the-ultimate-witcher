@@ -1,0 +1,159 @@
+{
+  "name": "Северный ветер",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.VrYEXgMVdpJKcuHe"
+    },
+    "cf": {
+      "id": "temp_qcbrs1shnce"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.b5URHhKOdH4KOOso]{Северный ветер}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "bomb",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Речная глина"
+      },
+      {
+        "id": "_sthjddipe",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_ch1p5v5fv",
+        "name": "Зерриканская смесь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_pn2fgl7za",
+        "name": "Царская водка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_x8hzerqvh",
+        "name": "Вербена",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 118,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Северный ветер",
+      "type": "weapon",
+      "img": "modules/the-ultimate-witcher/assets/bombs/northern_wind.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 177,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Стихийное",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": true
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Everywhere",
+        "damage": "0",
+        "reliable": 0,
+        "maxReliability": 0,
+        "hands": "1",
+        "range": "Тел*4м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Радиус - 4 метра",
+            "percentage": ""
+          },
+          {
+            "id": "_oci7mqpms",
+            "name": "Жертва бомбы Замораживается, пока не Пройдёт проверку силы со Сл 18, либо по окончанию 8 раундов. Атака по нему Наносит доп-о 2d6 урона",
+            "percentage": ""
+          }
+        ],
+        "conceal": "T",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Athletics",
+        "rollOnlyDmg": false,
+        "isThrowable": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rads4wdft3r"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162887309,
+        "modifiedTime": 1672543489437,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848427,
+    "modifiedTime": 1685496579796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VrYEXgMVdpJKcuHe",
+  "folder": "vIuywOMpy1LOwsfX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VrYEXgMVdpJKcuHe"
+}

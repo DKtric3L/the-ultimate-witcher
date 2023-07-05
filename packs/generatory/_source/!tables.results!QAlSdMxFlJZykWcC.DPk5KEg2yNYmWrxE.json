@@ -1,0 +1,16 @@
+{
+  "text": "Пиро Дюр",
+  "type": 2,
+  "img": "icons/magic/holy/chalice-glowing-gold.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "DPk5KEg2yNYmWrxE",
+  "documentId": "TgUUU5CqM9Ytki16",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.DPk5KEg2yNYmWrxE"
+}

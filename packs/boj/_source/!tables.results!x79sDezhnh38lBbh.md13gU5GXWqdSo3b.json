@@ -1,0 +1,16 @@
+{
+  "_id": "md13gU5GXWqdSo3b",
+  "flags": {},
+  "type": 0,
+  "text": "Перелом ноги: -3 к скор, уклонению, атлетике. Стабилизация: Штрафы -2, После лечения: Штрафы -1.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!x79sDezhnh38lBbh.md13gU5GXWqdSo3b"
+}

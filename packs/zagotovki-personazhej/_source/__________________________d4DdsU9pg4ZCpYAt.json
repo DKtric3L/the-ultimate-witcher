@@ -1,0 +1,44 @@
+{
+  "name": "Кровосвёртывающий порошок",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/blood_clotting_solution.png",
+  "system": {
+    "description": "",
+    "quantity": "5",
+    "weight": 0.1,
+    "cost": 20,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Common",
+    "effect": "Нанесение кровосвёртывающего порошка на рану останавливает\nкровотечение на 2d10 раундов. По окончании действия рана снова начинает кровоточить.",
+    "time": "2d10 раундов",
+    "toxicity": ""
+  },
+  "sort": 325000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.eWyMtrl9CweX6FXY"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1670417131394,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "d4DdsU9pg4ZCpYAt",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!QCJUoRqklmUYaicw.d4DdsU9pg4ZCpYAt"
+}

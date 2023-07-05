@@ -1,0 +1,65 @@
+{
+  "_id": "WxggVVfBoLEBr8dM",
+  "name": "Землятрясение",
+  "type": "weapon",
+  "img": "icons/skills/melee/shield-damaged-broken-brown.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.VZfbDGzBaNhHQnHP"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "В качестве действия Шарлей может свернуться в брони рованный шар и быстро закрутиться на месте, расшвы ривая мусор и куски земли в радиусе 6 метров. Все суще ства в этой зоне должны совершить проверку Атлетики со СЛ 17. При провале они сбиты с ног и должны пройти испытание Устойчивости",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!ytUDI3WvlUdgLiG0.WxggVVfBoLEBr8dM"
+}

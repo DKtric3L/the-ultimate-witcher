@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    24,
+    24
+  ],
+  "drawn": false,
+  "text": "Силовой охранный камень",
+  "img": "icons/commodities/treasure/broach-eye-silver-teal.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "VQA4Th2tjcbhQjLg",
+  "_id": "W4fir4RKznWYbBqy",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.W4fir4RKznWYbBqy"
+}

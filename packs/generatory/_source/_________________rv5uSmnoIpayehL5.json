@@ -1,0 +1,49 @@
+{
+  "name": "Новичок - Воздух",
+  "description": "A random table created from the contents of the Воздух Folder.",
+  "results": [
+    "9gAykDHuv64KQZ47",
+    "tjjqc3EiYQ1sQDkD",
+    "eaNTAcORqrJ6D1Jg",
+    "v9JWbywcd1qjitwa",
+    "qXSFrOp4Ma82Pmmp",
+    "zPR2pPwY2hGRUfB1",
+    "Fef2nlxRzdzFDIRc",
+    "EuCSl710x8xwhKvl",
+    "m5qSZOvlQqFgqMtS",
+    "nDX3xi6sQBN3rYpN",
+    "DTwaz5gBN5O2vptK"
+  ],
+  "formula": "1d11",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "575534f0cd14abf0c56a8fef5f9d00a9bfa6d4d9",
+      "sourceId": "RollTable.9rbzXTAJq09DM3o0"
+    },
+    "core": {
+      "sourceId": "RollTable.9rbzXTAJq09DM3o0"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593169324,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "rv5uSmnoIpayehL5",
+  "_key": "!tables!rv5uSmnoIpayehL5"
+}

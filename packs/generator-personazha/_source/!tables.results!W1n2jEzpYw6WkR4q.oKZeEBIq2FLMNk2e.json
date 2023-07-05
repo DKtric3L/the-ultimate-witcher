@@ -1,0 +1,16 @@
+{
+  "_id": "oKZeEBIq2FLMNk2e",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли начальные тренировки - Украденные знания(+1 ведьмачий чертёж). Обучаясь в школе, вы прокрались в библиотеку крепости и скопировали один из секретных чертежей ведьмаков, а копию забрали себе.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!W1n2jEzpYw6WkR4q.oKZeEBIq2FLMNk2e"
+}

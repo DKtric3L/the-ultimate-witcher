@@ -1,0 +1,57 @@
+{
+  "name": "Священный свет",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-large-teal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_so5hsxssqwc"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "Освещает всё вокруг заклинателя, как если бы он держал в руках факел. Этот свет не даёт тепла и не может быть использован для поджигания других предметов, в отличие от факела.",
+    "range": "на себя",
+    "duration": "3d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892173,
+    "modifiedTime": 1685496638375,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BjjnTWWi5PDRkn2K",
+  "folder": "1A4gsGOBCXBnvFaS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!BjjnTWWi5PDRkn2K"
+}

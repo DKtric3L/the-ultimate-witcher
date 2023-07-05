@@ -1,0 +1,16 @@
+{
+  "_id": "md13gU5GXWqdSo3b",
+  "flags": {},
+  "type": 0,
+  "text": "Вывих ноги - После удара нога вывихнута, она плохо слушается и на неё больно наступать. Персонаж получает -2 к скор, уклонению и атлетике. После стабилизации - Штраф -1 к скор, уклонению и атлетике. После лечения - Штраф -1 к скор.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZeqCjq8cm2PP93oO.md13gU5GXWqdSo3b"
+}

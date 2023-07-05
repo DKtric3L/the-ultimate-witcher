@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "63zMupVJVrLJjkKi",
+  "text": "Захват и попытка бросить на второй ход.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!TSiizjCPrhyprZeQ.63zMupVJVrLJjkKi"
+}

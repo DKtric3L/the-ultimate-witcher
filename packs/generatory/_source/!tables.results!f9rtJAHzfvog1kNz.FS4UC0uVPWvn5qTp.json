@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    30,
+    30
+  ],
+  "drawn": false,
+  "text": "Наручники",
+  "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Kgw9QKj8fFN1i3XY",
+  "_id": "FS4UC0uVPWvn5qTp",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.FS4UC0uVPWvn5qTp"
+}

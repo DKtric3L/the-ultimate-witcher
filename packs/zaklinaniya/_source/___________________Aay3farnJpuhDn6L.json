@@ -1,0 +1,60 @@
+{
+  "name": "Сфера ветра Заифии",
+  "type": "spell",
+  "img": "icons/magic/air/air-pressure-shield-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.f8480YMZI9eIJKqn"
+    },
+    "cf": {
+      "id": "temp_2gfz0e4391q"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Зайфия – цидарисская колдунья, которая была известна своими навыками боя на мечах. \n\nСфера ветра Заифии создает вокруг заклинателя сферу сильного ветра радиусом 4 м, которая дает каждому существу в пределах дистанции штраф -2 к каждой атаке и проверкам защиты",
+    "range": "на себя",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "4",
+    "templateType": "circle",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892175,
+    "modifiedTime": 1685496638783,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Aay3farnJpuhDn6L",
+  "folder": "xxARWgvfAzQOH2sZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Aay3farnJpuhDn6L"
+}

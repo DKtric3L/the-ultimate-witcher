@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Каэдвенский стаут",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/rivian_fruit.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "xyiuID4j9t0zGOFe",
+  "_id": "c3DLTwzVwXPjZniQ",
+  "flags": {},
+  "_key": "!tables.results!FG86RJYCQc9nALr7.c3DLTwzVwXPjZniQ"
+}

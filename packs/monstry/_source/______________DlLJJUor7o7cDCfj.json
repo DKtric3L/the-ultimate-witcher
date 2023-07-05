@@ -1,0 +1,64 @@
+{
+  "name": "Рыцарский меч",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-hilt-steel-green.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2.5,
+    "cost": 270,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Common",
+    "damage": "2d6+4",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_2ps351j34un"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.oruzhie.VB9Ujd5SXdMar3mT"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1668162863942,
+    "modifiedTime": 1680462740518,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_id": "DlLJJUor7o7cDCfj",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!UH5WNpQ4XpXRWN3w.DlLJJUor7o7cDCfj"
+}

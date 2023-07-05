@@ -1,0 +1,16 @@
+{
+  "_id": "xRSmgkjngPIw247A",
+  "type": 0,
+  "text": "Потерял ощущения. Ваши эксперименты дорого вам обошлись. Вы потеряли чувство вкуса, обоняния или осязания. У вас есть штраф -2 к проверкам навыков, основанным на этом чувстве.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4dpnBG7SV5On0Q30.xRSmgkjngPIw247A"
+}

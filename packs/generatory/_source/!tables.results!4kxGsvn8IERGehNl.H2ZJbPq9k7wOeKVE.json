@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Плод балиссы",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/balisse_fruit_64x64.png.6658.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "LjmjWH9B6YJAu92v",
+  "_id": "H2ZJbPq9k7wOeKVE",
+  "flags": {},
+  "_key": "!tables.results!4kxGsvn8IERGehNl.H2ZJbPq9k7wOeKVE"
+}

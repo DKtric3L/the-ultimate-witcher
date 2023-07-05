@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Кошка",
+  "img": "modules/the-ultimate-witcher/assets/monsters/cat_2.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "bTblXyf2CicWhGLj",
+  "_id": "Sw91GueH6eTF9w3o",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.Sw91GueH6eTF9w3o"
+}

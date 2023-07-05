@@ -1,0 +1,60 @@
+{
+  "name": "Стальной кулак",
+  "type": "spell",
+  "img": "icons/skills/melee/hand-grip-sword-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_0gz04w1fnmy5"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Все, что жертва несет в руках, включая оружие, ощущается в два раза тяжелее обычного веса. Это не влияет на реальный вес предметов, но может ограничить количество переносимых вещей. Также жертва может атаковать оружием ближнего боя только один раз за ход.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Medium",
+    "liftRequirement": "Жертва должна расплавить железный меч в огне, зажженном с горящей в нем optima mater. Затем из расплавленного железа она должна сформировать два слитка, и провести целый день, держа по слитку в каждой руке.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496639522,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "s51eqg3FShBo1xg8",
+  "folder": "EIBjRCq06UND2xWm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!s51eqg3FShBo1xg8"
+}

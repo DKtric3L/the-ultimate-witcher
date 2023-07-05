@@ -1,0 +1,42 @@
+{
+  "name": "Провал: Атака или защита без оружия",
+  "img": "icons/skills/melee/unarmed-punch-fist.webp",
+  "description": "",
+  "results": [
+    "fm4OtljENRJoEYt9",
+    "ZdahFe8LL7PF2hil",
+    "kOC2y8He9ykqCB7c",
+    "Z1VbixcIGfzp9uS4",
+    "7fXxBeiqFWGSvWVv",
+    "PI8nDwYW2aMcYmnK",
+    "HXhpS7rBD3AOHYFR",
+    "06PzjwivYE0OjVln"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.7WzbZWUyjIDdJZt9"
+    },
+    "cf": {
+      "id": "temp_fwm9l8vsfd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897080,
+    "modifiedTime": 1685496658067,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ZkJPLpOcg5KIqbps",
+  "folder": "Wb6CKRNqRjBQl5Uy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!ZkJPLpOcg5KIqbps"
+}

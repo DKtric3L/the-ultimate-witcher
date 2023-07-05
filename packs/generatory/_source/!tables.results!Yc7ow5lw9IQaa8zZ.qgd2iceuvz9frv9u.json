@@ -1,0 +1,16 @@
+{
+  "text": "Интерактивная иллюзия",
+  "type": 2,
+  "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "qgd2iceuvz9frv9u",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "daqAXCfwGjB314Dp",
+  "_key": "!tables.results!Yc7ow5lw9IQaa8zZ.qgd2iceuvz9frv9u"
+}

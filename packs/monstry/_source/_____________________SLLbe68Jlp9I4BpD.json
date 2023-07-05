@@ -1,0 +1,40 @@
+{
+  "_id": "SLLbe68Jlp9I4BpD",
+  "name": "Медальон с портретом",
+  "type": "valuable",
+  "img": "icons/equipment/neck/amulet-round-engraved-spiral-gold.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.Q4UouWQkIhPCsA9E"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!mwFK7pry8AUPpsSu.SLLbe68Jlp9I4BpD"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "dKmx4ulVwtB0aTze",
+  "flags": {},
+  "type": 0,
+  "text": "Ваша раса - Человек",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.dKmx4ulVwtB0aTze"
+}

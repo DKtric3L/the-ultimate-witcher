@@ -1,0 +1,70 @@
+{
+  "name": "Щит школы мантикоры",
+  "type": "armor",
+  "img": "icons/equipment/shield/heater-steel-engraved-lance-rest.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0w1zqqbn8lrf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 20,
+    "reliabilityMax": 20,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Метеоритное"
+      },
+      {
+        "id": "_gpgwn4e4s",
+        "name": "Серебряное(3d6)",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887311,
+    "modifiedTime": 1685496626987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7cuBFASVr2zfRy1n",
+  "folder": "XIWiaRMuiNt3vpFW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7cuBFASVr2zfRy1n"
+}

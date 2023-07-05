@@ -1,0 +1,133 @@
+{
+  "name": "Улучшенный ворот",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-anchor.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.JsGYo9yeGrqypZGq"
+    },
+    "cf": {
+      "id": "temp_m3pt20nktso"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.oyKsqGxVfwarEqMu]{Улучшенный ворот}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 880,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "10ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Сталь"
+      },
+      {
+        "id": "_qs762bwaa",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_uavn3hwe8",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_zeycmr8hm",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "7"
+      }
+    ],
+    "investment": 284,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Улучшенный ворот",
+      "type": "enhancement",
+      "img": "icons/tools/fasteners/pin-round.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 440,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "rune",
+        "applied": "",
+        "avail": "",
+        "effects": [
+          {
+            "id": "first",
+            "name": "Позволяет перезаряжать арбалет за счёт действия,либо за счёт действия перемещения в каждом раунде."
+          }
+        ],
+        "stopping": 0,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.oyKsqGxVfwarEqMu"
+        },
+        "cf": {
+          "id": "temp_frzayswlhnf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162868992,
+        "modifiedTime": 1672567967526,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496579183,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JsGYo9yeGrqypZGq",
+  "folder": "7dTYzPoBtjJNtgnA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!JsGYo9yeGrqypZGq"
+}

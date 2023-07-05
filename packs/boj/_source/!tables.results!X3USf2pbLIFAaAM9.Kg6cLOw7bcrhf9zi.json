@@ -1,0 +1,16 @@
+{
+  "_id": "Kg6cLOw7bcrhf9zi",
+  "flags": {},
+  "type": 0,
+  "text": "Потеря руки. Её уже не вернуть, вы истекаете кровью. Рукой нельзя пользоваться, дальше только протез.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!X3USf2pbLIFAaAM9.Kg6cLOw7bcrhf9zi"
+}

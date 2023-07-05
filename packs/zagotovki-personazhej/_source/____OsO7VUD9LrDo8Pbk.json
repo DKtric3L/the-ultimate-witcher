@@ -1,0 +1,43 @@
+{
+  "name": "Мул",
+  "type": "mount",
+  "img": "modules/the-ultimate-witcher/assets/monsters/donkey.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 200,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "dex": "7",
+    "control": "",
+    "speed": "9",
+    "hp": 45
+  },
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.9OWon7bJybOIMygW"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868980,
+    "modifiedTime": 1670417180621,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "OsO7VUD9LrDo8Pbk",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!hVlOV9UApkUxS9TM.OsO7VUD9LrDo8Pbk"
+}

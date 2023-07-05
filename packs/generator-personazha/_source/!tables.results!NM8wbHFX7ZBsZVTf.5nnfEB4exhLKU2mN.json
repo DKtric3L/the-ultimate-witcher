@@ -1,0 +1,16 @@
+{
+  "_id": "5nnfEB4exhLKU2mN",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Аристократы. Вы выросли во дворце, где вам постоянно напоминали о славном прошлом, ожидая, что вы будете достойны своих предков. Начальное снаряжение - Дворянская грамота(+2 к репутации).",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NM8wbHFX7ZBsZVTf.5nnfEB4exhLKU2mN"
+}

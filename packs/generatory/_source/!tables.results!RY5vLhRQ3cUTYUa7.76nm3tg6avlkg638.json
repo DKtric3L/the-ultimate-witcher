@@ -1,0 +1,16 @@
+{
+  "text": "Перо грифона",
+  "type": 2,
+  "img": "systems/TheWitcherTRPG/assets/images/vermilion.png",
+  "weight": 1,
+  "range": [
+    34,
+    34
+  ],
+  "drawn": false,
+  "_id": "76nm3tg6avlkg638",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "xMNtsOc8lEkeScaW",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.76nm3tg6avlkg638"
+}

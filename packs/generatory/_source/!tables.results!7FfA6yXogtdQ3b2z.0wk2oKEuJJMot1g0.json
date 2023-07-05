@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Главоглаз",
+  "img": "modules/the-ultimate-witcher/assets/monsters/edriag_eye.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "vH8RFGIQt7XR53WH",
+  "_id": "0wk2oKEuJJMot1g0",
+  "flags": {},
+  "_key": "!tables.results!7FfA6yXogtdQ3b2z.0wk2oKEuJJMot1g0"
+}

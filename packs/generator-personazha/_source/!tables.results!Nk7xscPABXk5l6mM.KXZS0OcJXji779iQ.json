@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "KXZS0OcJXji779iQ",
+  "text": "Нашёл древние руины - Этот дракон обнаружил древние руины и устроил там логово. В этом логове полно разных ходов, проложенных из начальными обитателями этого места, а охраняет руины голем, которым дракон научился управлять.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Nk7xscPABXk5l6mM.KXZS0OcJXji779iQ"
+}

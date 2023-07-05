@@ -1,0 +1,60 @@
+{
+  "_id": "3mE3lJIl8k5d4vZb",
+  "name": "Зефир",
+  "type": "spell",
+  "img": "icons/magic/air/wind-vortex-swirl-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.xXiAKa1PdtBQ2Mua"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Зефир создаёт порыв ветра, отталкивающий любого в пределах 2 метров от заклинателя на б метров. Атака наносит ld6 урона, а если цель с чем-то столкнётся, она получит урон от таранящего удара.",
+    "range": "2м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2",
+    "templateType": "circle",
+    "causeDamages": true,
+    "damage": "1D6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!35PrRyyk0lNl1KVq.3mE3lJIl8k5d4vZb"
+}

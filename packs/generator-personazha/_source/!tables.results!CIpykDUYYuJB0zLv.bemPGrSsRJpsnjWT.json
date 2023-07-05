@@ -1,0 +1,16 @@
+{
+  "_id": "bemPGrSsRJpsnjWT",
+  "flags": {},
+  "type": 2,
+  "text": "Генератор: Низушки",
+  "img": "icons/svg/cave.svg",
+  "weight": 1,
+  "range": [
+    12,
+    15
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "ioZTpiW6W2eVwRiY",
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.bemPGrSsRJpsnjWT"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "i8Iq71JC5Z9w8IiU",
+  "name": "Бог многих",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Сила Дагона исходит от его последователей. За каждого последователя в радиусе 20 метров Дагон получает +1 к проверкам атаки и защиты. Если последователь убит, бонус удаляется. Дагон также может управлять монстрами."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!2GRLJVzFLq294ovd.i8Iq71JC5Z9w8IiU"
+}

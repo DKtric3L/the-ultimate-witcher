@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Водяной",
+  "img": "modules/the-ultimate-witcher/assets/monsters/water_man.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "wGqeJbkayTx9xytT",
+  "_id": "0YHmH0xFOheULWrs",
+  "flags": {},
+  "_key": "!tables.results!MmZRVfw0QtTylPNl.0YHmH0xFOheULWrs"
+}

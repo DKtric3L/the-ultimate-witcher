@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Волшебная эльфийская верёвка",
+  "img": "icons/sundries/survival/rope-wrapped-purple.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "kmhZf51AVVqyKLeU",
+  "_id": "ozXTBmPZHvJ6THq1",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.ozXTBmPZHvJ6THq1"
+}

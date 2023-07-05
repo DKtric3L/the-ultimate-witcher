@@ -1,0 +1,16 @@
+{
+  "text": "Создание места силы",
+  "type": 2,
+  "img": "icons/magic/symbols/runes-carved-stone-green.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "gfc8f0v2t8t1r8gn",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "qYT7SNRKj7gAhagU",
+  "_key": "!tables.results!Yc7ow5lw9IQaa8zZ.gfc8f0v2t8t1r8gn"
+}

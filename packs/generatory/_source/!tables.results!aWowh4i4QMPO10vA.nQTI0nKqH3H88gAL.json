@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Клуб - Услуги",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "hI72n8qVQg77ev8U",
+  "_id": "nQTI0nKqH3H88gAL",
+  "flags": {},
+  "_key": "!tables.results!aWowh4i4QMPO10vA.nQTI0nKqH3H88gAL"
+}

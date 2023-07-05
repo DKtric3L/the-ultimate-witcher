@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "k1NcsjiX8xyWAqXt",
+  "text": "Увлечения - Физическое развитие. Этот вампир заботится о своём здоровье и усердно тренируется. Он получает +10 ПЗ.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!WcWqWv6QSr2Gwb2N.k1NcsjiX8xyWAqXt"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Адреналиновый эликсир",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/potion-bottle-corked-labeled-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.1iKHCJD8cYyMsVBi"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Эликсир мутагенных веществ и трав, вызывающий продолжительный прилив адреналина. При приеме адреналиновый эликсир снижает Сл для стабилизации выпитого в состоянии смерти на 5 и повышает его шансы на выживание. В течение следующих 3 раундов цель автоматически преуспевает в спасбросках от смерти, хотя их штраф за спасброски от смерти продолжает расти. Если Адреналиновый эликсир выпит, не находясь в состоянии смерти, он позволяет выпившему игнорировать штрафы за то, что он находится ниже порога ранения в течение трех раундов.",
+    "time": "",
+    "toxicity": "0"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868970,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1iKHCJD8cYyMsVBi",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1iKHCJD8cYyMsVBi"
+}

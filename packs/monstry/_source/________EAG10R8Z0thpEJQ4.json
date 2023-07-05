@@ -1,0 +1,26 @@
+{
+  "_id": "EAG10R8Z0thpEJQ4",
+  "name": "Лучницы",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Дриады - одни из лучших лучников на Континенте. Дриада может потратить свое действие и 3 Вын, чтобы совершить особые действия луком: нанести Сильный удар, блокировать атаку или обезоружить цель. Кроме того, они получают на 1 штраф меньше от модификаторов дальности."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!mzLvpWjcjx1a20dS.EAG10R8Z0thpEJQ4"
+}

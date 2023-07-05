@@ -1,0 +1,16 @@
+{
+  "_id": "RHNQnlcfgi5i1isk",
+  "flags": {},
+  "type": 0,
+  "text": "Место попадания - Голова | Урон = x3",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BifjYX8DwwEvIA9t.RHNQnlcfgi5i1isk"
+}

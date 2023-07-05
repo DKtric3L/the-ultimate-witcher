@@ -1,0 +1,76 @@
+{
+  "_id": "TPZkY6VoRzoz5p0V",
+  "name": "Серебряный меч школы грифона",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-crossguard-engraved-green.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_jncnssgiate"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.D2EcymKCF6InF9rq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Rare",
+    "damage": "2d6+2",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Серебряное(3d6)",
+        "percentage": ""
+      },
+      {
+        "id": "_988po4piz",
+        "name": "Фокусирующее(1)",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [
+      {},
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!N7nQOFSsbexXyUCv.TPZkY6VoRzoz5p0V"
+}

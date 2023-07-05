@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    30,
+    30
+  ],
+  "drawn": false,
+  "text": "Солнечный камень",
+  "img": "icons/commodities/stone/ore-pile-gold.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "atsDmKgxBFDT1S8H",
+  "_id": "ziNQy2qspZvIucX5",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.ziNQy2qspZvIucX5"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Коррозия",
+  "type": 2,
+  "img": "icons/magic/unholy/hand-weapon-glow-black-green.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "iQNsGbz8lXZGYwAl",
+  "documentId": "unixfUztF8PPgso1",
+  "flags": {},
+  "_key": "!tables.results!0kUdLuP1RmtDXNkK.iQNsGbz8lXZGYwAl"
+}

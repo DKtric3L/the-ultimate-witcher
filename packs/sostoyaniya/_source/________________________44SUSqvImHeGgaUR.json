@@ -1,0 +1,50 @@
+{
+  "name": "Эффект: Снял напряжение",
+  "type": "effect",
+  "img": "icons/skills/social/wave-halt-stop.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_et1htt64j0c"
+    }
+  },
+  "system": {
+    "description": "Длится до следующего отдыха.\nВсем мы иногда нуждаемся в любви.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "1"
+      },
+      {
+        "id": "_053n6dr95",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "1"
+      },
+      {
+        "id": "_wc220o16w",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "44SUSqvImHeGgaUR",
+  "folder": "FcoowEm4mYGPMieN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!44SUSqvImHeGgaUR"
+}

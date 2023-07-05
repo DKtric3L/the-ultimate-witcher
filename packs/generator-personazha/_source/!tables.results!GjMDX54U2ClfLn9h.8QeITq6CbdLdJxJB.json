@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "8QeITq6CbdLdJxJB",
+  "text": "Талант к магии - Этот вампир может сотворить одно заклинание. Он получает навык Сотворение заклинаний с основой 16 и максимальное значение Энергии 15 и владеет одним заклинанием уровня подмастерья. Этот вампир не может изучать новую магию.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!GjMDX54U2ClfLn9h.8QeITq6CbdLdJxJB"
+}

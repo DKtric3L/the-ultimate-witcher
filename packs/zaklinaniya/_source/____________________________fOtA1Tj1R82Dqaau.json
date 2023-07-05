@@ -1,0 +1,57 @@
+{
+  "name": "Алхимическое восстановление",
+  "type": "spell",
+  "img": "icons/magic/unholy/orb-droplet-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_dpnqmwag5w"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Алхимическое восстановление позволяет восстановить эффективность отработанного вещества. Сотворив это заклинание, вы можете выбрать неудачный алхимический проект и восстановить одно из его алхимических веществ. Это заклинание нельзя применить к одному и тому же неудачному проекту более одного раза, но его можно использовать вместе со стандартным этапом восстановления.",
+    "range": "2м",
+    "duration": "мгновенная",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "rect",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892151,
+    "modifiedTime": 1685496637764,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "fOtA1Tj1R82Dqaau",
+  "folder": "cnIlwgnwtzSIOWjW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!fOtA1Tj1R82Dqaau"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "9kVdEtFeX4a3nAoe",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Danger - Wounds",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    4,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "Z7kTt2NxEPQu1oAu",
+  "_key": "!tables.results!ZXRIT4yjKseRiJ2R.9kVdEtFeX4a3nAoe"
+}

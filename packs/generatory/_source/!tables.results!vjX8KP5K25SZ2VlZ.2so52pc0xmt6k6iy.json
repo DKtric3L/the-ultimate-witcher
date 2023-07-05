@@ -1,0 +1,16 @@
+{
+  "text": "Торрур",
+  "type": 2,
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "2so52pc0xmt6k6iy",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "udxIT1rwd9DIn9V1",
+  "_key": "!tables.results!vjX8KP5K25SZ2VlZ.2so52pc0xmt6k6iy"
+}

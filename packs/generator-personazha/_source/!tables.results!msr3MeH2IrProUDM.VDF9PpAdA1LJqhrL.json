@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "VDF9PpAdA1LJqhrL",
+  "text": "Увлечения - Банковское дело. Этот дракон связан с местными банками. У него много должников, готовых на что угодно, лишь бы рассчитаться с долгами.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!msr3MeH2IrProUDM.VDF9PpAdA1LJqhrL"
+}

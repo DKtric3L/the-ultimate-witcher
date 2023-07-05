@@ -1,0 +1,170 @@
+{
+  "name": "Щит школы мантикоры",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-triangle-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.whmm4tBSwCSGg5n0"
+    },
+    "cf": {
+      "id": "temp_ifjc7bnyz9"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.7cuBFASVr2zfRy1n]{щит школы мантикоры}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1304,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "8ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укреплённая кожа"
+      },
+      {
+        "id": "_2xdrkzrzk",
+        "name": "Укреплённое дерево",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_s92pmdejv",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_ublrmzls9",
+        "name": "Серебро",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_plqt9tm9m",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_efpf9w9z4",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_1sjnbj2xg",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "6"
+      }
+    ],
+    "investment": 652,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Щит школы мантикоры",
+      "type": "armor",
+      "img": "icons/equipment/shield/heater-steel-engraved-lance-rest.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2,
+        "cost": null,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 20,
+        "reliabilityMax": 20,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Метеоритное"
+          },
+          {
+            "id": "_gpgwn4e4s",
+            "name": "Серебряное(3d6)",
+            "percentage": ""
+          }
+        ],
+        "encumb": 0,
+        "location": "Shield",
+        "equiped": false,
+        "bludgeoning": true,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_0w1zqqbn8lrf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887311,
+        "modifiedTime": 1668162887311,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848432,
+    "modifiedTime": 1685496579014,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LPNuA6AGuI1diaDq",
+  "folder": "60U2rqC71wZJrKoB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LPNuA6AGuI1diaDq"
+}

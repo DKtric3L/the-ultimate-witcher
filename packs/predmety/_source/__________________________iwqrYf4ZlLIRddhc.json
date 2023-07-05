@@ -1,0 +1,43 @@
+{
+  "name": "Услуги скупщика краденого",
+  "type": "valuable",
+  "img": "icons/sundries/scrolls/scroll-writing-beige.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.vQa6lBwoHpG9HnS1"
+    },
+    "cf": {
+      "id": "temp_yd58wf1pts8"
+    }
+  },
+  "system": {
+    "description": "Скупщик берет 1/4 от суммы каждого проданного ему предмета.\nЗаметь, я не говорю, что воровать хорошо. Но, если уж придётся ступить на кривую дорожку, выбери себе скупщика получше. Чтобы нашёл покупателя на твой товар, да и тебя внакладе не оставил. За процент с выручки, естественно.",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "service",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868993,
+    "modifiedTime": 1685496603173,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "iwqrYf4ZlLIRddhc",
+  "folder": "QEpLVR9XgY47bXqF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!iwqrYf4ZlLIRddhc"
+}

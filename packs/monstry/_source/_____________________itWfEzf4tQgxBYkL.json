@@ -1,0 +1,60 @@
+{
+  "_id": "itWfEzf4tQgxBYkL",
+  "name": "Магическое исцеление",
+  "type": "spell",
+  "img": "icons/skills/wounds/blood-cells-vessel-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.6cq711XluQ9lTG7r"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Магическое исцеление стимулирует естественный процесс регенерации, восстанавливая 3 ПЗ за ход во время действия заклинания. Также это заклинание можно использовать несколько раз для исцеления критического ранения — в таком случае оно не восстанавливает ПЗ.",
+    "range": "2м",
+    "duration": "1d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.itWfEzf4tQgxBYkL"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Волк",
+  "img": "modules/the-ultimate-witcher/assets/monsters/wolf.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "vlTQoZSrl5l7C1B1",
+  "_id": "6G9LTIV8sZSNgrbb",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.6G9LTIV8sZSNgrbb"
+}

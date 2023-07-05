@@ -1,0 +1,44 @@
+{
+  "name": "Медальон школы кота",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/medallions/cat.png",
+  "system": {
+    "description": "Начинает дрожать, если в радиусе 20 метров есть чудовище или источник магии.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_sdiu4u3femp"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.aAIJyE2wsIEPChPc"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887306,
+    "modifiedTime": 1669962247242,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "yjisgTY7FmzcBP7h",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!5LLHqstrIQe4XKBE.yjisgTY7FmzcBP7h"
+}

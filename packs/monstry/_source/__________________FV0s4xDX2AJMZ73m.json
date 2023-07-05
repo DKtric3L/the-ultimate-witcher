@@ -1,0 +1,46 @@
+{
+  "name": "Панцирь куролиска",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/plate_basilisk_64x64.png.6931.png",
+  "system": {
+    "description": "",
+    "quantity": "2d6",
+    "weight": 2,
+    "cost": 75,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Cockatrice",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "hydragenum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_qvpxq7w0ybj",
+      "color": "#5c65e6"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.zy0qWbKKhjf3j8jv"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853703,
+    "modifiedTime": 1669962645650,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "FV0s4xDX2AJMZ73m",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!sZSAlupbRzYM6g34.FV0s4xDX2AJMZ73m"
+}

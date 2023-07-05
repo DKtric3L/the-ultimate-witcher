@@ -1,0 +1,78 @@
+{
+  "name": "Сорвишапка",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-broad-serrated-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-oruzhiya.PzJL1eowowN9FSTJ"
+    },
+    "cf": {
+      "id": "temp_158empsijjm"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "8d6+2",
+    "reliable": 20,
+    "maxReliability": 20,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пробивающее броню",
+        "percentage": ""
+      },
+      {
+        "id": "_31iojxrna",
+        "name": "Сбалансированное(+5)",
+        "percentage": ""
+      },
+      {
+        "id": "_wu0q0cf15",
+        "name": "Метеоритное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877956,
+    "modifiedTime": 1685496616900,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0BYNHr9l9DtE4tJs",
+  "folder": "qosTfu30dYf09sIj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0BYNHr9l9DtE4tJs"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "0z5tBuWYsA4uljJk",
+  "type": 0,
+  "text": "Пойман на контрабанде. Вы тайно вынесли тома из школы и были пойманы. Вас сделали учеником.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!EM1uMos8Enfzk9Rj.0z5tBuWYsA4uljJk"
+}

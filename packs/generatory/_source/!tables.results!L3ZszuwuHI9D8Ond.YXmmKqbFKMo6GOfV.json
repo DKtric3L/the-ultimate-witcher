@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    27,
+    27
+  ],
+  "drawn": false,
+  "text": "Склянка с глистами",
+  "img": "icons/consumables/potions/bottle-metal-yellow-gray.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "TQ3pLoY6dRS4Taks",
+  "_id": "YXmmKqbFKMo6GOfV",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.YXmmKqbFKMo6GOfV"
+}

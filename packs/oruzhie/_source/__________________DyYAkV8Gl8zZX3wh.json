@@ -1,0 +1,66 @@
+{
+  "name": "Охотничий арбалет",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-simple-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uugqhd13qjr"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 600,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее",
+      "slashing": true,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 2,
+    "avail": "Poor",
+    "damage": "5d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "150",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Медленная перезарядка",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Crossbow",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863941,
+    "modifiedTime": 1685496598674,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DyYAkV8Gl8zZX3wh",
+  "folder": "OfTUWgpov2wtraF3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DyYAkV8Gl8zZX3wh"
+}

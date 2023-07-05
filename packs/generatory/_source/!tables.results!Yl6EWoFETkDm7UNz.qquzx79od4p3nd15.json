@@ -1,0 +1,16 @@
+{
+  "text": "Священный свет",
+  "type": 2,
+  "img": "icons/magic/light/explosion-star-large-teal.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "qquzx79od4p3nd15",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "BjjnTWWi5PDRkn2K",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.qquzx79od4p3nd15"
+}

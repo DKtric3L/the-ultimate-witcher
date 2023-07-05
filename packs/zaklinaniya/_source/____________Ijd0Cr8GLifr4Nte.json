@@ -1,0 +1,60 @@
+{
+  "name": "Паучий шелк",
+  "type": "spell",
+  "img": "icons/commodities/materials/material-webbing.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_fmeqjndlxhr"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "druid",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Заклинатель запускает в цель толстую и липкую паутину. При попадании цель захвачена до тех пор, пока не совершит удачную проверку Силы СЛ 16 или пока не нанесет паутине 10 единиц урона. Если противник использует блокирование , вы автоматически преуспеваете.",
+    "range": "10м",
+    "duration": "мгновенное",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496639367,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Ijd0Cr8GLifr4Nte",
+  "folder": "391U4jkdRfKiiMJD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Ijd0Cr8GLifr4Nte"
+}

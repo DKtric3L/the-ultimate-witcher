@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "K1yCQvruPdLuFsd9",
+  "text": "Увлечения - Языкознание. Этот дракон любит изучать новые языки. Он получает +3 ко всем языковым навыкам.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!msr3MeH2IrProUDM.K1yCQvruPdLuFsd9"
+}

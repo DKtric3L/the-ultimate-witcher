@@ -1,0 +1,40 @@
+{
+  "name": "Камуфляжный плащ",
+  "type": "valuable",
+  "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_as8hg69v7id"
+    }
+  },
+  "system": {
+    "description": "Прочный водонепроницаемый плащ с петлями для крепления веток и ежевики. Потратив минуту, персонаж с камуфляжным плащом может собрать листву из окружающей среды, чтобы сплести ее через петлю на плаще. Пока плащ надет таким образом, носящий его персонаж получает +1 к проверкам Скрытности в этой дикой местности.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "clothing",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868975,
+    "modifiedTime": 1685496603772,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QViXUpO7yfogfDiB",
+  "folder": "rISbW24lZ5ywMFGM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QViXUpO7yfogfDiB"
+}

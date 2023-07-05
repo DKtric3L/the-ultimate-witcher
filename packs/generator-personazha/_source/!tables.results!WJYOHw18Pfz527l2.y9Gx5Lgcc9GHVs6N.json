@@ -1,0 +1,16 @@
+{
+  "_id": "y9Gx5Lgcc9GHVs6N",
+  "type": 0,
+  "text": "Профессия врага - Маг",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!WJYOHw18Pfz527l2.y9Gx5Lgcc9GHVs6N"
+}

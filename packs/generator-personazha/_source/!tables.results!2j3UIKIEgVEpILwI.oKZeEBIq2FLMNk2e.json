@@ -1,0 +1,16 @@
+{
+  "_id": "oKZeEBIq2FLMNk2e",
+  "flags": {},
+  "type": 0,
+  "text": "Цель охоты - Проклятые",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!2j3UIKIEgVEpILwI.oKZeEBIq2FLMNk2e"
+}

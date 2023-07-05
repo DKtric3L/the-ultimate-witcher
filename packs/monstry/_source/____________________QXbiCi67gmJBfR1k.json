@@ -1,0 +1,57 @@
+{
+  "_id": "QXbiCi67gmJBfR1k",
+  "name": "Призыв снежной бури",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-gray.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.WcBJu48Q6fzfYVNU"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": false,
+    "effect": "В качестве действия вендиго может призвать снежную бурю с центром на себе. Буря создаёт условия снег и лёд, и все, кто окажется в этой зоне, видят не дальше 4 метров. Потратив ещё одно действие, вендиго может передвинуть бурю не более чем на 20 метров. Маг или жрец могут попытаться развеять снежную бурю, потратив 10 Вын и одно действие на проверку Сотворения заклинаний со СЛ 20. После смерти вендиго снежная буря исчезает. Двимеритовые бомбы не дают использовать эту способность, но не развеивают бурю",
+    "range": "20м",
+    "duration": "24 часа",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "50",
+    "templateType": "circle",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!h36v8BTXKysKCWgP.QXbiCi67gmJBfR1k"
+}

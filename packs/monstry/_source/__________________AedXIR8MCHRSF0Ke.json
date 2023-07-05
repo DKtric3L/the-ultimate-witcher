@@ -1,0 +1,43 @@
+{
+  "_id": "AedXIR8MCHRSF0Ke",
+  "name": "Мутаген: Крысолак",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-blue.png",
+  "effects": [],
+  "folder": "za9MQKX6IGJQLkJy",
+  "sort": 2300000,
+  "flags": {
+    "core": {
+      "sourceId": "Item.JNbrCrFXPyCNzbpX"
+    },
+    "cf": {
+      "id": "temp_loaduoyv3n"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "blue",
+    "source": "Крысолаки",
+    "effect": "+1 ВОЛЯ",
+    "alchemyDC": "22",
+    "minorMutation": "Крысиные уши"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!LG88ioWNtaQH6C25.AedXIR8MCHRSF0Ke"
+}

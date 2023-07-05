@@ -1,0 +1,16 @@
+{
+  "_id": "XObJWkbk3Q5PzG1h",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Артист. Наибольшее влияние на вас оказал артист, благодаря которому вы поняли важность счастья и красоты. Снаряжение - Афиша или билет.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!OSUQ2yZBmkFEiEHH.XObJWkbk3Q5PzG1h"
+}

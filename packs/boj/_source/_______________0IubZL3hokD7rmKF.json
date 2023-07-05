@@ -1,0 +1,39 @@
+{
+  "name": "Стихийный крит",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "RHBBFQRWlzMMakK6",
+    "DNOvvbIp2D5IBSkT",
+    "BMFmJNEEDzDsFCLO",
+    "GWLnoefEQAIyOBLG",
+    "O767HMMVkRiSh3jW"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.kTHc3ugGEXmNkHge"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897089,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0IubZL3hokD7rmKF",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!0IubZL3hokD7rmKF"
+}

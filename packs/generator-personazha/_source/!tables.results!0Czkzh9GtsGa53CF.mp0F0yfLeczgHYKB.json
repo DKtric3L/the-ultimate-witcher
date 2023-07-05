@@ -1,0 +1,16 @@
+{
+  "_id": "mp0F0yfLeczgHYKB",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Hunt - Where Was the Prey?",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "QjJ27z4Oug1DVmEc",
+  "_key": "!tables.results!0Czkzh9GtsGa53CF.mp0F0yfLeczgHYKB"
+}

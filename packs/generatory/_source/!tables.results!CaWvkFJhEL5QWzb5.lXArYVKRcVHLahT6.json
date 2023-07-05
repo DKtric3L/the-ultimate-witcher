@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Суккуб",
+  "img": "modules/the-ultimate-witcher/assets/monsters/succubus.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "BMGqD34xhP9UQWVc",
+  "_id": "lXArYVKRcVHLahT6",
+  "flags": {},
+  "_key": "!tables.results!CaWvkFJhEL5QWzb5.lXArYVKRcVHLahT6"
+}

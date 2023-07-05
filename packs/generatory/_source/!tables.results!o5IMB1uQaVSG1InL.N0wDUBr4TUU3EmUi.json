@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    21,
+    21
+  ],
+  "drawn": false,
+  "text": "Портрет",
+  "img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "G8o6MYPQBxbBR40e",
+  "_id": "N0wDUBr4TUU3EmUi",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.N0wDUBr4TUU3EmUi"
+}

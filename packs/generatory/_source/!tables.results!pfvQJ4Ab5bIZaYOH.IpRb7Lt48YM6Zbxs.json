@@ -1,0 +1,16 @@
+{
+  "text": "Сон дракона",
+  "type": 2,
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "IpRb7Lt48YM6Zbxs",
+  "documentId": "hEJY8As1IyNQip4m",
+  "flags": {},
+  "_key": "!tables.results!pfvQJ4Ab5bIZaYOH.IpRb7Lt48YM6Zbxs"
+}

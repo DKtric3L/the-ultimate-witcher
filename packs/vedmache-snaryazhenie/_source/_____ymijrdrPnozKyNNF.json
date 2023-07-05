@@ -1,0 +1,43 @@
+{
+  "name": "Гром",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/thunder.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.ymijrdrPnozKyNNF"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 20,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "+3 к урону физическими атаками.",
+    "time": "15 раундов",
+    "toxicity": "75%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887304,
+    "modifiedTime": 1685496626799,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ymijrdrPnozKyNNF",
+  "folder": "QxSFI02IPk07KY7Y",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ymijrdrPnozKyNNF"
+}

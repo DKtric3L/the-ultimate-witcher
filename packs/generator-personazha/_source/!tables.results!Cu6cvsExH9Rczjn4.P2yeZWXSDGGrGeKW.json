@@ -1,0 +1,16 @@
+{
+  "_id": "P2yeZWXSDGGrGeKW",
+  "flags": {},
+  "type": 0,
+  "text": "В этом десятилетии вы нашли союзника.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Cu6cvsExH9Rczjn4.P2yeZWXSDGGrGeKW"
+}

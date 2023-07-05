@@ -1,0 +1,39 @@
+{
+  "name": "Чертеж - усиления брони - Мастер",
+  "description": "A random table created from the contents of the Мастер Folder.",
+  "results": [
+    "LoBbcsJoMH7dOgRq"
+  ],
+  "formula": "1d1",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2d91fa477abfa156de3b3b22bad7f97fc78b6365",
+      "sourceId": "RollTable.HMFmpmIuR4WbIe9m"
+    },
+    "core": {
+      "sourceId": "RollTable.HMFmpmIuR4WbIe9m"
+    },
+    "cf": {
+      "id": "temp_g53kcg75pyg"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672828425019,
+    "modifiedTime": 1685496644447,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "JQC1u6dxvrwQGnjp",
+  "sort": 0,
+  "_id": "utPyZzCM9Q5JApTo",
+  "_key": "!tables!utPyZzCM9Q5JApTo"
+}

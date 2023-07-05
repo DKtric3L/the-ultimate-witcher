@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "Gp6cHbewqSHkzadq",
+  "text": "Этот вампир вырос среди соплеменников и редко встречался с другими расами, так что теперь ведёт себя с ними неприветливо. Его больше волнует жизнь вампиров, чем заботы других существ.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!V13T3gYVhMU5gOK0.Gp6cHbewqSHkzadq"
+}

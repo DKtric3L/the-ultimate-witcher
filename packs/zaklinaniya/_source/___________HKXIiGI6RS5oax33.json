@@ -1,0 +1,65 @@
+{
+  "name": "Слово силы",
+  "type": "spell",
+  "img": "icons/skills/social/intimidation-impressing.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_2p80iyngdu1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Вы наполняете свой голос духом своего бога. Это дает вам бонус +3 к проверкам Запугивания против цели, провалившей защиту. Также цель получает 2d6 психического урона не поглощаемого броней, и дезориентировано.",
+    "range": "10м",
+    "duration": "мгновенное",
+    "defence": "храбрость",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Психический урон цели"
+      },
+      {
+        "id": "_sv4ou2cao",
+        "name": "Дезориентация",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496639258,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "HKXIiGI6RS5oax33",
+  "folder": "7qXEELZDYM9OW2E6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!HKXIiGI6RS5oax33"
+}

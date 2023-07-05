@@ -1,0 +1,16 @@
+{
+  "_id": "XFy2l49tSxFMwvUu",
+  "flags": {},
+  "type": 0,
+  "text": "Повреждение от яда(-5 ПЗ). Токсины, что некогда отравили вашу кровь, оставили сетку черных вен вокруг раны, ослабив тело.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Z7kTt2NxEPQu1oAu.XFy2l49tSxFMwvUu"
+}

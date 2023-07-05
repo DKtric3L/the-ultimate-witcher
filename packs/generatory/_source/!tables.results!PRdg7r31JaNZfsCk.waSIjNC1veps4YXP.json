@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Доспехи - Старшие народы",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "XaQkBmrY7SrH1cIx",
+  "_id": "waSIjNC1veps4YXP",
+  "flags": {},
+  "_key": "!tables.results!PRdg7r31JaNZfsCk.waSIjNC1veps4YXP"
+}

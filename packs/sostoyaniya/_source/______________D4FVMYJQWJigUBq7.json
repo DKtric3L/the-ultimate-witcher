@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Кошка",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/potions/cat.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_d24zge9h815"
+    }
+  },
+  "system": {
+    "description": "2 часа, токсичность 25%.\nНет штрафов в темноте или при слабом свете. Вы также невосприимчивы к гипнозу и получаете бонус +2 к раскрытию иллюзий.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496622135,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "D4FVMYJQWJigUBq7",
+  "folder": "LzDekdlbqkuddQPT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!D4FVMYJQWJigUBq7"
+}

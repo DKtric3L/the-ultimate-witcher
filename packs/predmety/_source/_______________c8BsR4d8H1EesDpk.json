@@ -1,0 +1,43 @@
+{
+  "name": "Трофей пантеры",
+  "type": "valuable",
+  "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.dc0uTxky3FmXmlEI"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "system": {
+    "description": "Вы удваиваете скорость лазания",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1685496603299,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "c8BsR4d8H1EesDpk",
+  "folder": "aNWkZufhkhuFhdgA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!c8BsR4d8H1EesDpk"
+}

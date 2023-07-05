@@ -1,0 +1,16 @@
+{
+  "_id": "RBBFLtK9dH9FBcyJ",
+  "flags": {},
+  "type": 0,
+  "text": "Вы единственный ребёнок в семье.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!xI4FLxWEAfIlIbp3.RBBFLtK9dH9FBcyJ"
+}

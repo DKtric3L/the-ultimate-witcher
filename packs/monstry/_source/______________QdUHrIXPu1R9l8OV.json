@@ -1,0 +1,42 @@
+{
+  "name": "Яд главоглаза",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/venom_endriag_64x64.png.6956.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.5,
+    "cost": 76,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Arachasae",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "caelum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.T7yd35geS8YKiOpd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853709,
+    "modifiedTime": 1669963728974,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "QdUHrIXPu1R9l8OV",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!vH8RFGIQt7XR53WH.QdUHrIXPu1R9l8OV"
+}

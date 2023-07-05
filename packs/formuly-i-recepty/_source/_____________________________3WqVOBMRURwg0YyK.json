@@ -1,0 +1,133 @@
+{
+  "name": "Усиление из укрепленной кожи",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-shield.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.3WqVOBMRURwg0YyK"
+    },
+    "cf": {
+      "id": "temp_nrxu1g7jab"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.3CCR5mUu8w6mP40t]{Усиление из укреплённой кожи}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 195,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "4ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Укрепленная кожа"
+      },
+      {
+        "id": "_a9p94urgh",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_u7pd15ria",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_nc8muiues",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "3"
+      }
+    ],
+    "investment": 97,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Усиление из укреплённой кожи",
+      "type": "enhancement",
+      "img": "icons/commodities/leather/leather-worn-tan.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1.5,
+        "cost": 130,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "armor",
+        "applied": "",
+        "avail": "Common",
+        "effects": [
+          {
+            "id": "first",
+            "name": "Сопротивление огню"
+          }
+        ],
+        "stopping": 2,
+        "bludgeoning": true,
+        "slashing": true,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.3CCR5mUu8w6mP40t"
+        },
+        "cf": {
+          "id": "temp_58lmmpxrkto"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162868993,
+        "modifiedTime": 1672567992042,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496578843,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3WqVOBMRURwg0YyK",
+  "folder": "yCdkRf3G101P1PzE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3WqVOBMRURwg0YyK"
+}

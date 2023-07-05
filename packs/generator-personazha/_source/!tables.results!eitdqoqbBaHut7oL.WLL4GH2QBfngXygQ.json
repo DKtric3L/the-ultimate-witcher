@@ -1,0 +1,16 @@
+{
+  "_id": "WLL4GH2QBfngXygQ",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Из-за войн ваша семья была вынуждена разделиться, и вы не знаете где большинство родственников.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!eitdqoqbBaHut7oL.WLL4GH2QBfngXygQ"
+}

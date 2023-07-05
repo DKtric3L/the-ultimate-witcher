@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Когда вы стали ведьмаком - Позднее детство(+2 к испытанию травами).Вас забрали в ведьмачью школу довольно большим, в возрасте от 8 до 11 лет. Тренироваться вам было несколько труднее, зато воспоминания о нормальной жизни помогли в прохождении испытания травами.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!C5d6zkIMvS9gDWEN.kQX7ZeIIWKy5yTPF"
+}

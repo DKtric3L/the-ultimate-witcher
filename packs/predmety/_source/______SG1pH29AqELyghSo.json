@@ -1,0 +1,44 @@
+{
+  "name": "Табак",
+  "type": "valuable",
+  "img": "icons/consumables/plants/dried-leaf-stem-herb-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.udDTVRQfDy25xXSn"
+    }
+  },
+  "system": {
+    "description": "Слыхал я, что выращивать его тяжко, но оно того стоит. Многих знаю, кто его курит. В кисете 10 порций.\n\n+2 инт и реа, +1 отдых, -3 вын.\nДлится 1 час. Пройди проверку со сл. 12, при провале становишься зависим от табака.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 4,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868990,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SG1pH29AqELyghSo",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SG1pH29AqELyghSo"
+}

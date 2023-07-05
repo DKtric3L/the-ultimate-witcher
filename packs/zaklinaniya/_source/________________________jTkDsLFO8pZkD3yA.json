@@ -1,0 +1,60 @@
+{
+  "name": "Чемпион реки(Вейопатис)",
+  "type": "spell",
+  "img": "icons/magic/holy/chalice-glowing-yellow-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.yayJJwcPxri1PcAV"
+    },
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Силой Вейопатиса вы помечаете речной водой цель в качестве своего чемпиона и наполняете ее магической силой. Пока эта инвокация активна, ваш чемпион получает Сопротивление всем источникам урона и получает +5 ко всем броскам.",
+    "range": "10м",
+    "duration": "Актив(5)",
+    "defence": "Нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jTkDsLFO8pZkD3yA",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jTkDsLFO8pZkD3yA"
+}

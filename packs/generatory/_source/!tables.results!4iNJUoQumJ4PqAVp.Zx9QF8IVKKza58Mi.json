@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Пряха",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Pryaha_Bartlomiej_Gawel.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "TAgpqRjhqjZdQ6fL",
+  "_id": "Zx9QF8IVKKza58Mi",
+  "flags": {},
+  "_key": "!tables.results!4iNJUoQumJ4PqAVp.Zx9QF8IVKKza58Mi"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Ваш личный стиль",
+  "img": "icons/sundries/survival/razor.webp",
+  "description": "Портрет твоего персонажа:",
+  "results": [
+    "q0DM4FW7XCnFdKZu",
+    "6eMBIJMQZmhaVyCr",
+    "Kot5qN9Crj60jbwU",
+    "YqKoWFzgGZuSuzj0",
+    "7LFO8Ez5nQK98SWT",
+    "O4kO4Ec9Zjr1F3Qm",
+    "HkPKK3KrmtmNyo1B"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.hwod1LcFof5GLUzW"
+    },
+    "cf": {
+      "id": "temp_viybqj0tbyk"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926174,
+    "modifiedTime": 1685496652558,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "CjaIcLRWSlzwI6ly",
+  "folder": "8Q5kbNQc52bcIHVJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!CjaIcLRWSlzwI6ly"
+}

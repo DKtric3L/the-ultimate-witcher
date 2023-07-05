@@ -1,0 +1,16 @@
+{
+  "text": "Ристр Грейг",
+  "type": 2,
+  "img": "icons/magic/earth/barrier-stone-explosion-red.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "8F3ZqYY3OrgiyjQC",
+  "documentId": "d5Am7fYNADTtJOFh",
+  "flags": {},
+  "_key": "!tables.results!9v4m7jaZ7Y6J6ttK.8F3ZqYY3OrgiyjQC"
+}

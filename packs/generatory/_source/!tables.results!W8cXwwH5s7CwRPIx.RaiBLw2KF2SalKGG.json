@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Дыхание суккуба",
+  "img": "modules/the-ultimate-witcher/assets/props/succubus_breath.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "fwrDVAPzVqD2BhCO",
+  "_id": "RaiBLw2KF2SalKGG",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.RaiBLw2KF2SalKGG"
+}

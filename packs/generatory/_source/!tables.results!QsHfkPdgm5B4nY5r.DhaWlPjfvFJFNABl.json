@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Разбойники",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "SWeee5GD01wxOXAy",
+  "_id": "DhaWlPjfvFJFNABl",
+  "flags": {},
+  "_key": "!tables.results!QsHfkPdgm5B4nY5r.DhaWlPjfvFJFNABl"
+}

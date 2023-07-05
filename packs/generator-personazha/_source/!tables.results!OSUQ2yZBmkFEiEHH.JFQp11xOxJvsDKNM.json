@@ -1,0 +1,16 @@
+{
+  "_id": "JFQp11xOxJvsDKNM",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Человек. Наибольшее влияние на вас оказал человек, благодаря которому вы узнали, что расизм не всегда имеет основания. Снаряжение - Соломенная кукла",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!OSUQ2yZBmkFEiEHH.JFQp11xOxJvsDKNM"
+}

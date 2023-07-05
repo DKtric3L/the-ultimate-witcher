@@ -1,0 +1,16 @@
+{
+  "_id": "2tyZUbhqjxmHQEds",
+  "flags": {},
+  "type": 0,
+  "text": "Персонаж выронил поводья. -1 к проверкам управления до тех пор, пока не сумеет ухватить поводья, для этого требуется ход.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!aLBBrVnSsL3wqQUx.2tyZUbhqjxmHQEds"
+}

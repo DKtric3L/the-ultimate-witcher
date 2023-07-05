@@ -1,0 +1,43 @@
+{
+  "name": "Инструменты алхимика",
+  "type": "valuable",
+  "img": "icons/tools/cooking/mortar-yellow.webp",
+  "system": {
+    "description": "Позволяют создавать алхимические составы.",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 80,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.uj6LrlKnthjWZYr8"
+    },
+    "cf": {
+      "id": "temp_zf5u6w9lv4"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663422899216,
+    "modifiedTime": 1670417129338,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "bopEhswFfzK10gtz",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!QCJUoRqklmUYaicw.bopEhswFfzK10gtz"
+}

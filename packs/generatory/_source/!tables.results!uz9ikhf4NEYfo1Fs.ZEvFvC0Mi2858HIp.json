@@ -1,0 +1,16 @@
+{
+  "_id": "ZEvFvC0Mi2858HIp",
+  "type": 2,
+  "text": "Инвокации верховного жреца",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "sZpiqWwtKOabwlLY",
+  "_key": "!tables.results!uz9ikhf4NEYfo1Fs.ZEvFvC0Mi2858HIp"
+}

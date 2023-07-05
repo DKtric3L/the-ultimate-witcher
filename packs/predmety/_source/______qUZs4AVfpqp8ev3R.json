@@ -1,0 +1,51 @@
+{
+  "name": "Пирог",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/pirog.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.qUZs4AVfpqp8ev3R"
+    },
+    "cf": {
+      "id": "temp_71hupsrmvi8"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "Everywhere",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Порежьте оружием с этой руной свою еду, чтобы восстановить 2d6 ПЗ после её употребления."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603388,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qUZs4AVfpqp8ev3R",
+  "folder": "gY35AKdkeOXtFVMi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qUZs4AVfpqp8ev3R"
+}

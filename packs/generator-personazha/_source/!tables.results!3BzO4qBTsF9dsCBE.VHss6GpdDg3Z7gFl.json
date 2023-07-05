@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Где вы родились?",
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "GiXeEWnYMqofwFwa",
+  "_id": "VHss6GpdDg3Z7gFl",
+  "flags": {},
+  "_key": "!tables.results!3BzO4qBTsF9dsCBE.VHss6GpdDg3Z7gFl"
+}

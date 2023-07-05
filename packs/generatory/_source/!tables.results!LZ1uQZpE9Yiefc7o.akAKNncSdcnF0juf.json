@@ -1,0 +1,16 @@
+{
+  "text": "Формула: Эликсир Мец",
+  "type": 2,
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "akAKNncSdcnF0juf",
+  "documentId": "K7y2FDlKNGScx7JO",
+  "flags": {},
+  "_key": "!tables.results!LZ1uQZpE9Yiefc7o.akAKNncSdcnF0juf"
+}

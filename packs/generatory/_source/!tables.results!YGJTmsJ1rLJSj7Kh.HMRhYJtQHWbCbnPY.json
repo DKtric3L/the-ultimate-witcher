@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Шептуха",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Sheptuha_Bartlomiej_Gawel.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "dqokOq0i1ReX4mhA",
+  "_id": "HMRhYJtQHWbCbnPY",
+  "flags": {},
+  "_key": "!tables.results!YGJTmsJ1rLJSj7Kh.HMRhYJtQHWbCbnPY"
+}

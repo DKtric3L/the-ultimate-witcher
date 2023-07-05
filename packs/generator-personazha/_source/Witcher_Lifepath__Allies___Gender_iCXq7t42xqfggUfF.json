@@ -1,0 +1,38 @@
+{
+  "name": "Witcher Lifepath: Allies - Gender",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "ciSfEh9nn9LIoeuR",
+    "Gl1XVUlHbuQVyANO"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.95dWexTTEV7yyNo6"
+    },
+    "cf": {
+      "id": "temp_axvl3ljag6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162957150,
+    "modifiedTime": 1685496652379,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "ghKESyZyM9aHCqmD",
+  "sort": 0,
+  "_id": "iCXq7t42xqfggUfF",
+  "_key": "!tables!iCXq7t42xqfggUfF"
+}

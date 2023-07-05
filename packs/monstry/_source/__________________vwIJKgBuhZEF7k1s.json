@@ -1,0 +1,46 @@
+{
+  "name": "Корень Мандрагоры",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/mandrake_root_64x64.png.6679.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 65,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Поля и леса",
+    "quantityObtainable": "1d6/2",
+    "forage": "18",
+    "substanceType": "vermilion"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_z2lk3hpfm4e",
+      "color": "#3b9b58"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.1mAmz7N135HJOPbx"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853701,
+    "modifiedTime": 1669965212824,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "vwIJKgBuhZEF7k1s",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!mzLvpWjcjx1a20dS.vwIJKgBuhZEF7k1s"
+}

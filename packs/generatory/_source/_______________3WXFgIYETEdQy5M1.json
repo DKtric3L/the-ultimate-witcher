@@ -1,0 +1,50 @@
+{
+  "name": "Случайная руна",
+  "description": "A random table created from the contents of the Руны Folder.",
+  "results": [
+    "rmTsxgkl542rqZ7i",
+    "HwQJGm8EJ6vnj5uu",
+    "B0wCIjHKb3sC94qR",
+    "tmDspWRI6SbUwluC",
+    "fhOaem8NLbvkCRDf",
+    "YgsC6tAxnCX10ffq",
+    "HVHAN4JOSDdi7TJ4",
+    "LFq6x8qAFvApycqe",
+    "nhAdFcHl2kVreAzA",
+    "rXArXlTrpb78ZcyT",
+    "t2Pu4LR6lzHnNyna",
+    "2sraQlWjjHswGd5z"
+  ],
+  "formula": "1d12",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "49d706265d7846eae1036ef1cdaa6b883d03a30a",
+      "sourceId": "RollTable.WdHX0P28bu2xX0cC"
+    },
+    "core": {
+      "sourceId": "RollTable.WdHX0P28bu2xX0cC"
+    },
+    "cf": {
+      "id": "temp_xters3vqr27"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672738570560,
+    "modifiedTime": 1685496644685,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TYaDuD5wiTFyeLxV",
+  "sort": 0,
+  "_id": "3WXFgIYETEdQy5M1",
+  "_key": "!tables!3WXFgIYETEdQy5M1"
+}

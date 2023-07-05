@@ -1,0 +1,60 @@
+{
+  "name": "Природный яд",
+  "type": "spell",
+  "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_1c4rnttvf2l"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Природный яд позволяет заклинателю производить небольшое количество яда из его рук. Вы можете использовать его для отравления пищи, напитков, клинков или снарядов. Это добавляет вашему оружию 25% шанс отравления при следующей атаке.",
+    "range": "на себя",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496639395,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "xkelaJE2It5usKcg",
+  "folder": "5jxNfYqMGdfsQWI6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!xkelaJE2It5usKcg"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Фальшивая смерть",
+  "type": "spell",
+  "img": "icons/magic/death/hand-undead-skeleton-fire-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.eWbMN49ahAx1347m"
+    },
+    "cf": {
+      "id": "temp_fxqdiplgtgg"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d6\nПогружаете кого-то в летаргический сон, неотличимый от смерти. Находясь в этом состоянии, эффекты любого яда или болезни останавливаются, но не излечиваются. Ритуал должен быть проведен снова, чтобы вывести существо из этого состояния. Если существо не разбужено, по окончании сна оно умирает.",
+    "range": "",
+    "duration": "2d10 дней",
+    "defence": "",
+    "components": "Мелок (x2), Пепел (x2), Грибы-шибальцы (x2), Корень зарника (x2), Сера (x1), Кости животных (x4), Экстракт яда (x2)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "12",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "2d10 - Длительность эффекта(дней)"
+      },
+      {
+        "id": "_jf4ytulhk",
+        "name": "1d6 - некротический урон заклинателю",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496639098,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YAFv9kdkbPFmLw9a",
+  "folder": "frZElF7gtXj0TtZt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YAFv9kdkbPFmLw9a"
+}

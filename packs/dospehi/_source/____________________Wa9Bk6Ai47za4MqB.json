@@ -1,0 +1,60 @@
+{
+  "name": "Двуслойный гамбезон",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-gilded-black.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_1fv367gt0a6"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2.5,
+    "cost": 250,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 8,
+    "torsoMaxStopping": 8,
+    "leftArmStopping": 8,
+    "leftArmMaxStopping": 8,
+    "rightArmStopping": 8,
+    "rightArmMaxStopping": 8,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Light",
+    "avail": "Poor",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "Torso",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837866,
+    "modifiedTime": 1685496574773,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Wa9Bk6Ai47za4MqB",
+  "folder": "rlORb2Xgea9R19aj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Wa9Bk6Ai47za4MqB"
+}

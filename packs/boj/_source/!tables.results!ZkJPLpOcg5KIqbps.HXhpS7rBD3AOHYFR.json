@@ -1,0 +1,16 @@
+{
+  "_id": "HXhpS7rBD3AOHYFR",
+  "type": 2,
+  "text": "Летал урон 1d6",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "qqh1MAKA4WB4Pd75",
+  "_key": "!tables.results!ZkJPLpOcg5KIqbps.HXhpS7rBD3AOHYFR"
+}

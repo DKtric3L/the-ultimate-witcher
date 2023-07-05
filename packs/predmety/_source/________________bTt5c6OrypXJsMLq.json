@@ -1,0 +1,44 @@
+{
+  "name": "Карта местности",
+  "type": "valuable",
+  "img": "icons/tools/navigation/map-marked-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_qtp9pduhxta",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.iceM0noh4O0Pms29"
+    }
+  },
+  "system": {
+    "description": "+3 к навигации в указанном месте.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496603566,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bTt5c6OrypXJsMLq",
+  "folder": "aE6ovGuZ0qcI7aJt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bTt5c6OrypXJsMLq"
+}

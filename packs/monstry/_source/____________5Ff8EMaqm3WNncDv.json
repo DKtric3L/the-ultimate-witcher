@@ -1,0 +1,26 @@
+{
+  "_id": "5Ff8EMaqm3WNncDv",
+  "name": "Высасывание",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Если скрытый наносит урон укусом, цель получает дополнительно 3d6 урона, а скрытый восстанавливает себе столько же ПЗ."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!Nt58X2Wk7Oveh4My.5Ff8EMaqm3WNncDv"
+}

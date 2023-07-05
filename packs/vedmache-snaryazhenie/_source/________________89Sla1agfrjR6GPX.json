@@ -1,0 +1,43 @@
+{
+  "name": "Мутаген: Суккуб",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_jbzez30vaw"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.CRbpYZJbZpbXej8t"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Суккубы",
+    "effect": "+2 соблазнение",
+    "alchemyDC": "18",
+    "minorMutation": "Маленькие рожки и хвост"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868983,
+    "modifiedTime": 1685496626970,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "folder": "FKGCmtsjpGZZhMGV",
+  "sort": 0,
+  "_id": "89Sla1agfrjR6GPX",
+  "_key": "!items!89Sla1agfrjR6GPX"
+}

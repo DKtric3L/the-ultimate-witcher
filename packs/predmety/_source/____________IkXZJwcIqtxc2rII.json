@@ -1,0 +1,78 @@
+{
+  "name": "Головоломка",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.9yEnIHoLXcDroT9O"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "10ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "3 различных материала"
+      },
+      {
+        "id": "_q62srh7l1",
+        "name": "700+ крон",
+        "percentage": "",
+        "quantity": "700"
+      },
+      {
+        "id": "_1172v4nsk",
+        "name": "От свитка доносится лёгкий шепот...",
+        "percentage": "",
+        "quantity": "666"
+      }
+    ],
+    "investment": 700,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868972,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IkXZJwcIqtxc2rII",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IkXZJwcIqtxc2rII"
+}

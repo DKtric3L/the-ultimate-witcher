@@ -1,0 +1,16 @@
+{
+  "_id": "md13gU5GXWqdSo3b",
+  "flags": {},
+  "type": 0,
+  "text": "Открытый перелом ноги: Скор, Укл, Атлетика снижены вчетверо, персонаж истекает кровью. Стабилизация: Перечисленные параметры снижены вдвое. Лечение: -2 к скор, укл, атлетике.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!dCJjGB6lKvY2je0y.md13gU5GXWqdSo3b"
+}

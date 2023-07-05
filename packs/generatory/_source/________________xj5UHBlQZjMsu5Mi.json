@@ -1,0 +1,41 @@
+{
+  "name": "Заказ - Гибриды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Hybrids.png",
+  "description": "",
+  "results": [
+    "xKbgAxRw6I9V1Dmo",
+    "VoZ6DYn7qsJlLDJy",
+    "pUxlxrIKuNHfpMZ0",
+    "SO3JJmffHq0xBQSw",
+    "uUoS1i2bCF6rpNZj",
+    "7zbu6f4gKdKvkzz3",
+    "lXl0tIsnYAoNwuLb"
+  ],
+  "formula": "1d7",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_fs1p2hgxhmu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644753,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ZZd02IQkbh9qxG3G",
+  "sort": 0,
+  "_id": "xj5UHBlQZjMsu5Mi",
+  "_key": "!tables!xj5UHBlQZjMsu5Mi"
+}

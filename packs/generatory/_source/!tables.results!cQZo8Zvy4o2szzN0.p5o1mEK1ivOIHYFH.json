@@ -1,0 +1,16 @@
+{
+  "_id": "p5o1mEK1ivOIHYFH",
+  "type": 2,
+  "text": "Формула - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    6,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "O70tYsSzo61jZJ44",
+  "_key": "!tables.results!cQZo8Zvy4o2szzN0.p5o1mEK1ivOIHYFH"
+}

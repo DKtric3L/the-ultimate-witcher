@@ -1,0 +1,16 @@
+{
+  "_id": "imnfoG2NAOil0tZe",
+  "type": 0,
+  "text": "Любимец учителя. Вы получили персонально обуение от учителя. Начните с дополнительного известного заклинания новичка.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!sXXtH4a5k1pk0l84.imnfoG2NAOil0tZe"
+}

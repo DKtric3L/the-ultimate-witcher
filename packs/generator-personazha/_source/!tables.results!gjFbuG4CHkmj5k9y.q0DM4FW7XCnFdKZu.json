@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Самое важное событие - Получил дитя по праву неожиданности. Во время своих путешествий вы воспользовались правом неожиданности и получили дитя. Это может быть мальчик - тогда вы отдали его в ведьмаки. Если это девочка, то её судьба в ваших руках",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gjFbuG4CHkmj5k9y.q0DM4FW7XCnFdKZu"
+}

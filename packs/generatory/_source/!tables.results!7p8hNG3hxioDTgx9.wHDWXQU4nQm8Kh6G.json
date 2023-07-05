@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "wHDWXQU4nQm8Kh6G",
+  "text": "Наниматель попытается убить исполнителя.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!7p8hNG3hxioDTgx9.wHDWXQU4nQm8Kh6G"
+}

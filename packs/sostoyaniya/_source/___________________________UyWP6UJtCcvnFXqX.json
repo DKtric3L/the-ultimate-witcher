@@ -1,0 +1,40 @@
+{
+  "name": "Повреждение глаза (Лечено)",
+  "type": "effect",
+  "img": "icons/skills/wounds/injury-eyes-blood-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_maooi46ln8"
+    }
+  },
+  "system": {
+    "description": "Глаз персонажа повреждён или выбит. Персонаж получает постоянный штраф -1 к связанным со зрением проверкам Внимания и Лвк.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883171,
+    "modifiedTime": 1685496621852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "UyWP6UJtCcvnFXqX",
+  "folder": "PLkbl9b4zJv5jmUU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!UyWP6UJtCcvnFXqX"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Кристаллический Стазис",
+  "type": 2,
+  "img": "icons/magic/water/barrier-ice-crystal-wall-green.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "es8OMXetfuKpHP0L",
+  "documentId": "txqPy3qXKymaE04h",
+  "flags": {},
+  "_key": "!tables.results!7D6uJzB4q0VItM71.es8OMXetfuKpHP0L"
+}

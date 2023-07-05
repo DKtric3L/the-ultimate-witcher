@@ -1,0 +1,104 @@
+{
+  "name": "Формула: Полнолуние",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.YbjFUcgLEYEir65j"
+    },
+    "cf": {
+      "id": "temp_xirt4efj5k"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.7IJ8iKhYKOWTGtSp]{Полнолуние}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "witcher",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 20,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 1,
+      "hydragenum": 2,
+      "vermilion": 2,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Полнолуние",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/potions/full_moon.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 36,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Rare",
+        "effect": "Вы получаете +30 временных ПЗ до конца\nдействия эликсира. Эффект нескольких\n«Полнолуний» не суммируется.",
+        "time": "1/2 часа",
+        "toxicity": "75%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_ablplrf0fnm"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887309,
+        "modifiedTime": 1668182274905,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848425,
+    "modifiedTime": 1685496578618,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YbjFUcgLEYEir65j",
+  "folder": "n5pstsYQE8c0VVIa",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YbjFUcgLEYEir65j"
+}

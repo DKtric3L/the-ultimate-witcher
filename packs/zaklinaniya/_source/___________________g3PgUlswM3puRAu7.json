@@ -1,0 +1,60 @@
+{
+  "name": "Психический барьер",
+  "type": "spell",
+  "img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ldly47xrvqAcVMfo"
+    },
+    "cf": {
+      "id": "temp_us19yfvyiqk"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Магический барьер позволяющий заклинателю создать вокруг себя телепатический щит, который блокирует количество заклинаний и атак, равное удвоенному значению вашего навыка Сотворения заклинаний.",
+    "range": "10м",
+    "duration": "Актив(4 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496638732,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "g3PgUlswM3puRAu7",
+  "folder": "4Mo6Z1BVdYem2KKc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!g3PgUlswM3puRAu7"
+}

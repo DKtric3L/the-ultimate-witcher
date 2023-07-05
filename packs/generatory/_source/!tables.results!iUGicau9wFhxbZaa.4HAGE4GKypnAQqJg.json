@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Кости животного",
+  "img": "icons/commodities/bones/bone-broken-brown.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "IrTJdvRa14Sj5m81",
+  "_id": "4HAGE4GKypnAQqJg",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.4HAGE4GKypnAQqJg"
+}

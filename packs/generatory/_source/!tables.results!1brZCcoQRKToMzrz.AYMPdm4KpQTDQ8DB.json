@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Аметист",
+  "img": "modules/the-ultimate-witcher/assets/gems/amethyst.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "WjNLQ8hiQ6Qrhcgm",
+  "_id": "AYMPdm4KpQTDQ8DB",
+  "flags": {},
+  "_key": "!tables.results!1brZCcoQRKToMzrz.AYMPdm4KpQTDQ8DB"
+}

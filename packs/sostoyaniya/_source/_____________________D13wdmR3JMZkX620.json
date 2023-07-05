@@ -1,0 +1,43 @@
+{
+  "name": "Эффект - Лёгкие ноги",
+  "type": "effect",
+  "img": "icons/skills/movement/feet-winged-boots-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Ваша скорость увеличена",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_ffikggz1h",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "5"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883177,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "D13wdmR3JMZkX620",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!D13wdmR3JMZkX620"
+}

@@ -1,0 +1,159 @@
+{
+  "name": "Двимеритовая бомба",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.M2V3Pv8MXGN51St6"
+    },
+    "cf": {
+      "id": "temp_qcbrs1shnce"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.L5FvRYyhSqOh0eQo]{Двимеритовая бомба}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "bomb",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Речная глина"
+      },
+      {
+        "id": "_znm28zd2n",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_7cffu2f8n",
+        "name": "Зерриканская смесь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_xwu0rs9po",
+        "name": "optima Mater",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_cnw3ii3ra",
+        "name": "Лепестки гинации",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 176,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Двимеритовая бомба",
+      "type": "weapon",
+      "img": "modules/the-ultimate-witcher/assets/bombs/dvimerit_bomb.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 264,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Стихийное",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": true
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Everywhere",
+        "damage": "0",
+        "reliable": 0,
+        "maxReliability": 0,
+        "hands": "1",
+        "range": "Тел*4м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Радиус - 8 метров",
+            "percentage": ""
+          },
+          {
+            "id": "_h2x82w5jc",
+            "name": "Запрет магии на 20 раундов",
+            "percentage": ""
+          }
+        ],
+        "conceal": "T",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Athletics",
+        "rollOnlyDmg": false,
+        "isThrowable": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rads4wdft3r"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162887304,
+        "modifiedTime": 1672543292849,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848413,
+    "modifiedTime": 1685496579796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "M2V3Pv8MXGN51St6",
+  "folder": "vIuywOMpy1LOwsfX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!M2V3Pv8MXGN51St6"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Сокрушительный Топот",
+  "type": "spell",
+  "img": "icons/magic/earth/explosion-lava-stone-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.rxHPN2Z4TLKsDaIx"
+    },
+    "cf": {
+      "id": "temp_if9101fumkf"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "earth",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Сокрушительный топот позволяет вам топая по земле вызывать из земли линии зазубренных камней длиной 6 м и шириной 2 м. Все, кто стоит на вдоль этой линии, должны совершить проверку Изменения позиции или попытаться заблокировать щитом. При провале цель получает 6d6 урона по туловищу, ошеломлена и отбрасывается в конец линии. При успешном блокировании, цель все равно отбрасывается в конец линии. После этого камни уходят в землю.",
+    "range": "6м",
+    "duration": "мгновенное",
+    "defence": "Изменение позиции или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "6х2",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "6d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Урон по туловищу"
+      },
+      {
+        "id": "_ls6txdmcv",
+        "name": "Ошеломление",
+        "percentage": ""
+      },
+      {
+        "id": "_76fea9ny0",
+        "name": "Отбрасывание в конец линии",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496638930,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TGDJ9iorm6nMRGFQ",
+  "folder": "uqEc3vi7bmpL3P86",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TGDJ9iorm6nMRGFQ"
+}

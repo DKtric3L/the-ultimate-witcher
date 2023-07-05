@@ -1,0 +1,16 @@
+{
+  "_id": "igDANbaFG5sSYm1T",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Махакам (+1 Ремесло)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!PCAssN2Ms7yLzuCv.igDANbaFG5sSYm1T"
+}

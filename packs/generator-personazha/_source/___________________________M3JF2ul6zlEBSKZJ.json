@@ -1,0 +1,39 @@
+{
+  "name": "Жизнь мага - политиканство",
+  "img": "icons/skills/social/diplomacy-handshake.webp",
+  "results": [
+    "1i6DK6LVKnsCHiQt",
+    "3DvTrk57MG0vguZD",
+    "84qXHJu0ja2TjwYI",
+    "mVoICtB9K1iQCxU6",
+    "JPSThNVU2VPBfz4S"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ua1oRcyqKF3olJxc"
+    },
+    "cf": {
+      "id": "temp_dzgvfo2vboe"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926183,
+    "modifiedTime": 1685496652425,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "M3JF2ul6zlEBSKZJ",
+  "folder": "xccyEiQ9jAncMgNo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!M3JF2ul6zlEBSKZJ"
+}

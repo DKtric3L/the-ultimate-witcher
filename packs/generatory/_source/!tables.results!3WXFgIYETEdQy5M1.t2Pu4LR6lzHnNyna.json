@@ -1,0 +1,16 @@
+{
+  "text": "Стрибог",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/stribog.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "t2Pu4LR6lzHnNyna",
+  "documentId": "4GZWSo9AJLYVg1PK",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.t2Pu4LR6lzHnNyna"
+}

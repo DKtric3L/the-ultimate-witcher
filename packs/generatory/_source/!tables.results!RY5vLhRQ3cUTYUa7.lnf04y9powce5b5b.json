@@ -1,0 +1,16 @@
+{
+  "text": "Книга в кожаном переплете",
+  "type": 2,
+  "img": "icons/sundries/books/book-reye-reptile-brown.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "_id": "lnf04y9powce5b5b",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "JLNzQRpBFwFZ7Urn",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.lnf04y9powce5b5b"
+}

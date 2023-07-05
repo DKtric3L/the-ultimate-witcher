@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "HKn6Sh2521vsqaiE",
+  "text": "Вам [[50+7d10]] лет.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!C5d6zkIMvS9gDWEN.HKn6Sh2521vsqaiE"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Скеллигское стремя",
+  "type": 2,
+  "img": "icons/tools/fasteners/chain-brass-yellow.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "_id": "tlmzl33xjt2xukgs",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "EtFfQyKjZItiQY58",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.tlmzl33xjt2xukgs"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Эльфский зефар",
+  "type": 2,
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "58drjgnocckeljsz",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "RouA7zGKQf0R9oj8",
+  "_key": "!tables.results!sq9Rv5iTIWK8NEBb.58drjgnocckeljsz"
+}

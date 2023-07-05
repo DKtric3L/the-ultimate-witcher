@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Чертеж - модификации арбалета - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "d4MIY08Ac2P9727q",
+  "_id": "3h37rkdfJzydUjKU",
+  "flags": {},
+  "_key": "!tables.results!AUJLYHgGvj6ZkoJC.3h37rkdfJzydUjKU"
+}

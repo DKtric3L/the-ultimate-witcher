@@ -1,0 +1,16 @@
+{
+  "text": "Артефактная компрессия",
+  "type": 2,
+  "img": "icons/magic/control/voodoo-doll-pain-damage-purple.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "fi93w1rs6ymu89oa",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "mK0pdwxedUxMUViA",
+  "_key": "!tables.results!Yc7ow5lw9IQaa8zZ.fi93w1rs6ymu89oa"
+}

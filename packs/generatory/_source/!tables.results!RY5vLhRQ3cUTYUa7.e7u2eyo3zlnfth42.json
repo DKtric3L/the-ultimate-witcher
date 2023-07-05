@@ -1,0 +1,16 @@
+{
+  "text": "Светящаяся руда",
+  "type": 2,
+  "img": "icons/commodities/stone/ore-chunk-green.webp",
+  "weight": 1,
+  "range": [
+    23,
+    23
+  ],
+  "drawn": false,
+  "_id": "e7u2eyo3zlnfth42",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "EFyOhbKKu0okwfms",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.e7u2eyo3zlnfth42"
+}

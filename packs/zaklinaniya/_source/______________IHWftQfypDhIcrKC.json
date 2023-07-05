@@ -1,0 +1,65 @@
+{
+  "name": "Истинный град",
+  "type": "spell",
+  "img": "icons/magic/water/projectile-beams-salvo-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.LiY5lB7rlJ1H05sO"
+    },
+    "cf": {
+      "id": "temp_julrnar8td"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Истинный град позволяет вам обрушить гигантские шары града с неба на огромную территорию. Любое существо (кроме вас) в зоне действия заклинания имеет 75%-ную вероятность попасть под град. При попадании под град, существа должны совершить проверку защиты со СЛ, равной вашему результату проверки Сотворения заклинаний, или получить 4d6 дробящего урона по случайному месту, с 75% шансом быть замороженными.",
+    "range": "радиус 40м",
+    "duration": "2d6 раундов",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дробящий урон"
+      },
+      {
+        "id": "_906did6b3",
+        "name": "Замораживание",
+        "percentage": "75"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496639018,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IHWftQfypDhIcrKC",
+  "folder": "9PhFPu32x5yVnicQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IHWftQfypDhIcrKC"
+}

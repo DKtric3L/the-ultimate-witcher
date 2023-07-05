@@ -1,0 +1,44 @@
+{
+  "name": "ИС дракон - События в жизни",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "KGI8alL3moLfUPry",
+    "KXZS0OcJXji779iQ",
+    "sUDkIFvnnDPRrRlM",
+    "URzyvWqCBFTg0VEw",
+    "k69nP6Fy04g5OJjv",
+    "1XDbuflGFsA3ZGfl",
+    "YhisaGc5HnsBmJ4J",
+    "de1e9mx69hYQw904",
+    "DMVOLWyfEQe1t70s",
+    "kIvhkTVPQYCZrqDF"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "Nk7xscPABXk5l6mM",
+  "_key": "!tables!Nk7xscPABXk5l6mM"
+}

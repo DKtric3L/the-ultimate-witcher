@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Паутинник",
+  "img": "systems/TheWitcherTRPG/assets/images/hydragenum.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "x68GLHNrJ4i8AxmB",
+  "_id": "bsX6OfuTnZ1rUW7B",
+  "flags": {},
+  "_key": "!tables.results!cs1VG8mi4Kqh4ALO.bsX6OfuTnZ1rUW7B"
+}

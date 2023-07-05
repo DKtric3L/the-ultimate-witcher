@@ -1,0 +1,16 @@
+{
+  "_id": "ciSfEh9nn9LIoeuR",
+  "flags": {},
+  "type": 0,
+  "text": "Младший/ая",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!jCG95EqwqAsEJR0j.ciSfEh9nn9LIoeuR"
+}

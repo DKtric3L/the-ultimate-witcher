@@ -1,0 +1,60 @@
+{
+  "name": "Укрытие Шаллы",
+  "type": "spell",
+  "img": "icons/magic/nature/stealth-hide-eyes-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_1c4rnttvf2l"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Шалла была могущественным друидом Скоя'таэлей, и, по совместительству, мастером-стратегом по организации засад. Укрытие Шаллы позволяет вам создать волшебную область радиусом 10 м вокруг вас. Ни один звук, запах или изображение не покидают эту область. Каждое существо в зоне действия заклинания получает +10 к Скрытности и не оставляет следов. Заклинателя все еще можно выследить и увидеть с помощью магии, и это было последнее, что узнала Шалла.",
+    "range": "радиус 10м",
+    "duration": "1d6 часов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Часы)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496639395,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "yjlEzdPyx465dtFw",
+  "folder": "5jxNfYqMGdfsQWI6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!yjlEzdPyx465dtFw"
+}

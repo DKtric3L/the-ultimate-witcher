@@ -1,0 +1,44 @@
+{
+  "name": "Отвар берсерка",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/cotolak_potion.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 67,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "avail": "Rare",
+    "effect": "Вы получаете +5 к ТЕЛ и ВОЛЯ.",
+    "time": "30 минут",
+    "toxicity": "75%"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_adni0hxf6rb"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.QM6pMNg1K6LZUr9K"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887308,
+    "modifiedTime": 1669962165501,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "7sgMwDVm6S2GJmUY",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!Br1L9eWnCCCm9T5i.7sgMwDVm6S2GJmUY"
+}

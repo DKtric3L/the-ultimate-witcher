@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Зеленая плесень",
+  "img": "systems/TheWitcherTRPG/assets/images/caelum.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "F4HzuRhCJOS1qzWk",
+  "_id": "MBAQDV8QwiZd2BnV",
+  "flags": {},
+  "_key": "!tables.results!aqXhAXKuSB54oPN5.MBAQDV8QwiZd2BnV"
+}

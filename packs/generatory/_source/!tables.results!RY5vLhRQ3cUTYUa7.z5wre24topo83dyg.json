@@ -1,0 +1,16 @@
+{
+  "text": "Глаз прибожка",
+  "type": 2,
+  "img": "systems/TheWitcherTRPG/assets/images/aether.png",
+  "weight": 1,
+  "range": [
+    38,
+    38
+  ],
+  "drawn": false,
+  "_id": "z5wre24topo83dyg",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "3hQ3XazeDKClecwP",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.z5wre24topo83dyg"
+}

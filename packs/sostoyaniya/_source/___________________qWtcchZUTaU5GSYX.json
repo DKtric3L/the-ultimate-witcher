@@ -1,0 +1,78 @@
+{
+  "name": "Симптом: Истощение",
+  "type": "effect",
+  "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NYNxbIU5z0EZJtlR"
+    },
+    "cf": {
+      "id": "temp_nxdlb2anpj"
+    }
+  },
+  "system": {
+    "description": "Ты очень сильно устал. Штраф может накапливаться.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_s28gfv51s",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "-1"
+      },
+      {
+        "id": "_kshsjs8uv",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-1"
+      },
+      {
+        "id": "_036g42wic",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-1"
+      },
+      {
+        "id": "_yby8i715z",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "-1"
+      },
+      {
+        "id": "_vgx7uxgal",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-1"
+      },
+      {
+        "id": "_83naityr5",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "-1"
+      },
+      {
+        "id": "_u2mrjyxz4",
+        "stat": "WITCHER.Actor.Stat.Cra",
+        "modifier": "-1"
+      },
+      {
+        "id": "_15sn2l75y",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621715,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qWtcchZUTaU5GSYX",
+  "folder": "gc7euHqdhcoTNbKd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qWtcchZUTaU5GSYX"
+}

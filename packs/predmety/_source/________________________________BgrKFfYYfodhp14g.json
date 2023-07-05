@@ -1,0 +1,73 @@
+{
+  "name": "Формула заклинания(Подмастерье)",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-black-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ZTKkSEw0Dz1waDyH"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "<p>Получи бонус +2 в проверке обучения данного заклинания:</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 200,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "1 нед",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "_lpj7l368p",
+        "name": "Очки улучшения",
+        "percentage": "",
+        "quantity": "20"
+      },
+      {
+        "id": "_xht8vmdsy",
+        "name": "Число проверок",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868994,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BgrKFfYYfodhp14g",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!BgrKFfYYfodhp14g"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "0DKFBRghyTRVLWSl",
+  "type": 0,
+  "text": "Ваша семья и друзья обрадовались твоему таланту",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!1LPYkOqxCeAmFnFT.0DKFBRghyTRVLWSl"
+}

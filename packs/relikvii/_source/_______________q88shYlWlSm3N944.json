@@ -1,0 +1,88 @@
+{
+  "name": "Кости неверных",
+  "type": "armor",
+  "img": "icons/equipment/head/mask-horned-skull.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-dospehov.xAwmCJqpLvrJw2cM"
+    },
+    "cf": {
+      "id": "temp_uj8iaif803"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 20,
+    "headMaxStopping": 20,
+    "torsoStopping": 20,
+    "torsoMaxStopping": 20,
+    "leftArmStopping": 20,
+    "leftArmMaxStopping": 20,
+    "rightArmStopping": 20,
+    "rightArmMaxStopping": 20,
+    "leftLegStopping": 20,
+    "leftLegMaxStopping": 20,
+    "rightLegStopping": 20,
+    "rightLegMaxStopping": 20,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Ограничение зрения"
+      },
+      {
+        "id": "_4dh36h781",
+        "name": "Соц статус - ненависть и опасение",
+        "percentage": ""
+      },
+      {
+        "id": "_45wln8kjm",
+        "name": "Хил +5 пз за каждого побеждённого врага",
+        "percentage": ""
+      },
+      {
+        "id": "_5p43tppqv",
+        "name": "2х кости адреналина",
+        "percentage": ""
+      },
+      {
+        "id": "_jgug2xnlx",
+        "name": "Невосприимчивость к любым манипуляциям разумом, даже магическим",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "Head",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": true,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877955,
+    "modifiedTime": 1685496616922,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "q88shYlWlSm3N944",
+  "folder": "PRppF7wbRYRReD1k",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!q88shYlWlSm3N944"
+}

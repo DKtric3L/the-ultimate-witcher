@@ -1,0 +1,16 @@
+{
+  "_id": "6xV804dMXXeEaX46",
+  "type": 0,
+  "text": "Если жертва монстр без анатомии - +5 урона к атаке дополнительно вместо травмы.",
+  "weight": 1,
+  "range": [
+    1,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!RqJviXp68Phq3zly.6xV804dMXXeEaX46"
+}

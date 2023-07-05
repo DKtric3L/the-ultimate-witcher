@@ -1,0 +1,43 @@
+{
+  "name": "Ванна с горячей водой",
+  "type": "valuable",
+  "img": "icons/sundries/scrolls/scroll-writing-beige.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.swuVMuoJI3Po5fMM"
+    },
+    "cf": {
+      "id": "temp_yd58wf1pts8"
+    }
+  },
+  "system": {
+    "description": "Горячая вода в медной ванне. Приятно порой на такое дело потратить пару монет. Такая ванна — своего рода роскошь... которой можно и поделиться с кем-нибудь, если ты понимаешь, о чём я.",
+    "quantity": 1,
+    "weight": null,
+    "cost": 16,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "service",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868971,
+    "modifiedTime": 1685496603173,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "uZKO7rYS0uHPZFHp",
+  "folder": "QEpLVR9XgY47bXqF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!uZKO7rYS0uHPZFHp"
+}

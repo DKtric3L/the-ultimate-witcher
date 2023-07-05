@@ -1,0 +1,41 @@
+{
+  "name": "Внимание к деталям",
+  "type": "effect",
+  "img": "icons/skills/movement/arrows-up-trio-red.webp",
+  "system": {
+    "description": "+2 к 3 любым навыкам, которые определила ваша профессия. Данный бонус игнорирует правило сложного (2) навыка.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ea60b3847e4b517c0069d177da907cb873180985",
+      "sourceId": "Item.rNq6U8fN8P7nOrjQ"
+    },
+    "core": {
+      "sourceId": "Item.rNq6U8fN8P7nOrjQ"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672536809772,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "MMQB3vEwhRpGpDd2",
+  "_key": "!items!MMQB3vEwhRpGpDd2"
+}

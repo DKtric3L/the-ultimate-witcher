@@ -1,0 +1,16 @@
+{
+  "_id": "ho07lF2z3FxWoe9w",
+  "type": 0,
+  "text": "Впечатлил иностранного сановника. Вы начинаете с +2 репутации при дворе одного королевства по вашему выбору.",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!04P5BryhpZFZe3PQ.ho07lF2z3FxWoe9w"
+}

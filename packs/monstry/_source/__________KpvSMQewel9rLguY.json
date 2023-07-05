@@ -1,0 +1,60 @@
+{
+  "_id": "KpvSMQewel9rLguY",
+  "name": "Освящение",
+  "type": "spell",
+  "img": "icons/magic/holy/saint-glass-portrait-halo.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_z7p1hjwewoi"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.T1nmbcQgSv1PUcVw"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Освящение создаёт магический круг, временно отталкивающий чудовищ. Радиус круга может быть не более 10 метров. Любое чудовище, которое попытается войти в круг, должно совершить проверку Сопротивления магии со СЛ, равной проверке Проведения ритуалов заклинателя, сделанной для сотворения круга. В пределах круга не действуют эффекты создаваемых чудовища ми заклинаний, однако на немагические снаряды, запускаемые чудовищами, круг не влияет. Если чудовище успешно пройдёт проверку и войдёт в круг, оно может там остаться, но для выхода из круга ему придётся совершить ещё одну проверку. Если вы используете традиционные правила восприимчивости чудовищ, возьмите серебро для чудовищ, уязвимых к серебру, или метеорит для чудовищ, уязвимых к метеоритной стали.",
+    "range": "10 раундов",
+    "duration": "до рассеивания",
+    "defence": "",
+    "components": "пятая эссенция(х5), дымная пыль(х2), мелок(х4), серебро или метеорит(х5)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!nRFMSVmn5tFxYySe.KpvSMQewel9rLguY"
+}

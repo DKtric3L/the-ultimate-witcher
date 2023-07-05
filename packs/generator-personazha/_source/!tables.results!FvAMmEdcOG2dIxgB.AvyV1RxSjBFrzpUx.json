@@ -1,0 +1,16 @@
+{
+  "_id": "AvyV1RxSjBFrzpUx",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Крестьянская семья. Вы выросли в одной из тысяч ферм Империи. За душой у вас почти ничего нет, но жизнь ваша была простой. Начальное снаряжение - Счастливый талисман(+1 к удаче)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!FvAMmEdcOG2dIxgB.AvyV1RxSjBFrzpUx"
+}

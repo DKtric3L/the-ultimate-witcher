@@ -1,0 +1,70 @@
+{
+  "name": "Поток крови",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/moakh3.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_a5r1vpsvopg"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d6 за очко вын.\nМоахк теперь испускает постоянный поток крови из руки заклинателя, наносящий 1d6 некротического урона за каждое затраченное очко Вын и сбивает цель с ног. Поток крови необходимо поддерживать, каждый раунд затрачивая количество Вын, равное 1/2 изначальной стоимости в Вын. В свой ход заклинатель может сменить цель. Струю можно прицельно направить на часть тела. Любой, попавший под эффект действия знака, становится восприимчив к урону электричеством в течение 5 раундов.",
+    "range": "3 метра",
+    "duration": "актив(1/2 затрат вын)",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1d6 некротического урона заклинателю за 1 вын"
+      },
+      {
+        "id": "_009tobqyh",
+        "name": "1d6 - Некротический урон жертве и +1d6 за каждое вын",
+        "percentage": ""
+      },
+      {
+        "id": "_lnsw8g528",
+        "name": "Сбивает с ног",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638518,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tuYTLzfSmOjCAzAF",
+  "folder": "bwtndOBz5Q00m7So",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tuYTLzfSmOjCAzAF"
+}

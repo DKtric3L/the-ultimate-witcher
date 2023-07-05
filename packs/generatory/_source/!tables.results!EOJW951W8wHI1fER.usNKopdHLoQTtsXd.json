@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Улитка",
+  "img": "systems/TheWitcherTRPG/assets/images/aether.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "lPxBKgTeXZNvwAYL",
+  "_id": "usNKopdHLoQTtsXd",
+  "flags": {},
+  "_key": "!tables.results!EOJW951W8wHI1fER.usNKopdHLoQTtsXd"
+}

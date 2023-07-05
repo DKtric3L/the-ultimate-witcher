@@ -1,0 +1,42 @@
+{
+  "name": "Темная пыль",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/sub-02.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 86,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Амароки, вихты, полуночницы и др.",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.world.komponenty.rNSrdHMGuHHn1NUt"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853705,
+    "modifiedTime": 1669965514975,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "Np4Q2q2Gmbmlflqz",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!amWZdGnX81A1GrtC.Np4Q2q2Gmbmlflqz"
+}

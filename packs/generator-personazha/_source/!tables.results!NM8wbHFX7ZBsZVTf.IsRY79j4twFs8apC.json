@@ -1,0 +1,16 @@
+{
+  "_id": "IsRY79j4twFs8apC",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Семья торговцев. Вы выросли в семье странствующих торговцев. Иногда жизнь была трудна, но созданные нелюдями товары всегда ценятся. Начальное снаряжение - 2 Знакомых.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NM8wbHFX7ZBsZVTf.IsRY79j4twFs8apC"
+}

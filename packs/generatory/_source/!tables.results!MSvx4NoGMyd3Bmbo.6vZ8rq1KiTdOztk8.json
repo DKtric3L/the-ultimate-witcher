@@ -1,0 +1,16 @@
+{
+  "text": "Живой огонь",
+  "type": 2,
+  "img": "icons/magic/fire/flame-burning-tree-stump.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "6vZ8rq1KiTdOztk8",
+  "documentId": "9jkAeGajJGHa3Nuw",
+  "flags": {},
+  "_key": "!tables.results!MSvx4NoGMyd3Bmbo.6vZ8rq1KiTdOztk8"
+}

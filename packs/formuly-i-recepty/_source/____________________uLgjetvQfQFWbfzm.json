@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Трупный яд",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.uLgjetvQfQFWbfzm"
+    },
+    "cf": {
+      "id": "temp_uu87z6q9p5a"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.Hy5FS8y6XgHVJJuV]{Трупный яд}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 114,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "journeyman",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 16,
+    "craftingTime": "15 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 1,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 4,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 1
+    },
+    "associatedItem": {
+      "name": "Трупный яд",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/props/corpse_poison.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 76,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Poor",
+        "effect": "Тот, кому нанесли урон режущим или колющим оружием, смазан-\nным трупным ядом, получает сразу отравление и тошноту. \nЧтобы избавиться от этих состояний, необходимо успешно пройти две отдельные проверки Стойкости со СЛ 16.",
+        "time": "",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.Hy5FS8y6XgHVJJuV"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868992,
+        "modifiedTime": 1668171486234,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496578745,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "uLgjetvQfQFWbfzm",
+  "folder": "TXoqSw4OOX255Z4E",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!uLgjetvQfQFWbfzm"
+}

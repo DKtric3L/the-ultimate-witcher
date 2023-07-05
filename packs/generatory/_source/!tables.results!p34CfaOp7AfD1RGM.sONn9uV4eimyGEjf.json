@@ -1,0 +1,16 @@
+{
+  "text": "Изъян",
+  "type": 2,
+  "img": "icons/magic/unholy/strike-beam-blood-large-red-blue.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "sONn9uV4eimyGEjf",
+  "documentId": "X87VmymuxmnB7b3H",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.sONn9uV4eimyGEjf"
+}

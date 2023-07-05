@@ -1,0 +1,57 @@
+{
+  "_id": "DREBHsxCVusENsVA",
+  "name": "Аард",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/aard.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.h2E35Mg2dD4V2Vhq"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "air",
+    "domain": "basic",
+    "stamina": "Мен",
+    "staminaIsVar": true,
+    "effect": "Аард выпускает волну телекинетической силы, ошеломляющей существ с 10%-ным шансом сбить их с ног. Шанс сбивания с ног повышается на 10% за каждое затраченное очко Вын.",
+    "range": "2м конус",
+    "duration": "мгновенное",
+    "defence": "укл",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2",
+    "templateType": "cone",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!dxyWHzqdwqA0HCFh.DREBHsxCVusENsVA"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Обычный протез руки",
+  "type": "armor",
+  "img": "icons/equipment/hand/glove-tooled-leather-red-purple.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Natural",
+    "avail": "Everywhere",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "-3 действиям рукой"
+      }
+    ],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.EwfTvRPqh3VPTCyr"
+    },
+    "cf": {
+      "id": "temp_os19mzu1ggc"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670239444437,
+    "modifiedTime": 1685496626785,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "fKaxWdxcrj3IPmJo",
+  "sort": 0,
+  "_id": "cvjXps4allBOzRzu",
+  "_key": "!items!cvjXps4allBOzRzu"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    29,
+    29
+  ],
+  "drawn": false,
+  "text": "Список покупок",
+  "img": "icons/sundries/documents/blueprint-recipe-alchemical.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "RDLRoWTKb7eZsmnQ",
+  "_id": "AQfkbJQkimgSIo90",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.AQfkbJQkimgSIo90"
+}

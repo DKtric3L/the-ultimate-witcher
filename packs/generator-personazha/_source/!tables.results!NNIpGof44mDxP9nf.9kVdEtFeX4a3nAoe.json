@@ -1,0 +1,16 @@
+{
+  "_id": "9kVdEtFeX4a3nAoe",
+  "flags": {},
+  "type": 0,
+  "text": "Ваш возлюбленный ужасно ревнив и терпеть не может, когда рядом с вами находится любой потенциальный ухажёр",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NNIpGof44mDxP9nf.9kVdEtFeX4a3nAoe"
+}

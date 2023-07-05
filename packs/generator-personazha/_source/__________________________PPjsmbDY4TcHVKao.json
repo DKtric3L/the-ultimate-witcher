@@ -1,0 +1,44 @@
+{
+  "name": "ИС Дракон - Что ненавидит",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "G5EDBe2D7tsLpraP",
+    "3JaHPQqKrV3ps44B",
+    "Q2aXq1MsfSYTbkFZ",
+    "HXhqwibXpcefvdHn",
+    "qodbb2JDlCkaoXuR",
+    "VJnytoTZmCdajKEw",
+    "tKp13ViLiAzLu14g",
+    "7Ty5L6CDVVaF8TCY",
+    "dtOwaW6EKlt7IXO2",
+    "4BcrIuyvKunYtlrg"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "PPjsmbDY4TcHVKao",
+  "_key": "!tables!PPjsmbDY4TcHVKao"
+}

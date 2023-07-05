@@ -1,0 +1,16 @@
+{
+  "_id": "7ECvmLy1xL5mjK3B",
+  "type": 2,
+  "text": "раса мага",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "3BzO4qBTsF9dsCBE",
+  "_key": "!tables.results!bXkCrR9sAIX75Yhi.7ECvmLy1xL5mjK3B"
+}

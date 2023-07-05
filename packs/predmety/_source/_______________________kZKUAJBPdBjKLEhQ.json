@@ -1,0 +1,43 @@
+{
+  "name": "Покрытая резьбой кость",
+  "type": "valuable",
+  "img": "icons/commodities/bones/horn-engraved-stripes-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.O0nm2et7pqn7hJ5d"
+    },
+    "cf": {
+      "id": "temp_pcz898xpa9"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603482,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kZKUAJBPdBjKLEhQ",
+  "folder": "o0EbRg1af2HA22Nh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kZKUAJBPdBjKLEhQ"
+}

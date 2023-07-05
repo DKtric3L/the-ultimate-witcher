@@ -1,0 +1,39 @@
+{
+  "name": "Полностью случайный лут",
+  "img": "icons/containers/bags/pack-leather-embossed-brown.webp",
+  "description": "",
+  "results": [
+    "vRHqCn9pPxzVRjUH",
+    "zn3plSkq9vPb07qj",
+    "2XEKX3l3ndN9TRFj",
+    "SpUt1dCvUK5lGE37",
+    "waPuWnIuCc9QMmgm"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_o8v204tslw"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644573,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Xh9XSSmbD1c7r9vq",
+  "sort": 0,
+  "_id": "bUgghi1YgvNNA445",
+  "_key": "!tables!bUgghi1YgvNNA445"
+}

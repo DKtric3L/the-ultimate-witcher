@@ -1,0 +1,16 @@
+{
+  "_id": "3K1jam0ISPD3EKNg",
+  "flags": {},
+  "type": 0,
+  "text": "Место попадания - Левая Рука | Урон = x1/2",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!tUubEoDQPTPIis9g.3K1jam0ISPD3EKNg"
+}

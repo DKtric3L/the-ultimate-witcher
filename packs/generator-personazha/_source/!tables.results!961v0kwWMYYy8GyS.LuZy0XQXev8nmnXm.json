@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "LuZy0XQXev8nmnXm",
+  "text": "На торсе надета рубаха и накидка из плотной ткани.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!961v0kwWMYYy8GyS.LuZy0XQXev8nmnXm"
+}

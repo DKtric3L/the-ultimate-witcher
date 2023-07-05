@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Мастер - Воздух",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "mI8Ec3b8W4soIHvY",
+  "_id": "ilVQi8hP5rjYH0dq",
+  "flags": {},
+  "_key": "!tables.results!qXzcIUTDktfT2ZTb.ilVQi8hP5rjYH0dq"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "5zdugUWzK3TJFuY0",
+  "text": "Этот дракон в юности получил травму, которая так и не зажила. Теперь он ведёт себя свирепо и недоверчиво.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Gy4sJiEEweUOW1Jz.5zdugUWzK3TJFuY0"
+}

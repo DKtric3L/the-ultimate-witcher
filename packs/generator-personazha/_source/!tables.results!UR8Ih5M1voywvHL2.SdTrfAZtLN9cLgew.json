@@ -1,0 +1,16 @@
+{
+  "_id": "SdTrfAZtLN9cLgew",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей одержимы восстановлением былой славы своего народа и жертвуют всем ради этой цели.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UR8Ih5M1voywvHL2.SdTrfAZtLN9cLgew"
+}

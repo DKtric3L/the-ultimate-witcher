@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    42,
+    42
+  ],
+  "drawn": false,
+  "text": "Табак",
+  "img": "icons/consumables/plants/dried-leaf-stem-herb-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "SG1pH29AqELyghSo",
+  "_id": "u4o614JqoQSGTG2N",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.u4o614JqoQSGTG2N"
+}

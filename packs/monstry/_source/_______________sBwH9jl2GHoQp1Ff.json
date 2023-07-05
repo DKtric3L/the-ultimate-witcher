@@ -1,0 +1,40 @@
+{
+  "name": "Лунный осколок",
+  "type": "valuable",
+  "img": "icons/commodities/gems/gem-faceted-tapered-blue.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.teXvKVkTnalNpiNv"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680488023138,
+    "modifiedTime": 1680488047910,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_id": "sBwH9jl2GHoQp1Ff",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!oCbHun9dgPjg8pCX.sBwH9jl2GHoQp1Ff"
+}

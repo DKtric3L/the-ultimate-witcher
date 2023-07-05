@@ -1,0 +1,16 @@
+{
+  "_id": "oQQUBuaPK1pTABqq",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Ваши родственники просто взяли и ушли куда-то. Вы понятия не имеете где они.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.oQQUBuaPK1pTABqq"
+}

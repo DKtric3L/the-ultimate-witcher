@@ -1,0 +1,56 @@
+{
+  "name": "Эффект: Сон на полу",
+  "type": "effect",
+  "img": "icons/consumables/plants/dried-bundle-tied-stems-sticks-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_46rucrp9bac"
+    }
+  },
+  "system": {
+    "description": "Сон на соломе, земле или холодном полу. До следующего отдыха. \nСвезло, что ничего не продуло, но теперь у тебя жутко болит спина. Толком не отдохнул как следует.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "-2"
+      },
+      {
+        "id": "_y56bwlqf4",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-2"
+      },
+      {
+        "id": "_rqdakqm8i",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "-2"
+      }
+    ],
+    "derived": [
+      {
+        "id": "first",
+        "derivedStat": "WITCHER.Actor.CoreStat.Enc",
+        "modifier": "-10"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IIt21VxVHo9rSJDX",
+  "folder": "l7uwC7s1P0YYqP4q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IIt21VxVHo9rSJDX"
+}

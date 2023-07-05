@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Совершенный Аметист",
+  "img": "modules/the-ultimate-witcher/assets/gems/perfect_amethyst.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "Qsn5pYVeeXJbZxqw",
+  "_id": "l3JAP3fI7DzYfLtx",
+  "flags": {},
+  "_key": "!tables.results!eJlqDM4NanRI3WJe.l3JAP3fI7DzYfLtx"
+}

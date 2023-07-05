@@ -1,0 +1,16 @@
+{
+  "_id": "9kVdEtFeX4a3nAoe",
+  "flags": {},
+  "type": 0,
+  "text": "Профессия врага - Преступник",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NYkXHsDdDW1t24Dw.9kVdEtFeX4a3nAoe"
+}

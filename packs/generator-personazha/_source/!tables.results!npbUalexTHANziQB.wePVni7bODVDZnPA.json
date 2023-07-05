@@ -1,0 +1,16 @@
+{
+  "_id": "wePVni7bODVDZnPA",
+  "type": 2,
+  "text": "Вы стали учеником?-Гвейсон Хайль",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "gkYEnWJndyrrSkCM",
+  "_key": "!tables.results!npbUalexTHANziQB.wePVni7bODVDZnPA"
+}

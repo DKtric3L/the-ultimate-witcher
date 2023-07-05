@@ -1,0 +1,44 @@
+{
+  "_id": "OFIE1k30Lk5j7OCb",
+  "name": "Ручное зеркальце",
+  "type": "valuable",
+  "img": "icons/sundries/survival/mirror-plain.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 700000,
+  "flags": {
+    "cf": {
+      "id": "temp_hdwmzt8oxfu",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.8XDgZTYhObHGTB9I"
+    }
+  },
+  "system": {
+    "description": "Небольшое зеркало. И для прихорашивания сойдёт, и для того, чтобы себе за спину глянуть.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 27,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671035359057,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!3v0292IhRWNohwqu.OFIE1k30Lk5j7OCb"
+}

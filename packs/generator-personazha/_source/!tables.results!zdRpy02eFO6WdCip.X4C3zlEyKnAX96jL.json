@@ -1,0 +1,16 @@
+{
+  "_id": "X4C3zlEyKnAX96jL",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: У вашей семьи есть зловещая тайна. Если о ней кто-то узнает, вашей семье и её доброму имени конец. Вы должны защищать эту тайну даже ценой своей жизни.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.X4C3zlEyKnAX96jL"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "oKZeEBIq2FLMNk2e",
+  "flags": {},
+  "type": 0,
+  "text": "Ваш враг жив.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    31,
+    100
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!tnwYpfMGVnD8BKWS.oKZeEBIq2FLMNk2e"
+}

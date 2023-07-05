@@ -1,0 +1,51 @@
+{
+  "name": "Травма сердца",
+  "type": "effect",
+  "img": "icons/skills/wounds/anatomy-organ-heart-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_maooi46ln8"
+    }
+  },
+  "system": {
+    "description": "Урон повреждает сердце персонажа. Немедленно пройдите испытание против смерти. Если персонаж выживает, рана кровоточит, а его Выносливость, Скор и Тел снижаются вчетверо.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "/4"
+      },
+      {
+        "id": "_aqdzoq71z",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "/4"
+      }
+    ],
+    "derived": [
+      {
+        "id": "first",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "/4"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883174,
+    "modifiedTime": 1685496621852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "MGzLa03g13FS0ZKy",
+  "folder": "PLkbl9b4zJv5jmUU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!MGzLa03g13FS0ZKy"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Пылающий вихрь",
+  "type": 2,
+  "img": "icons/magic/fire/beam-jet-stream-spiral-yellow.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "xYfihKfp3Iiv1iL8",
+  "documentId": "V8ZAu9tb4E6EA180",
+  "flags": {},
+  "_key": "!tables.results!iYD2we7cDsTiRycD.xYfihKfp3Iiv1iL8"
+}

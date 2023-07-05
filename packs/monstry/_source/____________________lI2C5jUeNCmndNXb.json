@@ -1,0 +1,26 @@
+{
+  "_id": "lI2C5jUeNCmndNXb",
+  "name": "Магическое внушение",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "В качестве действия скрытый может повлиять на разум любого, кто его слышит. Цель внушения должна пройти проверку Сопротивления магии против атаки скрытого с основой 25. При провале цель соглашается с скрытым и думает так, как он ей велит. Эффект длится 10 минут или пока цель, потратив действие, не воершит успешную встречную проверку Сопротивления магии против изначального броска скрытого."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!Nt58X2Wk7Oveh4My.lI2C5jUeNCmndNXb"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "2z4uyzBmDX5oW8f4",
+  "name": "Туман Дормина",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-blue-gray.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.GxTxqr6jeC0NlBhE"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "Water",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Заклинание придумал Дормин из Геммеры. Оно создаёт зону плотного тумана в ради усе 10 метров от заклинателя. Любой, кто находится в этой зоне, получает штраф -3 к Вниманию, а его радиус обзора уменьшается до 4 метров.",
+    "range": "радиус 10м",
+    "duration": "Актив(2 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "10",
+    "templateType": "circle",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TAgpqRjhqjZdQ6fL.2z4uyzBmDX5oW8f4"
+}

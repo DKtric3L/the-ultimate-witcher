@@ -1,0 +1,172 @@
+{
+  "name": "Торрур",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.udxIT1rwd9DIn9V1"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.z0Asdk1OIL8QtziQ]{Торрур}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1462,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "13ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_spxh0bwk3",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_s1p7809mw",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_lk8truu61",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_pfqljm6dv",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_ske3t5cat",
+        "name": "Пепел",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_jgpnudje9",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_w4dygc2bo",
+        "name": "component",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 760,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Торрур",
+      "type": "weapon",
+      "img": "icons/weapons/swords/greatsword-crossguard-flanged-red.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 1075,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "6d6",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Кровопускающее",
+            "percentage": "50"
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_2ps351j34un"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863944,
+        "modifiedTime": 1672565120151,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "udxIT1rwd9DIn9V1",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!udxIT1rwd9DIn9V1"
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Стальное усиление",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-shield.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.uwOz6WeYwVR6xxin"
+    },
+    "cf": {
+      "id": "temp_nrxu1g7jab"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.WUkMxkwuVpMZ1AGZ]{Стальное усиление}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 217,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "5ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Сталь"
+      },
+      {
+        "id": "_zvpg17yo1",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_ondnarlsv",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 109,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Стальное усиление",
+      "type": "enhancement",
+      "img": "icons/equipment/shoulder/pauldron-segmented-steel-worn.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3.5,
+        "cost": 145,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "armor",
+        "applied": "",
+        "avail": "Poor",
+        "effects": [],
+        "stopping": 4,
+        "bludgeoning": false,
+        "slashing": true,
+        "piercing": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.WUkMxkwuVpMZ1AGZ"
+        },
+        "cf": {
+          "id": "temp_58lmmpxrkto"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162868989,
+        "modifiedTime": 1672567929147,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848429,
+    "modifiedTime": 1685496578843,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "uwOz6WeYwVR6xxin",
+  "folder": "yCdkRf3G101P1PzE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!uwOz6WeYwVR6xxin"
+}

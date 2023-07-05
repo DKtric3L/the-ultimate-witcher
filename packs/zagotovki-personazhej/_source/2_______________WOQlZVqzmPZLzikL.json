@@ -1,0 +1,59 @@
+{
+  "name": "2 рецепта масла",
+  "type": "diagrams",
+  "_id": "WOQlZVqzmPZLzikL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "",
+    "level": "",
+    "isFormulae": false,
+    "craftingDC": 0,
+    "alchemyDC": 0,
+    "craftingTime": "",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": true,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663422604983,
+    "modifiedTime": 1663610941397,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!84b1V2oC2ohXF2yr.WOQlZVqzmPZLzikL"
+}

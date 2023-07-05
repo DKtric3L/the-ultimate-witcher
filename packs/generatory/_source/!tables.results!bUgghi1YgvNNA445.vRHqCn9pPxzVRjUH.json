@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "text": "Случайная Формула",
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "cQZo8Zvy4o2szzN0",
+  "_id": "vRHqCn9pPxzVRjUH",
+  "flags": {},
+  "_key": "!tables.results!bUgghi1YgvNNA445.vRHqCn9pPxzVRjUH"
+}

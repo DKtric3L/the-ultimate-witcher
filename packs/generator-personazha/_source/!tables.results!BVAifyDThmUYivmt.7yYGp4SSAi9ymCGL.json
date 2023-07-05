@@ -1,0 +1,16 @@
+{
+  "_id": "7yYGp4SSAi9ymCGL",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей убило чудовище. Решите сами, что это была за тварь.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BVAifyDThmUYivmt.7yYGp4SSAi9ymCGL"
+}

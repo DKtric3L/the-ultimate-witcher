@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    27,
+    27
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "0AHj5UwTjdbNnERD",
+  "text": "Атака с разбега. Если невозможна - переброс.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!TSiizjCPrhyprZeQ.0AHj5UwTjdbNnERD"
+}

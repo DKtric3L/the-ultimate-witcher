@@ -1,0 +1,16 @@
+{
+  "_id": "4VUsCrDNrzdTxEdU",
+  "type": 2,
+  "text": "Ритуалы - Мастер",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "Yc7ow5lw9IQaa8zZ",
+  "_key": "!tables.results!QQRrBSpygMunqWe0.4VUsCrDNrzdTxEdU"
+}

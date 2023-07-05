@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    7
+  ],
+  "drawn": false,
+  "text": "Капитан-солдат дикой",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "EUxnQJKVoy0GJjNc",
+  "_id": "YgaUcgj5PPktvGwC",
+  "flags": {},
+  "_key": "!tables.results!5tfGWAzBNqJfO1Gr.YgaUcgj5PPktvGwC"
+}

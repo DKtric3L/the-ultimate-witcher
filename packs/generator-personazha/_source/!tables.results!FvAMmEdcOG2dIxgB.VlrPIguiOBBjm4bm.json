@@ -1,0 +1,16 @@
+{
+  "_id": "VlrPIguiOBBjm4bm",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Высшее жречество. Вы выросли среди жрецов великого солнца. Вы были набожным ребёнком, уверенным, что церковь всегда укажет верный путь. Начальное снаряжение - Священный символ(+1 к храбрости).",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!FvAMmEdcOG2dIxgB.VlrPIguiOBBjm4bm"
+}

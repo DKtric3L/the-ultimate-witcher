@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Циклоп",
+  "img": "modules/the-ultimate-witcher/assets/monsters/cyclopus.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "5uEBp1Dg0RJq2yA1",
+  "_id": "RQmAYCw8FnOhdQsm",
+  "flags": {},
+  "_key": "!tables.results!lHthgibcAJ8F0j1b.RQmAYCw8FnOhdQsm"
+}

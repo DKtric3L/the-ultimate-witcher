@@ -1,0 +1,60 @@
+{
+  "name": "Демонические глаза",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-monster-grin-red-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.7yWcUIQL16kbGKBD"
+    },
+    "cf": {
+      "id": "temp_emoosop9os6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d10.\nВаши глаза становятся полностью черными, и вы излучаете ужасную энергию, которая может парализовать и даже заставить существо потерять сознание от страха. Любое существо в пределах дистанции, смотрящее на вас, должно совершить проверку Сопротивления магии. При провале, оно ошеломлено. На следующем ходу, при провале проверки Устойчивости, существо теряет сознание и потребуется 1 действие, чтобы разбудить его.",
+    "range": "10м",
+    "duration": "мгновенное",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496638691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jGIfRTSeEVG9e8sm",
+  "folder": "pBF6Toru9LWVq3ep",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jGIfRTSeEVG9e8sm"
+}

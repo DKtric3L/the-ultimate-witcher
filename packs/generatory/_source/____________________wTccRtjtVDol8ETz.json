@@ -1,0 +1,36 @@
+{
+  "name": "Доспехи - Ведьмачье",
+  "img": "icons/sundries/documents/document-symbol-triangle-pink.webp",
+  "results": [
+    "8rr5odlt0x4x4nxt",
+    "f83w4opc7zudrfwz"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.LTN8iHfKDGZUThHD"
+    },
+    "cf": {
+      "id": "temp_xhd9ad4pt09"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932894,
+    "modifiedTime": 1685496644464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wTccRtjtVDol8ETz",
+  "folder": "Nb1YtBTsoOm2aQtL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!wTccRtjtVDol8ETz"
+}

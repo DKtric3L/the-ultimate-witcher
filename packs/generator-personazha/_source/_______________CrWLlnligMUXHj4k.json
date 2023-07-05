@@ -1,0 +1,44 @@
+{
+  "name": "НПС - Характер",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "jJwwufdg05Ze7URN",
+    "cvfrEISTffU2ZZHc",
+    "zVSZLIGK8rLWM1Ym",
+    "X5E2I0jGcgtTWXsv",
+    "VyDzGl44Gbx3Welq",
+    "aThx5LKby0Ljblly",
+    "XuDpEiikF8eyOJqr",
+    "1zoyvUx0dj2CysoU",
+    "gV23mdIAbjKsNwDd",
+    "WI0YbFUruwKCKntK"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "CrWLlnligMUXHj4k",
+  "_key": "!tables!CrWLlnligMUXHj4k"
+}

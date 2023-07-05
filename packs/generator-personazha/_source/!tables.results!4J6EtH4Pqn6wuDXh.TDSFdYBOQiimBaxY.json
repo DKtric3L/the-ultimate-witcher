@@ -1,0 +1,16 @@
+{
+  "_id": "TDSFdYBOQiimBaxY",
+  "type": 2,
+  "text": "Знание",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "LiPUuGFfXbdWlnAd",
+  "_key": "!tables.results!4J6EtH4Pqn6wuDXh.TDSFdYBOQiimBaxY"
+}

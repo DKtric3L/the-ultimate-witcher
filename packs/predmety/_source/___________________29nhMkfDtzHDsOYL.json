@@ -1,0 +1,43 @@
+{
+  "name": "Киноварь + Квебрит",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/potion-jar-corked-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.03oo1FcUxTmKdQBc"
+    },
+    "cf": {
+      "id": "temp_eux3i6hppej"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "+ 15 к Выносливости на 1 час. Срок годности - трое суток.",
+    "time": "1 час",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496603958,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "29nhMkfDtzHDsOYL",
+  "folder": "CBt5ySUeOvzVkJGY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!29nhMkfDtzHDsOYL"
+}

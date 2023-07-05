@@ -1,0 +1,42 @@
+{
+  "name": "Мозг Циклопа",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/brain_monstrous_64x64.png.6872.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 136,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Циклопы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "rebis"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.pU6abaLVTq28JOWU"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1669964745441,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "udfTIl2QYsJSHBHO",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!5uEBp1Dg0RJq2yA1.udfTIl2QYsJSHBHO"
+}

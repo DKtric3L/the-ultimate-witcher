@@ -1,0 +1,16 @@
+{
+  "_id": "rGAJedctF1vHUm0t",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Земли людей",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ioZTpiW6W2eVwRiY.rGAJedctF1vHUm0t"
+}

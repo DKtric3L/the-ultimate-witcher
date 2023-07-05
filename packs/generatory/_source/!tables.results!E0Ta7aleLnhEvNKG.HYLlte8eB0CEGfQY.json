@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    31,
+    35
+  ],
+  "drawn": false,
+  "text": "Заказ - Вампиры",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "KyFSraxX1yw7cePM",
+  "_id": "HYLlte8eB0CEGfQY",
+  "flags": {},
+  "_key": "!tables.results!E0Ta7aleLnhEvNKG.HYLlte8eB0CEGfQY"
+}

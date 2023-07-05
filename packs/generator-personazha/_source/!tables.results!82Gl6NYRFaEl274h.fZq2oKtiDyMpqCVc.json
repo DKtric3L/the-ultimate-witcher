@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "fZq2oKtiDyMpqCVc",
+  "text": "Заработал добрую или дурную славу - Своими поступками этот вампир прославился на весь Континент и получает +5 к репутации. Эта репутация может применяться к нему как к вампиру, или же люди, наслышанные о его делах, могут считать его человеком или эльфом.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!82Gl6NYRFaEl274h.fZq2oKtiDyMpqCVc"
+}

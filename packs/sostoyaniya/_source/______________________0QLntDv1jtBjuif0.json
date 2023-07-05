@@ -1,0 +1,48 @@
+{
+  "name": "Трансмутация: Допплер",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.VnaqcCsCAHqRU0c9"
+    },
+    "cf": {
+      "id": "temp_njhvjakxvm"
+    }
+  },
+  "system": {
+    "description": "Вы можете лучше изменять свой голос и выражение лица. Вы получаете +5 к Обману и Маскировке.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_b38lvlnbs",
+        "skill": "WITCHER.SkEmpDeceit",
+        "modifier": "5"
+      },
+      {
+        "id": "_uarhju3ah",
+        "skill": "WITCHER.SkCraDisguise",
+        "modifier": "5"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883174,
+    "modifiedTime": 1685496621920,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0QLntDv1jtBjuif0",
+  "folder": "cY1sx3EFSRP3cq5q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0QLntDv1jtBjuif0"
+}

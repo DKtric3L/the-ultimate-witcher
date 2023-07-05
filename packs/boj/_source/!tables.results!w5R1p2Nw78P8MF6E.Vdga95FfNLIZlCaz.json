@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Сложный маршрут монстра",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "X3K8cfEBXfUIfJvd",
+  "_id": "Vdga95FfNLIZlCaz",
+  "flags": {},
+  "_key": "!tables.results!w5R1p2Nw78P8MF6E.Vdga95FfNLIZlCaz"
+}

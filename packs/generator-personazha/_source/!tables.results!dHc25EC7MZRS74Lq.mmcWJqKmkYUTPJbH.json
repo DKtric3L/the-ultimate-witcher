@@ -1,0 +1,16 @@
+{
+  "_id": "mmcWJqKmkYUTPJbH",
+  "type": 0,
+  "text": "Сила врага - Физическая",
+  "weight": 1,
+  "range": [
+    5,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!dHc25EC7MZRS74Lq.mmcWJqKmkYUTPJbH"
+}

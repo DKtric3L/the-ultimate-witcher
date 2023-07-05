@@ -1,0 +1,16 @@
+{
+  "_id": "hEN8JJDOQWDw7xmO",
+  "type": 0,
+  "text": "8 урона сквозь броню.",
+  "weight": 1,
+  "range": [
+    1,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!bYaPwiuM6nfKRL3j.hEN8JJDOQWDw7xmO"
+}

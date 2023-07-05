@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Заключение - в этом десятилетии вы провели 1d10 лет в тюрьме по ложному обвинению, а возможно, и за совершённое преступление.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!T6UvpRgRnhXp4gV7.36ROPw9QWjYWmpBV"
+}

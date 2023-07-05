@@ -1,0 +1,16 @@
+{
+  "text": "Набор для маскировки",
+  "type": 2,
+  "img": "icons/tools/hand/brush-paint-brown-white.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "_id": "n21cpu62xxhtmo7i",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "wHeRvWVFOWynKU7F",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.n21cpu62xxhtmo7i"
+}

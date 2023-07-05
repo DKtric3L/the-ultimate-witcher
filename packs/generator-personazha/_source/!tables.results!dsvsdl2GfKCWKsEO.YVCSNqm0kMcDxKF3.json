@@ -1,0 +1,16 @@
+{
+  "_id": "YVCSNqm0kMcDxKF3",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Dangers",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    76,
+    100
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "ZXRIT4yjKseRiJ2R",
+  "_key": "!tables.results!dsvsdl2GfKCWKsEO.YVCSNqm0kMcDxKF3"
+}

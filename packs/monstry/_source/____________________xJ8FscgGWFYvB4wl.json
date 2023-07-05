@@ -1,0 +1,26 @@
+{
+  "_id": "xJ8FscgGWFYvB4wl",
+  "name": "Коварные боеприпасы",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Лучники скоя’таэлей вначале используют обычные стрелы, чтобы по скорее уничтожить все цели. Стрелы с эльфскими ввинчивающимися наконечниками припасены для тех, кого они особенно презирают, а также для сбежавших жертв, которых в дальнейшем будут выслеживать"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!znpE9GqPqIghjyKI.xJ8FscgGWFYvB4wl"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Инквизитор армия",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "qQf2pujYMDSc6BhI",
+    "LeaXjFfQZXEypNcc",
+    "kkaBn4irdizDrdHf",
+    "4f0EcpbJW2J0nGMd",
+    "c3UDv1LWmOphCTHn"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_n44er63juwi"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644339,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "qoa9JubMCmOgHTMI",
+  "sort": 0,
+  "_id": "bvUyA8xmmetulRoD",
+  "_key": "!tables!bvUyA8xmmetulRoD"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Похищение жизни",
+  "type": "spell",
+  "img": "icons/magic/unholy/hand-grasping-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.U51ppHwlfeIQUKoA"
+    },
+    "cf": {
+      "id": "temp_emoosop9os6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗаклинатель черпает часть своей жизненной силы из своих еще непрожитых дней. Вы получаете 2d6 временных ПЗ, но по окончанию битвы, когда кровь остывает, вы не только теряете временные ПЗ, но и получаете 2d6 некротического урона. Вы также можете дать временные ПЗ любому существу в зоне действия заклинания.",
+    "range": "на себя/20м",
+    "duration": "До конца битвы",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Временные пз"
+      },
+      {
+        "id": "_0825zs957",
+        "name": "Потом некротич-й урон",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "b13rM9Xaxd1ni2qg",
+  "folder": "pBF6Toru9LWVq3ep",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!b13rM9Xaxd1ni2qg"
+}

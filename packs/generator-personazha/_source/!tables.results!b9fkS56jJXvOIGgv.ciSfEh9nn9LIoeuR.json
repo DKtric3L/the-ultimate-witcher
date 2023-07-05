@@ -1,0 +1,16 @@
+{
+  "_id": "ciSfEh9nn9LIoeuR",
+  "flags": {},
+  "type": 0,
+  "text": "Союзник мертв.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    30
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!b9fkS56jJXvOIGgv.ciSfEh9nn9LIoeuR"
+}

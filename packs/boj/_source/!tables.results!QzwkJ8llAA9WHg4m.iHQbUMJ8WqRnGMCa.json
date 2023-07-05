@@ -1,0 +1,16 @@
+{
+  "_id": "iHQbUMJ8WqRnGMCa",
+  "type": 2,
+  "text": "Урон 1d10",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "5oQbkOlmaagcJWSj",
+  "_key": "!tables.results!QzwkJ8llAA9WHg4m.iHQbUMJ8WqRnGMCa"
+}

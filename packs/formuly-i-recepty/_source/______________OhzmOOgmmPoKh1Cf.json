@@ -1,0 +1,169 @@
+{
+  "name": "Гномий гвихир",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.OhzmOOgmmPoKh1Cf"
+    },
+    "cf": {
+      "id": "temp_o6021xqcjz"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.EKYVvN50bvkgXXfn]{Гномий гвихир}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1628,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "13ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_n9wyiuax1",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_ygjigm7xq",
+        "name": "Двимерит",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_onbjmdq7a",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_pkbpni1y5",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_jxm6h7k4g",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_tnms67x19",
+        "name": "Чернящее масло",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 818,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Гномий гвихир",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard-red.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2.5,
+        "cost": 1090,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 3,
+        "avail": "Rare",
+        "damage": "5d6+3",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Кровопускающее",
+            "percentage": "50"
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.WNLz1A3BrJtyzik2"
+        },
+        "cf": {
+          "id": "temp_2ps351j34un"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863937,
+        "modifiedTime": 1672565125317,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848412,
+    "modifiedTime": 1685496579684,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "OhzmOOgmmPoKh1Cf",
+  "folder": "CmRwhBGVa7PHSDao",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OhzmOOgmmPoKh1Cf"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "Hkxz1nMnZkP0kNlO",
+  "name": "Трофей утковола",
+  "type": "valuable",
+  "img": "icons/commodities/bones/horn-twisted-beige.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.QPcBgTMu5Y7CVXcG"
+    }
+  },
+  "system": {
+    "description": "Если вы станете целью Трупоеда, а в пределах досягаемости\nесть другая цель, Трупоед выбирает другую цель.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!GyTbTuPSLT9hameg.Hkxz1nMnZkP0kNlO"
+}

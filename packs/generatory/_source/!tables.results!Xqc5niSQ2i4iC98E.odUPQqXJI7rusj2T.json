@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Покаянник",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Pokayannik_Valeriy_Vegera.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "tVM6MW3ULbL8OMyr",
+  "_id": "odUPQqXJI7rusj2T",
+  "flags": {},
+  "_key": "!tables.results!Xqc5niSQ2i4iC98E.odUPQqXJI7rusj2T"
+}

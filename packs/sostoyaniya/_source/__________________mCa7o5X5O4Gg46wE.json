@@ -1,0 +1,44 @@
+{
+  "name": "Закован в кандалы",
+  "type": "effect",
+  "img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.mCa7o5X5O4Gg46wE"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Руки и ноги скованны кандалами. Движение ограничено, Проверки действий получают штраф -5. Чтобы выбраться из кандалов, пройдите проверку взлома замков 20 или силы 22",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_lo8ibhi3z",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "/2"
+      }
+    ],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883168,
+    "modifiedTime": 1688508868019,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "mCa7o5X5O4Gg46wE",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!mCa7o5X5O4Gg46wE"
+}

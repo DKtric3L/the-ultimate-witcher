@@ -1,0 +1,43 @@
+{
+  "_id": "thoaHZtkWQwCSEtd",
+  "name": "Мутаген: Альп",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-red.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.JNbrCrFXPyCNzbpX"
+    },
+    "cf": {
+      "id": "temp_lwy4lq9cfk"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "red",
+    "source": "Альп",
+    "effect": "+1 укл/изв",
+    "alchemyDC": "20",
+    "minorMutation": "Видимо вздутые вены"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!OCFTKPm3wTOGWxot.thoaHZtkWQwCSEtd"
+}

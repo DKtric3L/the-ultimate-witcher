@@ -1,0 +1,26 @@
+{
+  "_id": "PCsIdFOzS8xIrKb5",
+  "name": "Лечащее прикосновение 7 ур",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Дриады известны как опытные целители и обладают мастерством Лечащего прикосновения. Они также могут использовать растения и экстракты для сотворения лечащих средств, используя свое Выживание в дикой природе."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!mzLvpWjcjx1a20dS.PCsIdFOzS8xIrKb5"
+}

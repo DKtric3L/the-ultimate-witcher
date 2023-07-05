@@ -1,0 +1,16 @@
+{
+  "text": "Дьявольская удача",
+  "type": 2,
+  "img": "icons/tools/smithing/horsehoe-worn-steel-grey.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "3uzljjfewm123l5r",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "BhwlLY9WYEadXOME",
+  "_key": "!tables.results!uQUYJOzKwfcpm2yM.3uzljjfewm123l5r"
+}

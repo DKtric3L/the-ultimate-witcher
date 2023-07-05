@@ -1,0 +1,42 @@
+{
+  "name": "Блод берберки",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/berbercane_fruit_64x64.png.6660.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4o2s0rjm0j",
+      "color": "#4ab2bf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 9,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Common",
+    "location": "Горы и болота",
+    "quantityObtainable": "1d10",
+    "forage": "12",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853697,
+    "modifiedTime": 1685496583962,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "owz5ndSyBOYuraz4",
+  "folder": "7pzVeEMkxc9TrnPt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!owz5ndSyBOYuraz4"
+}

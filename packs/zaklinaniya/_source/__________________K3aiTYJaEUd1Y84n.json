@@ -1,0 +1,57 @@
+{
+  "name": "Проклятая болезнь",
+  "type": "spell",
+  "img": "icons/magic/acid/dissolve-vomit-green-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a1f9vxmt8yw"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "druid",
+    "domain": "",
+    "stamina": "Меняются",
+    "staminaIsVar": true,
+    "effect": "Вызывает у цели болезнь, которая проявляется по-разному в зависимости от затраченного количества очков Выносливости. 2 очка заставят цель согнуться в приступе кашля и ошеломят её. 4 очка вызовут у цели сильную тошноту, дезориентируя её. Затратив 6 очков, вы нашлёте на цель серьёзную болезнь, действующую аналогично отравлению. Эффект инвокации заканчивается, когда цель успешно проходит проверку Стойкости со СЛ, равной проверке сотворения инвокации.",
+    "range": "8м",
+    "duration": "Проверка стойкости",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496638262,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "K3aiTYJaEUd1Y84n",
+  "folder": "KJ7hbWltUlxzYhEM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!K3aiTYJaEUd1Y84n"
+}

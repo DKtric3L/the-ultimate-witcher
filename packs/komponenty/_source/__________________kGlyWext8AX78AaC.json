@@ -1,0 +1,42 @@
+{
+  "name": "Эссенция Баргеста",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/essence_noonwraith_64x64.png.6894.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rcov954udlf",
+      "color": "#3b9b58"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 36,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Баргесты",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853708,
+    "modifiedTime": 1685496584251,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kGlyWext8AX78AaC",
+  "folder": "k0WBGxAKzk1zxRGK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kGlyWext8AX78AaC"
+}

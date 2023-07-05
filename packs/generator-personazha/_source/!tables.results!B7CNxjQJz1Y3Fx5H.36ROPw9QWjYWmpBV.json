@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Причина вражды - Вы убили его родича",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!B7CNxjQJz1Y3Fx5H.36ROPw9QWjYWmpBV"
+}

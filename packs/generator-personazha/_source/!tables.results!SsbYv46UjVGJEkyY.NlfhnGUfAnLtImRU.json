@@ -1,0 +1,16 @@
+{
+  "_id": "NlfhnGUfAnLtImRU",
+  "flags": {},
+  "type": 0,
+  "text": "Прическа - Выбритые виски",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!SsbYv46UjVGJEkyY.NlfhnGUfAnLtImRU"
+}

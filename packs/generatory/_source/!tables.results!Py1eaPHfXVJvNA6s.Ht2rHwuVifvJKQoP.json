@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Этерал",
+  "img": "modules/the-ultimate-witcher/assets/monsters/etheral.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "h90FOxen3LlHZn6X",
+  "_id": "Ht2rHwuVifvJKQoP",
+  "flags": {},
+  "_key": "!tables.results!Py1eaPHfXVJvNA6s.Ht2rHwuVifvJKQoP"
+}

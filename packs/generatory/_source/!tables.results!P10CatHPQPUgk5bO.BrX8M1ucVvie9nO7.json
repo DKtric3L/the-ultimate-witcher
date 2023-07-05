@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "BrX8M1ucVvie9nO7",
+  "text": "Чудовище безвредно.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!P10CatHPQPUgk5bO.BrX8M1ucVvie9nO7"
+}

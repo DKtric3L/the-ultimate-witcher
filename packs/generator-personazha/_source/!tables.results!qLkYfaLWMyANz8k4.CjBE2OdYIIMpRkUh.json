@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "CjBE2OdYIIMpRkUh",
+  "text": "Особый признак - Ожоги",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!qLkYfaLWMyANz8k4.CjBE2OdYIIMpRkUh"
+}

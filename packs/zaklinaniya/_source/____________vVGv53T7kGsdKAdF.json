@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Подмастерье",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "u7cQGtMsbyG4pGTt",
+  "_id": "vVGv53T7kGsdKAdF",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!vVGv53T7kGsdKAdF"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    4,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "PpsFVrtn5SEDpOEP",
+  "text": "Если нет причин для заражения - перебрось.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!v58wVMnQsz3VdsdV.PpsFVrtn5SEDpOEP"
+}

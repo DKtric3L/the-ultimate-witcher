@@ -1,0 +1,16 @@
+{
+  "text": "Крепкий алкоголь",
+  "type": 2,
+  "img": "icons/consumables/drinks/alcohol-jar-spirits-gray.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "_id": "r971ol1mmzmiwtzf",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "xUzn2YMqUwG93J8Y",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.r971ol1mmzmiwtzf"
+}

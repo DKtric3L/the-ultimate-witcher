@@ -1,0 +1,16 @@
+{
+  "text": "Слово призыва",
+  "type": 2,
+  "img": "icons/creatures/birds/corvid-call-sound-blue.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "nsnmp37oyrd1hzwx",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "lJ6De1XjG5snwQ2x",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.nsnmp37oyrd1hzwx"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Солдат Дикой охоты",
+  "img": "modules/the-ultimate-witcher/assets/monsters/wild_hunt_warrior.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "cCRto1hBKRKVdGqu",
+  "_id": "D7mhNSqaZOSrJg8S",
+  "flags": {},
+  "_key": "!tables.results!QYBAiHFzlsyp87Ar.D7mhNSqaZOSrJg8S"
+}

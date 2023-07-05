@@ -1,0 +1,41 @@
+{
+  "name": "Единение с природой",
+  "type": "effect",
+  "img": "icons/magic/nature/plant-maneater-yellow.webp",
+  "system": {
+    "description": "Эльфы тесно связаны с природой. Они не тревожат животных - любой зверь, встреченный эльфом, будет относиться к нему дружелюбно и не нападет без провокации. Эльфы также способны автоматически находить любые обычные и повсеместные субстанции растительного происхождения, если искомые растения обитают в природе на данной территории",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "080d361c7634a52aa05b4b60b234baaa343cca77",
+      "sourceId": "Item.wqbZXnvbvOba8ENy"
+    },
+    "core": {
+      "sourceId": "Item.wqbZXnvbvOba8ENy"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672503151026,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "ro2xfsM2XVQdInpQ",
+  "_key": "!items!ro2xfsM2XVQdInpQ"
+}

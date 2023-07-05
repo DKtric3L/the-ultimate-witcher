@@ -1,0 +1,16 @@
+{
+  "text": "Восстановление",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/glyph_recovery.png",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "ObZ9dYccMRXufY2G",
+  "documentId": "x9quhR8B6gtkFhLD",
+  "flags": {},
+  "_key": "!tables.results!WkvPSXPzLEd3cQFk.ObZ9dYccMRXufY2G"
+}

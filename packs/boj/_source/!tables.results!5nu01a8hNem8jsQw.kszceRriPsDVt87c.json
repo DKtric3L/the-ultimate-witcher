@@ -1,0 +1,16 @@
+{
+  "_id": "kszceRriPsDVt87c",
+  "type": 0,
+  "text": "Пациент получает 4 урона и начинает кровоточить.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5nu01a8hNem8jsQw.kszceRriPsDVt87c"
+}

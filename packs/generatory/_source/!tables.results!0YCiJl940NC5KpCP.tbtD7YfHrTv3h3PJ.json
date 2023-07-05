@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "tbtD7YfHrTv3h3PJ",
+  "text": "1 Боец",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!0YCiJl940NC5KpCP.tbtD7YfHrTv3h3PJ"
+}

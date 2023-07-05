@@ -1,0 +1,60 @@
+{
+  "name": "Огни смерти",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-flame-white-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.AWCUSjSxTrA9rlZ1"
+    },
+    "cf": {
+      "id": "temp_0t82pqg9kah"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d10.\nОгни смерти покрывают ваше тело пылающими тенями. Любой атакующий вас в ближнем бою, получает 2d6 некротического урона и имеет 75% шанс загореться.",
+    "range": "на себя",
+    "duration": "1d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1685496638860,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "v9RPUmY0Pnjrkcnc",
+  "folder": "oUploplKQy7OzcxK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!v9RPUmY0Pnjrkcnc"
+}

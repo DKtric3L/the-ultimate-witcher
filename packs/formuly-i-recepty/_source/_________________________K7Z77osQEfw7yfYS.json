@@ -1,0 +1,113 @@
+{
+  "name": "Формула: Цитрусовая мазь",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.N3ubxCdJ09HuaJBZ"
+    },
+    "cf": {
+      "id": "temp_gdc4u8gm3ct"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.iYJAkZRFXK0STuyd]{Цитрусовая мазь}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 62,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 14,
+    "alchemyDC": 0,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Плод Балиссы"
+      },
+      {
+        "id": "_2mkawwusp",
+        "name": "Любая киноварь",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 35,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Цитрусовая мазь",
+      "type": "alchemical",
+      "img": "icons/commodities/materials/bowl-powder-gold.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0,
+        "cost": 62,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Everywhere",
+        "effect": "Однократное нанесение этого едкого средства на кожу увеличивает вероятность излечения от вшей на 25% на первой и второй стадии. При нанесении на СТРУПЬЯ и ЯЗВЫ, симптом устраняется в течение 1d6 дней.",
+        "time": "1d6 дней",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.xU4uuNFSyJB4uupM"
+        },
+        "cf": {
+          "id": "temp_6q0b5iuuekf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868995,
+        "modifiedTime": 1668162868995,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848431,
+    "modifiedTime": 1685496578772,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "K7Z77osQEfw7yfYS",
+  "folder": "kXqf2g6KkXUbdZHs",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!K7Z77osQEfw7yfYS"
+}

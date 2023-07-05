@@ -1,0 +1,68 @@
+{
+  "name": "Игни",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/igni.webp",
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "fire",
+    "domain": "basic",
+    "stamina": "мен",
+    "staminaIsVar": true,
+    "effect": "Игни испускает волну огня и искр, наносящую ld6 урона за каждое потраченное очко Вын и с вероятностью 50 % поджигающую всё, во что попадёт. Игни всегда наносит урон по туловищу, если только не применяется на минимальном расстоянии (в упор). При использовании в упор Игни можно направить на определённую часть тела.",
+    "range": "2м конус",
+    "duration": "мгновенный",
+    "defence": "укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "50"
+      },
+      {
+        "id": "_4clddjo7q",
+        "name": "+1d6 урона за 1 вын",
+        "percentage": ""
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_fwhvepus7l5"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.HfdpXr3V9U459yPi"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1671032628962,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "KcprAlktVj1t7Onn",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!KGltdXgAyNR4yViS.KcprAlktVj1t7Onn"
+}

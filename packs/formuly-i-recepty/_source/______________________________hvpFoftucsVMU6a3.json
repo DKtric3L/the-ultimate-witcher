@@ -1,0 +1,72 @@
+{
+  "name": "Дополнительный слот улучшения",
+  "type": "diagrams",
+  "img": "icons/magic/life/cross-embers-glow-yellow-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.VEAHLEl7AkrHiSZm"
+    },
+    "cf": {
+      "id": "temp_9bj7smrdyss"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1368,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "4ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Метеорит"
+      },
+      {
+        "id": "_efkq954df",
+        "name": "Дымная пыль",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 684,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848414,
+    "modifiedTime": 1685496579101,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hvpFoftucsVMU6a3",
+  "folder": "E2VrBCTEMffcDmWz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hvpFoftucsVMU6a3"
+}

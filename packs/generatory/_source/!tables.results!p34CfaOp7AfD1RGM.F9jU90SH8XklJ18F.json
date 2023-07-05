@@ -1,0 +1,16 @@
+{
+  "text": "Метод Саволлы",
+  "type": 2,
+  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "F9jU90SH8XklJ18F",
+  "documentId": "9wSgKJimDq0raCa7",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.F9jU90SH8XklJ18F"
+}

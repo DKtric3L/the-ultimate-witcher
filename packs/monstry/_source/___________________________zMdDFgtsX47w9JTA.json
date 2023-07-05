@@ -1,0 +1,26 @@
+{
+  "name": "Способность: Морозная аура",
+  "type": "note",
+  "_id": "zMdDFgtsX47w9JTA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Мари львид излучает ауру потустороннего холода. Если существо начинает свой ход в ближнем бою от мари львид, у него есть 100% шанс заморозить. Если мари львид горит в начале хода, когда активна его способность Морозная аура, огонь немедленно гаснет до того, как мари львид получает урон. Находясь в зоне двимеритовой бомбы, мари львид не может использовать эту способность."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680485149054,
+    "modifiedTime": 1680485398683,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!oUDoU5on0nbVcv4Z.zMdDFgtsX47w9JTA"
+}

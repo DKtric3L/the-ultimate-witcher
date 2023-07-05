@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Постоялый двор - Есть ли кузнец",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "l56WjGRKi0sI5w7U",
+  "_id": "3ZAbJ7HsW1h0LmGA",
+  "flags": {},
+  "_key": "!tables.results!Uh01MqsAP1O2argZ.3ZAbJ7HsW1h0LmGA"
+}

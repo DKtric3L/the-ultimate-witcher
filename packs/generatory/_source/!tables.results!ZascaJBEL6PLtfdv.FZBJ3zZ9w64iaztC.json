@@ -1,0 +1,16 @@
+{
+  "text": "Магическое обследование",
+  "type": 2,
+  "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "FZBJ3zZ9w64iaztC",
+  "documentId": "NhmD5PO9UyWFgOYp",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.FZBJ3zZ9w64iaztC"
+}

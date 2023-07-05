@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Трудная любовь:",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!1nW1pPKnFl1o3mvD.kQX7ZeIIWKy5yTPF"
+}

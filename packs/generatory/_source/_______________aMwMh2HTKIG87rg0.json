@@ -1,0 +1,38 @@
+{
+  "name": "Усиления брони",
+  "img": "icons/sundries/documents/blueprint-shield.webp",
+  "results": [
+    "tGdJvL9yUOxTUYWg",
+    "2gthTTFos3u8Gxj6",
+    "BNekG9QEBqh2GJCL",
+    "9GnExglwoBMriRjc"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.eQJXhvCavXxFVvkw"
+    },
+    "cf": {
+      "id": "temp_c7t3jk2q5hm"
+    }
+  },
+  "description": "Если нужно, поставь замок на том, что не хочешь разыгрывать.",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932924,
+    "modifiedTime": 1685496644377,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aMwMh2HTKIG87rg0",
+  "folder": "6P29UjutkIAiKpOL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!aMwMh2HTKIG87rg0"
+}

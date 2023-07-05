@@ -1,0 +1,69 @@
+{
+  "name": "Кинжал из кровавого камня",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-crooked-ice-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.DcCtsqwijemQ7K73"
+    },
+    "cf": {
+      "id": "temp_1jlhu26b32w"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Poor",
+    "damage": "2d6",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "25"
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Small Blades",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863938,
+    "modifiedTime": 1685496598579,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "884DeBebWnX2n0Kw",
+  "folder": "rhjRG4RKDnAHFIi4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!884DeBebWnX2n0Kw"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Отвратительная порча",
+  "type": 2,
+  "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "qq0bwxa3od5nqldo",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "2SKP1UgbayYm0YKt",
+  "_key": "!tables.results!izujpTQiZjupfuiO.qq0bwxa3od5nqldo"
+}

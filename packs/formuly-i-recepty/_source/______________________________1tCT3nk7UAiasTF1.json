@@ -1,0 +1,104 @@
+{
+  "name": "Формула: Зелье раффара белого",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.1tCT3nk7UAiasTF1"
+    },
+    "cf": {
+      "id": "temp_xirt4efj5k"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.km30UvFLqSlBdxPZ]{Зелье раффара белого}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "master",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 19,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 1,
+      "rebis": 1,
+      "aether": 1,
+      "quebrith": 1,
+      "hydragenum": 0,
+      "vermilion": 1,
+      "sol": 0,
+      "caelum": 1,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Зелье раффара белого",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/potions/raffars_white_potion.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 95,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Rare",
+        "effect": "Позволяет выпившему восстанавливать 1 ПЗ за\nраунд на протяжении действия эликсира. Эффект\nисцеления от нескольких зелий не суммируется.",
+        "time": "4d6 раундов",
+        "toxicity": "50%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_ablplrf0fnm"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668182233298,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848415,
+    "modifiedTime": 1685496578618,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1tCT3nk7UAiasTF1",
+  "folder": "n5pstsYQE8c0VVIa",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1tCT3nk7UAiasTF1"
+}

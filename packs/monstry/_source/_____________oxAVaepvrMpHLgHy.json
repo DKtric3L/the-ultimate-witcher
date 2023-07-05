@@ -1,0 +1,57 @@
+{
+  "_id": "oxAVaepvrMpHLgHy",
+  "name": "Телепортация",
+  "type": "spell",
+  "img": "icons/magic/movement/trail-streak-impact-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.YYqbpcpGFi86MGcN"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Телепортация позволяет мгновенно перенестись в знакомое заклинателю место. С собой нельзя никого захватить; телепортация перенесёт вместе с вами только те предметы, которые на вас или которые вы держите в руках. При по пытке телепортироваться вместе с кем-то переместится только маг, а его спутник останется на месте. Для телепортации требуется пройти проверку Сотворения заклинаний со СЛ 15. При провале заклинатель оказывается в случайном месте в ld6/2 км.",
+    "range": "Негоранич",
+    "duration": "Мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!nRFMSVmn5tFxYySe.oxAVaepvrMpHLgHy"
+}

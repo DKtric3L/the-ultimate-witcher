@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Армия скеллиг",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "sRwykyIj0xlDvMql",
+  "_id": "xPqsKldkXXZCndV2",
+  "flags": {},
+  "_key": "!tables.results!tlNi36XdXbe970gp.xPqsKldkXXZCndV2"
+}

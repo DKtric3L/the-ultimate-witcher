@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Отвар лешего",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/acid.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.dzUj00YAMJsrAkYz"
+    },
+    "cf": {
+      "id": "temp_bbcgrxjnis"
+    }
+  },
+  "system": {
+    "description": "Атаковавший вас персонаж получает 1 урон за каждые 5 очков урона по вам. Этот урон не блокируется бронёй.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883185,
+    "modifiedTime": 1685496621987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "xS5w8tOKuTNHjapo",
+  "folder": "lwEwxv6jTNqqSH5w",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!xS5w8tOKuTNHjapo"
+}

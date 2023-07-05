@@ -1,0 +1,108 @@
+{
+  "name": "Посох связывания",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-bound-gold-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.RKfEkQ5tLs6tm5hB"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1332,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 19,
+    "alchemyDC": 0,
+    "craftingTime": "12ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Древесина"
+      },
+      {
+        "id": "_rjtpmse2r",
+        "name": "Пятая эссенция",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_gt2jeacbh",
+        "name": "Прах",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_kytskuhxu",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_re5wxgrv0",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_dtjjpq2u4",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_tyf08spup",
+        "name": "Самоцвет",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_95a8be57n",
+        "name": "От свитка идёт лёгкий шепот...",
+        "percentage": "",
+        "quantity": "666"
+      }
+    ],
+    "investment": 666,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lOLbiPiQB1eCuStF",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lOLbiPiQB1eCuStF"
+}

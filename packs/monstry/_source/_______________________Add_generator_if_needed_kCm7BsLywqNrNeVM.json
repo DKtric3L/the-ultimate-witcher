@@ -1,0 +1,36 @@
+{
+  "_id": "kCm7BsLywqNrNeVM",
+  "name": "Драконьи сокровища ??? Add generator if needed",
+  "type": "valuable",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "",
+    "avail": "",
+    "effect": "",
+    "conceal": "",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": null,
+    "modifiedTime": 1672826707067,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_key": "!actors.items!WpoCsCHlFqTBkLcK.kCm7BsLywqNrNeVM"
+}

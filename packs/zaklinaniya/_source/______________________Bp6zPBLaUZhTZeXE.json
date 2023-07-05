@@ -1,0 +1,65 @@
+{
+  "name": "Некротическая ловушка",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/yrden2.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_a5r1vpsvopg"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d6 за очко вын.\nИрден теперь создает некротическую ловушку, на подготовку которой уходит 1 раунд. Для атаки ловушка использует навык Сотворение заклинаний и Волю, нанося 2d6 некротического урона. Ловушка каждый раунд атакует ближайшую цель. Целью не могут быть союзники, только враги.",
+    "range": "Радиус 3м",
+    "duration": "1 раунд - 1 вын",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1d6 некротического урона заклинателю за 1 вын"
+      },
+      {
+        "id": "_ybhybhnlc",
+        "name": "2d6 - Некротический урон по жертве",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496638518,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Bp6zPBLaUZhTZeXE",
+  "folder": "bwtndOBz5Q00m7So",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Bp6zPBLaUZhTZeXE"
+}

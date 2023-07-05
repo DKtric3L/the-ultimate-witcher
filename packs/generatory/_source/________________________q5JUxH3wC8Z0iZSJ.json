@@ -1,0 +1,36 @@
+{
+  "name": "Оружие - Великий мастер",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "results": [
+    "q1itrpodocofq1po",
+    "4crz4dvfxrb5o2c5"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.fUtjIwsuMnwkhakG"
+    },
+    "cf": {
+      "id": "temp_w8j8kxtvyk"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932913,
+    "modifiedTime": 1685496644485,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "q5JUxH3wC8Z0iZSJ",
+  "folder": "YQvs7SSKK7I1szPG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!q5JUxH3wC8Z0iZSJ"
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Аер + Гидраген",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.2fcejgfUIx6Xb1wE"
+    },
+    "cf": {
+      "id": "temp_1rc7toaohz8"
+    }
+  },
+  "system": {
+    "description": "<p>@UUID[Compendium.the-ultimate-witcher.predmety.l1xcMA5YislcY5wP]{Аер + Гидраген}</p>\n<p>&nbsp;</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "novice",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 17,
+    "craftingTime": "1 ход",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      },
+      {
+        "id": "_pci3z41ra",
+        "name": "Аер + Гидраген",
+        "quantity": 1
+      },
+      {
+        "id": "_jwolcb75y",
+        "name": "Аер + Гидраген",
+        "quantity": 1
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": null,
+      "rebis": null,
+      "aether": 1,
+      "quebrith": null,
+      "hydragenum": 1,
+      "vermilion": null,
+      "sol": null,
+      "caelum": null,
+      "fulgur": null
+    },
+    "associatedItem": {
+      "name": "Аер + Гидраген",
+      "type": "alchemical",
+      "img": "icons/consumables/potions/bottle-conical-corked-blue.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Rare",
+        "effect": "Позволяет без штрафов не спать ночь. Срок годности - трое суток.",
+        "time": "1 час",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.DvDFqv0alRnmfbN6"
+        },
+        "cf": {
+          "id": "temp_eux3i6hppej"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868970,
+        "modifiedTime": 1668162868970,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      },
+      "id": ""
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848408,
+    "modifiedTime": 1685496578538,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hGj1WBGy9ctFoca8",
+  "folder": "Pomvt3uPGKucMdZ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hGj1WBGy9ctFoca8"
+}

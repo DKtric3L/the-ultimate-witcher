@@ -1,0 +1,60 @@
+{
+  "_id": "lppPll9qNzDFXOXt",
+  "name": "Дурной сглаз",
+  "type": "spell",
+  "img": "icons/magic/death/skeleton-worn-skull-tan.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_60zlp8zqudv"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.60c30Ip5gdlhA0Jm"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Наложение Дурного глаза на объект плетет вокруг цели паутину несчастья, которая угрожает каждому его движению. Всякий раз, когда субъект совершает критический провал, она должна бросить дважды и выбрать худший результат. Кроме того, Мастеру рекомендуется выбирать время броска всякий раз, когда он случайным образом определяет цель угрозы.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Medium",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.lppPll9qNzDFXOXt"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Еда и питьё",
+  "img": "icons/consumables/meat/fish-raw-bowl-wooden-green-purple.webp",
+  "results": [
+    "pujbr478ads2fnll",
+    "7rqg5d0xtzloi4sw",
+    "zq8smcbxgykzfd2k",
+    "y3lp0jftmozn5bsz",
+    "95zk0hct0c4vws8v",
+    "dbgwga01gu4jzetk",
+    "7j85inn9c1unx0ji",
+    "yb6kdw68nhjc2a1t",
+    "1g0f5tkbfs1pbuz2",
+    "lamtfxnp39iduka7",
+    "r971ol1mmzmiwtzf",
+    "4d3jwkprw8f5mh2b",
+    "vtdnlrbdfykl0u6y",
+    "osphg9ucjbf36wjl",
+    "Mx2gpYeqDPgkz81z",
+    "Abd6N3JDnsGaOjws",
+    "QWPOsaiW22zFsUWi"
+  ],
+  "formula": "1d14",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.iew8Hz1t3TLeAuxP"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932899,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "e8vfp5SNiCReOXa9",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!e8vfp5SNiCReOXa9"
+}

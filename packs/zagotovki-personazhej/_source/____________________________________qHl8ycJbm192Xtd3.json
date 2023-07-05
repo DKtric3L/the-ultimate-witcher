@@ -1,0 +1,49 @@
+{
+  "name": "Магом может быть человек, либо эльф",
+  "type": "race",
+  "_id": "qHl8ycJbm192Xtd3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "",
+      "description": ""
+    },
+    "perk2": {
+      "name": "",
+      "description": ""
+    },
+    "perk3": {
+      "name": "",
+      "description": ""
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "",
+      "nilfgaard": "",
+      "skellige": "",
+      "dolBlathanna": "",
+      "mahakam": ""
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663423077103,
+    "modifiedTime": 1663423107459,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!Ezs4OxTZyi9d7KQ0.qHl8ycJbm192Xtd3"
+}

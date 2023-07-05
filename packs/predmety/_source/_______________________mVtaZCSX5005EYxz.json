@@ -1,0 +1,46 @@
+{
+  "name": "Краснолюдское усиление",
+  "type": "enhancement",
+  "img": "icons/equipment/shoulder/pauldron-segmented-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.mVtaZCSX5005EYxz"
+    },
+    "cf": {
+      "id": "temp_58lmmpxrkto"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3.5,
+    "cost": 195,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "applied": "",
+    "avail": "Rare",
+    "effects": [],
+    "stopping": 5,
+    "bludgeoning": false,
+    "slashing": true,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496603235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "mVtaZCSX5005EYxz",
+  "folder": "tRUr0kPpmp01LWJ6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!mVtaZCSX5005EYxz"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    45,
+    45
+  ],
+  "drawn": false,
+  "text": "Фонарь",
+  "img": "icons/sundries/lights/lantern-iron-yellow.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "NuWklGwc5Oxp5Hlx",
+  "_id": "8CSimGceSYDryKx5",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.8CSimGceSYDryKx5"
+}

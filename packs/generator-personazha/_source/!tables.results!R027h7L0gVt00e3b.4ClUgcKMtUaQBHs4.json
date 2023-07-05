@@ -1,0 +1,16 @@
+{
+  "_id": "4ClUgcKMtUaQBHs4",
+  "type": 0,
+  "text": "Преследуется големом. В процессе учебы вам удалось перейти дорогу могущественному магу, который послал голема за вами. Теперь он ищет вас по всему континенту. Если он найдет тебя он попытается убить вас.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!R027h7L0gVt00e3b.4ClUgcKMtUaQBHs4"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Чертеж - усиления брони - Мастер",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "utPyZzCM9Q5JApTo",
+  "_id": "BNekG9QEBqh2GJCL",
+  "flags": {},
+  "_key": "!tables.results!aMwMh2HTKIG87rg0.BNekG9QEBqh2GJCL"
+}

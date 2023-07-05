@@ -1,0 +1,36 @@
+{
+  "_id": "VwiL0wlKZltag0qA",
+  "name": "Обычные предметы",
+  "type": "valuable",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "quantity": "2d6",
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "",
+    "avail": "",
+    "effect": "",
+    "conceal": "",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!yigzKdWovMwab1fX.VwiL0wlKZltag0qA"
+}

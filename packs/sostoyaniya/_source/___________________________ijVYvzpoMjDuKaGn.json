@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Добрый самаритянин",
+  "type": "effect",
+  "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.yeijwxLHhJ026xUD"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Жертва не может отказать ни в одной просьбе, будь то деньги или услуга. Она не может сказать «нет», даже если чувствует, что это может ей навредить.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ijVYvzpoMjDuKaGn",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ijVYvzpoMjDuKaGn"
+}

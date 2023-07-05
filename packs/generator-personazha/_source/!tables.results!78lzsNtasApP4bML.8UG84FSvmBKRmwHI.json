@@ -1,0 +1,16 @@
+{
+  "_id": "8UG84FSvmBKRmwHI",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Редания (+1 Образование)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!78lzsNtasApP4bML.8UG84FSvmBKRmwHI"
+}

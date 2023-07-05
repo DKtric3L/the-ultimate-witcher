@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Болотные пиявки",
+  "img": "systems/TheWitcherTRPG/assets/images/rebis.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "jbUw2bVi7NGzUV1U",
+  "_id": "2nauCE85qeDOL3aP",
+  "flags": {},
+  "_key": "!tables.results!dOaoWvEwWPOSoPpQ.2nauCE85qeDOL3aP"
+}

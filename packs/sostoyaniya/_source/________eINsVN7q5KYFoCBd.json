@@ -1,0 +1,48 @@
+{
+  "name": "Помылся",
+  "type": "effect",
+  "img": "icons/sundries/survival/soap.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.eIEdZ3A3Nlm6vH4A"
+    },
+    "cf": {
+      "id": "temp_et1htt64j0c"
+    }
+  },
+  "system": {
+    "description": "Теперь ты чист, свеж и от тебя приятно пахнет.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "1"
+      },
+      {
+        "id": "_lvbing9ba",
+        "skill": "WITCHER.SkEmpGrooming",
+        "modifier": "1"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883171,
+    "modifiedTime": 1685496621677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eINsVN7q5KYFoCBd",
+  "folder": "FcoowEm4mYGPMieN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eINsVN7q5KYFoCBd"
+}

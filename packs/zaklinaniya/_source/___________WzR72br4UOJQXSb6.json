@@ -1,0 +1,63 @@
+{
+  "name": "Град Кэрис",
+  "type": "spell",
+  "img": "icons/magic/water/projectiles-ice-faceted-salvo-gray.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_lu7t5sx8px8"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "Water",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Это заклинание при думала чародейка Кэрис из Цинтры. Оно позволяет швырнуть ледяные осколки с высокой скоростью в одного противника. За каждый пункт сверх значения уклонения/блокирования цели (максимум 5) заклинание наносит 1d6 урона с 25%-ным шансом заморозить цель.",
+    "range": "5м",
+    "duration": "мгновенное",
+    "defence": "укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Заморозка",
+        "percentage": "25"
+      },
+      {
+        "id": "_wtjgjdgwy",
+        "name": "За каждый пункт выше проверки защиты +1d6 урона(Макс 5)",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892157,
+    "modifiedTime": 1685496637883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WzR72br4UOJQXSb6",
+  "folder": "KwqiK2bUcnubIyHN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WzR72br4UOJQXSb6"
+}

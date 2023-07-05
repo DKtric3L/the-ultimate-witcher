@@ -1,0 +1,161 @@
+{
+  "name": "Зерриканское солнце",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.JOGh4k6TXc8ypeHV"
+    },
+    "cf": {
+      "id": "temp_djg83vktyns"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.ZfNqP4UMacgZ7chC]{Зерриканское солнце}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 180,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "bomb",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Эссенция света"
+      },
+      {
+        "id": "_3ahluxpp8",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_6k8g2sqi2",
+        "name": "Склеродерм",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_60gk0qipc",
+        "name": "Зерриканская смесь",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 90,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Зерриканское солнце",
+      "type": "weapon",
+      "img": "icons/weapons/thrown/bomb-fuse-brown.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 120,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Everywhere",
+        "damage": "0",
+        "reliable": 0,
+        "maxReliability": 0,
+        "hands": "1",
+        "range": "4м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Любое способное видеть существо, попавшее в радиус действия бомбы, ослепляется на 5 раундов.",
+            "percentage": ""
+          },
+          {
+            "id": "_eecy42bzm",
+            "name": "Любое существо с ночным видением, попавшее в радиус действия бомбы, ослепляет на 10 раундов и получает Ошеломление.",
+            "percentage": ""
+          },
+          {
+            "id": "_pagmvib1w",
+            "name": "Любое существо с Улучшенным ночным зрением ослепляется на 10 раундов, а также оглушается.",
+            "percentage": ""
+          }
+        ],
+        "conceal": "S",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Athletics",
+        "rollOnlyDmg": false,
+        "isThrowable": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.ZfNqP4UMacgZ7chC"
+        },
+        "cf": {
+          "id": "temp_5fd8qju81pt"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863938,
+        "modifiedTime": 1672565011918,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848415,
+    "modifiedTime": 1685496579771,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TlAcL81ROYmOWDLc",
+  "folder": "TjzLX1dSibm7YdxI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TlAcL81ROYmOWDLc"
+}

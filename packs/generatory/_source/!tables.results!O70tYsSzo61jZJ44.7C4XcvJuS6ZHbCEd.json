@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Формула: Селестин",
+  "img": "icons/sundries/documents/document-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "1BuOIjpSDCxsxJGm",
+  "_id": "7C4XcvJuS6ZHbCEd",
+  "flags": {},
+  "_key": "!tables.results!O70tYsSzo61jZJ44.7C4XcvJuS6ZHbCEd"
+}

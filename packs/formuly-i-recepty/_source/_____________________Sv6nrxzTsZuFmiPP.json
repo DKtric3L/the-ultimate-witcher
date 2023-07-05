@@ -1,0 +1,195 @@
+{
+  "name": "Доспех школы Грифона",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ftc5JwT3BOzXqJKL"
+    },
+    "cf": {
+      "id": "temp_it4g7ooaw5k"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.XQyqj0ET0wtotCx4]{Доспех школы грифона}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "24ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Полотно"
+      },
+      {
+        "id": "_1j00h0oj8",
+        "name": "Укреплённая кожа",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_zrycae7q8",
+        "name": "Серебро",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_g6iizfhkk",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_qyyo4gjrl",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_ditu5a0py",
+        "name": "Глаза виверны",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_g3whzum5b",
+        "name": "Тёмная сталь",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_kxt9rw9u7",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_kz6jk6mdh",
+        "name": "Эссенция света",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_369bu0y9k",
+        "name": "Костный мозг гуля",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_t89is8sg0",
+        "name": "Шелк",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_2hvpq9krd",
+        "name": "Кровь гнильца",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 1571,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Доспех школы грифона",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 4,
+        "cost": null,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 16,
+        "torsoMaxStopping": 16,
+        "leftArmStopping": 16,
+        "leftArmMaxStopping": 16,
+        "rightArmStopping": 16,
+        "rightArmMaxStopping": 16,
+        "leftLegStopping": 16,
+        "leftLegMaxStopping": 16,
+        "rightLegStopping": 16,
+        "rightLegMaxStopping": 16,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Критическое колдовство: Всякий раз, когда вы наносите Критическое ранение с помощью одного из ваших ведьмачьих оружий, вы можете немедленно совершить проверку Сотворения заклинаний, чтобы наложить Знак без дополнительных штрафов и без затрат Выносливости, кроме той Выносливости, которая требуется для наложения знака."
+          }
+        ],
+        "encumb": 1,
+        "location": "FullCover",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_0w1zqqbn8lrf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668162887305,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848414,
+    "modifiedTime": 1685496579062,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Sv6nrxzTsZuFmiPP",
+  "folder": "ZfwsDbS2qqWb4jdv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Sv6nrxzTsZuFmiPP"
+}

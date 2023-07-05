@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Инквизитор",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Kaleb_Menge_Bryan_Sola.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "WGOL83B2xa7q9UKh",
+  "_id": "hocdRjZ2XcKLeymQ",
+  "flags": {},
+  "_key": "!tables.results!Qz8miDhG9hWzD1cg.hocdRjZ2XcKLeymQ"
+}

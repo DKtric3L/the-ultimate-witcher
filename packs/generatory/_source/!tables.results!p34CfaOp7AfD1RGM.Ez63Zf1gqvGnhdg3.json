@@ -1,0 +1,16 @@
+{
+  "text": "Алхимическое восстановление",
+  "type": 2,
+  "img": "icons/magic/unholy/orb-droplet-pink.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "Ez63Zf1gqvGnhdg3",
+  "documentId": "fOtA1Tj1R82Dqaau",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.Ez63Zf1gqvGnhdg3"
+}

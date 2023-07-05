@@ -1,0 +1,16 @@
+{
+  "text": "Танцующая звезда",
+  "type": 2,
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "hgrIvkSc1RkDzkEl",
+  "documentId": "EQewTDQfBaq9vcSL",
+  "flags": {},
+  "_key": "!tables.results!pfvQJ4Ab5bIZaYOH.hgrIvkSc1RkDzkEl"
+}

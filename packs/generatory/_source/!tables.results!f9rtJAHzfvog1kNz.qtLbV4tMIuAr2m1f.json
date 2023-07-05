@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Духи",
+  "img": "icons/consumables/drinks/alcohol-jar-spirits-gray.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "QUtMZnSC4h6m0zBC",
+  "_id": "qtLbV4tMIuAr2m1f",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.qtLbV4tMIuAr2m1f"
+}

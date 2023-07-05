@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Что ценит - Земные удовольствия",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ywafd57gOpS268dq.36ROPw9QWjYWmpBV"
+}

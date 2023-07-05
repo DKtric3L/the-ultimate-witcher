@@ -1,0 +1,153 @@
+{
+  "name": "Клык змеи",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ci4qnbVlo2nfSq4d"
+    },
+    "cf": {
+      "id": "temp_0ylg8syt1xv"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.J3MPUpP8MRe9GCAJ]{клык змеи}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "4ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Укреплённое дерево"
+      },
+      {
+        "id": "_thqjw6dms",
+        "name": "Кожа драконида",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_r391wewme",
+        "name": "Тёмная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_gmdbkddbh",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_cwadg565n",
+        "name": "Зубы накера",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 218,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Клык змеи",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-crooked-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": null,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 1,
+        "avail": "Rare",
+        "damage": "2d6+2",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "_rq24eomm9",
+            "name": "Парирующее",
+            "percentage": ""
+          }
+        ],
+        "conceal": "S",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Small Blades",
+        "rollOnlyDmg": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_ub4c5p36xla"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668162887305,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848416,
+    "modifiedTime": 1685496579037,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rcWImn4fkCgSaHKC",
+  "folder": "lSH7Jx2pMpEU4iyV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rcWImn4fkCgSaHKC"
+}

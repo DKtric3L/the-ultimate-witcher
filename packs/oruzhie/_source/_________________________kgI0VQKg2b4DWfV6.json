@@ -1,0 +1,74 @@
+{
+  "name": "Меч из метеоритной стали",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard-flanged.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.ctNA2W3kSjL4LOWV"
+    },
+    "cf": {
+      "id": "temp_msxa3dik39j"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 875,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Rare",
+    "damage": "5d6",
+    "reliable": 20,
+    "maxReliability": 20,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сбалансированное",
+        "percentage": ""
+      },
+      {
+        "id": "_a1gbpgser",
+        "name": "Метеоритное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863941,
+    "modifiedTime": 1685496598521,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kgI0VQKg2b4DWfV6",
+  "folder": "AsrfXRLoBj1nyRxc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kgI0VQKg2b4DWfV6"
+}

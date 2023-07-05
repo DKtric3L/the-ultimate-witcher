@@ -1,0 +1,57 @@
+{
+  "name": "Белое пламя(Великое солнце)",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-large-blue-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Взывая к Великому Солнцу, заклинатель создаёт вокруг себя яркую ауру Белого пламени, освещающую всё в радиусе 10 метров, как солнце в ясный день (яркий свет). Аура пламени не обжигает тех, кого коснётся, но растапливает любой лёд и рассеивает все заклинания воды в радиусе 10 метров. Такие заклинания в зоне действия ауры можно сотворить только в том случае, если результат проверки Сотворения заклинаний мага будет выше, чем у жреца Великого Солнца. Более того, любое уязвимое к солнечному свету чудовище, находящееся в зоне действия ауры, получает двойной штраф.",
+    "range": "радиус 10м",
+    "duration": "1 час",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "64PnJF98IMsr3FbR",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!64PnJF98IMsr3FbR"
+}

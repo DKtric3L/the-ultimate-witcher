@@ -1,0 +1,44 @@
+{
+  "name": "Палатка",
+  "type": "valuable",
+  "img": "icons/environment/settlement/tent.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_qtp9pduhxta",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.UyYChF9Iz0r5AU9Y"
+    }
+  },
+  "system": {
+    "description": "Всегда полезно иметь при себе палатку во время путешествий. В ней и от дождя укроешься, и от ветра... а порой и от чудищ.",
+    "quantity": 1,
+    "weight": 4,
+    "cost": 19,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868985,
+    "modifiedTime": 1685496603566,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "iEIidiYozlB8Ac1C",
+  "folder": "aE6ovGuZ0qcI7aJt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!iEIidiYozlB8Ac1C"
+}

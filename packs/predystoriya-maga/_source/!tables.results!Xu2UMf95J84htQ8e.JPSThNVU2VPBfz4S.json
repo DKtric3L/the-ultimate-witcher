@@ -1,0 +1,16 @@
+{
+  "_id": "JPSThNVU2VPBfz4S",
+  "type": 2,
+  "text": "Что случилось - полит",
+  "weight": 1,
+  "range": [
+    1,
+    50
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "OoqcBP3pB5YrWBX1",
+  "_key": "!tables.results!Xu2UMf95J84htQ8e.JPSThNVU2VPBfz4S"
+}

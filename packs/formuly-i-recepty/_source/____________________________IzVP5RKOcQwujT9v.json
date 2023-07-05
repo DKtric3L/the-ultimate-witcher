@@ -1,0 +1,130 @@
+{
+  "name": "Каркасный шлем с полумаской",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.IzVP5RKOcQwujT9v"
+    },
+    "cf": {
+      "id": "temp_w9ryybl3f2"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.o7mPZNnloGhoce7W]{Каркасный шлем с полумаской}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 300,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "4ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Сталь"
+      },
+      {
+        "id": "_ng7d41xks",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 152,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Каркасный шлем с полумаской",
+      "type": "armor",
+      "img": "icons/equipment/head/helm-norman-simple-leather.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 200,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 8,
+        "headMaxStopping": 8,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Light",
+        "avail": "Common",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Head",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_mxldaj92pz"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837866,
+        "modifiedTime": 1668162837866,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848415,
+    "modifiedTime": 1685496579488,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IzVP5RKOcQwujT9v",
+  "folder": "WNB0CsVL08oI0Bfi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IzVP5RKOcQwujT9v"
+}

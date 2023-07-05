@@ -1,0 +1,37 @@
+{
+  "name": "Трансмутация: Гигаскорпион",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Bq0mkJXC6zftuJhX"
+    },
+    "cf": {
+      "id": "temp_njhvjakxvm"
+    }
+  },
+  "system": {
+    "description": "Вы не получаете штрафов в условиях экстремальной жары и невосприимчивы к яду.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883174,
+    "modifiedTime": 1685496621920,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Y9PMhe2NSSsyD8BG",
+  "folder": "cY1sx3EFSRP3cq5q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Y9PMhe2NSSsyD8BG"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "YBIVnUIGZHN4GqnH",
+  "name": "Перемётная сумка",
+  "type": "valuable",
+  "img": "icons/containers/bags/pouch-gold-grey.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 900000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.eS0itAv2ifj49Asd"
+    }
+  },
+  "system": {
+    "description": "В каждое из двух отделений можно вместить до 25 кг предметов небольшого или маленького размера.",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "mount-accessories",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671035499544,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!1vDqhyNaFcTqTS7f.YBIVnUIGZHN4GqnH"
+}

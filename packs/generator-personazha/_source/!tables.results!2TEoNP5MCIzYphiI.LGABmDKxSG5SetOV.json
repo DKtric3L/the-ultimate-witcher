@@ -1,0 +1,16 @@
+{
+  "_id": "LGABmDKxSG5SetOV",
+  "type": 2,
+  "text": "Что случилось - исслед",
+  "weight": 1,
+  "range": [
+    51,
+    100
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "A6hksNXmFkb0vV3X",
+  "_key": "!tables.results!2TEoNP5MCIzYphiI.LGABmDKxSG5SetOV"
+}

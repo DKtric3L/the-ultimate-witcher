@@ -1,0 +1,55 @@
+{
+  "name": "Ледяной шип",
+  "type": "spell",
+  "img": "icons/magic/water/projectile-ice-faceted-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.kpKkPOed7Qgg2Ena"
+    },
+    "cf": {
+      "id": "temp_7lfhbhcmv6t"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "Water",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Это заклинание создает ледяной шип, который вонзается в цель. Этот шип наносит 5d6 колющего урона и остается торчать, пока не будет уничтожен. Для уничтожения нужно нанести шипу 20 пунктов урона или 5 урона горением.",
+    "range": "6м",
+    "duration": "мгновенное",
+    "defence": "Укл/Блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892163,
+    "modifiedTime": 1685496638667,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "X8UMWKdCzlNpMU3l",
+  "folder": "EFoMIiK5amh39PW9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!X8UMWKdCzlNpMU3l"
+}

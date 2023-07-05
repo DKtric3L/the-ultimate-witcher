@@ -1,0 +1,16 @@
+{
+  "_id": "bcXTi6dg4mVthgZU",
+  "type": 2,
+  "text": "Расстояние перелёта",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "XQ23ScFs1U0dXWID",
+  "_key": "!tables.results!XzhVNbs2LhDWFBH1.bcXTi6dg4mVthgZU"
+}

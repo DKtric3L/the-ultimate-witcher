@@ -1,0 +1,16 @@
+{
+  "_id": "NHxsyIUmt1tGSp3v",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей, кто из родителей: Мать",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!YeykB5xTXRnWe7lO.NHxsyIUmt1tGSp3v"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "c3UDv1LWmOphCTHn",
+  "text": "Арбалетиков[[1d3]], Помощников[[1d3]], Охотников [[1d6]], Гончих [[1d6]]",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!bvUyA8xmmetulRoD.c3UDv1LWmOphCTHn"
+}

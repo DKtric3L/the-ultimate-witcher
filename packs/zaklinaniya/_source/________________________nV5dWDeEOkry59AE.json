@@ -1,0 +1,60 @@
+{
+  "name": "Неконтролируемый призыв",
+  "type": "spell",
+  "img": "icons/magic/unholy/barrier-fire-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.46smZ8YxsuCbGv7Q"
+    },
+    "cf": {
+      "id": "temp_edwyou57yq"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "ГОЭТИЯ! Если не понимаешь, что это, не лезь сюда.\n\nПроцесс: Назначьте главного призывателя, который возглавит пение. Пусть они встанут вперед, а остальная часть вашей группы полукругом за ними. Начертите перед собой мелом круг на земле, чтобы направить демона к вашему ритуалу. Выберите три слога из своего сердца (Генератор Истинного имени демона) наугад и повторяйте их, визуализируя желание вашего сердца, по одному слогу за раз, не переставая, пока демон не появится перед вами.\n\nЭффект: Этот ритуал призыва невероятно опасен. Призванный демон не связан каким- либо кодексом поведения и не контролируется игроками. Он может напасть на них или отказаться от любой сделки, заключенной с ними, без каких-либо последствий. Кроме того, в призыве может появиться демон любого вида, включая высших демонов. Этот ритуал является причиной большинства смертей, связанных с гоэтией.",
+    "range": "",
+    "duration": "Мгновенное",
+    "defence": "",
+    "components": "Мелок(1х) Доплата - 2 кроны.",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "10",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496637624,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nV5dWDeEOkry59AE",
+  "folder": "hgixJd3wpr9AXLlR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nV5dWDeEOkry59AE"
+}

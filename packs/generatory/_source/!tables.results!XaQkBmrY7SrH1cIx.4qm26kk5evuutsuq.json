@@ -1,0 +1,16 @@
+{
+  "text": "Краснолюдский плащ",
+  "type": 2,
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "4qm26kk5evuutsuq",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "4G5ugI22CorLaEWR",
+  "_key": "!tables.results!XaQkBmrY7SrH1cIx.4qm26kk5evuutsuq"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Завернутая в бумагу индюшачья ножка",
+  "img": "icons/commodities/biological/hand-clawed-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "d8dagpNcKrXmxt2I",
+  "_id": "2BaSgM0kvOuQFSBV",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.2BaSgM0kvOuQFSBV"
+}

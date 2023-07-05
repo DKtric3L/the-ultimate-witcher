@@ -1,0 +1,53 @@
+{
+  "name": "2 ритуала новичка",
+  "type": "spell",
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": false,
+    "effect": "",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_id": "2ELSPtxb7t3t1Khy",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663425341599,
+    "modifiedTime": 1663425346718,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!dOeQYcWPrnQjn0mK.2ELSPtxb7t3t1Khy"
+}

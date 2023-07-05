@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Укрытие Шаллы",
+  "type": "effect",
+  "img": "icons/magic/nature/stealth-hide-eyes-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.1FHGXwVjDTXiK8hi"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Вы не оставляете следов, пока находитесь в области заклинания. Вас все ещё можно выследить магией.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_mvq9kxzje",
+        "skill": "WITCHER.SkDexStealth",
+        "modifier": "10"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883187,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cNkioX3GYggpunWY",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cNkioX3GYggpunWY"
+}

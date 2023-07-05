@@ -1,0 +1,49 @@
+{
+  "name": "Слепота",
+  "type": "effect",
+  "img": "icons/skills/wounds/injury-eyes-blood-red-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.G1RXi9KoBtn4UCfo"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Глаза персонажа закрыты или повреждены. Пока персонаж не потратит ход, чтобы восстановить зрение, он получает штраф -3 ко всем атакам и защите и штраф -5 к проверкам Внимания, связанным со зрением",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkIntAwareness",
+        "modifier": "-5(Связанные со зрением)"
+      },
+      {
+        "id": "_c3q9945bb",
+        "skill": "WITCHER.SkRefBrawling",
+        "modifier": "-3(Касается всех видов атак и защиты)"
+      }
+    ],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1688508906626,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "G1RXi9KoBtn4UCfo",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!G1RXi9KoBtn4UCfo"
+}

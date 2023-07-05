@@ -1,0 +1,16 @@
+{
+  "text": "Невидимая лента",
+  "type": 2,
+  "img": "icons/magic/lightning/bolt-strike-embers-teal.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "ppz2wVQxeIpX8nUl",
+  "documentId": "41PGkwnahd6rg7io",
+  "flags": {},
+  "_key": "!tables.results!jwNLKKU8qFbzLhTY.ppz2wVQxeIpX8nUl"
+}

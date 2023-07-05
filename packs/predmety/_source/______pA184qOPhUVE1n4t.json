@@ -1,0 +1,44 @@
+{
+  "name": "Лютня",
+  "type": "valuable",
+  "img": "icons/tools/instruments/lute-gold-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_qtp9pduhxta",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.FhhFSm2GqHIV8n5v"
+    }
+  },
+  "system": {
+    "description": "Музыкальный инструмент. на котором можно сыграть, если у вас есть навыки.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 38,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868978,
+    "modifiedTime": 1685496603566,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pA184qOPhUVE1n4t",
+  "folder": "aE6ovGuZ0qcI7aJt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pA184qOPhUVE1n4t"
+}

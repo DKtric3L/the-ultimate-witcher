@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "text": "Шелк",
+  "img": "icons/commodities/cloth/cloth-bolt-gold-orange.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "93tLX5u6u343RqSu",
+  "_id": "xhDCHbBW26Naw0et",
+  "flags": {},
+  "_key": "!tables.results!UsMLn6LlS08K6zwk.xhDCHbBW26Naw0et"
+}

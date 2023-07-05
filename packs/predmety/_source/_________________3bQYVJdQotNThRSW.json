@@ -1,0 +1,44 @@
+{
+  "name": "Карта континента",
+  "type": "valuable",
+  "img": "icons/tools/navigation/map-marked-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.E49Mq8TFQPB5vw96"
+    }
+  },
+  "system": {
+    "description": "Лучшие карты, какие у нас есть, изображают территорию от Драконьих гор до Нильфгаарда и от Скеллиге до Кората. Они неплохие, но в зависимости от региона, где их нарисовали, рисунок может несколько различаться (+3 к навигации).",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 18,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3bQYVJdQotNThRSW",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3bQYVJdQotNThRSW"
+}

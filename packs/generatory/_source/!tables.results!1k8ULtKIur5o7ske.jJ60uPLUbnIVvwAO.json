@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Главный работяга",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Lirian_concinjer_Maciej_Laszkiewicz.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "18zV3B41PpMcZx6M",
+  "_id": "jJ60uPLUbnIVvwAO",
+  "flags": {},
+  "_key": "!tables.results!1k8ULtKIur5o7ske.jJ60uPLUbnIVvwAO"
+}

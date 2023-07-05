@@ -1,0 +1,16 @@
+{
+  "_id": "oKZeEBIq2FLMNk2e",
+  "flags": {},
+  "type": 0,
+  "text": "Повреждённый глаз(-1 к зрительному вниманию). Обычно ведьмаки двигаются достаточно быстро, чтобы уйти от удара по важному месту, но некоторые чудовища быстрее. Из-за удара в глаз вы не очень хорошо видите.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Z7kTt2NxEPQu1oAu.oKZeEBIq2FLMNk2e"
+}

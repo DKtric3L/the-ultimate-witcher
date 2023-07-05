@@ -1,0 +1,38 @@
+{
+  "name": "Материализация",
+  "type": "effect",
+  "img": "icons/magic/death/undead-ghost-scream-teal.webp",
+  "system": {
+    "description": "Любое бесплотное существо становится материальным",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.N6zvBDAnPGros676"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1670450268343,
+    "modifiedTime": 1688508886233,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "_id": "PPzHMJIQf9k8HogQ",
+  "_key": "!items!PPzHMJIQf9k8HogQ"
+}

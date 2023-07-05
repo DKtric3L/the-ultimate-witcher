@@ -1,0 +1,60 @@
+{
+  "_id": "mjVz0IiqrjcbgaJf",
+  "name": "Удушение",
+  "type": "spell",
+  "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_ex348povmdi"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.yMRTom5PVMZpUbWu"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "14",
+    "staminaIsVar": false,
+    "effect": "Душит цель, нанося ей 1dlO урона за ход. Удушение прекращается, если по заклинателю попадает удар оружием или если он отвлекается и перестаёт сосредотачиваться на заклинании. Во время удушения цель считается ошеломлённой",
+    "range": "10м",
+    "duration": "актив(4 вын)",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!35PrRyyk0lNl1KVq.mjVz0IiqrjcbgaJf"
+}

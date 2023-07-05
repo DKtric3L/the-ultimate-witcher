@@ -1,0 +1,44 @@
+{
+  "name": "Одежда",
+  "img": "icons/equipment/back/cloak-brown-collared-fur-white-tied.webp",
+  "results": [
+    "pvrwwnmjwxbdebx8",
+    "qta3g4owierrzvi2",
+    "8yldss4gippdhf8a",
+    "04xzwi1o2uy7pjxs",
+    "752drj5mcuqv46bd",
+    "zkkguwrpbn0eesq1",
+    "61n687cwc2z78qgc",
+    "zjomq346isoi1upy",
+    "57srs4ny853zqf7v",
+    "q03o064j2gkuzups"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.d9rvvl0d72KWaOlp"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932911,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qzagy1uhKevTpTWP",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!qzagy1uhKevTpTWP"
+}

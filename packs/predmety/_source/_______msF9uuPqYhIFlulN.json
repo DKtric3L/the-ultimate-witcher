@@ -1,0 +1,42 @@
+{
+  "name": "Карета",
+  "type": "mount",
+  "img": "icons/environment/settlement/wagon.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.hXJOT5O3NviuRj72"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": null,
+    "cost": 660,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "dex": "",
+    "control": "-1",
+    "speed": "-3",
+    "hp": 600
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868975,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "msF9uuPqYhIFlulN",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!msF9uuPqYhIFlulN"
+}

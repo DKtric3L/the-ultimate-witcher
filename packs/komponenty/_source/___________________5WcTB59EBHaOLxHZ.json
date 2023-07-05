@@ -1,0 +1,46 @@
+{
+  "name": "Совершенный Сапфир",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/gems/perfect_sapphire.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_exyfhhk7kbp",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.yyAJYmwhVpaJizRt"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 1000,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Rare",
+    "location": "Трансмутация или изготовление",
+    "quantityObtainable": "1",
+    "forage": "30",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1685496584124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "UnzMAmD10NPYMZyU",
+  "sort": 0,
+  "_id": "5WcTB59EBHaOLxHZ",
+  "_key": "!items!5WcTB59EBHaOLxHZ"
+}

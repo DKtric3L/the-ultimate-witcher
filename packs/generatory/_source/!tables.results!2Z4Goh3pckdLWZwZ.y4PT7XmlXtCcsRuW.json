@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Чертеж - модификации арбалета - Новичок",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "9Fa3nd8m3uM9BUPi",
+  "_id": "y4PT7XmlXtCcsRuW",
+  "flags": {},
+  "_key": "!tables.results!2Z4Goh3pckdLWZwZ.y4PT7XmlXtCcsRuW"
+}

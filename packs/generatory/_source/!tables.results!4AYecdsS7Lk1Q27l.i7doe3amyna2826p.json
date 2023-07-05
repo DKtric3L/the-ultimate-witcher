@@ -1,0 +1,16 @@
+{
+  "text": "Походная кузница",
+  "type": 2,
+  "img": "icons/tools/smithing/anvil.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "_id": "i7doe3amyna2826p",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "RtObOOHXsMsJWQEd",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.i7doe3amyna2826p"
+}

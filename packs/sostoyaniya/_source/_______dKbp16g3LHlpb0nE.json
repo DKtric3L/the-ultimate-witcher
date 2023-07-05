@@ -1,0 +1,37 @@
+{
+  "name": "Кошмар",
+  "type": "effect",
+  "img": "icons/magic/control/fear-fright-monster-grin-red-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.dKbp16g3LHlpb0nE"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Заставляет жертву во сне видеть один и тот же жуткий кошмар. Каждую ночь жертва должна совершать проверку Сопротивления убеждению со СЛ, равной проверке Наведения порчи заклинателя. При успехе жертва спит всю ночь, пусть и беспокойно. При провале она не может сомкнуть глаз и не восстанавливает Вын или ПЗ за ночь. Если жертва проваливает проверку 3 ночи подряд, её Вын снижается вполовину, и до тех пор, пока не выспится полную ночь, жертва получает штраф -2 ко всем действиям",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883169,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "dKbp16g3LHlpb0nE",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!dKbp16g3LHlpb0nE"
+}

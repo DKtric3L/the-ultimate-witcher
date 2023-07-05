@@ -1,0 +1,16 @@
+{
+  "_id": "Ryt9sMkxmm5ArxXy",
+  "type": 0,
+  "text": "2 урона прочности оружию.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZZ0sPBUMJ2VQdh2y.Ryt9sMkxmm5ArxXy"
+}

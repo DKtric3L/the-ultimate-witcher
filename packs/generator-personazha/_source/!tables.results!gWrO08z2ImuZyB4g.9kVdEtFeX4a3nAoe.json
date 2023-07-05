@@ -1,0 +1,16 @@
+{
+  "_id": "9kVdEtFeX4a3nAoe",
+  "flags": {},
+  "type": 0,
+  "text": "Ваше нынешнее положение - Опасный преступник. В итоге весь негатив и людская неблагодарность вас добили - вы решили, что поскольку чудовищ становится всё меньше, стоит переключиться на людей. Можете сами решить, чем вы промышляете ради выживания.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gWrO08z2ImuZyB4g.9kVdEtFeX4a3nAoe"
+}

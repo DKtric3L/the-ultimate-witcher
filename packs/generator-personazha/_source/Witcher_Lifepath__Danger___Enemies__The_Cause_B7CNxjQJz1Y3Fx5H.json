@@ -1,0 +1,41 @@
+{
+  "name": "Witcher Lifepath: Danger - Enemies: The Cause",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "q0DM4FW7XCnFdKZu",
+    "oKZeEBIq2FLMNk2e",
+    "kQX7ZeIIWKy5yTPF",
+    "36ROPw9QWjYWmpBV",
+    "9kVdEtFeX4a3nAoe"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.etyRT5AWtCJKkttH"
+    },
+    "cf": {
+      "id": "temp_axvl3ljag6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162957155,
+    "modifiedTime": 1685496652379,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "ghKESyZyM9aHCqmD",
+  "sort": 0,
+  "_id": "B7CNxjQJz1Y3Fx5H",
+  "_key": "!tables!B7CNxjQJz1Y3Fx5H"
+}

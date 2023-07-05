@@ -1,0 +1,42 @@
+{
+  "name": "Жемчуг",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/other/pearl.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4o2s0rjm0j",
+      "color": "#4ab2bf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Океаны и побережья",
+    "quantityObtainable": "1d6/3",
+    "forage": "20",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1685496583962,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6aqwGQUP9xHP791q",
+  "folder": "7pzVeEMkxc9TrnPt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!6aqwGQUP9xHP791q"
+}

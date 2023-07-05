@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    35,
+    35
+  ],
+  "drawn": false,
+  "text": "Песочные часы, минута",
+  "img": "icons/tools/navigation/hourglass-yellow.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "vZMNbiCDtyUDc7yu",
+  "_id": "HwvQh3rleSZczli0",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.HwvQh3rleSZczli0"
+}

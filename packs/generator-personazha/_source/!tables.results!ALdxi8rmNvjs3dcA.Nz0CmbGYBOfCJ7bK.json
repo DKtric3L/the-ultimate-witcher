@@ -1,0 +1,16 @@
+{
+  "_id": "Nz0CmbGYBOfCJ7bK",
+  "type": 2,
+  "text": "Каким был ваш настаник?",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "zfAzg51mEWYmAY9B",
+  "_key": "!tables.results!ALdxi8rmNvjs3dcA.Nz0CmbGYBOfCJ7bK"
+}

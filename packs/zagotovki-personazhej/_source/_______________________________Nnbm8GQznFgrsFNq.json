@@ -1,0 +1,45 @@
+{
+  "name": "Поясная сумка для ингредиентов",
+  "type": "valuable",
+  "img": "icons/containers/bags/pouch-leather-silver-green.webp",
+  "system": {
+    "description": "Просто небольшая сумка, которую крепят к поясу. В ней поместится 5 кг маленьких предметов.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 7,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_r3stwb3cdz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.mejeTE0rKJpQ95F5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868987,
+    "modifiedTime": 1671035359057,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "Nnbm8GQznFgrsFNq",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!3v0292IhRWNohwqu.Nnbm8GQznFgrsFNq"
+}

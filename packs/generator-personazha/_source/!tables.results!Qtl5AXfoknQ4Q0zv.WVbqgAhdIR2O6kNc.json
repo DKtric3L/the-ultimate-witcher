@@ -1,0 +1,16 @@
+{
+  "_id": "WVbqgAhdIR2O6kNc",
+  "type": 2,
+  "text": "Как люди реагировали на вашу магию?Север -2",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "XPtJiM7Hdi3vq9cL",
+  "_key": "!tables.results!Qtl5AXfoknQ4Q0zv.WVbqgAhdIR2O6kNc"
+}

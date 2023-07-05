@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Кикимора-рабочий",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Kikimora_warrion_Karol_Bem.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "qgHEp7OCGL7kqAqg",
+  "_id": "tXiQJqrrbzkZhZTo",
+  "flags": {},
+  "_key": "!tables.results!FVXhj1zx5hYIWm2G.tXiQJqrrbzkZhZTo"
+}

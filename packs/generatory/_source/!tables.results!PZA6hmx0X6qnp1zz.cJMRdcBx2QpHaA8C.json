@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Формула: Фисштех",
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "YqB7DL5ext81pMke",
+  "_id": "cJMRdcBx2QpHaA8C",
+  "flags": {},
+  "_key": "!tables.results!PZA6hmx0X6qnp1zz.cJMRdcBx2QpHaA8C"
+}

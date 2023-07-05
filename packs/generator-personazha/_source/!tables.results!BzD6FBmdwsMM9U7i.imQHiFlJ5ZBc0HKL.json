@@ -1,0 +1,16 @@
+{
+  "_id": "imQHiFlJ5ZBc0HKL",
+  "type": 0,
+  "text": "Позже вы поступили в Гвейсон Хайль или Имперская магическую Академию. Совершите броски по доп. таблице, опираясь от своей школы.",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BzD6FBmdwsMM9U7i.imQHiFlJ5ZBc0HKL"
+}

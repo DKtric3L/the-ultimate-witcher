@@ -1,0 +1,60 @@
+{
+  "name": "Ощущение вибраций",
+  "type": "spell",
+  "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.jxtrj5LjLk8f7O5X"
+    },
+    "cf": {
+      "id": "temp_4w8bxpjli5a"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Касаясь земли, заклинатель начинает слышать шаги каждого в радиусе 100 метров. Вы можете определить, что за существо совершает эти шаги, но не можете определить их личность.",
+    "range": "100м",
+    "duration": "1d10 минут",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Минуты)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496638757,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "prnl8lzZ8k80E7zf",
+  "folder": "UWJmUntsU0DtqGaG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!prnl8lzZ8k80E7zf"
+}

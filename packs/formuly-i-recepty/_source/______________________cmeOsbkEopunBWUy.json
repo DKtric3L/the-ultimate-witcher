@@ -1,0 +1,77 @@
+{
+  "name": "Глифово слово: Сияние",
+  "type": "diagrams",
+  "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.qIwrKFPcmeZfbK3J"
+    },
+    "cf": {
+      "id": "temp_1r5chs154v7"
+    }
+  },
+  "system": {
+    "description": "<p>Ставится на торс.<br />Потратив действие, чтобы потереть глифовые слова на доспехе, они начинают источать свет в радиусе 6 метров, излучая днейной свет в течение 30 минут. Монстры, уязвимые к свету, получают соответствуюищй урон от свечения доспеха.</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1750,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Глиф воздуха"
+      },
+      {
+        "id": "_ev31pf22u",
+        "name": "Глиф сопротивления",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_fix5pj4xz",
+        "name": "Занимает 2 ячейки улучшения",
+        "percentage": ""
+      }
+    ],
+    "investment": 875,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848412,
+    "modifiedTime": 1685496579124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cmeOsbkEopunBWUy",
+  "folder": "7ogE3cPtN4Xw0G1z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cmeOsbkEopunBWUy"
+}

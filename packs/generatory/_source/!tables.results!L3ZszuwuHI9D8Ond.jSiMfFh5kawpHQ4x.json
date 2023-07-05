@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    29,
+    29
+  ],
+  "drawn": false,
+  "text": "Список людей",
+  "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "nJjuO8oXZaQmUxLG",
+  "_id": "jSiMfFh5kawpHQ4x",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.jSiMfFh5kawpHQ4x"
+}

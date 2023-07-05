@@ -1,0 +1,42 @@
+{
+  "name": "Куттер",
+  "type": "mount",
+  "img": "icons/environment/settlement/ship.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.oki5lwJThwzkoWOB"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "одномачтовый парусный корабль. Использовался для посыльной и разведывательной службы, а также в таможне и береговой охране.",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1670,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "dex": "",
+    "control": "",
+    "speed": "10",
+    "hp": 60
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868978,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IpxMhB5y0WhAwcxW",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IpxMhB5y0WhAwcxW"
+}

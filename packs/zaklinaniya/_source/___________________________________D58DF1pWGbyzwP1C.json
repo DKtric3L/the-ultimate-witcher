@@ -1,0 +1,90 @@
+{
+  "name": "Приращивание дополнительной головы",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zhest.esh159OWn9YZ0O5q"
+    },
+    "cf": {
+      "id": "temp_irvl6ds3fn"
+    }
+  },
+  "system": {
+    "description": "<p>Вводя смесь мутагенов и материала из мозга сохраненной головы в спинной мозг Существа, вы заставляете Существо вырастить рудиментарную голову. Взрослая голова дает Существу все его Естественное оружие (например, Укус, Рога, Кровь и т. д.), Способности (например, Выплевывание яда, Звуковой визг или Ночное видение) и Уязвимости, которые локализованы, связаны или созданы из головы. Мозг только что присоединенной головы больше не функционирует, а мозг основной головы контролирует свою новую голову. Чтобы быть использованной в качестве компонента этой Черты, сохраненная голова должна быть в течение года с даты первоначальной консервации.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": null,
+    "alchemyDC": 0,
+    "craftingTime": "",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Синий мутаген"
+      },
+      {
+        "id": "_n19svqnfk",
+        "name": "Зеленый мутаген",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_diaow41wd",
+        "name": "Красный Мутаген",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_aqdq3h7fc",
+        "name": "Сохраненная голова",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_fr36lnf2c",
+        "name": "Талант мутации 5 уровня(Маг)",
+        "percentage": "",
+        "quantity": "5"
+      }
+    ],
+    "investment": null,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496637677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "D58DF1pWGbyzwP1C",
+  "folder": "vGJDximI7xAFPxUk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!D58DF1pWGbyzwP1C"
+}

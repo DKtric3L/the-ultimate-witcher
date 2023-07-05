@@ -1,0 +1,26 @@
+{
+  "_id": "oztuKMtvUA5bXLiJ",
+  "name": "Быстрый побег",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Шептуха может обратиться в стаю ворон или исчезнуть в болотных водах и переместиться на расстояние до 10 метров."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!dqokOq0i1ReX4mhA.oztuKMtvUA5bXLiJ"
+}

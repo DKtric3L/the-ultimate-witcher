@@ -1,0 +1,205 @@
+{
+  "name": "Скорпио",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.DEZAFV2mKAiOPaNP"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.2VtzQAy4rn7z79P9]{Скорпио}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 3750,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "24ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "9",
+        "name": "Кости животных"
+      },
+      {
+        "id": "_l5w4r0q0e",
+        "name": "Темное железо",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_zqf23ctk4",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "8"
+      },
+      {
+        "id": "_1ab4att5c",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_ei39a7zvi",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_ynsj1wh1j",
+        "name": "Укрепленная древесина",
+        "percentage": "",
+        "quantity": "30"
+      },
+      {
+        "id": "_qbm3dxmon",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "8"
+      },
+      {
+        "id": "_67og189lp",
+        "name": "Масло",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_3jqp8caoi",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_78yfl0opo",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "18"
+      },
+      {
+        "id": "_ie4jdom5b",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "10"
+      }
+    ],
+    "investment": 1875,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Скорпио",
+      "type": "weapon",
+      "img": "icons/weapons/crossbows/crossbow-golden-bolt.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 40,
+        "cost": 2500,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": null,
+        "avail": "Rare",
+        "damage": "10d6",
+        "reliable": 20,
+        "maxReliability": 20,
+        "hands": "2",
+        "range": "200",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Командная перезарядка",
+            "percentage": ""
+          },
+          {
+            "id": "_qj9tbp46v",
+            "name": "Чтобы перезарядить это оружие, требуется 2 действия. Эти действия могут быть предприняты двумя отдельными людьми.",
+            "percentage": ""
+          },
+          {
+            "id": "_j932ttd8b",
+            "name": "Устанавливается",
+            "percentage": ""
+          },
+          {
+            "id": "_vlwqv3ygl",
+            "name": "Это оружие фиксируется в одном месте, а не удерживается. Персонаж должен совершить действие, чтобы установить оружие там, где он хочет его использовать, и должен совершить действие, чтобы упаковать его, когда он захочет снова его переместить.",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Crossbow",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_uugqhd13qjr"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863943,
+        "modifiedTime": 1672542412010,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848428,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "W4lgjZ79i4xKLbUe",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!W4lgjZ79i4xKLbUe"
+}

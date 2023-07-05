@@ -1,0 +1,42 @@
+{
+  "name": "Как люди реагировали на вашу магию?нильф -2",
+  "img": "icons/svg/circle.svg",
+  "description": "Как люди реагировали на вашу магию?",
+  "results": [
+    "jneEZ9zIQx3ZZ58m",
+    "Z7zsHdxwx0a9BsqR",
+    "E1lufgTuyb7cOz4b",
+    "ZQnfOAPmlG2NsVJv",
+    "3Wj1fT1WTTW8ehLx",
+    "br0uxt49igqgr8zN",
+    "4QPVWmoCdy0RXa0T"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Fm1HdC3W7hJimgjo"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901095,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "k8dceSavCpZuaojz",
+  "_key": "!tables!k8dceSavCpZuaojz"
+}

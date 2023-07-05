@@ -1,0 +1,16 @@
+{
+  "_id": "rgakcmtellYnCLOK",
+  "type": 0,
+  "text": "Враг государства. Ваши политические планы были раскрыты, и вас заклеймили врагом нации, против которой вы замышляли заговор. Ваш статус Ненависть в этой стране независимо от вашего социального положения в этом регионе.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!JBnDSizeUxxgXQ2a.rgakcmtellYnCLOK"
+}

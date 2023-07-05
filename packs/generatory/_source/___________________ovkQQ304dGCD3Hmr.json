@@ -1,0 +1,43 @@
+{
+  "name": "Где цель убийства?",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "e2qRYXNROf5rbFiI",
+    "9aI5xDJrCdTZRSQn",
+    "LoHqq3NehPTIjwLK",
+    "H0tjG4vkEsA84Uk9",
+    "kVn1njn3Bd58SMF4",
+    "E0w4drXKwLBSDyiB",
+    "xbWLnHIeYSAitPn8",
+    "oLvqpjwWmPJfhxEh",
+    "aKA0Yl2Zh0y04XUd"
+  ],
+  "formula": "1d150",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "ovkQQ304dGCD3Hmr",
+  "_key": "!tables!ovkQQ304dGCD3Hmr"
+}

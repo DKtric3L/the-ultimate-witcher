@@ -1,0 +1,38 @@
+{
+  "name": "Случайная Инвокация друида",
+  "img": "icons/magic/nature/leaf-rune-glow-green.webp",
+  "description": "",
+  "results": [
+    "P2Khma7ekFZjjePF",
+    "7mrhdPYSjhGEcH6o",
+    "FLyI5A8KHU0DwuRU",
+    "Jd1UlcrwszRLS5fO"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.YhEGG7SdeDBhFhoz"
+    },
+    "cf": {
+      "id": "temp_cboveqoq8kl"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932918,
+    "modifiedTime": 1685496644235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rmvosulV4aDuq0Ni",
+  "folder": "hu5je5cICYkkCemz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!rmvosulV4aDuq0Ni"
+}

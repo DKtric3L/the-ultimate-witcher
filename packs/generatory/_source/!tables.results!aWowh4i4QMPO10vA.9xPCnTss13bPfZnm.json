@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "9xPCnTss13bPfZnm",
+  "text": "Свободных Комнат на одного человека - [[2d6]]",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!aWowh4i4QMPO10vA.9xPCnTss13bPfZnm"
+}

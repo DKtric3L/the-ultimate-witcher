@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    25,
+    25
+  ],
+  "drawn": false,
+  "text": "Свисток",
+  "img": "icons/tools/instruments/pipe-flue-tan.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "DYIOCSuNMAUgoQWf",
+  "_id": "eNJMxqibXtdGBqXd",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.eNJMxqibXtdGBqXd"
+}

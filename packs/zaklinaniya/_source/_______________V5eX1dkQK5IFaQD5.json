@@ -1,0 +1,60 @@
+{
+  "name": "Сосуд для души",
+  "type": "spell",
+  "img": "icons/creatures/magical/spirit-mischief-fire-ice-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OrSnfwQopYA2snw7"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 4d10.\nЗаклинатель переносит свою жизненную силу в совершенный самоцвет. Душа заклинателя покидает тело, а тело входит в то же состояние, что и при ритуале Фальшивая смерть. Находясь внутри камня, заклинатель полностью осознает свое окружение и может овладевать людьми. Когда эффект ритуала заканчивается или самоцвет разрушается, душа возвращается обратно в тело. Если тело умирает, заклинатель умирает вместе с ним. Душа бесплотна, но может получить урон, если применен эффект, меняющий это состояние (например, от бомбы «Лунная пыль»), сам урон наносится телу. Если тело находится дальше, чем в 1 км от души, когда самоцвет разбивается или заклинание заканчивается, заклинатель умирает. Если урон приходится по другому телу, одержимому заклинателем, оно получает этот урон. Если одержимое тело умирает, душа возвращается в самоцвет. Если одержимое тело умирает дальше, чем в 1 км от самоцвета, заклинатель умирает",
+    "range": "",
+    "duration": "2d10 дней",
+    "defence": "",
+    "components": "Совершенный самоцвет (x1), Пятая эссенция (x5), Дымная пыль (x2), Слюна вампира (x4), Экстракт яда (x5)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "20",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Дни)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "V5eX1dkQK5IFaQD5",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!V5eX1dkQK5IFaQD5"
+}

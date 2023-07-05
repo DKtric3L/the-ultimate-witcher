@@ -1,0 +1,57 @@
+{
+  "name": "Супирре",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/suppire.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_by6qvwohmig"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Нанесение Знака Супирре на поверхность позволяет связать его с точкой в радиусе действия заклинания. При подключении вы можете слышать все, что происходит рядом с этой точкой, как если бы это было прямо рядом с вами, и можете сосредоточиться на одном звуке или разговоре, отключив все другие шумы. Пока этот знак активен, вам не нужно делать проверку Внимания, чтобы услышать какой-либо разговор в связанной точке. Знак может быть связан только с одним местом и должен быть переделан для прослушивания в другом месте. Диапазон действия этого знака определяется количеством очков выносливости, потраченных при применении. При использовании с 1 очком Вын Супирре имеет дальность действия 2 м. За каждое потраченное сверх этого очка выносливости максимальная дальность действия знака увеличивается на 2 м",
+    "range": "Разная",
+    "duration": "10 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892175,
+    "modifiedTime": 1685496637331,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "50cyzIkLFhxs1ZAp",
+  "folder": "1yUiH11eSu2R2pwl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!50cyzIkLFhxs1ZAp"
+}

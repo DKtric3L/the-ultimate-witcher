@@ -1,0 +1,46 @@
+{
+  "name": "Усиление из клёпаной кожи",
+  "type": "enhancement",
+  "img": "icons/equipment/shoulder/shoulderguard-segmented-studded-leather-brass.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.q53HTpWsaxifG5LR"
+    },
+    "cf": {
+      "id": "temp_58lmmpxrkto"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 80,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "applied": "",
+    "avail": "Common",
+    "effects": [],
+    "stopping": 2,
+    "bludgeoning": false,
+    "slashing": true,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1685496603235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "q53HTpWsaxifG5LR",
+  "folder": "tRUr0kPpmp01LWJ6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!q53HTpWsaxifG5LR"
+}

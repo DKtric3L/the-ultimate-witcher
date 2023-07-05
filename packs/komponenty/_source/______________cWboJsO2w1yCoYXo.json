@@ -1,0 +1,45 @@
+{
+  "name": "Сок археспоры",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_harpy.dds_.6938.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.TheWitcherTRPG.Components.OMUZh08PAzTwAjvU"
+    },
+    "cf": {
+      "id": "temp_fg9eec92znn",
+      "color": "#af76b7"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 38,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Archespores",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853705,
+    "modifiedTime": 1685496584148,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cWboJsO2w1yCoYXo",
+  "folder": "7TZIuuDLQ1YmQET3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cWboJsO2w1yCoYXo"
+}

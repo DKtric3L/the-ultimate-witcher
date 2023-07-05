@@ -1,0 +1,16 @@
+{
+  "text": "Курильница с запекшейся кровью",
+  "type": 2,
+  "img": "icons/commodities/treasure/lantern-stone-grey.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "_id": "38mmb04rz2r8dgei",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Wcp6TQyhp8qZdDeq",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.38mmb04rz2r8dgei"
+}

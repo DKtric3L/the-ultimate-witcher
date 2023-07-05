@@ -1,0 +1,142 @@
+{
+  "name": "Усиленные штаны",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.5fDOf3q1MdXteBzz"
+    },
+    "cf": {
+      "id": "temp_ixu4y0oihop"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.ODcipiFENlJXjOKE]{Усиленные штаны}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 374,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "8ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укрепленная кожа"
+      },
+      {
+        "id": "_dl5kugskr",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_rlvvd0zxa",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_eugo77o5u",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "5"
+      }
+    ],
+    "investment": 187,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Усиленные штаны",
+      "type": "armor",
+      "img": "icons/equipment/leg/cuisses-reticulated-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3.5,
+        "cost": 250,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 12,
+        "leftLegMaxStopping": 12,
+        "rightLegStopping": 12,
+        "rightLegMaxStopping": 12,
+        "type": "Medium",
+        "avail": "Everywhere",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Leg",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_4zb4x6lgt3c"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837869,
+        "modifiedTime": 1668162837869,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848431,
+    "modifiedTime": 1685496579461,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5fDOf3q1MdXteBzz",
+  "folder": "xCYuH6Lu3RuqOi5r",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5fDOf3q1MdXteBzz"
+}

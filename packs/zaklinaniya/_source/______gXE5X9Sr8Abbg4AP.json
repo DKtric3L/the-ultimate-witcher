@@ -1,0 +1,60 @@
+{
+  "name": "Хатри",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/hatri.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.rC0UrmSyrYg0nmgz"
+    },
+    "cf": {
+      "id": "temp_o2pfhdxk2ma"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "basic",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Хатри обращает ненависть, жажду крови или голод в форму страха, запугивая цель. За каждые 2 дополнительных очка Вын (свыше 1), цель проводит еще один раунд в ужасе. В таком состоянии противник не может приблизиться к заклинателю и должен убегать.",
+    "range": "8м",
+    "duration": "Меняется",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496638464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gXE5X9Sr8Abbg4AP",
+  "folder": "7aDTE4Bqwe5aou9p",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gXE5X9Sr8Abbg4AP"
+}

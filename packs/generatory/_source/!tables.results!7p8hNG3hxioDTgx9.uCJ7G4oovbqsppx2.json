@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    7,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "uCJ7G4oovbqsppx2",
+  "text": "Наниматель попытается дать только половину оговорённой суммы",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!7p8hNG3hxioDTgx9.uCJ7G4oovbqsppx2"
+}

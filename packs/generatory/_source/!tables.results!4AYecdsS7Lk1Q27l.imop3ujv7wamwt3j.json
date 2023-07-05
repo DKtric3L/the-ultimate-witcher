@@ -1,0 +1,16 @@
+{
+  "text": "Инструменты торговца",
+  "type": 2,
+  "img": "icons/tools/hand/scale-balances-merchant-brown.webp",
+  "weight": 1,
+  "range": [
+    17,
+    17
+  ],
+  "drawn": false,
+  "_id": "imop3ujv7wamwt3j",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "vwqbNMAQpPLcR9ri",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.imop3ujv7wamwt3j"
+}

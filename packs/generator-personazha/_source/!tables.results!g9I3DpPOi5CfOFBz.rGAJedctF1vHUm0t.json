@@ -1,0 +1,16 @@
+{
+  "_id": "rGAJedctF1vHUm0t",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Северные королевства",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!g9I3DpPOi5CfOFBz.rGAJedctF1vHUm0t"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Преимущество Вастра",
+  "type": "spell",
+  "img": "icons/magic/earth/strike-stone-stalactite-blood-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.p9Opjady9wTwAEXd"
+    },
+    "cf": {
+      "id": "temp_4w8bxpjli5a"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Вастр - это вердэнец, прославившийся своим мужеством. Он забрался на груду камней и привлек внимание всех на поле боя, дав своим солдатам преимущество в бою. \n\nПреимущество Вастра создает 6-метровую груду камней у ног заклинателя. Тратя 2 Вын, вы может увеличить груду на 4 м за раунд. Все цели, которые видят вас на вершине груды камней, считают вас участником ближнего боя в соответствии с правилом Объединение сил. Вы можете произнести заклинание еще раз, чтобы вернуть груду в землю. Груду камней можно уничтожить, нанеся ей 35 единиц урона.",
+    "range": "на себя",
+    "duration": "Пока не сотворено снова",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638757,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qUPherrp2p0ydMYN",
+  "folder": "UWJmUntsU0DtqGaG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qUPherrp2p0ydMYN"
+}

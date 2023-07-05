@@ -1,0 +1,40 @@
+{
+  "name": "Чертеж - модификации арбалета - Новичок",
+  "description": "A random table created from the contents of the Новичок Folder.",
+  "results": [
+    "CVXx45xRNl43IUjU",
+    "wsVPtvg30qlxLv2v"
+  ],
+  "formula": "1d2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2b229a57f281b288c7e8f78dda745cda48336375",
+      "sourceId": "RollTable.nlLC2o2wycA5EXl2"
+    },
+    "core": {
+      "sourceId": "RollTable.nlLC2o2wycA5EXl2"
+    },
+    "cf": {
+      "id": "temp_d8c3idiea8s"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672829912024,
+    "modifiedTime": 1685496644418,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ydNMfXwdwR68I3Fr",
+  "sort": 0,
+  "_id": "9Fa3nd8m3uM9BUPi",
+  "_key": "!tables!9Fa3nd8m3uM9BUPi"
+}

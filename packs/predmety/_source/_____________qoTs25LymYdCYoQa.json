@@ -1,0 +1,44 @@
+{
+  "name": "Кошачий мозг",
+  "type": "component",
+  "img": "icons/commodities/biological/organ-brain-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.WkMfa4b3o9wn5R0M"
+    },
+    "cf": {
+      "id": "temp_o9qp5pd3li"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Everywhere",
+    "location": "Коты",
+    "quantityObtainable": "1",
+    "forage": "12",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496603327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qoTs25LymYdCYoQa",
+  "folder": "Y27EgvFkpvqgYHAE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qoTs25LymYdCYoQa"
+}

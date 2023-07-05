@@ -1,0 +1,80 @@
+{
+  "_id": "KE3jcu2t7cP0wtWp",
+  "name": "Когти",
+  "type": "weapon",
+  "img": "icons/creatures/claws/claw-talons-glowing-purple.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.VZfbDGzBaNhHQnHP"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее",
+      "slashing": true,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 2,
+    "avail": "Everywhere",
+    "damage": "8d6",
+    "reliable": "20",
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Разрушающее",
+        "percentage": ""
+      },
+      {
+        "id": "_v7qoc983o",
+        "name": "Длинное",
+        "percentage": ""
+      },
+      {
+        "id": "_tv9hgmq7h",
+        "name": "Кровопускающее",
+        "percentage": "75"
+      },
+      {
+        "id": "_vu44oxv9p",
+        "name": "Сбивающее с ног",
+        "percentage": "50"
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": "3",
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!WpoCsCHlFqTBkLcK.KE3jcu2t7cP0wtWp"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "mp0F0yfLeczgHYKB",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Danger - Enemies: Position",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "NYkXHsDdDW1t24Dw",
+  "_key": "!tables.results!YPHay0WAjR8lVQhD.mp0F0yfLeczgHYKB"
+}

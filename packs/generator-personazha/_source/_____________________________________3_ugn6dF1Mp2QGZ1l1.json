@@ -1,0 +1,41 @@
+{
+  "name": "Как люди реагировали на вашу магию? -3",
+  "img": "icons/svg/circle.svg",
+  "description": "Как люди реагировали на вашу магию?",
+  "results": [
+    "IhfL7pPZy5Rtk5Wr",
+    "2SdjvXykINdORdLY",
+    "RyBJL27IkBWSqF4f",
+    "2egkw56S2QQfDdR2",
+    "uFBe7JkW6EqkhMsm",
+    "E9flFgZ2yhYMdHDm"
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Fm1HdC3W7hJimgjo"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901094,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "ugn6dF1Mp2QGZ1l1",
+  "_key": "!tables!ugn6dF1Mp2QGZ1l1"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "qo76ffHBCVwx1yyu",
+  "type": 2,
+  "text": "Маг - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "bOEboAKzfCzScDVQ",
+  "_key": "!tables.results!1rWikH2isnNuUo4X.qo76ffHBCVwx1yyu"
+}

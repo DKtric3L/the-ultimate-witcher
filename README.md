@@ -37,3 +37,91 @@ PROFIT!
 **Состояния** - Бафы от заклинаний, зелий, отваров, травм, и вообще на что угодно. Их можно удобно переносить в чарники персонажей.
 
 **Прочее** - Области заклинаний, ловушек и призываемые заклинаниями существа, которых удобно помещать на карту для обозначения.
+
+## Упаковка/Распаковка (FVTT11)
+
+### Настройка тулы
+
+---
+
+#### установить тулу (без нее не получится запаковать сырцы в удобоваримый для фаундри формат компендиумов)
+> npm install -g @foundryvtt/foundryvtt-cli
+
+#### После установки нужно сконфигурировать модуль 
+> fvtt configure
+
+#### Нужно будет установить эти 2 переменные при помощи следующих команд
+- installPath: C:\Users\<username>\AppData\Local\FoundryVTT
+- dataPath: <somewhere>
+
+> fvtt configure set installPath "путь к папке с установленным фаундри"
+>
+> fvtt configure set dataPath "путь к папке с модулями, мирами, которые хотие паковать"
+
+#### В указанных директориях должны быть следующие папки:
+- Data
+  - modules
+  - systems
+  - worlds
+
+#### Указать туле с каким конкретно модулем работать (он должен быть расположен в dataPath/Data/modules)
+> fvtt package workon "the-ultimate-witcher"
+
+---
+
+#### Распаковка 
+
+---
+
+##### использовать только если очень нужно что-то поменять в компендиуме и сохранить в гите
+> fvtt package unpack "boj"
+> . . . // Делаем свои грязные дела
+
+---
+
+#### Упаковка
+
+---
+
+##### нужно упаковать модули перед тем как скормить их фаундри
+> fvtt package pack "boj"
+
+---
+
+Пакуем ВСЕ
+
+> fvtt package pack "boj" && \
+> 
+> fvtt package pack "dospehi" && \
+> 
+> fvtt package pack "formuly-i-recepty" && \
+> 
+> fvtt package pack "generator-personazha" && \
+> 
+> fvtt package pack "generatory" && \
+> 
+> fvtt package pack "komponenty" && \
+> 
+> fvtt package pack "monstry" && \
+> 
+> fvtt package pack "oruzhie" && \
+> 
+> fvtt package pack "poleznye-materialy" && \
+> 
+> fvtt package pack "predmety" && \
+> 
+> fvtt package pack "predystoriya-maga" && \
+> 
+> fvtt package pack "prochee" && \
+> 
+> fvtt package pack "rasy-i-professii" && \
+> 
+> fvtt package pack "relikvii" && \
+> 
+> fvtt package pack "sostoyaniya" && \
+> 
+> fvtt package pack "vedmache-snaryazhenie" && \
+> 
+> fvtt package pack "zagotovki-personazhej" && \
+> 
+> fvtt package pack "zaklinaniya"

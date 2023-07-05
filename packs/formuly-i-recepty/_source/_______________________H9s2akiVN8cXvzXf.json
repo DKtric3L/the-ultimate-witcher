@@ -1,0 +1,148 @@
+{
+  "name": "Кожаные штаны из лирии",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.H9s2akiVN8cXvzXf"
+    },
+    "cf": {
+      "id": "temp_ixu4y0oihop"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.tCBS1R8QFKulfiLW]{Кожаные штаны из лирии}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 786,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Лирийская кожа"
+      },
+      {
+        "id": "_bkvkj1org",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_lzx7wfe58",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_76m81ulds",
+        "name": "Полотно",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_j4s50knhy",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 392,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Кожаные штаны из лирии",
+      "type": "armor",
+      "img": "icons/equipment/leg/pants-leather-tasset-brown.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3.5,
+        "cost": 525,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 16,
+        "leftLegMaxStopping": 16,
+        "rightLegStopping": 16,
+        "rightLegMaxStopping": 16,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Leg",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_4zb4x6lgt3c"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837867,
+        "modifiedTime": 1668162837867,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848417,
+    "modifiedTime": 1685496579461,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "H9s2akiVN8cXvzXf",
+  "folder": "xCYuH6Lu3RuqOi5r",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!H9s2akiVN8cXvzXf"
+}

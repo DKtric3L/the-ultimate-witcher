@@ -1,0 +1,43 @@
+{
+  "name": "Фульгор + Киноварь",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-round-corked-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.5zxCwLHV4CTnyeVG"
+    },
+    "cf": {
+      "id": "temp_eux3i6hppej"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "+3 против Запугивания на 1 час. Срок годности - трое суток.",
+    "time": "1 час",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868994,
+    "modifiedTime": 1685496603958,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qamWJdw4zeMexUnJ",
+  "folder": "CBt5ySUeOvzVkJGY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qamWJdw4zeMexUnJ"
+}

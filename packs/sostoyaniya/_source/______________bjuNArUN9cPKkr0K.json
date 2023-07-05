@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Пурга",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/potions/blizzard.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.bjuNArUN9cPKkr0K"
+    },
+    "cf": {
+      "id": "temp_d24zge9h815"
+    }
+  },
+  "system": {
+    "description": "10 раундов, 75% токсичность.\n+4 к Реа после убийства противника. Последующие убийства не увеличивают бонус, который длится, пока действует эликсир.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496622135,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bjuNArUN9cPKkr0K",
+  "folder": "LzDekdlbqkuddQPT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bjuNArUN9cPKkr0K"
+}

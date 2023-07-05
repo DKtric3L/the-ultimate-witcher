@@ -1,0 +1,57 @@
+{
+  "name": "Бастион Элгана",
+  "type": "spell",
+  "img": "icons/magic/defensive/shield-barrier-glowing-triangle-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zpcw9i6ph2"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "14",
+    "staminaIsVar": false,
+    "effect": "Созданный знаменитым магом Элганом из Вердена, Бастион Эльгана использует следовые количества металла в камне, чтобы при помощи магнитизма поднять щит из камней вокруг вас, и защитить себя от физических атак и повреждений. Этот каменный щит считается Укрытием с 30 ПБ и полностью окружает вас. Находясь в окружении, ваша статистика Скор не может быть выше 2, и вы не можете ничего делать в свой ход, кроме как совершить одно действие Перемещения.",
+    "range": "на себя",
+    "duration": "актив(4 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496637955,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "GHQaWhZwQUmlYoal",
+  "folder": "b6tCkgZmKMYSuvxl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!GHQaWhZwQUmlYoal"
+}

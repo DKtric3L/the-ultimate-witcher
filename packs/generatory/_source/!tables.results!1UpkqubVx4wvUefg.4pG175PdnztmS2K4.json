@@ -1,0 +1,16 @@
+{
+  "text": "Пламенное покрытие",
+  "type": 2,
+  "img": "icons/magic/fire/flame-burning-hand-purple.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "4pG175PdnztmS2K4",
+  "documentId": "rxwU8L6udhZ6FhDI",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.4pG175PdnztmS2K4"
+}

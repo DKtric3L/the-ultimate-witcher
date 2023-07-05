@@ -1,0 +1,51 @@
+{
+  "name": "Глиф земли",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/earth.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.X5ELbaK0GCZfG1Au"
+    },
+    "cf": {
+      "id": "temp_jkla6pjucb"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 575,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "glyph",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Используя заклинания земли, выберите бонус:\n1)Повысьте сложность избегания заклинания для врага на 3.\n2)Увеличьте урон от заклинания на 3."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868972,
+    "modifiedTime": 1685496603411,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "X5ELbaK0GCZfG1Au",
+  "folder": "IwHMGFCqloImUMb0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!X5ELbaK0GCZfG1Au"
+}

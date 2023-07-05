@@ -1,0 +1,16 @@
+{
+  "text": "Ожерелье",
+  "type": 2,
+  "img": "icons/equipment/neck/amulet-simple-carved-stone-spiral.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "_id": "61n687cwc2z78qgc",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "teYQgmf90cioFRop",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.61n687cwc2z78qgc"
+}

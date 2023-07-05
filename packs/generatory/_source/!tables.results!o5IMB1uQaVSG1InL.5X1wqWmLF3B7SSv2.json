@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    22,
+    22
+  ],
+  "drawn": false,
+  "text": "Походная постель",
+  "img": "icons/commodities/cloth/cloth-bolt-grey.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "iG9mYfy5xeOskfPh",
+  "_id": "5X1wqWmLF3B7SSv2",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.5X1wqWmLF3B7SSv2"
+}

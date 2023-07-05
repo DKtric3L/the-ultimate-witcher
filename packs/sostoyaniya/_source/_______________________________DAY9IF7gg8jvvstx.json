@@ -1,0 +1,34 @@
+{
+  "name": "Сломанная шея/Отсечение головы",
+  "type": "effect",
+  "img": "icons/commodities/bones/skull-hollow-worn-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_maooi46ln8"
+    }
+  },
+  "system": {
+    "description": "Ударом персонажу сломали шею или же вовсе сняли голову с плеч. Персонаж немедленно умирает.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1685496621852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DAY9IF7gg8jvvstx",
+  "folder": "PLkbl9b4zJv5jmUU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DAY9IF7gg8jvvstx"
+}

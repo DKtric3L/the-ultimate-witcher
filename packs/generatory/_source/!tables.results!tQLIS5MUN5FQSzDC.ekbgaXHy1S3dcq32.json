@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Допплер",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Doppler_Bartlomiej_Gawel.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "nXyidmw2GSqIbnTX",
+  "_id": "ekbgaXHy1S3dcq32",
+  "flags": {},
+  "_key": "!tables.results!tQLIS5MUN5FQSzDC.ekbgaXHy1S3dcq32"
+}

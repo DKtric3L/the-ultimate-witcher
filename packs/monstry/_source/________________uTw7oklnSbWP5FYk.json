@@ -1,0 +1,44 @@
+{
+  "name": "Джинн в бутылке",
+  "type": "valuable",
+  "img": "icons/consumables/potions/bottle-ornate-bat-teal.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": null,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7431e3385fb14ea8bb887323fb050d7148fbb843",
+      "sourceId": "Item.NB5RSJNWefcGXGCZ"
+    },
+    "core": {
+      "sourceId": "Item.NB5RSJNWefcGXGCZ"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1672825780286,
+    "modifiedTime": 1672826123175,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "uTw7oklnSbWP5FYk",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!ctnZdItFrR5kV9N2.uTw7oklnSbWP5FYk"
+}

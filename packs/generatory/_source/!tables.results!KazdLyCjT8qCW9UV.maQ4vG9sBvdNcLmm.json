@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Случайный Квебрит",
+  "img": "systems/TheWitcherTRPG/assets/images/quebrith.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "IkJb7M8vAGTKXwyu",
+  "_id": "maQ4vG9sBvdNcLmm",
+  "flags": {},
+  "_key": "!tables.results!KazdLyCjT8qCW9UV.maQ4vG9sBvdNcLmm"
+}

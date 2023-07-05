@@ -1,0 +1,44 @@
+{
+  "name": "Кровь Паршивца",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/blood_rotfiend_64x64.png.6867.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_pz6tj2yixz8"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.6AyQVL4uHubfQlLA"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 60,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Паршивцы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "rebis"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853701,
+    "modifiedTime": 1685496584170,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "SCoKK3TdF1WSlijp",
+  "sort": 0,
+  "_id": "t6AsFMT4BOdPD4IU",
+  "_key": "!items!t6AsFMT4BOdPD4IU"
+}

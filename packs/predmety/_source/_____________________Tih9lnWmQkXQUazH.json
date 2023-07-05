@@ -1,0 +1,40 @@
+{
+  "name": "Помощник следователя",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Everywhere",
+    "effect": "Распылитель, наполненный алхимической жидкостью, реагирующей на кровь. При распылении на область, где присутствовала кровь, жидкость становится черной, что\nсвидетельствует о наличии крови. \nКонтейнер с Помощником следователя можно применить 10\nраз, прежде чем он будет израсходован.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Tih9lnWmQkXQUazH",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Tih9lnWmQkXQUazH"
+}

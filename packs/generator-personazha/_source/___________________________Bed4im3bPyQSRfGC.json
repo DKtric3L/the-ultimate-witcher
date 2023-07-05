@@ -1,0 +1,40 @@
+{
+  "name": "Высший вампир - манера боя",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "utvRFbx7NyOrT81h",
+    "uubtgwLlzpcwazKO",
+    "Nye5DjmMoU3DEAiB",
+    "z9TEYrKMjjsbjtc3",
+    "LK3DKHHtvpTPpN2G",
+    "L2yoQN3iL33hcvln"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "Bed4im3bPyQSRfGC",
+  "_key": "!tables!Bed4im3bPyQSRfGC"
+}

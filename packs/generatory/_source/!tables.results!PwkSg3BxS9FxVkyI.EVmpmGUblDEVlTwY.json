@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Ученица из аретузы",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Ucheniza_iz_aretuzi_Maxim_Kostin.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "UH48FlY85LQFJuzE",
+  "_id": "EVmpmGUblDEVlTwY",
+  "flags": {},
+  "_key": "!tables.results!PwkSg3BxS9FxVkyI.EVmpmGUblDEVlTwY"
+}

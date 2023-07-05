@@ -1,0 +1,26 @@
+{
+  "_id": "wV99yQOFzD60ZYh6",
+  "name": "Рабочие артели",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Рабочие часто трудятся большими группами и объединяются при опасности. Рабочий, на которого напали, должен совершить проверку Храбрости со СЛ 12. При успехе он продолжает сражаться, а при провале либо бежит, либо призывает на помощь ещё ld6 рабочих."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!ytqJ23WTDzsTV2fE.wV99yQOFzD60ZYh6"
+}

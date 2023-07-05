@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Насколько вы близки? - Знакомые.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!6eIgGO242YXuLTMk.q0DM4FW7XCnFdKZu"
+}

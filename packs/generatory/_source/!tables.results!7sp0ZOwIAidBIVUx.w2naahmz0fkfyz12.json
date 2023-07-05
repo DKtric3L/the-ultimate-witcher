@@ -1,0 +1,16 @@
+{
+  "text": "Друг животных",
+  "type": 2,
+  "img": "icons/magic/nature/wolf-paw-glow-green.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "_id": "w2naahmz0fkfyz12",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "d0xuZDJ4hLh9uOei",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.w2naahmz0fkfyz12"
+}

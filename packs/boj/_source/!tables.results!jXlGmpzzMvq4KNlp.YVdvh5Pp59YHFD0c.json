@@ -1,0 +1,16 @@
+{
+  "_id": "YVdvh5Pp59YHFD0c",
+  "type": 0,
+  "text": "Сломанные рёбра - От удара у персонажа сломаны рёбра, ему очень тяжело дышать, сгибаться и прилагать усилия. -2 к тел, -1 к реа и лвк. Стабилизация: -1 к тел и реа, Лечение: -1 к тел.",
+  "weight": 1,
+  "range": [
+    1,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!jXlGmpzzMvq4KNlp.YVdvh5Pp59YHFD0c"
+}

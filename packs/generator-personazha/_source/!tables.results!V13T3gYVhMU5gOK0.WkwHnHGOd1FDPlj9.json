@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "WkwHnHGOd1FDPlj9",
+  "text": "Этот вампир вырос среди аристократов, которые могли принадлежать как к вампирам, так и к другим расам. Он носит хорошую одежду, любит драгоценности и роскошь.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!V13T3gYVhMU5gOK0.WkwHnHGOd1FDPlj9"
+}

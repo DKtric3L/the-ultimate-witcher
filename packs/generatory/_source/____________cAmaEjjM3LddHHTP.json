@@ -1,0 +1,43 @@
+{
+  "name": "Духи Стихий",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Elementa.png",
+  "description": "",
+  "results": [
+    "mNpIBVxXRCjB1eI8",
+    "03jB3Rl5aqII5wX0",
+    "zddIocn1v8vDYSSn",
+    "4lKQ82uRN62TE2TV",
+    "US7T1RzMbywB0Ztf",
+    "smBxyZFjALOfbK5E",
+    "k65t7uQSY3qJ5tCN",
+    "XBMkgblEFVi8sRnf",
+    "JMazmOlzpJk401t0"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "cAmaEjjM3LddHHTP",
+  "_key": "!tables!cAmaEjjM3LddHHTP"
+}

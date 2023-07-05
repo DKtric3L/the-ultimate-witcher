@@ -1,0 +1,16 @@
+{
+  "_id": "SdTrfAZtLN9cLgew",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей вступили в банду. Вы часто встречались с членами той банды, а порой были вынуждены на неё работать.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BVAifyDThmUYivmt.SdTrfAZtLN9cLgew"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Мутаген: Вендиго",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-blue.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_kxic5e4vfq8"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.wEIh7kO5Rqjj12yc"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "blue",
+    "source": "Вендиго",
+    "effect": "+1 к наведению порчи",
+    "alchemyDC": "18",
+    "minorMutation": "Участики меха на теле и болезненно-серая кожа"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868980,
+    "modifiedTime": 1685496626945,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "folder": "z24EOxpWwQr7xr8W",
+  "sort": 0,
+  "_id": "0eilAcDKQdZAt3JO",
+  "_key": "!items!0eilAcDKQdZAt3JO"
+}

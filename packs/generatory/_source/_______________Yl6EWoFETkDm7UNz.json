@@ -1,0 +1,45 @@
+{
+  "name": "Жрец - Новичок",
+  "img": "icons/magic/life/heart-cross-green.webp",
+  "description": "",
+  "results": [
+    "2mnyunmjlw5o9m06",
+    "rfn25rfvb53re1e7",
+    "qquzx79od4p3nd15",
+    "dnx47ih9fetimt4j",
+    "n2z1piniennhtd7z",
+    "fiouleq4lbku24wq",
+    "jr43hymnk2b2c42s",
+    "3qziol18pd8zt8gn",
+    "gypj0h503v44k2ir",
+    "g79c78rtiyufcinh",
+    "h0opgm47sqq87jef"
+  ],
+  "formula": "1d11",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.FjUqAmUDEpoKam8s"
+    },
+    "cf": {
+      "id": "temp_s23761z2tk"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932900,
+    "modifiedTime": 1685496644216,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Yl6EWoFETkDm7UNz",
+  "folder": "UBZ0NONtvUbanf9g",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!Yl6EWoFETkDm7UNz"
+}

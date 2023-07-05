@@ -1,0 +1,45 @@
+{
+  "name": "Причуды",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "f4aPAFAtZQ42qj49",
+    "HEktDzpBHaCIsfQE",
+    "vUijnT8GRcQzTCaV",
+    "mynAWK43Nspiwjoq",
+    "dtajMChQEJobkTgp",
+    "tsxafzp4kwDaBYfx",
+    "8gtHZDpInol2vcdI",
+    "5I9wBtQquhFhyQlU",
+    "Fmm7S4TaX93vdGps",
+    "p7HNFhFXDcjaZ8vT",
+    "peeTtUeJmpM5qRUc"
+  ],
+  "formula": "2d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_tydad1d5ono"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644521,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "kf9IUy3zD5qIiqc7",
+  "sort": 0,
+  "_id": "B5CpQsRPt505wapy",
+  "_key": "!tables!B5CpQsRPt505wapy"
+}

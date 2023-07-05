@@ -1,0 +1,16 @@
+{
+  "text": "Гвинт Троэлли",
+  "type": 2,
+  "img": "icons/magic/air/wind-tornado-funnel-damage-blue.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "n02M2hOsBVrC6F7x",
+  "documentId": "tleYeOBCJ8S3oL6U",
+  "flags": {},
+  "_key": "!tables.results!jwNLKKU8qFbzLhTY.n02M2hOsBVrC6F7x"
+}

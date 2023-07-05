@@ -1,0 +1,16 @@
+{
+  "_id": "zRhLKNWp2b9D5Mki",
+  "type": 0,
+  "text": "Признан опасным. Что-то, что вы сделали, заклеймило вас как опасного для жителей королевства. В этом королевстве вас разыскивают власти.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4dpnBG7SV5On0Q30.zRhLKNWp2b9D5Mki"
+}

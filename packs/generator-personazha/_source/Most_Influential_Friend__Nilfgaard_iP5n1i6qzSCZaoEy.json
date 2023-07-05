@@ -1,0 +1,46 @@
+{
+  "name": "Most Influential Friend: Nilfgaard",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "JFQp11xOxJvsDKNM",
+    "VgZylS4pJWSlcJfl",
+    "TdQRXB7UbEfdV35d",
+    "Y8g0DWGZfC5wLYWx",
+    "XObJWkbk3Q5PzG1h",
+    "DCx5bDeMkPrAW8Lu",
+    "ZchxXpW2jQc3iPVU",
+    "u4lXsez4UGjAY14R",
+    "p0WUkxWYGUPh4gEB",
+    "VSc9ry4JowYa3Rgz"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.KZr760ifhM61v8LL"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917374,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "iP5n1i6qzSCZaoEy",
+  "_key": "!tables!iP5n1i6qzSCZaoEy"
+}

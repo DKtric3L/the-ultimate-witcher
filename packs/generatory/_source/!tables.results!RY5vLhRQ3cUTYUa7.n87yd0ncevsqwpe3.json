@@ -1,0 +1,16 @@
+{
+  "text": "Окровавленная рука",
+  "type": 2,
+  "img": "icons/commodities/biological/hand-clawed-tan.webp",
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "drawn": false,
+  "_id": "n87yd0ncevsqwpe3",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "zNlFGGrc9DvBDsZy",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.n87yd0ncevsqwpe3"
+}

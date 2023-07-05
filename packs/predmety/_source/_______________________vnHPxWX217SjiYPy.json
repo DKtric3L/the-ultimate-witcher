@@ -1,0 +1,44 @@
+{
+  "name": "Кукла для чёрной магии",
+  "type": "valuable",
+  "img": "icons/commodities/treasure/doll-mummy.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_8uwkh0np5cd",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.yVkS3FWEQunU3VP5"
+    }
+  },
+  "system": {
+    "description": "Специально созданная кукла, наполненная темной магией, чтобы воспроизвести определенную порчу с низким уровнем опасности. Персонаж, держащий Куклу Черной Магии, может совершить действие полного раунда, чтобы порезать руку (нанеся себе 10 единиц урона), истечь кровью на куклу и сделать проверку Наведения порчи против проверки Сопротивления Магии цели, которую он действительно ненавидит. Если персонажу это удается, он накладывает на цель Порчу, связанную с куклой.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868978,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vnHPxWX217SjiYPy",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vnHPxWX217SjiYPy"
+}

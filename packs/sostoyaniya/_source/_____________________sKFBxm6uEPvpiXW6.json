@@ -1,0 +1,45 @@
+{
+  "name": "Эффект напитка: Пиво",
+  "type": "effect",
+  "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xq906tikww"
+    }
+  },
+  "system": {
+    "description": "До следующего отдыха. Пройди проверку со сл. 8, при провале становишься зависим от алкоголя(Не только пива).\nНет ничего лучше, чем освежающий холодный стакан пива.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_jzv8axky6",
+        "derivedStat": "WITCHER.Actor.CoreStat.Rec",
+        "modifier": "1"
+      },
+      {
+        "id": "_3z575y0nl",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "3"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883179,
+    "modifiedTime": 1685496621661,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sKFBxm6uEPvpiXW6",
+  "folder": "1H4Dkaei03yMUCuF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!sKFBxm6uEPvpiXW6"
+}

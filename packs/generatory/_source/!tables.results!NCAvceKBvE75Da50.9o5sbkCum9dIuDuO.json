@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Скеллиге",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "tlNi36XdXbe970gp",
+  "_id": "9o5sbkCum9dIuDuO",
+  "flags": {},
+  "_key": "!tables.results!NCAvceKBvE75Da50.9o5sbkCum9dIuDuO"
+}

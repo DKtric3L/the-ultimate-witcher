@@ -1,0 +1,16 @@
+{
+  "text": "Призыв посоха",
+  "type": 2,
+  "img": "icons/magic/light/explosion-star-blue-yellow.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "1U3xkQxJHECMeQCK",
+  "documentId": "KBhrfuUegO25ehaz",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.1U3xkQxJHECMeQCK"
+}

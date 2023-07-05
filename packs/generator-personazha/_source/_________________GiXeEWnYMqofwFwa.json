@@ -1,0 +1,55 @@
+{
+  "name": "Где вы родились?",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "AtkU56YCcX0XsaRd",
+    "rx2WGQQAqtyia9rk",
+    "IIUjiAadEK9U3S8a",
+    "vR2G1ahD4UFKRTx4",
+    "AjJk7VeRgpi5JZt8",
+    "6h050JbHdeDyIIvk",
+    "KuKWl3dj2kjIw6J9",
+    "vp23kqAWk4j5IDyY",
+    "sgM9qxdmtfvX0KJ3",
+    "PwjqYj5NIjuDo4eu",
+    "kS5HM8MT28upF4Ri",
+    "ign35J8rTQDrp7tp",
+    "gyStXQ2agQnxv3kD",
+    "rNAT4e5jVMiw1uZn",
+    "5dyWkQBGQRy8oRFT",
+    "fLk51WaKpmfZ5crf",
+    "B1LOh19iXO61hxnK",
+    "15T0ROMwdhsNh3Ds",
+    "jBU3MOebtrxkZFn5",
+    "U8FJ5p0BnhqiS0yq"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.LqcOYVOL0I0cgVaG"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901088,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "GiXeEWnYMqofwFwa",
+  "_key": "!tables!GiXeEWnYMqofwFwa"
+}

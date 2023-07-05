@@ -1,0 +1,43 @@
+{
+  "name": "Ярость бредана",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/bredans_wrath.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.A5AZCyaC94k42CU8"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 95,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Rare",
+    "effect": "Ярость Бредана взрывается при контакте с воздухом, нанося 2d6 урона любому существу в пределах 2 метров. \n\nДля броска склянки требуется провести атаку с проверкой Атлетики с дистанцией в метрах, равной вашему Тел × 2.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868996,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "A5AZCyaC94k42CU8",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!A5AZCyaC94k42CU8"
+}

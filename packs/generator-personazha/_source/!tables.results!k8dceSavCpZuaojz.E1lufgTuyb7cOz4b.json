@@ -1,0 +1,16 @@
+{
+  "_id": "E1lufgTuyb7cOz4b",
+  "type": 0,
+  "text": "Твоя семья отправила тебя в церковь",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!k8dceSavCpZuaojz.E1lufgTuyb7cOz4b"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Дыхание огня",
+  "type": "spell",
+  "img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_p8nj0svlvn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Несовершенная попытка колдуна Афана из Гулета воссоздать дыхание настоящего дракона, Дыхание Огня позволяет вам выдыхать поток магического огня на цель. Если цели не удается защититься, она получает 3к6 урона и имеет 100% шанс загореться.",
+    "range": "4м",
+    "duration": "мгновенная",
+    "defence": "укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "3d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "100"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496637857,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "skzDg6PY31kOxz5o",
+  "folder": "FdN7jfCUOYKOAJAb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!skzDg6PY31kOxz5o"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    34,
+    34
+  ],
+  "drawn": false,
+  "text": "Щелочной порошок",
+  "img": "modules/the-ultimate-witcher/assets/props/alkaline_powder.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "S1qUpPNoahtbQbGG",
+  "_id": "JJJbv0zc9M5ZGMoH",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.JJJbv0zc9M5ZGMoH"
+}

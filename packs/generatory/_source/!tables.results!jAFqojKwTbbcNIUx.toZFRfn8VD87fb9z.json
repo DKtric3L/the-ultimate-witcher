@@ -1,0 +1,16 @@
+{
+  "_id": "toZFRfn8VD87fb9z",
+  "type": 2,
+  "text": "Случайное заклинание мага",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "1rWikH2isnNuUo4X",
+  "_key": "!tables.results!jAFqojKwTbbcNIUx.toZFRfn8VD87fb9z"
+}

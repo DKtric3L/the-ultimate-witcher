@@ -1,0 +1,40 @@
+{
+  "name": "Скеллиге",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "cXjG5wlSvICDC2em",
+    "hzinPY8R2VOHGNb5",
+    "cJChN1nEiY06I0Rj",
+    "oMPLNx1CGj7aCmqK",
+    "Ss6piWqx9DMuhvBQ",
+    "xPqsKldkXXZCndV2"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "tlNi36XdXbe970gp",
+  "_key": "!tables!tlNi36XdXbe970gp"
+}

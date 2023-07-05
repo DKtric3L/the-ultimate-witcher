@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 2,
+  "text": "Style: Clothing",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "uIFYKO85zMHBhSLG",
+  "_key": "!tables.results!CjaIcLRWSlzwI6ly.q0DM4FW7XCnFdKZu"
+}

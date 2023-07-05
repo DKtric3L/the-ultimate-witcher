@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    33,
+    33
+  ],
+  "drawn": false,
+  "text": "Формула: Отвар стрыги",
+  "img": "icons/sundries/documents/document-symbol-person-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "y7osrCryMAUY0h2q",
+  "_id": "qbDOxuurf0UMbjjw",
+  "flags": {},
+  "_key": "!tables.results!fVcw47eCMtM2w0qP.qbDOxuurf0UMbjjw"
+}

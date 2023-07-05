@@ -1,0 +1,40 @@
+{
+  "_id": "mrAtRGLhK8U2fXOx",
+  "name": "Хирургические инструменты",
+  "type": "valuable",
+  "img": "icons/tools/hand/lockpicks-steel-grey.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 1000000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.xfZYrGM35886d7k3"
+    }
+  },
+  "system": {
+    "description": "Позволяют проводить хирургические инструменты.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 83,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671035589872,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!Z3jIdHe1L7AEi548.mrAtRGLhK8U2fXOx"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "E9fqFYXVMkV9YSwY",
+  "name": "Исключительно женщины",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Как нимфы и русалки, дриады все женского пола. Для размножения дриады обычно используют мужчин людей или эльфов, но в некоторых случаях они применяют печально известную \"Воду Брокилона\", похищая и обращая юных девочек. Предполагается, что русалки и нереиды имеют схожий метод трансформации."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!mzLvpWjcjx1a20dS.E9fqFYXVMkV9YSwY"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Бурдюк",
+  "type": "valuable",
+  "img": "icons/sundries/survival/wetskin-leather-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_qtp9pduhxta",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.2ysUIGupszU6h28K"
+    }
+  },
+  "system": {
+    "description": "Ближе к линии фронта не так- то часто попадаются источники питьевой воды. Не станешь же ты всю дорогу эль хлестать. Так что мой тебе совет: держи под боком бурдюк с водой.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868971,
+    "modifiedTime": 1685496603566,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "H8qMOmqeWBX1ikjK",
+  "folder": "aE6ovGuZ0qcI7aJt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!H8qMOmqeWBX1ikjK"
+}

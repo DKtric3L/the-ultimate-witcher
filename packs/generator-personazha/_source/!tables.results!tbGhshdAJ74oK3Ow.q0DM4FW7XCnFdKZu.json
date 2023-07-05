@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли начальные тренировки - Травма на мучильне(-1 к скор). Вы получили травму, пробегая полосу препятствий вокруг школы. У вас сильно сломана нога, и даже после исцеления она гнётся чуть хуже.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!tbGhshdAJ74oK3Ow.q0DM4FW7XCnFdKZu"
+}

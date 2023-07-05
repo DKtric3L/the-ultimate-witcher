@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Optima Mater",
+  "img": "systems/TheWitcherTRPG/assets/images/quebrith.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "LwEDBrb4N48v1rO8",
+  "_id": "L1TFV9KzkZmfO4NL",
+  "flags": {},
+  "_key": "!tables.results!IkJb7M8vAGTKXwyu.L1TFV9KzkZmfO4NL"
+}

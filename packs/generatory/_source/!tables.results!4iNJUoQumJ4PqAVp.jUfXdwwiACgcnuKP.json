@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Дагон",
+  "img": "modules/the-ultimate-witcher/assets/monsters/dagon.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "2GRLJVzFLq294ovd",
+  "_id": "jUfXdwwiACgcnuKP",
+  "flags": {},
+  "_key": "!tables.results!4iNJUoQumJ4PqAVp.jUfXdwwiACgcnuKP"
+}

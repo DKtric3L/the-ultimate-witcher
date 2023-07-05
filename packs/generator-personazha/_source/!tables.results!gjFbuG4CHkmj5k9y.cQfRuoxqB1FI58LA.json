@@ -1,0 +1,16 @@
+{
+  "_id": "cQfRuoxqB1FI58LA",
+  "flags": {},
+  "type": 0,
+  "text": "Самое важное событие - Выход за пределы. Как-то раз вы отправились за пределы континента - Перешли драконьи Горы, Тир Тохаир, Синие горы или переплыли великое море. Вы повидали дальние земли, неизвестные большинству.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gjFbuG4CHkmj5k9y.cQfRuoxqB1FI58LA"
+}

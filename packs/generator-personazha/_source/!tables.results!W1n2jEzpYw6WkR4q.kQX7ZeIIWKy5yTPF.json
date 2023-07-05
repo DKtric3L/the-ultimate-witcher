@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли начальные тренировки - Завёл соперника(1 враг-ведьмак). В ходе обучения у вас возникло соперничество с другим будущим ведьмаком. Даже после мутаций он продолжает вас ненавидеть.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!W1n2jEzpYw6WkR4q.kQX7ZeIIWKy5yTPF"
+}

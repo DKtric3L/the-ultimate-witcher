@@ -1,0 +1,43 @@
+{
+  "name": "Зелье петри",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/petri_potion.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.u0v99l5jECre09C5"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 15,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "+2 к Сотворению заклинаний, Наведению порчи\nи Проведению ритуалов",
+    "time": "15 раундов",
+    "toxicity": "75%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1685496626799,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "u0v99l5jECre09C5",
+  "folder": "QxSFI02IPk07KY7Y",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!u0v99l5jECre09C5"
+}

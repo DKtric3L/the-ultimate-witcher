@@ -1,0 +1,16 @@
+{
+  "text": "Стальной ведьмачий меч",
+  "type": 2,
+  "img": "icons/sundries/books/book-symbol-triangle-blue.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "al7a728te17mt927",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "SBnPRtbBsI2L6FLH",
+  "_key": "!tables.results!pOpEuHsZd5LNEKrh.al7a728te17mt927"
+}

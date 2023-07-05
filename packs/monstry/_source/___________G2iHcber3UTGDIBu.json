@@ -1,0 +1,970 @@
+{
+  "name": "Архигрифон",
+  "type": "monster",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Arhigrifon_Oleksandr_Kozachenko.webp",
+  "items": [
+    "AiyjTj1pgwtqmPgJ",
+    "E75Rn13fAfQsDcsN",
+    "pnFhphTBOavbZg7N",
+    "UY4i3qWGT0ytvQRA",
+    "Czxc1mmHGiOKGjCF",
+    "MzvVurqQjnPLgclq",
+    "4BRGwd3MKzlkl7eB",
+    "YMWvmiLpKcmeRtrQ",
+    "IzhviynP35YsGL5r",
+    "OxsBjMr4S0EJaTrN",
+    "HIPpnBPR7ELEhbAe",
+    "EII8rsw8hBSGOMAj",
+    "75dzVOdBWVS4jB5z"
+  ],
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.monstry.Nui607DPXb9Iu4Vr"
+    },
+    "cf": {
+      "id": "temp_cs04nijgd0k"
+    }
+  },
+  "system": {
+    "woundTresholdApplied": false,
+    "deathStateApplied": false,
+    "deathSaves": 0,
+    "currency": {
+      "bizant": 0,
+      "ducat": 0,
+      "lintar": 0,
+      "floren": 0,
+      "crown": 0,
+      "oren": 0,
+      "falsecoin": 0
+    },
+    "stats": {
+      "int": {
+        "max": 1,
+        "current": 1,
+        "label": "WITCHER.Actor.Stat.Int",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "ref": {
+        "max": 10,
+        "current": 10,
+        "label": "WITCHER.Actor.Stat.Ref",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "dex": {
+        "max": 10,
+        "current": 10,
+        "label": "WITCHER.Actor.Stat.Dex",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "body": {
+        "max": 15,
+        "current": 15,
+        "label": "WITCHER.Actor.Stat.Body",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "spd": {
+        "max": 6,
+        "current": 6,
+        "label": "WITCHER.Actor.Stat.Spd",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "emp": {
+        "max": 1,
+        "current": 1,
+        "label": "WITCHER.Actor.Stat.Emp",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "cra": {
+        "max": 1,
+        "current": 1,
+        "label": "WITCHER.Actor.Stat.Cra",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "will": {
+        "max": 5,
+        "current": 5,
+        "label": "WITCHER.Actor.Stat.Will",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "luck": {
+        "max": 0,
+        "current": 0,
+        "total": 0,
+        "label": "WITCHER.Actor.Stat.Luck",
+        "isOpened": false,
+        "modifiers": []
+      }
+    },
+    "coreStats": {
+      "stun": {
+        "max": 10,
+        "current": 10,
+        "label": "WITCHER.Actor.CoreStat.Stun",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "run": {
+        "max": 18,
+        "current": 18,
+        "label": "WITCHER.Actor.CoreStat.Run",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "leap": {
+        "max": 3,
+        "current": 3,
+        "label": "WITCHER.Actor.CoreStat.Leap",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "enc": {
+        "max": 150,
+        "current": 150,
+        "label": "WITCHER.Actor.CoreStat.Enc",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "rec": {
+        "max": 10,
+        "current": 10,
+        "label": "WITCHER.Actor.CoreStat.Rec",
+        "isOpened": false,
+        "modifiers": []
+      },
+      "woundTreshold": {
+        "max": 10,
+        "current": 10,
+        "label": "WITCHER.Actor.CoreStat.woundTreshold",
+        "isOpened": false,
+        "modifiers": []
+      }
+    },
+    "derivedStats": {
+      "modifiersIsOpened": false,
+      "hp": {
+        "max": 100,
+        "value": 100,
+        "label": "WITCHER.Actor.DerStat.HP",
+        "unmodifiedMax": 50,
+        "modifiers": []
+      },
+      "sta": {
+        "max": 50,
+        "value": 50,
+        "label": "WITCHER.Actor.DerStat.Sta",
+        "modifiers": []
+      },
+      "resolve": {
+        "max": 15,
+        "value": 15,
+        "label": "WITCHER.Actor.DerStat.Resolve",
+        "modifiers": []
+      },
+      "focus": {
+        "max": 9,
+        "current": 0,
+        "label": "WITCHER.Actor.DerStat.Focus",
+        "modifiers": []
+      },
+      "vigor": {
+        "max": 0,
+        "value": 0,
+        "label": "WITCHER.Actor.DerStat.Vigor",
+        "modifiers": []
+      }
+    },
+    "reputation": {
+      "max": 0,
+      "current": 0,
+      "label": "WITCHER.Actor.CoreStat.Rep",
+      "isOpened": false,
+      "modifiers": []
+    },
+    "skills": {
+      "int": {
+        "awareness": {
+          "value": 10,
+          "label": "WITCHER.SkIntAwareness",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "business": {
+          "value": 0,
+          "label": "WITCHER.SkIntBusiness",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "deduction": {
+          "value": 0,
+          "label": "WITCHER.SkIntDeduction",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "education": {
+          "value": 0,
+          "label": "WITCHER.SkIntEducation",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "commonsp": {
+          "value": 0,
+          "label": "WITCHER.SkIntCommon",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "eldersp": {
+          "value": 0,
+          "label": "WITCHER.SkIntElder",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "dwarven": {
+          "value": 0,
+          "label": "WITCHER.SkIntDwarven",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "monster": {
+          "value": 0,
+          "label": "WITCHER.SkIntMonster",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "socialetq": {
+          "value": 0,
+          "label": "WITCHER.SkIntSocialEt",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "streetwise": {
+          "value": 0,
+          "label": "WITCHER.SkIntStreet",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "tactics": {
+          "value": 0,
+          "label": "WITCHER.SkIntTactics",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "teaching": {
+          "value": 0,
+          "label": "WITCHER.SkIntTeaching",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "wilderness": {
+          "value": 8,
+          "label": "WITCHER.SkIntWilderness",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        }
+      },
+      "ref": {
+        "brawling": {
+          "value": 7,
+          "label": "WITCHER.SkRefBrawling",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "dodge": {
+          "value": 7,
+          "label": "WITCHER.SkRefDodge",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "melee": {
+          "value": 9,
+          "label": "WITCHER.SkRefMelee",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "riding": {
+          "value": 0,
+          "label": "WITCHER.SkRefRiding",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "sailing": {
+          "value": 0,
+          "label": "WITCHER.SkRefSailing",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "smallblades": {
+          "value": 0,
+          "label": "WITCHER.SkRefSmall",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "staffspear": {
+          "value": 0,
+          "label": "WITCHER.SkRefStaff",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "swordsmanship": {
+          "value": 0,
+          "label": "WITCHER.SkRefSwordsmanship",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        }
+      },
+      "dex": {
+        "archery": {
+          "value": 0,
+          "label": "WITCHER.SkDexArchery",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "athletics": {
+          "value": 7,
+          "label": "WITCHER.SkDexAthletics",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "crossbow": {
+          "value": 0,
+          "label": "WITCHER.SkDexCrossbow",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "sleight": {
+          "value": 0,
+          "label": "WITCHER.SkDexSleight",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "stealth": {
+          "value": 4,
+          "label": "WITCHER.SkDexStealth",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        }
+      },
+      "body": {
+        "physique": {
+          "value": 0,
+          "label": "WITCHER.SkBodyPhys",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "endurance": {
+          "value": 3,
+          "label": "WITCHER.SkBodyEnd",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        }
+      },
+      "emp": {
+        "charisma": {
+          "value": 0,
+          "label": "WITCHER.SkEmpCharisma",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "deceit": {
+          "value": 0,
+          "label": "WITCHER.SkEmpDeceit",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "finearts": {
+          "value": 0,
+          "label": "WITCHER.SkEmpArts",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "gambling": {
+          "value": 0,
+          "label": "WITCHER.SkEmpGambling",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "grooming": {
+          "value": 0,
+          "label": "WITCHER.SkEmpGrooming",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "perception": {
+          "value": 0,
+          "label": "WITCHER.SkEmpHumanPerc",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "leadership": {
+          "value": 0,
+          "label": "WITCHER.SkEmpLeadership",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "persuasion": {
+          "value": 0,
+          "label": "WITCHER.SkEmpPersuasion",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "performance": {
+          "value": 0,
+          "label": "WITCHER.SkEmpPerformance",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "seduction": {
+          "value": 0,
+          "label": "WITCHER.SkEmpSeduction",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        }
+      },
+      "cra": {
+        "alchemy": {
+          "value": 0,
+          "label": "WITCHER.SkCraAlchemy",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "crafting": {
+          "value": 0,
+          "label": "WITCHER.SkCraCrafting",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "disguise": {
+          "value": 0,
+          "label": "WITCHER.SkCraDisguise",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "firstaid": {
+          "value": 0,
+          "label": "WITCHER.SkCraAid",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "forgery": {
+          "value": 0,
+          "label": "WITCHER.SkCraForge",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "picklock": {
+          "value": 0,
+          "label": "WITCHER.SkCraPick",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "trapcraft": {
+          "value": 0,
+          "label": "WITCHER.SkCraTrapCraft",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        }
+      },
+      "will": {
+        "courage": {
+          "value": 10,
+          "label": "WITCHER.SkWillCourage",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "hexweave": {
+          "value": 0,
+          "label": "WITCHER.SkWillHex",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "intimidation": {
+          "value": 0,
+          "label": "WITCHER.SkWillIntim",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "spellcast": {
+          "value": 0,
+          "label": "WITCHER.SkWillSpellcast",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "resistmagic": {
+          "value": 9,
+          "label": "WITCHER.SkWillResistMag",
+          "isOpened": false,
+          "isVisible": true,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "resistcoerc": {
+          "value": 0,
+          "label": "WITCHER.SkWillResistCoer",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        },
+        "ritcraft": {
+          "value": 0,
+          "label": "WITCHER.SkWillRitCraft",
+          "isOpened": false,
+          "isVisible": false,
+          "modifiers": [],
+          "isProffession": false,
+          "isPickup": false,
+          "isLearned": false
+        }
+      }
+    },
+    "adrenaline": {
+      "current": 0,
+      "label": "WITCHER.Actor.Adrenaline"
+    },
+    "critWounds": [],
+    "config": {
+      "CritDescription": {},
+      "CritModDescription": {},
+      "CritGravity": {},
+      "CritGravityDefaultEffect": {},
+      "CritMod": {},
+      "CritSimple": {},
+      "CritComplex": {},
+      "CritDifficult": {},
+      "CritDeadly": {}
+    },
+    "category": "Hybrid",
+    "threat": "hard",
+    "difficulty": "difficult",
+    "bounty": "2000",
+    "armorHead": 10,
+    "armorUpper": 10,
+    "armorLower": 10,
+    "armorTailWing": 10,
+    "regen": 0,
+    "resistances": "",
+    "immunities": "",
+    "susceptibilities": "Масло против гибридов",
+    "senses": "",
+    "height": "200 см в холке",
+    "weight": "907 кг",
+    "environment": "Высокогорья",
+    "intelligence": "Как у собаки",
+    "organization": "Одиночка или пара",
+    "common": "<p class=\"MsoNormal\">Можно ли представить существо более величественное, чем. грифон? Опасно так думать, если он тебе повстречается. Большинство дворян считают грифонов и их собратьев благородными созданиями, которых изображают на гербовых накидках, щитах и тому подобном. А вот фермеры до смерти их боятся. Что ты сделаешь комку шерсти, перьев и когтей весом в 900 килограмм, который прилетает к тебе на поле и тырит твою корову? Да ничего. По большей части простой народ о грифонах не говорит, боясь сглазить.</p>",
+    "commonSkillValue": 14,
+    "monsterLore": "<p class=\"MsoNormal\">В принципе грифоны &mdash; очень простые создания. Действуют они во многом аналогично двум существам, сплетению которых подобны, а именно льву и орлу. К сожалению, слияние льва и орла фактически создаёт суперхищника. Грифоны быстры и на земле, и в небе. Они могут пересекать большие труднопроходимые пространства, просто летя над землёй, могут орлиным взором разглядеть прячущуюся добычу. И это не говоря уже о том, что грифоны хватают жертву размером с коня и швыряют её вниз с высоты 100 метров. К счастью, грифоны обычно нападают только на тех, кто заходит на их территорию. Проблема в том, что из-за войны на полях появилось множество трупов и грифоны спустились с вершин в предгорья. В результате некоторые деревушки оказались на территории грифонов, а их жители даже не подозревают об этом.</p>\n<p class=\"MsoNormal\">Если вам обязательно нужно сразиться с грифоном, вы окажете себе неоценимую услугу, заранее закупившись боеприпасами и маслом против гибридов. Боеприпасы нужны, поскольку грифоны любят атаковать с воздуха, внезапно налетая на противника. Прямое попадание ар балетного болта, копья, стрелы или любого другого дистанционного оружия лишает грифона равновесия. Если он не сумеет равновесие восстановить, то упадёт на землю и получит урон от падения, да и вообще станет более уязвимым. На земле стоит опасаться бритвенно острых когтей грифона. Они не только вспорют вам живот, но и оставят кровоточащие раны. Если вы отойдёте от грифона слишком далеко, он сократит дистанцию, совершив атаку с разбега &mdash; необычайно сильный, но неточный манёвр, от которого легче уклониться, чем от обычной атаки когтями, но, попав под него, среднестатистический человек попросту погибнет. Не стоит забывать и о вопле грифона. Не сможете от него оправиться &mdash; станете лёгкой добычей.</p>",
+    "monsterLoreSkillValue": 14,
+    "customStat": true,
+    "focus1": {
+      "name": "",
+      "value": "0"
+    },
+    "focus2": {
+      "name": "",
+      "value": "0"
+    },
+    "focus3": {
+      "name": "",
+      "value": "0"
+    },
+    "focus4": {
+      "name": "",
+      "value": "0"
+    },
+    "pannels": {
+      "intIsOpen": true,
+      "refIsOpen": true,
+      "dexIsOpen": true,
+      "bodyIsOpen": true,
+      "willIsOpen": true
+    },
+    "attackStats": {
+      "meleeBonus": 10,
+      "punch": {
+        "value": "1d6+10"
+      },
+      "kick": {
+        "value": "1d6+14"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Архигрифон",
+    "displayName": 30,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "derivedStats.hp"
+    },
+    "bar2": {
+      "attribute": "derivedStats.sta"
+    },
+    "flags": {
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "path/image.png"
+      },
+      "monks-tokenbar": {
+        "include": "default"
+      },
+      "pushable": {
+        "isPushable": false,
+        "isPullable": false
+      },
+      "resource-icons": {
+        "displayIcons": 0,
+        "icon1": {
+          "resource": "",
+          "img": "",
+          "options": {
+            "background": {
+              "active": false,
+              "color": ""
+            },
+            "border": {
+              "active": false,
+              "color": ""
+            },
+            "tint": {
+              "active": false,
+              "color": ""
+            }
+          }
+        },
+        "icon2": {
+          "resource": "",
+          "img": "",
+          "options": {
+            "background": {
+              "active": false,
+              "color": ""
+            },
+            "border": {
+              "active": false,
+              "color": ""
+            },
+            "tint": {
+              "active": false,
+              "color": ""
+            }
+          }
+        },
+        "icon3": {
+          "resource": "",
+          "img": "",
+          "options": {
+            "background": {
+              "active": false,
+              "color": ""
+            },
+            "border": {
+              "active": false,
+              "color": ""
+            },
+            "tint": {
+              "active": false,
+              "color": ""
+            }
+          }
+        }
+      },
+      "wall-height": {
+        "tokenHeight": 0
+      },
+      "token-z": {
+        "zIndex": 0
+      },
+      "autorotate": {
+        "enabled": null,
+        "offset": null
+      },
+      "healthEstimate": {
+        "dontMarkDead": false,
+        "hideHealthEstimate": false,
+        "hideName": false
+      },
+      "core": {
+        "occlusionRadius": null
+      }
+    },
+    "randomImg": false,
+    "texture": {
+      "src": "modules/the-ultimate-witcher/assets/monster_token/monster_set/archiGryphon.png",
+      "tint": "#ffffff",
+      "scaleX": 3,
+      "scaleY": 3,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": true,
+      "range": 10,
+      "brightness": 0,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162775564,
+    "modifiedTime": 1685496589995,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "G2iHcber3UTGDIBu",
+  "folder": "dDX76nOLgQ5kz1Os",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!actors!G2iHcber3UTGDIBu"
+}

@@ -1,0 +1,164 @@
+{
+  "name": "Краснолюдский топор",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.D7e5WQ65BgHYUd09"
+    },
+    "cf": {
+      "id": "temp_o6021xqcjz"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.TFbw5Yi0UzX8GebO]{Краснолюдский топор}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1110,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 24,
+    "alchemyDC": 0,
+    "craftingTime": "12ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "_v9ic04qmj",
+        "name": "Махакамская сталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_q46asip1m",
+        "name": "Укрепленное дерево",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_traqvzgf3",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_8x5gpbgiu",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_42azg1wys",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_w6x56l75i",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_uuimwi22g",
+        "name": "Уголь",
+        "percentage": "",
+        "quantity": "3"
+      }
+    ],
+    "investment": 555,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Краснолюдский топор",
+      "type": "weapon",
+      "img": "icons/weapons/axes/axe-tomahawk-jagged.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 4,
+        "cost": 740,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее",
+          "slashing": true,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 3,
+        "avail": "Rare",
+        "damage": "5d6+3",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [],
+        "conceal": "L",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Melee",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.32RqCsg1pEteL3a8"
+        },
+        "cf": {
+          "id": "temp_o71fael2g4m"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863940,
+        "modifiedTime": 1672565253214,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848418,
+    "modifiedTime": 1685496579684,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "D7e5WQ65BgHYUd09",
+  "folder": "CmRwhBGVa7PHSDao",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!D7e5WQ65BgHYUd09"
+}

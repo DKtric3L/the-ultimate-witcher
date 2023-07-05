@@ -1,0 +1,38 @@
+{
+  "name": "Эффект: Труп",
+  "type": "effect",
+  "img": "icons/commodities/bones/skull-monster-beige.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.8Nq3hRfxAslzwTQg"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Каждые 2 дня получает 1d6 урона от гниения.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883187,
+    "modifiedTime": 1688508926377,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "mzwYX3tnFiOaPe1S",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!mzwYX3tnFiOaPe1S"
+}

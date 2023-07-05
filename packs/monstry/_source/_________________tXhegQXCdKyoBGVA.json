@@ -1,0 +1,43 @@
+{
+  "_id": "tXhegQXCdKyoBGVA",
+  "name": "Мутаген: Берсерк",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.FQe4Ke3f0pHAWXb4"
+    },
+    "cf": {
+      "id": "temp_fv6olz7y9lh"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Берсерки",
+    "effect": "+1 тел",
+    "alchemyDC": "22",
+    "minorMutation": "Заметно набухшие вены"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!SfCCPw4qmzAvKDLh.tXhegQXCdKyoBGVA"
+}

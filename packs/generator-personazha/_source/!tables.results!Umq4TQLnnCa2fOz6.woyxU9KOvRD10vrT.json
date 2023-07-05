@@ -1,0 +1,16 @@
+{
+  "_id": "woyxU9KOvRD10vrT",
+  "flags": {},
+  "type": 0,
+  "text": "Ничего особенного.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Umq4TQLnnCa2fOz6.woyxU9KOvRD10vrT"
+}

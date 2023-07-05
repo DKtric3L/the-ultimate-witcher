@@ -1,0 +1,43 @@
+{
+  "name": "Обычная комната в таверне (за ночь)",
+  "type": "valuable",
+  "img": "icons/sundries/scrolls/scroll-writing-gold.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.jBkUcbTz01CUIHFW"
+    },
+    "cf": {
+      "id": "temp_9g36jjd7ks7"
+    }
+  },
+  "system": {
+    "description": "Стандартный набор: дверь с замком, есть подушка на кровати и даже бадья для умывания. Правда, такие комнаты разве что в городских тавернах бывают. У таких комнат есть какой-никакой замок, так что можешь закрыться от чужих глаз(Сл взлома 15.)",
+    "quantity": 1,
+    "weight": null,
+    "cost": 16,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "lodging",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1685496603196,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "s4AwtbUvyaQsu7A7",
+  "folder": "HDMExnnyDcCfbxTD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!s4AwtbUvyaQsu7A7"
+}

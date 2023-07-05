@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Реданский Солдат",
+  "img": "modules/the-ultimate-witcher/assets/monsters/redanian_captain.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "N7CWRXtA3Pf7Cyv7",
+  "_id": "KWJE6SHpGbv8nEaI",
+  "flags": {},
+  "_key": "!tables.results!NPUZmFAZfGvNewQ8.KWJE6SHpGbv8nEaI"
+}

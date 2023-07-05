@@ -1,0 +1,16 @@
+{
+  "text": "Камуфляжный плащ",
+  "type": 2,
+  "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "_id": "q03o064j2gkuzups",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "QViXUpO7yfogfDiB",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.q03o064j2gkuzups"
+}

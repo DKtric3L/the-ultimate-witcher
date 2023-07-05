@@ -1,0 +1,26 @@
+{
+  "_id": "3L0QL7IEkjz02p2e",
+  "name": "Невидимость",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Носферат может стать невидимым, что дает ему +10 к Скрытности и +5 к атаке. Атакуя, он снова становится видимым. Даже если вы сумеете пройти проверку Внимания, чтобы заметить носферата, вы получаете штраф -3 к атаке и защите против него. Знак Ирден может сделать носферата видимым."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!RtOGQFzxqbmEIv1u.3L0QL7IEkjz02p2e"
+}

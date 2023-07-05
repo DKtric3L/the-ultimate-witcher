@@ -1,0 +1,16 @@
+{
+  "text": "Усилитель звука",
+  "type": 2,
+  "img": "icons/commodities/bones/horn-curved-orange.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "yrwjztoq7cb2a9za",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "7WAOwkFVWtqI8RJ4",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.yrwjztoq7cb2a9za"
+}

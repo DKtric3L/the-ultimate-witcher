@@ -1,0 +1,38 @@
+{
+  "name": "Доспехи - Великий мастер",
+  "img": "icons/sundries/books/book-symbol-tree-silver-green.webp",
+  "results": [
+    "46da52k3aip7kl40",
+    "2j5eokipd03cg627",
+    "lodg2202n83vdu02",
+    "sco7tuml6jhzpz4r"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Ar9K3kxtgn7DTIiE"
+    },
+    "cf": {
+      "id": "temp_xhd9ad4pt09"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932894,
+    "modifiedTime": 1685496644464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "MQqxOhcnwVdneHAU",
+  "folder": "Nb1YtBTsoOm2aQtL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!MQqxOhcnwVdneHAU"
+}

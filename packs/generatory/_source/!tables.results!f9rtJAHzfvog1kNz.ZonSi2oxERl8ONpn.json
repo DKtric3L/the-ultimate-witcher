@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Бурдюк",
+  "img": "icons/sundries/survival/wetskin-leather-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "nt0Rj6WnMpfwlr44",
+  "_id": "ZonSi2oxERl8ONpn",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.ZonSi2oxERl8ONpn"
+}

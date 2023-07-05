@@ -1,0 +1,43 @@
+{
+  "name": "Опиат Киновари",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-round-corked-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.dyPU85zhoTM6L90P"
+    },
+    "cf": {
+      "id": "temp_6q0b5iuuekf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 125,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Everywhere",
+    "effect": "Опиаты - это мощные, но опасные обезболивающие. Прием\nэтого препарата вызывает эйфорию, отменяет все проверки Устойчивости (за исключением испытания против\nсмерти) и устраняет негативные симптомы, от которых в\nнастоящее время страдает больной, на 1d10 раундов. По\nокончании эффекта, пользователь истощен и должен со-\nвершить проверку Стойкости СЛ 17, чтобы избежать зависимости (Книга правил, стр. 32). При критическом провале на 6 или более, побочные эффекты препарата навсегда уменьшают случайную характеристику на 1 (кроме Удачи и\nминимум до 1).",
+    "time": "1d6 дней",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868985,
+    "modifiedTime": 1685496603978,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QhJVR4CARtwVL8oe",
+  "folder": "hZqzoFHjJGUaINA2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QhJVR4CARtwVL8oe"
+}

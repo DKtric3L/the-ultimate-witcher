@@ -1,0 +1,16 @@
+{
+  "_id": "znsTgOiTJdSr4psr",
+  "type": 0,
+  "text": "Вы - женщина",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UlOK7ZxUMPtUvYi8.znsTgOiTJdSr4psr"
+}

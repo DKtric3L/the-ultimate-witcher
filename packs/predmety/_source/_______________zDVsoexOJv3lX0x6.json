@@ -1,0 +1,44 @@
+{
+  "name": "Странные стихи",
+  "type": "valuable",
+  "img": "icons/sundries/documents/document-writing-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_pcz898xpa9",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.V6yK7u32skKKD1Hv"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868990,
+    "modifiedTime": 1685496603482,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "zDVsoexOJv3lX0x6",
+  "folder": "o0EbRg1af2HA22Nh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zDVsoexOJv3lX0x6"
+}

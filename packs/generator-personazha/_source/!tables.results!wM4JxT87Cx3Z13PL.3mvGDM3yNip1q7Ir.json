@@ -1,0 +1,16 @@
+{
+  "_id": "3mvGDM3yNip1q7Ir",
+  "type": 2,
+  "text": "Статус семьи",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "SWDvNc3vouHpXSj6",
+  "_key": "!tables.results!wM4JxT87Cx3Z13PL.3mvGDM3yNip1q7Ir"
+}

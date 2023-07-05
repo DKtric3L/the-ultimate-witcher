@@ -1,0 +1,37 @@
+{
+  "name": "Тяжелый крит - Голова",
+  "img": "icons/commodities/bones/skull-monster-beige.webp",
+  "results": [
+    "1oWrYbk1pSqawG60",
+    "glhshGWDUtCviv0K",
+    "hEN8JJDOQWDw7xmO"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.kWDcOhPQnJrXGX3t"
+    },
+    "cf": {
+      "id": "temp_uizkox49o8e"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897090,
+    "modifiedTime": 1685496658134,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bYaPwiuM6nfKRL3j",
+  "folder": "XPYNpQX82syKEdJ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!bYaPwiuM6nfKRL3j"
+}

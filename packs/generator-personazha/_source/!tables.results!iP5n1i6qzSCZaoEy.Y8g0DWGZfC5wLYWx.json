@@ -1,0 +1,16 @@
+{
+  "_id": "Y8g0DWGZfC5wLYWx",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Маг. наибольшее влияние на вас оказал маг, научивший вас важности порядка и осторожности. Снаряжение - эмблема.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!iP5n1i6qzSCZaoEy.Y8g0DWGZfC5wLYWx"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Закаленный",
+  "type": "effect",
+  "img": "icons/magic/nature/leaf-armor-scale-green.webp",
+  "system": {
+    "description": "Кожа имеет постоянный бонус 2 ПБ, который нельзя снизить разрушающим уроном",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "eae1ae46a42a6d616339524cb0aee35e3dd6f533",
+      "sourceId": "Item.1GqGrh2lpA9qkKY4"
+    },
+    "core": {
+      "sourceId": "Item.1GqGrh2lpA9qkKY4"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672536316694,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "KodBZAH6zqc0zCTo",
+  "_key": "!items!KodBZAH6zqc0zCTo"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Чертеж - бомбы и ловушки - Ведьмачье",
+  "description": "A random table created from the contents of the Ведьмачье Folder.",
+  "results": [
+    "94LcQdLREH05qixB",
+    "wSZRJ0IX3rGTIxO1",
+    "1diaUGibDS1b2sQf",
+    "0m5WEmctCJj61L1R",
+    "mAahtC2360A4mYbU",
+    "kMBFGildm8ywbMA0",
+    "AzjS1o7aKwQHF4Sq",
+    "GRsUJM6yJ6mDGpay",
+    "CBmPFUVFnAwpIqjL",
+    "Y7Ol9Tw8lzZqBwa8",
+    "IpRb7Lt48YM6Zbxs",
+    "99Mp9BzdbBSd57pS",
+    "hgrIvkSc1RkDzkEl",
+    "BTWmzNZLD0jVaWoi"
+  ],
+  "formula": "1d14",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7a72be51ac13c664e9f7a6d5be61b4bf51d4f826",
+      "sourceId": "RollTable.SEaJZDm9FVGkj5NO"
+    },
+    "core": {
+      "sourceId": "RollTable.SEaJZDm9FVGkj5NO"
+    },
+    "cf": {
+      "id": "temp_bz3ub2uz6p5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672830284348,
+    "modifiedTime": 1685496644406,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "jbSJHWSlEIGJob0w",
+  "sort": 0,
+  "_id": "pfvQJ4Ab5bIZaYOH",
+  "_key": "!tables!pfvQJ4Ab5bIZaYOH"
+}

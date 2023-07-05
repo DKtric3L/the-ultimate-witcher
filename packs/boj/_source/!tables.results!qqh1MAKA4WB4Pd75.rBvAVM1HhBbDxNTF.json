@@ -1,0 +1,16 @@
+{
+  "_id": "rBvAVM1HhBbDxNTF",
+  "type": 0,
+  "text": "4 летального урона.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!qqh1MAKA4WB4Pd75.rBvAVM1HhBbDxNTF"
+}

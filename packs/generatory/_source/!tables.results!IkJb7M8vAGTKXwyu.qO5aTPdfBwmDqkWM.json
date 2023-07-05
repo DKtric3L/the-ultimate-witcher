@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Жимолость",
+  "img": "systems/TheWitcherTRPG/assets/images/quebrith.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "bVelljKvq5wF5e2G",
+  "_id": "qO5aTPdfBwmDqkWM",
+  "flags": {},
+  "_key": "!tables.results!IkJb7M8vAGTKXwyu.qO5aTPdfBwmDqkWM"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Боеприпасы - Ведьмак",
+  "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+  "description": "",
+  "results": [
+    "bSEmQNdPX3ETriRj",
+    "uuaQSwKMG6K3Jn8z",
+    "ot9lihdZRwc3mldn"
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.O4VYaHSCRvb89wJx"
+    },
+    "cf": {
+      "id": "temp_cdl3vwuxc69"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932890,
+    "modifiedTime": 1685496644432,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3jDsNXbgoYaYd4tr",
+  "folder": "0AbuyKzqZg8gmn41",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!3jDsNXbgoYaYd4tr"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Инструменты ремесленника",
+  "type": 2,
+  "img": "icons/tools/hand/hammer-and-nail.webp",
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "drawn": false,
+  "_id": "7bdcla3gbyp8hhd2",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "ZTYtGjzpSHgHwmXF",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.7bdcla3gbyp8hhd2"
+}

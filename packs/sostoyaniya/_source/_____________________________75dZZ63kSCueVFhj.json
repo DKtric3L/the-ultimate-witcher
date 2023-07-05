@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Ограждение от смерти",
+  "type": "effect",
+  "img": "icons/magic/death/skull-trio-badge-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.U4bkU6GbV6vgu46d"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "В следующий раз, когда ПЗ упадут до 0 или ниже, вместо этого они упадут до 1 ПЗ, и заклинание закончится.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883184,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "75dZZ63kSCueVFhj",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!75dZZ63kSCueVFhj"
+}

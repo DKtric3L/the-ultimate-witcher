@@ -1,0 +1,16 @@
+{
+  "_id": "IiifsxIwa6NmNcHJ",
+  "type": 0,
+  "text": "Ваше оружие проходит вскользь, и ваш персонаж ошеломлён.",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!sv1j1pIEXP9ImQxB.IiifsxIwa6NmNcHJ"
+}

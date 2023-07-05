@@ -1,0 +1,26 @@
+{
+  "_id": "Mv87vCHj9pBFbAg8",
+  "name": "Слепота",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Шарлей совершенно слеп и автоматически проваливает все проверки Внимания, связанные со зрением. Он находит цель по звуку и колебаниям земли. Если цель неподвижна и не издаёт звуков, для шарлея она невидима. В ближнем бою Шарлей не получает штрафов за слепоту, поскольку слышит, как цель двигается. Если цель в пределах 10 метров от шарлея в предыдущем раунде перемещалась или издавала звуки, Шарлей знает, где она."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!ytUDI3WvlUdgLiG0.Mv87vCHj9pBFbAg8"
+}

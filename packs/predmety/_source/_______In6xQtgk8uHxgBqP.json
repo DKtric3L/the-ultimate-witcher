@@ -1,0 +1,43 @@
+{
+  "name": "Пиявки",
+  "type": "alchemical",
+  "img": "icons/creatures/invertebrates/leech-attack-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6kv74ebPPq1srWLZ"
+    },
+    "cf": {
+      "id": "temp_6q0b5iuuekf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 40,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Everywhere",
+    "effect": "Рана с сепсисом, подвергнутая лечению пиявками в течение одного часа, затем можно снова лечить с помощью Первой помощи или Лечащего прикосновения (СЛ см.в Недугах). Пиявок можно применять только один раз в два дня, более частое применение приводит к истощению больного из-за потери крови.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603978,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "In6xQtgk8uHxgBqP",
+  "folder": "hZqzoFHjJGUaINA2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!In6xQtgk8uHxgBqP"
+}

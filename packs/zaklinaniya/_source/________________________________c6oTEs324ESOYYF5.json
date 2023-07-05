@@ -1,0 +1,84 @@
+{
+  "name": "Улучшенное ествественное оружее",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zhest.tRXtrh1EDiXTyBPU"
+    },
+    "cf": {
+      "id": "temp_irvl6ds3fn"
+    }
+  },
+  "system": {
+    "description": "<p>С помощью красного мутагена в Существо вводят дурно пахнущую смесь, в результате чего их естественное оружие затвердевает и заостряется. Каждое естественное оружие Существо получает эффект Сбалансированности.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": null,
+    "alchemyDC": 0,
+    "craftingTime": "",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Красный мутаген"
+      },
+      {
+        "id": "_km4e53jof",
+        "name": "Зубы вампира",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_knr2ppxsw",
+        "name": "Яйцо грифона",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_kmed3m5ld",
+        "name": "Талант мутации 5 уровня(Маг)",
+        "percentage": "",
+        "quantity": "5"
+      }
+    ],
+    "investment": null,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496637677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "c6oTEs324ESOYYF5",
+  "folder": "vGJDximI7xAFPxUk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!c6oTEs324ESOYYF5"
+}

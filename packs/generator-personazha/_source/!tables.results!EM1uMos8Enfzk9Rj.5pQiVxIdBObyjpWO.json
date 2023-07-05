@@ -1,0 +1,16 @@
+{
+  "_id": "5pQiVxIdBObyjpWO",
+  "type": 0,
+  "text": "Ошибка заклинания. Вы случайно наложили магию на школьника или преподавателя и испортили им день. Сделайте бросок по таблице Обиды",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!EM1uMos8Enfzk9Rj.5pQiVxIdBObyjpWO"
+}

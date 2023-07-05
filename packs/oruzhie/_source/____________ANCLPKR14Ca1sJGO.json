@@ -1,0 +1,74 @@
+{
+  "name": "Серп друида",
+  "type": "weapon",
+  "img": "icons/weapons/sickles/sickle-wrapped-engraved-green.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 540,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Режущий, Колющий",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Poor",
+    "damage": "3d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Захватное",
+        "percentage": ""
+      },
+      {
+        "id": "_xscwn24vu",
+        "name": "Кровопускающее",
+        "percentage": "30"
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Small Blades",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Fyba9RU9zj67JedA"
+    },
+    "cf": {
+      "id": "temp_1jlhu26b32w"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1663425418673,
+    "modifiedTime": 1685496598579,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ANCLPKR14Ca1sJGO",
+  "folder": "rhjRG4RKDnAHFIi4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ANCLPKR14Ca1sJGO"
+}

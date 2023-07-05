@@ -1,0 +1,50 @@
+{
+  "name": "Новичок - Вода",
+  "description": "A random table created from the contents of the Вода Folder.",
+  "results": [
+    "6TUthaawXzjBPI1g",
+    "hhbTfKhRdizRub7F",
+    "6m5jAK04a6zSO5RE",
+    "idmOkvmnVI0KQ82d",
+    "TaO4f27VtVFLvetW",
+    "ulIwi8BlbDLQUxYu",
+    "DPk5KEg2yNYmWrxE",
+    "hC6iGEATKBJyOWQD",
+    "USs0Td1odwjlFXnz",
+    "vXAWuePJcYCKSUz7",
+    "x0gcuO4IG8385Mmq",
+    "pyVxvLuKJBMID3Ps"
+  ],
+  "formula": "1d12",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7c837316bdf44c1d5f96d06784cc4c798ac4511b",
+      "sourceId": "RollTable.XP30CEgAfOquvElh"
+    },
+    "core": {
+      "sourceId": "RollTable.XP30CEgAfOquvElh"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593210526,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "QAlSdMxFlJZykWcC",
+  "_key": "!tables!QAlSdMxFlJZykWcC"
+}

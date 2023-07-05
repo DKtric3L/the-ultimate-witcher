@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Супирре",
+  "img": "modules/the-ultimate-witcher/assets/signs/suppire.png",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "50cyzIkLFhxs1ZAp",
+  "_id": "ApSzUij2Kig79V0O",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.ApSzUij2Kig79V0O"
+}

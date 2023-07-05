@@ -1,0 +1,44 @@
+{
+  "_id": "a4uF7d6fQCAENZ4E",
+  "name": "Солнечный камень",
+  "type": "valuable",
+  "img": "icons/commodities/stone/ore-pile-gold.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wjo7lfo9hia",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.a7fjgll17K2ndUjM"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!j2QxPBWnzreRNppf.a4uF7d6fQCAENZ4E"
+}

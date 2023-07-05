@@ -1,0 +1,16 @@
+{
+  "_id": "a6YCIDdtwpoL5ytY",
+  "flags": {},
+  "type": 2,
+  "text": "Parental Fate: Nilfgaard",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "PQo3Qo3SWXeADko2",
+  "_key": "!tables.results!D6m2sJTEFIoTv29q.a6YCIDdtwpoL5ytY"
+}

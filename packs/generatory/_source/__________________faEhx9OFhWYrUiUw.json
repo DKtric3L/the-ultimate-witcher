@@ -1,0 +1,42 @@
+{
+  "name": "Заказ - Проклятые",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/CursedOnes.png",
+  "description": "",
+  "results": [
+    "Kqy3xS4BbdPFZkI8",
+    "WpMk2g6EJLBt0Ihm",
+    "cygEgabJZyEp0IBv",
+    "6GU9nW1Ko0cEiF9R",
+    "zQRp8g7VBY7OLCtu",
+    "BFnwRyxBSBhZCnre",
+    "IP9GASHcHpEWqNwH",
+    "fnPefuFYHvbpFIWT"
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_fs1p2hgxhmu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644753,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ZZd02IQkbh9qxG3G",
+  "sort": 0,
+  "_id": "faEhx9OFhWYrUiUw",
+  "_key": "!tables!faEhx9OFhWYrUiUw"
+}

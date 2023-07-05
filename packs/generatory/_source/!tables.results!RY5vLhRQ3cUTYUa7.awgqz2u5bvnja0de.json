@@ -1,0 +1,16 @@
+{
+  "text": "Странный венец",
+  "type": 2,
+  "img": "icons/commodities/flowers/lily-white.webp",
+  "weight": 1,
+  "range": [
+    28,
+    28
+  ],
+  "drawn": false,
+  "_id": "awgqz2u5bvnja0de",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "btLQoUEyowbZWjvL",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.awgqz2u5bvnja0de"
+}

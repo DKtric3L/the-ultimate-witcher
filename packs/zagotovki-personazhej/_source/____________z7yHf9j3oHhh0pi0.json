@@ -1,0 +1,46 @@
+{
+  "_id": "z7yHf9j3oHhh0pi0",
+  "name": "Дымная пыль",
+  "type": "component",
+  "img": "systems/TheWitcherTRPG/assets/images/hydragenum.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_lt8vyki9dr",
+      "color": "#5c65e6"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.rNSrdHMGuHHn1NUt"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "6",
+    "weight": 0.1,
+    "cost": 146,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Призраки, грифоны, полуденницы и големы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "hydragenum"
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671035302621,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!3v0292IhRWNohwqu.z7yHf9j3oHhh0pi0"
+}

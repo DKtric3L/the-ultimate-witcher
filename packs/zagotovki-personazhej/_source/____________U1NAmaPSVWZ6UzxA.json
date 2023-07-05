@@ -1,0 +1,37 @@
+{
+  "name": "Ингредиенты",
+  "type": "component",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "component",
+    "rarity": "",
+    "location": "",
+    "quantityObtainable": "",
+    "forage": "",
+    "substanceType": ""
+  },
+  "_id": "U1NAmaPSVWZ6UzxA",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663423195807,
+    "modifiedTime": 1663423200727,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!Ezs4OxTZyi9d7KQ0.U1NAmaPSVWZ6UzxA"
+}

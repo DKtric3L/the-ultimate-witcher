@@ -1,0 +1,16 @@
+{
+  "_id": "olJrQIfiLqykKL6Y",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Background: Where Are You Now?",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "gWrO08z2ImuZyB4g",
+  "_key": "!tables.results!gjFbuG4CHkmj5k9y.olJrQIfiLqykKL6Y"
+}

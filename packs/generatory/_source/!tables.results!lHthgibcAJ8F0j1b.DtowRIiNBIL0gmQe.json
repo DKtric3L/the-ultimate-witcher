@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Водяной-жрец",
+  "img": "modules/the-ultimate-witcher/assets/monsters/water_man.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "WaRUy3znZO39RUxM",
+  "_id": "DtowRIiNBIL0gmQe",
+  "flags": {},
+  "_key": "!tables.results!lHthgibcAJ8F0j1b.DtowRIiNBIL0gmQe"
+}

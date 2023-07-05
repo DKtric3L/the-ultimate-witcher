@@ -1,0 +1,16 @@
+{
+  "_id": "th9s2aW3pwS3ZZX2",
+  "flags": {},
+  "type": 0,
+  "text": "Огромный шрам(-2 к харизме и соблазнению). Нет ничего необычного в том, что тело ведьмака покрыто шрамами, как лоскутное одеяло стежками. Но вы получили ранение, изуродовавшее лицо.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Z7kTt2NxEPQu1oAu.th9s2aW3pwS3ZZX2"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Зелье берсерка",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.ldILQJwVB52J28da"
+    },
+    "cf": {
+      "id": "temp_cc83pensjd5"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.I3gd2E7Jh9s0Fpu2]{Зелье берсерка}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 157,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "master",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 22,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 3,
+      "aether": 0,
+      "quebrith": 1,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 1,
+      "caelum": 2,
+      "fulgur": 1
+    },
+    "associatedItem": {
+      "name": "Зелье берсерка",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/props/berserk_potion.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 105,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Rare",
+        "effect": "Выпив это зелье, цель должна каждый ход совершать проверку\nСтойкости со СЛ 16. При провале она обязана атаковать ближайшего персонажа. При успехе исступление утихает до следующего хода.\nЗелье берсерка действует 1d10 раундов.",
+        "time": "1d10 раундов",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.I3gd2E7Jh9s0Fpu2"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868974,
+        "modifiedTime": 1668171340896,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848415,
+    "modifiedTime": 1685496578717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ldILQJwVB52J28da",
+  "folder": "7HVmVrGmTRrNoVTk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ldILQJwVB52J28da"
+}

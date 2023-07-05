@@ -1,0 +1,16 @@
+{
+  "text": "Формула: Травяной чай",
+  "type": 2,
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "SJaoLwee55INjwVu",
+  "documentId": "3rCR8ghERl0N4GUF",
+  "flags": {},
+  "_key": "!tables.results!LZ1uQZpE9Yiefc7o.SJaoLwee55INjwVu"
+}

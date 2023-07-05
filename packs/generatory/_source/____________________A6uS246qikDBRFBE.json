@@ -1,0 +1,37 @@
+{
+  "name": "Формула - Ведьмачья",
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "results": [
+    "rO5CpnkAPZ2k6Zld",
+    "V1rEPu7mAAPSENl6",
+    "Bwc2y3d0er29Y0gx"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.mXkUsj14ybdRywYO"
+    },
+    "cf": {
+      "id": "temp_h8ar7bbwcna"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932925,
+    "modifiedTime": 1685496644704,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "A6uS246qikDBRFBE",
+  "folder": "NFuWEKLLkn1jFLUK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!A6uS246qikDBRFBE"
+}

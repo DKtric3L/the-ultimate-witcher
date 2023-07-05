@@ -1,0 +1,44 @@
+{
+  "name": "Эликсир Пантаграна",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/pantagran_potion.png",
+  "system": {
+    "description": "",
+    "quantity": "2",
+    "weight": 0.5,
+    "cost": 67,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "Любой, кто сделает глоток эликсира Пантаграна, приходит в состояние безумного счастья. Эффект длится 1d6 / 2 часа. \nПринявший этот эликсир получает штраф -2 к Сопротивлению убеждению.",
+    "time": "1d6/2 часа",
+    "toxicity": ""
+  },
+  "sort": 318750,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.lY7CojlPVytj5s9Q"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1671035143849,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "Mdm5BgPfhqwJ3TtY",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.Mdm5BgPfhqwJ3TtY"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Земляной хват",
+  "type": "spell",
+  "img": "icons/magic/earth/lava-stone-fire-eye.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.J6SqSYEHjVWIqPOu"
+    },
+    "cf": {
+      "id": "temp_4w8bxpjli5a"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Несколько камней охватывает одну часть тела цели. Цель получает 2d6 дробящего урона по этой части тела каждый ход. Для уничтожения нужно нанести камням 20 пунктов урона. В противном случае, для освобождения цель должна совершить проверку Уклонения/Изворотливости со СЛ, равной изначальному показателю проверки Сотворения заклинаний. Если цель не проходит проверку Уклонения/Изворотливости, каждый раунд СЛ высвобождения повышается на 1, так как как камни сжимаются все сильнее.",
+    "range": "20м",
+    "duration": "До уничтожения камней",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дробящий урон"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496638757,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kGAajzzaMMYjpy8N",
+  "folder": "UWJmUntsU0DtqGaG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kGAajzzaMMYjpy8N"
+}

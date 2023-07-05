@@ -1,0 +1,16 @@
+{
+  "_id": "VSc9ry4JowYa3Rgz",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Артист. Наибольшее влияние на вас оказал артист, у которого вы научились самовыражению. Снаряжение - Подарок от поклонника.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!iP5n1i6qzSCZaoEy.VSc9ry4JowYa3Rgz"
+}

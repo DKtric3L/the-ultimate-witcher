@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Отвар Гигаскорпиона",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-person-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a45doihc8"
+    },
+    "core": {
+      "sourceId": "Compendium.world.formuly-i-recepty.mZgwJYhOvtCSBnHp"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.lTzCcG3fhr45Ep9E]{Отвар гигаскорпиона},&nbsp;<span style=\"color: #191813; font-family: GWENT; font-size: 15.75px;\">требуется мутаген и крепкий алкоголь</span></p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "level": "witcher",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 16,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 1,
+      "rebis": null,
+      "aether": 1,
+      "quebrith": null,
+      "hydragenum": null,
+      "vermilion": null,
+      "sol": null,
+      "caelum": null,
+      "fulgur": 2
+    },
+    "associatedItem": {
+      "name": "Отвар гигаскорпиона",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/potions/cotolak_potion.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 67,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "decoction",
+        "avail": "Rare",
+        "effect": "У вас есть 25% шанс отравить своего врага при каждой атаке ближнего боя",
+        "time": "30 минут",
+        "toxicity": "75%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_adni0hxf6rb"
+        },
+        "core": {
+          "sourceId": "Compendium.world.vedmache-snaryazhenie.QM6pMNg1K6LZUr9K"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887308,
+        "modifiedTime": 1668182556513,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848423,
+    "modifiedTime": 1685496578680,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LhP9CnJJaamWeNEH",
+  "folder": "Fb6VoHyNCjiAun2V",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LhP9CnJJaamWeNEH"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Контузия (Лечено)",
+  "type": "effect",
+  "img": "icons/skills/wounds/anatomy-organ-brain-pink-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ks31k8lzmi"
+    }
+  },
+  "system": {
+    "description": "От удара персонаж получил лёгкую контузию.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "-1"
+      },
+      {
+        "id": "_a3wlj6vn7",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883169,
+    "modifiedTime": 1685496621834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2oBTyFNmh3IyDtsI",
+  "folder": "mfpZq5Y96MD9CzKb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2oBTyFNmh3IyDtsI"
+}

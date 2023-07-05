@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    19,
+    19
+  ],
+  "drawn": false,
+  "text": "Мегаскоп",
+  "img": "icons/tools/navigation/sextant-brass-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "cquqIhyQHYPEOtvZ",
+  "_id": "gbDtEnxg4xhps5vy",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.gbDtEnxg4xhps5vy"
+}

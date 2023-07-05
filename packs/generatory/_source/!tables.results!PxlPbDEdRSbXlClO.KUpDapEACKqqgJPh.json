@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Махакамский Спирт",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/mahakam_alcohol.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "owOvaux7ohBmAd2h",
+  "_id": "KUpDapEACKqqgJPh",
+  "flags": {},
+  "_key": "!tables.results!PxlPbDEdRSbXlClO.KUpDapEACKqqgJPh"
+}

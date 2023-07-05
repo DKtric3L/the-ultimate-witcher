@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Мужчина - Причёска",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "dkN6RSvHcpiLgNcC",
+  "_id": "OUlVwLFoFL0cACmI",
+  "flags": {},
+  "_key": "!tables.results!oQhQ4TBjHnPZJ7DV.OUlVwLFoFL0cACmI"
+}

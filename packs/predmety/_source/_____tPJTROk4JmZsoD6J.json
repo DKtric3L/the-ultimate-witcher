@@ -1,0 +1,43 @@
+{
+  "name": "Шоры",
+  "type": "valuable",
+  "img": "icons/equipment/wrist/bracer-armored-steel.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.tPJTROk4JmZsoD6J"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "+1 к успокоению скакуна в проверках выживания в дикой природе.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "mount-accessories",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tPJTROk4JmZsoD6J",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tPJTROk4JmZsoD6J"
+}

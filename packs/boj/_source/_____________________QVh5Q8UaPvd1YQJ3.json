@@ -1,0 +1,38 @@
+{
+  "name": "Средний крит- Голова",
+  "img": "icons/commodities/bones/skull-hollow-white.webp",
+  "results": [
+    "98Ms6NKBpiUXUim8",
+    "I6DmesZ5C0EsiDeK",
+    "5BtnwKHz8p78tmaq",
+    "ouYCWC9HQdxhyash"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.V4cF0rPxm4ERLRN6"
+    },
+    "cf": {
+      "id": "temp_uizkox49o8e"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897089,
+    "modifiedTime": 1685496658134,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QVh5Q8UaPvd1YQJ3",
+  "folder": "XPYNpQX82syKEdJ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!QVh5Q8UaPvd1YQJ3"
+}

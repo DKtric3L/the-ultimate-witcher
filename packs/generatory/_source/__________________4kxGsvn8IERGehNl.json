@@ -1,0 +1,49 @@
+{
+  "name": "Случайный Купорос",
+  "img": "systems/TheWitcherTRPG/assets/images/vitriol.png",
+  "description": "",
+  "results": [
+    "IaNousJ0CvqUaXsr",
+    "h0t6Rf3eixACIaQD",
+    "lNFMoRPG2p9bliYx",
+    "2GCr5yezeAVXKJZd",
+    "18FiqErvYQJ4kix8",
+    "x7Y1xXTpCPK83u3X",
+    "RREAcnXpSHYV67WQ",
+    "5TWhlDSpmBrSVShv",
+    "w15xNZfHOmvMxHdn",
+    "sLUoItcEcjGbdsWh",
+    "7qPL3pkLtsSIrCC1",
+    "hH9Fpo9Nn8k60rgd",
+    "hKnN6xLurSmcbee8",
+    "H2ZJbPq9k7wOeKVE",
+    "u5QLTB7ZgoZLnczs"
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_fq4yov25gun"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644845,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vHNpuBWLrSAYE4i",
+  "sort": 0,
+  "_id": "4kxGsvn8IERGehNl",
+  "_key": "!tables!4kxGsvn8IERGehNl"
+}

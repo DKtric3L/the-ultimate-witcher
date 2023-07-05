@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    9
+  ],
+  "drawn": false,
+  "text": "Случайный чертеж",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "JBKgruoGbRJeAltk",
+  "_id": "SpUt1dCvUK5lGE37",
+  "flags": {},
+  "_key": "!tables.results!bUgghi1YgvNNA445.SpUt1dCvUK5lGE37"
+}

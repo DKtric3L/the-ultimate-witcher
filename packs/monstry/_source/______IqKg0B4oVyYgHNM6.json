@@ -1,0 +1,66 @@
+{
+  "_id": "IqKg0B4oVyYgHNM6",
+  "name": "Гроза",
+  "type": "spell",
+  "img": "icons/magic/lightning/bolt-forked-large-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wcrqgntympb"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.2IVtbtpdsqhHuT1L"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "air",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Призывает грозу с бьющими в случайные места молниями. Любой, кто окажется в зоне действия заклинания (кроме самого заклинателя), с вероятностью 35% попадёт под удар молнии. При попадании молнии цель должна совершить проверку Уклоне- ния/Изворотливости, чтобы не получить 8d6 урона в туловище с 75%-ным шансом горения.",
+    "range": "радиус 20м",
+    "duration": "Актив(6 вын)",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "8d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "75"
+      },
+      {
+        "id": "_r1huu3kqd",
+        "name": "Шанс атаки молнией",
+        "percentage": "35"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!35PrRyyk0lNl1KVq.IqKg0B4oVyYgHNM6"
+}

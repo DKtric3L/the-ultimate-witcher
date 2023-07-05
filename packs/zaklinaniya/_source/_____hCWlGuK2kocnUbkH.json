@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Вода",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "Umj0IK8mUnQbMQI5",
+  "_id": "hCWlGuK2kocnUbkH",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!hCWlGuK2kocnUbkH"
+}

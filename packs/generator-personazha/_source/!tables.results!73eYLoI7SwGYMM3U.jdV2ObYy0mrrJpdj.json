@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Высший вампир - увлечения",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "WcWqWv6QSr2Gwb2N",
+  "_id": "jdV2ObYy0mrrJpdj",
+  "flags": {},
+  "_key": "!tables.results!73eYLoI7SwGYMM3U.jdV2ObYy0mrrJpdj"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Магический вакуум",
+  "type": "effect",
+  "img": "icons/magic/control/debuff-chains-shackles-movement-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.4OF7G1Zcls02MQXu"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Двимерит истощает ваши магические силы. За каждую единицу двимерита в радиусе 5 метров от вас, ваша энергия уменьшается на 1. Контакт с металлом обнуляет энергию вовсе, принуждая проходить проверку стойкости со сл. 16 каждые полчаса контакта по таблице \"Эффекты двимерита\".",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883169,
+    "modifiedTime": 1688508883224,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "dP6J8rlSl8wmOchi",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!dP6J8rlSl8wmOchi"
+}

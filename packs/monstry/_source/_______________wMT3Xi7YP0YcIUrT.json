@@ -1,0 +1,42 @@
+{
+  "name": "Коготь жагницы",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/claw_monstrous.png.6874.png",
+  "system": {
+    "description": "",
+    "quantity": "2",
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Жагница",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "hydragenum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.world.komponenty.v35o1YdtaF53hN1R"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669963770788,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "wMT3Xi7YP0YcIUrT",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!Sm1snYC5s1biVBbj.wMT3Xi7YP0YcIUrT"
+}

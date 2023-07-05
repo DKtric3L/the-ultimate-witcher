@@ -1,0 +1,16 @@
+{
+  "_id": "a1iDSslrrmbrfFwj",
+  "type": 0,
+  "text": "С вами Случилось что-то крайне непримечательное.",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4J6EtH4Pqn6wuDXh.a1iDSslrrmbrfFwj"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Масло против огров",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/oils/oil_ogre.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_hacq9m5y7oq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 28,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "oil",
+    "avail": "Rare",
+    "effect": "+5 урона против огров",
+    "time": "30 минут",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887306,
+    "modifiedTime": 1685496626812,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7RZ6JgVI9gs8QaSc",
+  "folder": "NtgGk0KNN8x3CCVm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7RZ6JgVI9gs8QaSc"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Жагница",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Zhagniza_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "Sm1snYC5s1biVBbj",
+  "_id": "kOj25OCyOdTlHZrt",
+  "flags": {},
+  "_key": "!tables.results!FVXhj1zx5hYIWm2G.kOj25OCyOdTlHZrt"
+}

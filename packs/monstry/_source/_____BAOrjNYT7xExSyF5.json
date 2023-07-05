@@ -1,0 +1,65 @@
+{
+  "_id": "BAOrjNYT7xExSyF5",
+  "name": "Вилы",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/trident-fork-white.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.NOKM42rQWkIkKnUk"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 115,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": -2,
+    "avail": "Everywhere",
+    "damage": "2d6+2",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "15"
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Staff/Spear",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xvaGQmWTRZjVbYPB.BAOrjNYT7xExSyF5"
+}

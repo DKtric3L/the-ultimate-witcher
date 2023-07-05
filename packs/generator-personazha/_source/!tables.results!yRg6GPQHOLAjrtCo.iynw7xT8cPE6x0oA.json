@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "НПС - Характер",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "CrWLlnligMUXHj4k",
+  "_id": "iynw7xT8cPE6x0oA",
+  "flags": {},
+  "_key": "!tables.results!yRg6GPQHOLAjrtCo.iynw7xT8cPE6x0oA"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Трофей виверны",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/vyvern.webp",
+  "system": {
+    "description": "Существа, которым вы наносите урон своими атаками, с вероятностью 25% могут быть отравлены",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.zaYsJHQi7a4S4uQ1"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1669962530671,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "Axj2tAvlSrMHC442",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!AEkJbzVAFn9Su5f6.Axj2tAvlSrMHC442"
+}

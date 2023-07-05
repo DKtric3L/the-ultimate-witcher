@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "qVAkdCcXEQ9CgkjA",
+  "text": "[[2d6]] Особей + Вождь",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!lHthgibcAJ8F0j1b.qVAkdCcXEQ9CgkjA"
+}

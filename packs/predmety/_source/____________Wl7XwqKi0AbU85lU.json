@@ -1,0 +1,19 @@
+{
+  "color": "#4d4d4d",
+  "name": "Еда и питьё",
+  "sorting": "a",
+  "type": "Item",
+  "folder": null,
+  "_id": "Wl7XwqKi0AbU85lU",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!Wl7XwqKi0AbU85lU"
+}

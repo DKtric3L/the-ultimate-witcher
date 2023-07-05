@@ -1,0 +1,16 @@
+{
+  "text": "Сухой паек(1 день)",
+  "type": 2,
+  "img": "icons/consumables/food/berries-ration-round-red.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "95zk0hct0c4vws8v",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "vThn5r2dXap8ktIc",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.95zk0hct0c4vws8v"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Перо Лютиэнь",
+  "type": "spell",
+  "img": "icons/magic/symbols/triangle-glowing-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_g0hcqrt3scn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Это заклинание было создано чародейкой Лютиэнь из Эббинга. Позволяет начертать буквы или рисунок на любой твёрдой поверхности. Заклинание нельзя использовать на живых существах",
+    "range": "1м",
+    "duration": "Мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496637801,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "GZYrNz5jQ0xyMt0y",
+  "folder": "1qvYxGy2tyjjpXzr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!GZYrNz5jQ0xyMt0y"
+}

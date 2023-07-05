@@ -1,0 +1,44 @@
+{
+  "_id": "xd1IHnDjWj2d8azX",
+  "name": "Мутаген: Леший",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-blue.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_loaduoyv3n",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.28Ri8Ji058rdzNe3"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "blue",
+    "source": "Leshen",
+    "effect": "+1 Воля",
+    "alchemyDC": "22",
+    "minorMutation": "растения растут на теле"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!9iFDcoHx6bfRsyV3.xd1IHnDjWj2d8azX"
+}

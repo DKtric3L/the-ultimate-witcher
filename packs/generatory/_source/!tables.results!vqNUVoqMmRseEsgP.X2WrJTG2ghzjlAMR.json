@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "X2WrJTG2ghzjlAMR",
+  "text": "Пещеры",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!vqNUVoqMmRseEsgP.X2WrJTG2ghzjlAMR"
+}

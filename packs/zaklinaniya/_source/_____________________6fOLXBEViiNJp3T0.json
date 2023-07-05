@@ -1,0 +1,60 @@
+{
+  "name": "Восстановление трупа",
+  "type": "spell",
+  "img": "icons/magic/death/hand-dirt-undead-zombie.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.T0bfr0egIzCnu91A"
+    },
+    "cf": {
+      "id": "temp_eontwkxile6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "7",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ. Если не знаешь, что делать из-за этого предупреждения, не лезь сюда.\n\nВосстановление трупа использует магию для\nвосстановления мышц, плоти, кожи и волос целевого трупа в\nпризрачной форме. Восстановленный труп кажется слегка\nполупрозрачной версией человека, которым он был в\nмомент смерти. Любые раны, которые целевое тело получило\nперед смертью, присутствуют в этой иллюзорной форме, и к\nэтой форме можно прикоснуться и изучить, как если бы они\nбыли реальными. Вы можете призвать «плоть и кровь»\nтолько тех частей тела, которые у вас есть, но их не нужно\nсоединять, пока они находятся в пределах 4 м",
+    "range": "4м",
+    "duration": "1 час",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892155,
+    "modifiedTime": 1685496637650,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6fOLXBEViiNJp3T0",
+  "folder": "2jBCQAnyinSCQVWJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!6fOLXBEViiNJp3T0"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "OHKjBU3g6Rlit8cr",
+  "name": "Мутаген: Волколак",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-red.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_loaduoyv3n",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.C8OQtqEpP9GkNl4H"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "red",
+    "source": "Волколаки",
+    "effect": "+3 урон в бл. бою",
+    "alchemyDC": "20",
+    "minorMutation": "Обрастание волосами, волосы растут быстро"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!b27AF3zTynDRiJ0r.OHKjBU3g6Rlit8cr"
+}

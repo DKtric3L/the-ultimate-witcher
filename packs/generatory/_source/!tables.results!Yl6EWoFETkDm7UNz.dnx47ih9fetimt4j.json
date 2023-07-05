@@ -1,0 +1,16 @@
+{
+  "text": "Хранилище знаний",
+  "type": 2,
+  "img": "icons/magic/perception/orb-eye-scrying.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "dnx47ih9fetimt4j",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "XQtpHfLpW518JJpp",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.dnx47ih9fetimt4j"
+}

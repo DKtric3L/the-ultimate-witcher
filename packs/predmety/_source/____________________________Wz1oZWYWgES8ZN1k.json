@@ -1,0 +1,43 @@
+{
+  "name": "Услуги медика (за пациента)",
+  "type": "valuable",
+  "img": "icons/sundries/scrolls/scroll-writing-beige.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.MhcO3aNZN7iI2Hv5"
+    },
+    "cf": {
+      "id": "temp_yd58wf1pts8"
+    }
+  },
+  "system": {
+    "description": "Цирюльники, деревенские лекари — зови их как хочешь. За пару монет они тебя подлатают, синяки да ссадины обработают и на ноги поставят.\n\nЗа каждое критическое ранение, полученное персонажем, прибавляйте определённую сумму к стоимости услуг медика: \n• лёгкое — 10 крон, \n• среднее — 25 крон, \n• тяжёлое — 50 крон, \n• смертельное — 100 крон.",
+    "quantity": 1,
+    "weight": null,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "service",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868993,
+    "modifiedTime": 1685496603173,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Wz1oZWYWgES8ZN1k",
+  "folder": "QEpLVR9XgY47bXqF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Wz1oZWYWgES8ZN1k"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "О или П товары на 1000 крон",
+  "type": "valuable",
+  "_id": "48YvkqGr55bo0PMO",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "",
+    "avail": "",
+    "effect": "",
+    "conceal": "",
+    "quality": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663424079917,
+    "modifiedTime": 1670417180622,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!hVlOV9UApkUxS9TM.48YvkqGr55bo0PMO"
+}

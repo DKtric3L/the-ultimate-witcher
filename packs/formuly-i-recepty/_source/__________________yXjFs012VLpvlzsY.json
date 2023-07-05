@@ -1,0 +1,133 @@
+{
+  "name": "Эльфское усиление",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-leaf-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.yXjFs012VLpvlzsY"
+    },
+    "cf": {
+      "id": "temp_ry3bva1t28e"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.4LiCe7ujsGEhfCRA]{Эльфское усиление}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 300,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 24,
+    "alchemyDC": 0,
+    "craftingTime": "6ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Темная сталь"
+      },
+      {
+        "id": "_i16evutvr",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_yqj13olw0",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_r2i3lnm14",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 149,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Эльфское усиление",
+      "type": "enhancement",
+      "img": "icons/equipment/shoulder/pauldron-segmented-green.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 200,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "armor",
+        "applied": "",
+        "avail": "Rare",
+        "effects": [
+          {
+            "id": "first",
+            "name": "+1 к скрытности"
+          }
+        ],
+        "stopping": 3,
+        "bludgeoning": true,
+        "slashing": false,
+        "piercing": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.4LiCe7ujsGEhfCRA"
+        },
+        "cf": {
+          "id": "temp_58lmmpxrkto"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162868995,
+        "modifiedTime": 1672568047337,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848433,
+    "modifiedTime": 1685496578903,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "yXjFs012VLpvlzsY",
+  "folder": "KXomZJGoGaYQvtov",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!yXjFs012VLpvlzsY"
+}

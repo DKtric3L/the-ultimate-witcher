@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Чернящее масло",
+  "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "ftO7knVRso2rHcS1",
+  "_id": "GHp5uk7yYiqMdpOi",
+  "flags": {},
+  "_key": "!tables.results!pI7qJQDfducKWdG3.GHp5uk7yYiqMdpOi"
+}

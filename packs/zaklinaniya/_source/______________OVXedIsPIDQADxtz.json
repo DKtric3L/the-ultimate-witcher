@@ -1,0 +1,57 @@
+{
+  "name": "Зеркало Афана",
+  "type": "spell",
+  "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_dpnqmwag5w"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Это заклинание придумал талантливый аэдирнский маг Афан из Гулеты. Оно создаёт 1dlO иллюзорных копий заклинателя. Копии нематериальны,но неотличимы от заклинателя и полностью управляются его волей. Копии не могут выходитьза пределы дистанции заклинания, управление ими не требует отдельного действия.",
+    "range": "10м",
+    "duration": "Активное(2 вын)",
+    "defence": "Нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Количество копий"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496637764,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "OVXedIsPIDQADxtz",
+  "folder": "cnIlwgnwtzSIOWjW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OVXedIsPIDQADxtz"
+}

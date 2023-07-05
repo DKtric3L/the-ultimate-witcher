@@ -1,0 +1,68 @@
+{
+  "_id": "Hb2dRrEXNZ5tDkVI",
+  "name": "Бое-сы с широким наконечником",
+  "type": "weapon",
+  "img": "icons/weapons/ammunition/arrow-broadhead-glowing-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_yr6clv8o1dd"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.nN56s1SipmMmLS7q"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 10,
+    "weight": 0.1,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Common",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "100"
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!5LLHqstrIQe4XKBE.Hb2dRrEXNZ5tDkVI"
+}

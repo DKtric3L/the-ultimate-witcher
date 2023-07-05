@@ -1,0 +1,40 @@
+{
+  "name": "Болезни(ХБ)",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "description": "",
+  "results": [
+    "nfXCEYEym30aAxEa",
+    "DOsBtlFvn24SFvts",
+    "UN2NRAXBeMnPpo35",
+    "ynNEFzkiX2pTssOs",
+    "PpsFVrtn5SEDpOEP",
+    "Knj1bQ224BEQTDeO",
+    "r46iENw4VG8UAvWW",
+    "VRy8DHecoZgsY7yL",
+    "LOPudj3Dtkd5bMvK"
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1672591183412,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "v58wVMnQsz3VdsdV",
+  "_key": "!tables!v58wVMnQsz3VdsdV"
+}

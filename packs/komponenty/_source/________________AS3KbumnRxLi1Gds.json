@@ -1,0 +1,45 @@
+{
+  "name": "Зубы Свальблода",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tooth_nekker.dds_.6951.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_245p1o8sc5y",
+      "color": "#ff0000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.d91NlY4JwTNUxdVH"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 10000,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Свальблод",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1685496584212,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AS3KbumnRxLi1Gds",
+  "folder": "HjNVduTYA5Hnj66m",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AS3KbumnRxLi1Gds"
+}

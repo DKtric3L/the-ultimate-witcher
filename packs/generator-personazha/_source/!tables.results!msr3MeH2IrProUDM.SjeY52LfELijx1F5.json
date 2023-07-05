@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "SjeY52LfELijx1F5",
+  "text": "Увлечения - Питомцы. Этот дракон любит держать дома животных. В его логове живут несколько (1d/6) питомцев (зверей), которые подчиняются его приказам.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!msr3MeH2IrProUDM.SjeY52LfELijx1F5"
+}

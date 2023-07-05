@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Клуб - Есть ли конюшня",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "jKB8zou8oW3wKjCP",
+  "_id": "X5Xngo3YzuEWjem7",
+  "flags": {},
+  "_key": "!tables.results!hI72n8qVQg77ev8U.X5Xngo3YzuEWjem7"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "M9f3DcTmRmcWYGSB",
+  "name": "Танио Ильхар",
+  "type": "spell",
+  "img": "icons/magic/fire/flame-burning-skeleton-explosion.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.uyZtr8OuSpAur2Uy"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Танио Ильхар создаёт всполох пламени в зоне 2x2 метра со 100%-ным шансом поджечь цель, находящуюся в этой зоне.",
+    "range": "8м",
+    "duration": "мгновенное",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2х2",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "100"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!ctnZdItFrR5kV9N2.M9f3DcTmRmcWYGSB"
+}

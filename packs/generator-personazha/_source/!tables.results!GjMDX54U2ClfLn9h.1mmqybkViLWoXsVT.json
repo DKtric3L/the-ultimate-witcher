@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "1mmqybkViLWoXsVT",
+  "text": "Исступление - Вампир может впасть в исступление в качестве свободного действия. В этом состоянии (длится, пока вампир не потратит ход, чтобы успокоиться) он невосприимчив к обольщению и обладает сопротивлением дезориентации, но обязан атаковать всех, кто рядом.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!GjMDX54U2ClfLn9h.1mmqybkViLWoXsVT"
+}

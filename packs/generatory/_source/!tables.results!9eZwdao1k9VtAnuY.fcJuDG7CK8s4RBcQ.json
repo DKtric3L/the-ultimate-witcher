@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Где монстр?",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "vqNUVoqMmRseEsgP",
+  "_id": "fcJuDG7CK8s4RBcQ",
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.fcJuDG7CK8s4RBcQ"
+}

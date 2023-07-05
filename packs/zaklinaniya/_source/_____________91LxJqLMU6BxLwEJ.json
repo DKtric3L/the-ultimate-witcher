@@ -1,0 +1,58 @@
+{
+  "name": "Гром Альзура",
+  "type": "spell",
+  "img": "icons/magic/lightning/bolt-strike-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_8d23sz774xs"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Позволяет швырнуть в цель яркую молнию, наносящую 8d6 урона с 75%-ным шансом горения. Гром Альзура бьёт по прямой, проходя сквозь цели. За каждую цель, через которую прошёл заряд, урон следующей цели снижается на 1d6.",
+    "range": "25м",
+    "duration": "мгновенное",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "8d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "75"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892157,
+    "modifiedTime": 1685496637983,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "91LxJqLMU6BxLwEJ",
+  "folder": "qEnUV4TFfXrvClWj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!91LxJqLMU6BxLwEJ"
+}

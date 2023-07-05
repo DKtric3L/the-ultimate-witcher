@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    31,
+    31
+  ],
+  "drawn": false,
+  "text": "Фисштех",
+  "img": "modules/the-ultimate-witcher/assets/props/fischteh.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "i2h2LJgJCjjangOl",
+  "_id": "vj9N8ZYtteY2dYOl",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.vj9N8ZYtteY2dYOl"
+}

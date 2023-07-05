@@ -1,0 +1,40 @@
+{
+  "name": "Совершенные Самоцветы",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "2JpsLzh35IKfoDs2",
+    "l3JAP3fI7DzYfLtx",
+    "plBjRRJ05lCC3Cs7",
+    "prgmnZIar59FLUP6",
+    "SS1aSnQ64FQzSN5M",
+    "i0Zz7z2lyKnV05sp"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_fq4yov25gun"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644845,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vHNpuBWLrSAYE4i",
+  "sort": 0,
+  "_id": "eJlqDM4NanRI3WJe",
+  "_key": "!tables!eJlqDM4NanRI3WJe"
+}

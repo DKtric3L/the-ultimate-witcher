@@ -1,0 +1,16 @@
+{
+  "text": "Укреплённая кожа",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-magical.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "p8bud6uk4uuu7kqq",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "czLlJ4bgCKScuFzT",
+  "_key": "!tables.results!Tj2GArVExFFvU3zk.p8bud6uk4uuu7kqq"
+}

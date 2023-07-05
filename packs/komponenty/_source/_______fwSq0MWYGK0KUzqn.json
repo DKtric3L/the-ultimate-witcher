@@ -1,0 +1,42 @@
+{
+  "name": "Камень",
+  "type": "component",
+  "img": "icons/commodities/stone/stone-chunk-grey-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_sg5oias8hq",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 4,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Everywhere",
+    "location": "Везде",
+    "quantityObtainable": "2d6",
+    "forage": "2",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1685496584092,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "fwSq0MWYGK0KUzqn",
+  "folder": "Yvm2f45VU7Uinqch",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!fwSq0MWYGK0KUzqn"
+}

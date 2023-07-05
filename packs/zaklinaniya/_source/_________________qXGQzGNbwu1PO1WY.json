@@ -1,0 +1,65 @@
+{
+  "name": "Поднятие мутанта",
+  "type": "spell",
+  "img": "icons/magic/death/skeleton-bird-skull-gray.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GCA1TEoJBsmvSfbg"
+    },
+    "cf": {
+      "id": "temp_yt9b8cjci6m"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "20",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 5d10.\nПоднятие мутанта позволяет воскрешать похороненные трупы, наполняя их частью вашей собственной жизненной силы. Труп модифицируется темной магией и воскрешается только через 1d6 часов. Он получает характеристики гуля. Труп продолжает разлагаться естественным путем, поэтому, если он следует за вами в течение некоторого времени, он получает 1d6 урона каждые 2 дня, если только это не находится под действием эффекта ритуала Остановка разложения. Трупы можно исцелять только заклинанием Исцеление нежити.",
+    "range": "20м",
+    "duration": "Пока не убит",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "5d10+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "5d10 - Некротический урон заклинателю"
+      },
+      {
+        "id": "_8qm8qvmi1",
+        "name": "1d6 - Через сколько часов труп воскреснет.",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496639054,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qXGQzGNbwu1PO1WY",
+  "folder": "61JxKnK4vxszNzbe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qXGQzGNbwu1PO1WY"
+}

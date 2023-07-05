@@ -1,0 +1,186 @@
+{
+  "name": "Арбалет школы Медведя",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.VtYgpYtgXLLnnQN1"
+    },
+    "cf": {
+      "id": "temp_7t3vzssi8zd"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.Mi4I2Ddq9VSYzd2k]{Арбалет школы медведя}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "8ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укреплённое дерево"
+      },
+      {
+        "id": "_0yjibs5l4",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_egszjxhdm",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ix426k329",
+        "name": "Укреплённая кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_tg0yic3c4",
+        "name": "Голосовые связки сирены",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_n3ovhvney",
+        "name": "Тёмная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_hsynblico",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_g2durui1w",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_vc0w133gv",
+        "name": "Тёмное железо",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_icfg05iia",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 347,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Арбалет школы медведя",
+      "type": "weapon",
+      "img": "icons/weapons/crossbows/crossbow-simple-purple.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": 1,
+        "avail": "Everywhere",
+        "damage": "4d6+2",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "1",
+        "range": "50м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Медленная перезарядка",
+            "percentage": ""
+          }
+        ],
+        "conceal": "L",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Crossbow",
+        "rollOnlyDmg": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.tTt1f6OWXMOF7JnT"
+        },
+        "cf": {
+          "id": "temp_bej0ldlpz"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887304,
+        "modifiedTime": 1668162887304,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848408,
+    "modifiedTime": 1685496578969,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2AGU4pyAJVPFLJn3",
+  "folder": "i0ugUJn6YHiPoSLM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2AGU4pyAJVPFLJn3"
+}

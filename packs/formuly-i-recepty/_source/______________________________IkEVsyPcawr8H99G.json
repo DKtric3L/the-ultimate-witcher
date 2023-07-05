@@ -1,0 +1,120 @@
+{
+  "name": "Формула: Церебральный эликсир",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-bound-tan-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.nCHXzquBboc8MR3j"
+    },
+    "cf": {
+      "id": "temp_zfyjt4wcdgo"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1332,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "10ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Алкагест"
+      },
+      {
+        "id": "_y88mktalf",
+        "name": "Кошачий мозг",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_2vcz0z9dz",
+        "name": "Галлюциноген",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_nn7x443zr",
+        "name": "Лепестки морозника",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_ba3ckyw1z",
+        "name": "Корень мандрагоры",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_nmhngl712",
+        "name": "Вороний глаз",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_84ju6vqdi",
+        "name": "Аконит",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_5jmny5yiu",
+        "name": "Серебро",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_y07qgfvul",
+        "name": "Волокна хана",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_sfbemt7ie",
+        "name": "От свитка идёт лёгкий шёпот...",
+        "percentage": "",
+        "quantity": "666"
+      }
+    ],
+    "investment": 666,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848431,
+    "modifiedTime": 1685496578794,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IkEVsyPcawr8H99G",
+  "folder": "v0rRUZxK4JOqikhN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IkEVsyPcawr8H99G"
+}

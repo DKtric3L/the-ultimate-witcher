@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    25,
+    25
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "zk20ettVF6pRW2kH",
+  "text": "Финт + Перемещение на СКОР/2 или остаток СКОР",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!TSiizjCPrhyprZeQ.zk20ettVF6pRW2kH"
+}

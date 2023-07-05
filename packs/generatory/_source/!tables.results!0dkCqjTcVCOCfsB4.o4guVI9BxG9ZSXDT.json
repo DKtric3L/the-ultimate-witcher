@@ -1,0 +1,16 @@
+{
+  "_id": "o4guVI9BxG9ZSXDT",
+  "type": 2,
+  "text": "Еда и питьё",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "e8vfp5SNiCReOXa9",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.o4guVI9BxG9ZSXDT"
+}

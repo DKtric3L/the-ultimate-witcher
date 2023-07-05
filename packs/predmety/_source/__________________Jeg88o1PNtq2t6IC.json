@@ -1,0 +1,43 @@
+{
+  "name": "Последняя надежда",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-conical-corked-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.hqydcNgQf5BFt1ZT"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 200,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Poor",
+    "effect": "Неудачная копия исцеляющего лекарства дриад Брокилона, Последняя Надежда может излечить самые тяжелые раны за определенную плату. Его питье лечит 1 критическую рану выпивающего, но эта критическая рана не заживет сама, если только Доктор не совершит проверку Лечащего прикосновения с СЛ:24, чтобы повторно нанести критическую рану, а затем снова вылечит ее Лечащим прикосновением.",
+    "time": "-",
+    "toxicity": "75%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Jeg88o1PNtq2t6IC",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Jeg88o1PNtq2t6IC"
+}

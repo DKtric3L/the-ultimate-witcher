@@ -1,0 +1,60 @@
+{
+  "name": "Пылающий топот",
+  "type": "spell",
+  "img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.xFeMIsjeDFv8fBZS"
+    },
+    "cf": {
+      "id": "temp_rfqt1jg26l"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Пылающий топот позволяет вам топая по земле пускать линию огня длиной 6 м и шириной 2 м. Все, кто стоит на вдоль этой линии, должны совершить проверку Изменения позиции. При провале цель получает 6d6 урона от магического огня по туловищу и загораются. После этого линия огня рассеивается.",
+    "range": "6м",
+    "duration": "мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "6d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496638991,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9GkXPBxpo4BW9f20",
+  "folder": "cWM5V9rg32KY6LB7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9GkXPBxpo4BW9f20"
+}

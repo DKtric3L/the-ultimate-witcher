@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Уголь",
+  "img": "icons/commodities/stone/boulder-black.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "YDtQBynVm6SFViUD",
+  "_id": "MZvckRWNbM5WlAop",
+  "flags": {},
+  "_key": "!tables.results!UsMLn6LlS08K6zwk.MZvckRWNbM5WlAop"
+}

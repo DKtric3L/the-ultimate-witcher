@@ -1,0 +1,16 @@
+{
+  "text": "Удержание языка",
+  "type": 2,
+  "img": "icons/magic/control/fear-fright-white.webp",
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "mRNjUe89Akwfdvg8",
+  "documentId": "nR1DW6lbgcG6vGK1",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.mRNjUe89Akwfdvg8"
+}

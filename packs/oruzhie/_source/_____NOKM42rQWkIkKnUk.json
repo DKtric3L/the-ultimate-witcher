@@ -1,0 +1,66 @@
+{
+  "name": "Вилы",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/trident-fork-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2jbgazraiwc"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 115,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": -2,
+    "avail": "Everywhere",
+    "damage": "2d6+2",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "15"
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Staff/Spear",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863937,
+    "modifiedTime": 1685496598603,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NOKM42rQWkIkKnUk",
+  "folder": "3BjANa0nnKl5rxLI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NOKM42rQWkIkKnUk"
+}

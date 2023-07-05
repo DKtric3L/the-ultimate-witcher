@@ -1,0 +1,26 @@
+{
+  "_id": "e7G4hjNPu0nnRdJh",
+  "name": "Переливание крови",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "На фледера действуют все субстанции, которые были в крови у жертвы, у которой она испила кровь."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!k3JZYiQh1DzwWcMS.e7G4hjNPu0nnRdJh"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Заговор Матери (Клан Ворона)",
+  "type": "spell",
+  "img": "icons/creatures/birds/corvid-call-sound-glowing.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2yvizi5odu8"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "druid",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Заговор Матери позволяет вам протянуть руку и призвать до 10 ворон к себе. Каждая из ворон устанавливает с вами телепатическую связь. Эта телепатическая связь позволяет вам бесшумно общаться с ними в пределах 20 м, повышает их Интеллект, Реакцию и Ловкость до 7, дает им 7 очков Ловкости рук и делает их разумными существами, которые следуют вашим приказам, если вы не злоупотребляете ими. Эта телепатическая связь также позволяет вам просматривать их воспоминания, когда вы прикасаетесь к ним физически, и позволяет им всегда знать, где вы находитесь. Наконец, любая ворона, затронутая этим заклинанием,увеличивает урон от когтей с 1d6/2 до 2d6. Вы можете быть связаны только с 10 воронами с помощью этого призыва одновременно, но эффекты на вороне постоянны.",
+    "range": "800 м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496638288,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IpHHrwp3nSC6mbVT",
+  "folder": "6IoQzlwq4UKLmeeO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IpHHrwp3nSC6mbVT"
+}

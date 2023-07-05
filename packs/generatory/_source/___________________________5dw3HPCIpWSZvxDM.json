@@ -1,0 +1,47 @@
+{
+  "name": "Полностью случайный монстр",
+  "img": "icons/creatures/abilities/mouth-teeth-rows-needles-purple.webp",
+  "description": "",
+  "results": [
+    "aJdHRoNzXL72Bmoq",
+    "MTIGZH8hEGCF0e8o",
+    "FMRyVKr9aDnoVcgo",
+    "kqLzX8Bc6lYCvTDX",
+    "CjogFfPgnhLgbXtN",
+    "GBOEmzdnMTe0OVI6",
+    "Ju4rf5cJcvRWai3x",
+    "WffsirnXPkcuxVht",
+    "Uf5UoyZjAVhwMLc9",
+    "iu01zYredtqSh7WJ",
+    "9SoaIDvh0ETGIiXT",
+    "8jgHo5OwWP0m3iTp",
+    "m4NKThaDeDnk03MP"
+  ],
+  "formula": "1d13",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_o8v204tslw"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644573,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Xh9XSSmbD1c7r9vq",
+  "sort": 0,
+  "_id": "5dw3HPCIpWSZvxDM",
+  "_key": "!tables!5dw3HPCIpWSZvxDM"
+}

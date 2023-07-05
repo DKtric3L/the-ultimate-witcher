@@ -1,0 +1,33 @@
+{
+  "name": "Критические неудачи",
+  "pages": [
+    "OSv6JFX1k2rr7oCd"
+  ],
+  "flags": {
+    "exportSource": {
+      "world": "TWH",
+      "system": "TheWitcherTRPG",
+      "coreVersion": "10.290",
+      "systemVersion": "0.94"
+    },
+    "core": {
+      "sourceId": "JournalEntry.faV12ChDfuSONn4r"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1670412903393,
+    "modifiedTime": 1670412903393,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "_id": "N5VlvdW42g3nKynu",
+  "_key": "!journal!N5VlvdW42g3nKynu"
+}

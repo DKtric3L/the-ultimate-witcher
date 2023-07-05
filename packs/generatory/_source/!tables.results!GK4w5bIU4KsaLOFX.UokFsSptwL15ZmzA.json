@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Старший брат",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Starshie_Bratiya_Nemanja_Stankovic.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "8yLvFKBzBj7aB2a2",
+  "_id": "UokFsSptwL15ZmzA",
+  "flags": {},
+  "_key": "!tables.results!GK4w5bIU4KsaLOFX.UokFsSptwL15ZmzA"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Средний крит - Торс",
+  "img": "icons/commodities/bones/bones-broken-marrow-white-red.webp",
+  "results": [
+    "YVdvh5Pp59YHFD0c",
+    "VF1Jt7104JBtqJry",
+    "rQ00FJnSkmQNOrA3",
+    "zfHsL1nwSyT4LPEH"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.izebgOHGwQsSU8L9"
+    },
+    "cf": {
+      "id": "temp_uizkox49o8e"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897088,
+    "modifiedTime": 1685496658134,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jXlGmpzzMvq4KNlp",
+  "folder": "XPYNpQX82syKEdJ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!jXlGmpzzMvq4KNlp"
+}

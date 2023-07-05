@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Формула: Летняя мазь",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "e54soMLZmM0KfoTs",
+  "_id": "IoUsYfbMrHlPOYWy",
+  "flags": {},
+  "_key": "!tables.results!H2gvCHvewCoWFqxs.IoUsYfbMrHlPOYWy"
+}

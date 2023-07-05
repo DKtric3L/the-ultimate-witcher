@@ -1,0 +1,16 @@
+{
+  "_id": "Kg6cLOw7bcrhf9zi",
+  "flags": {},
+  "type": 0,
+  "text": "Сломанная рука: -3 к действию рукой. Стабилизация: Штраф -2, Лечение: штраф -1.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!x79sDezhnh38lBbh.Kg6cLOw7bcrhf9zi"
+}

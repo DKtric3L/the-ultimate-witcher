@@ -1,0 +1,19 @@
+{
+  "color": "#545454",
+  "name": "Гуманоиды",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": null,
+  "_id": "Jfhmy3jcMm2zAqLg",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!Jfhmy3jcMm2zAqLg"
+}

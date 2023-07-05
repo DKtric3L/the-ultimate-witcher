@@ -1,0 +1,16 @@
+{
+  "text": "Пожарище",
+  "type": 2,
+  "img": "icons/sundries/documents/document-letter-formal-tan.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "GRsUJM6yJ6mDGpay",
+  "documentId": "JSlOCAyYvImPeDqe",
+  "flags": {},
+  "_key": "!tables.results!pfvQJ4Ab5bIZaYOH.GRsUJM6yJ6mDGpay"
+}

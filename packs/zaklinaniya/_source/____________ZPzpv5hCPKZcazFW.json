@@ -1,0 +1,60 @@
+{
+  "name": "Невидимость",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/shadi2.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_7aea2ggiqyw"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Шади теперь делает заклинателя невидимым, предоставляя бонус +10 к Скрытности и +5 к проверкам атаки и защиты. Для обнаружения заклинателя, необходимо совершить проверку Внимания, и при успехе бонус уменьшается вдвое. За каждые 2 дополнительных очка Вын (свыше 1), эффект длится на 1 раунд дольше.",
+    "range": "на себя",
+    "duration": "Меняется",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496638489,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ZPzpv5hCPKZcazFW",
+  "folder": "QhyjillGyHuKzXly",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ZPzpv5hCPKZcazFW"
+}

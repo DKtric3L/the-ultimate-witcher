@@ -1,0 +1,16 @@
+{
+  "_id": "MWl2EoIWD33CT3oV",
+  "flags": {},
+  "type": 2,
+  "text": "Family Status: Elderland",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "NM8wbHFX7ZBsZVTf",
+  "_key": "!tables.results!K8YRwSkTOLF4VhvG.MWl2EoIWD33CT3oV"
+}

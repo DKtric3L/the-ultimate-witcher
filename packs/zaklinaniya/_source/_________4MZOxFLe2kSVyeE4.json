@@ -1,0 +1,57 @@
+{
+  "name": "Усиление",
+  "type": "spell",
+  "img": "icons/magic/life/cross-embers-glow-yellow-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uo04sybp4yb"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Полномочия позволяет вам вплетать дополнительную магию в ваши заклинания, чтобы создать опасную конвергенцию хаоса. Следующее заклинание, которое вы произносите, получает одно из следующих преимуществ по вашему выбору: процентная вероятность любых эффектов, вызванных заклинанием, повышается до 100%, бросок на сотворение заклинания делается с бонусом +2 или уже наносящее урон заклинание наносит дополнительный урон 2d6. Однако, если вы выбросили 1 при проверке Сотворения заклинаний, вы автоматически страдаете от Магического провала, как если бы вы выбросили 10.",
+    "range": "на себя",
+    "duration": "1 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496637929,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4MZOxFLe2kSVyeE4",
+  "folder": "Kq5EsZjuyQjP2c1F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4MZOxFLe2kSVyeE4"
+}

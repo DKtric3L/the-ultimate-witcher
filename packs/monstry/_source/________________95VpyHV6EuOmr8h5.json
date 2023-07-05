@@ -1,0 +1,43 @@
+{
+  "_id": "95VpyHV6EuOmr8h5",
+  "name": "Мутаген: Циклоп",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "flags": {
+    "core": {
+      "sourceId": "Item.FQe4Ke3f0pHAWXb4"
+    },
+    "cf": {
+      "id": "temp_loaduoyv3n"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "",
+    "effect": "+10 ПЗ",
+    "alchemyDC": "20",
+    "minorMutation": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!5uEBp1Dg0RJq2yA1.95VpyHV6EuOmr8h5"
+}

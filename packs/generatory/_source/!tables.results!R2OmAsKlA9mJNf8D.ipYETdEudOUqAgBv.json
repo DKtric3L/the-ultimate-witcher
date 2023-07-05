@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "ipYETdEudOUqAgBv",
+  "text": "Цель убийства одержима Химом. Как минимум - придётся драться ещё и с ним, а как максимум - он вселится к исполнителя.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!R2OmAsKlA9mJNf8D.ipYETdEudOUqAgBv"
+}

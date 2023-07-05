@@ -1,0 +1,40 @@
+{
+  "name": "Случайный чертеж",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "description": "",
+  "results": [
+    "0szbH5fhetKQ7hEN",
+    "wMQ5nJCqjjXuVFMC",
+    "4hu32J5d2k499zL5",
+    "bOyvUVnqmtHnylX0",
+    "bfIR137LxP3qt2Q8",
+    "Zgdn0lHzT2eFIBnW"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.42w2kUNOMMzWyX25"
+    },
+    "cf": {
+      "id": "temp_o8v204tslw"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932920,
+    "modifiedTime": 1685496644573,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JBKgruoGbRJeAltk",
+  "folder": "Xh9XSSmbD1c7r9vq",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!JBKgruoGbRJeAltk"
+}

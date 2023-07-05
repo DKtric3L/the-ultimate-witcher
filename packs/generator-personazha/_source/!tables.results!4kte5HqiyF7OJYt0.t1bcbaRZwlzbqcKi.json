@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Путь ведьмака: Средний",
+  "img": "icons/environment/settlement/tent.webp",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "dsvsdl2GfKCWKsEO",
+  "_id": "t1bcbaRZwlzbqcKi",
+  "flags": {},
+  "_key": "!tables.results!4kte5HqiyF7OJYt0.t1bcbaRZwlzbqcKi"
+}

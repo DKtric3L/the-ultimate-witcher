@@ -1,0 +1,16 @@
+{
+  "text": "Огненное клеймо",
+  "type": 2,
+  "img": "icons/magic/symbols/rune-sigil-red-orange.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "aE4zS91Ts0WSa843",
+  "documentId": "pPLy9shwoUS2tC0O",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.aE4zS91Ts0WSa843"
+}

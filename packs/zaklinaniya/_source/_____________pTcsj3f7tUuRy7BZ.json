@@ -1,0 +1,65 @@
+{
+  "name": "Тепловой луч",
+  "type": "spell",
+  "img": "icons/magic/light/beam-rays-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.PN92aRVP3ObCj42d"
+    },
+    "cf": {
+      "id": "temp_rfqt1jg26l"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "Раскаленный докрасна луч срывается с ваших рук и наносит 10d6 урона от магического огня. Если ПЗ цели падает до 0 от этой атаки, она и все ее снаряжение превращаются в прах. Если цель блокирует атаку каким-либо предметом, он получает весь урон.",
+    "range": "10м",
+    "duration": "мгновенное",
+    "defence": "Уклонение/Блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "10d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "При убийстве врага превращает его самого и снаряжение в прах."
+      },
+      {
+        "id": "_89q3w43c9",
+        "name": "Укрытие или щит получает весь урон.",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496638991,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pTcsj3f7tUuRy7BZ",
+  "folder": "cWM5V9rg32KY6LB7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pTcsj3f7tUuRy7BZ"
+}

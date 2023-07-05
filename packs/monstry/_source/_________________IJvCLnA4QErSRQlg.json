@@ -1,0 +1,60 @@
+{
+  "_id": "IJvCLnA4QErSRQlg",
+  "name": "Стеклянные кости",
+  "type": "spell",
+  "img": "icons/skills/wounds/bone-broken-marrow-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_inm2utr2uk"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.wcZ8uXUY6lCI6fBF"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Стеклянные кости волшебным образом делает кости субъекта полыми, делая их склонными к расщеплению. Когда субъект получит Критическое ранение «треснутые ребра», он вместо этого получит Критическое ранение «сломанные ребра». Когда они получают Критическое ранение Перелом Руки/Ноги, они вместо этого получают Критическое Ранение Открытый Перелом Руки/Ноги. Когда они должны были получить Критическое Ранение Небольшой Травмы Головы, вместо этого они получают Критическое Ранение Проломленный Череп. Кроме того, броски, сделанные для стабилизации или лечения этих критических ран, делаются со штрафом -3",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "High",
+    "liftRequirement": "Субъект должен приобрести боевого коня, печень тролля, мясо волка, 3 единицы листьев балиссы и бутылку спиртного напитка. Собрав эти вещи, субъект должен обескровить боевого коня, собрав немного крови в котел и добавив печень, мясо и листья, чтобы получилась вонючая похлебка, на приготовление которой уходит 3 часа. Затем субъект должен съесть всю кастрюлю с тушеным мясом в течение 1 часа, а затем выпить бутылку спиртного. Когда они закончат бутылку, порча будет снята.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.IJvCLnA4QErSRQlg"
+}

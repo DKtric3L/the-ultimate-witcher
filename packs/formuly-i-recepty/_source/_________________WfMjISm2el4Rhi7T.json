@@ -1,0 +1,104 @@
+{
+  "name": "Формула: Косатка",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.WfMjISm2el4Rhi7T"
+    },
+    "cf": {
+      "id": "temp_xirt4efj5k"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.klXv52h1B1jGhozd]{Косатка}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "witcher",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 18,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 2,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 1,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 1
+    },
+    "associatedItem": {
+      "name": "Косатка",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/potions/killer_whale.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 28,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Rare",
+        "effect": "Увеличивает способность задерживать дыхание в\nполтора раза, а также отменяет штрафы к зрению\nпод водой.",
+        "time": "1/2 часа",
+        "toxicity": "25%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_ablplrf0fnm"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668182245032,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848418,
+    "modifiedTime": 1685496578618,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WfMjISm2el4Rhi7T",
+  "folder": "n5pstsYQE8c0VVIa",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WfMjISm2el4Rhi7T"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Доспех школы Мантикоры",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.7xdTFyAq08IljZ5C"
+    },
+    "cf": {
+      "id": "temp_ifjc7bnyz9"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.4PCEEMV0jipTthWf]{Доспех школы мантикоры}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "22",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Полотно "
+      },
+      {
+        "id": "_8xrayf0dt",
+        "name": "Кожа драконида",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_rp0o00tpk",
+        "name": "Коготь накера",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_g5xkj90oy",
+        "name": "Ухо кладбищенской бабы",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_4nuzhge23",
+        "name": "Глаза",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_jqar1dq02",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_z94ds2rms",
+        "name": "Кровь утковола",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_pag6dhyxp",
+        "name": "Двимерит",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_hgws1ssk2",
+        "name": "Волосы стучака",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 1052,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Доспех школы мантикоры",
+      "type": "armor",
+      "img": "icons/equipment/chest/coat-collared-red-gold.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 10,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 12,
+        "torsoMaxStopping": 12,
+        "leftArmStopping": 12,
+        "leftArmMaxStopping": 12,
+        "rightArmStopping": 12,
+        "rightArmMaxStopping": 12,
+        "leftLegStopping": 12,
+        "leftLegMaxStopping": 12,
+        "rightLegStopping": 12,
+        "rightLegMaxStopping": 12,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Критический блок: Всякий раз, когда вы выбрасываете более чем на 4 очка больше, чем атакующий, при попытке Блока или Парирования своим щитом Мантикоры, вы можете немедленно выполнить Удар щитом, который отбрасывает атакующего на 4 м и сбивает его с ног без дополнительных штрафов и без каких-либо затрат. дополнительная выносливость."
+          }
+        ],
+        "encumb": 1,
+        "location": "FullCover",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_0w1zqqbn8lrf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668162887305,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848414,
+    "modifiedTime": 1685496579014,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sN6itwsH39rS2cJL",
+  "folder": "60U2rqC71wZJrKoB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!sN6itwsH39rS2cJL"
+}

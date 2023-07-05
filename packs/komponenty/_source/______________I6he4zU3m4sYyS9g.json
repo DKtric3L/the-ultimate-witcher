@@ -1,0 +1,42 @@
+{
+  "name": "Глаза Виверны",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/eye_fiend_64x64.png.6899.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_79u2kp2qn4d",
+      "color": "#d2ab1e"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 75,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Wyverns",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "sol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853698,
+    "modifiedTime": 1685496584269,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "I6he4zU3m4sYyS9g",
+  "folder": "wZNnZXg87AFfT9W9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!I6he4zU3m4sYyS9g"
+}

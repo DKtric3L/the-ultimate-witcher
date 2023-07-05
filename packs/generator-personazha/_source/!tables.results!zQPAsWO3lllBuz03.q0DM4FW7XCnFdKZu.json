@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Кто ваш враг - Бывший друг",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zQPAsWO3lllBuz03.q0DM4FW7XCnFdKZu"
+}

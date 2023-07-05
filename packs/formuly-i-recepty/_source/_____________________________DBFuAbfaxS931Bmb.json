@@ -1,0 +1,168 @@
+{
+  "name": "Кистень из метеоритной стали",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.DBFuAbfaxS931Bmb"
+    },
+    "cf": {
+      "id": "temp_ouikzatz22"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.AFpjkctzUaDXZB5u]{Кистень из метеоритной стали}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1352,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "13ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "5",
+        "name": "Метеорит"
+      },
+      {
+        "id": "_2kc7gqq3b",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_2gbtiy17q",
+        "name": "Укрепленное дерево",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_l5eb2mbnu",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_eibzomu0v",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_3n0d2zi30",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 676,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Кистень из метеоритной стали",
+      "type": "weapon",
+      "img": "icons/weapons/maces/flail-spiked-grey.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 4,
+        "cost": 900,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Дробящее",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": true,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 2,
+        "avail": "Rare",
+        "damage": "6d6",
+        "reliable": 20,
+        "maxReliability": 20,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Захватное",
+            "percentage": ""
+          },
+          {
+            "id": "_9h1vw09he",
+            "name": "Метеоритное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Melee",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.2WvKR4B3deNi2xmR"
+        },
+        "cf": {
+          "id": "temp_2nu7s87th96"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863939,
+        "modifiedTime": 1672564689106,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848416,
+    "modifiedTime": 1685496579660,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DBFuAbfaxS931Bmb",
+  "folder": "lJsXRtt9BYtxVzvF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DBFuAbfaxS931Bmb"
+}

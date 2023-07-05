@@ -1,0 +1,51 @@
+{
+  "name": "Восстановление",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/glyph_recovery.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.4o5IudqS1iB3Adj2"
+    },
+    "cf": {
+      "id": "temp_jkla6pjucb"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 450,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "glyph",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пока вы носите эту броню, всякий раз, когда вы восстанавливаете\nОчки Жизни, вы восстанавливаете 1 дополнительное очко. "
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868971,
+    "modifiedTime": 1685496603411,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "x9quhR8B6gtkFhLD",
+  "folder": "IwHMGFCqloImUMb0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!x9quhR8B6gtkFhLD"
+}

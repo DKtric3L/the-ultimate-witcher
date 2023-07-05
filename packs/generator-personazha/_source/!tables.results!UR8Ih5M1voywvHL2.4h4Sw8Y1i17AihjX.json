@@ -1,0 +1,16 @@
+{
+  "_id": "4h4Sw8Y1i17AihjX",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей предали свой народ и сдали членов Старших народов людям, так что им не рады на родине.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UR8Ih5M1voywvHL2.4h4Sw8Y1i17AihjX"
+}

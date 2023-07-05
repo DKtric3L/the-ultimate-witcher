@@ -1,0 +1,16 @@
+{
+  "_id": "XEB17msQM6PA4Wl4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей послали на Север в качестве двойных агентов. Скорее всего, вы знаете лишь то, что они служат императору.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!PQo3Qo3SWXeADko2.XEB17msQM6PA4Wl4"
+}

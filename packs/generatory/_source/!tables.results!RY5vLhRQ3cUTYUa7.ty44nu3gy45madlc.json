@@ -1,0 +1,16 @@
+{
+  "text": "Склянка с кровью",
+  "type": 2,
+  "img": "icons/consumables/potions/vial-cork-red.webp",
+  "weight": 1,
+  "range": [
+    24,
+    24
+  ],
+  "drawn": false,
+  "_id": "ty44nu3gy45madlc",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "jNs4Hx9vSVQmbcrg",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.ty44nu3gy45madlc"
+}

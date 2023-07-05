@@ -1,0 +1,40 @@
+{
+  "_id": "lGbUHAosCm3i06Kb",
+  "name": "Трофей хима",
+  "type": "valuable",
+  "img": "icons/commodities/materials/powder-black.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.IjaPPzoH6ALo4ngg"
+    }
+  },
+  "system": {
+    "description": "Когда наносимый вами урон нейтрализуется броней, ваша цель по прежнему получает 4 единицы урона, которые проходят через ее броню.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!PcwXzXqzjq3WeFrz.lGbUHAosCm3i06Kb"
+}

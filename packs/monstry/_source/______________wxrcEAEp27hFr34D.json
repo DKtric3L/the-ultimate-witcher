@@ -1,0 +1,26 @@
+{
+  "_id": "wxrcEAEp27hFr34D",
+  "name": "Пылевой вихрь",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Полуденница может использовать магию, чтобы создать вихрь из пыли и грязи и направить его в лицо цели. Эта атака использует Сотворение заклинаний и при попадании ослепляет цель на ld6 раундов. Цель должна быть в пределах 5 м."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TsyopxebmCzKSeqj.wxrcEAEp27hFr34D"
+}

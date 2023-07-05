@@ -1,0 +1,16 @@
+{
+  "_id": "cQfRuoxqB1FI58LA",
+  "flags": {},
+  "type": 0,
+  "text": "Прическа - Лысая башка - дай пирожка",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!SsbYv46UjVGJEkyY.cQfRuoxqB1FI58LA"
+}

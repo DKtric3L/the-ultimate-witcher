@@ -1,0 +1,166 @@
+{
+  "name": "Клинок из виковаро",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.rhIFZ2sEjY1f3q7a"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.ZkHdP8WV2LAxN5BT]{Клинок из виковаро}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1282,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 24,
+    "alchemyDC": 0,
+    "craftingTime": "12ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_jdx5cnwlc",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_9l3xvzxgg",
+        "name": "Темное железо",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_wwdcgfkay",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_ok5bdwvzy",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_gmejjja1l",
+        "name": "Пепел",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_tlblmbz6g",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "3"
+      }
+    ],
+    "investment": 660,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Клинок из виковаро",
+      "type": "weapon",
+      "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1.5,
+        "cost": 955,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "5d6+4",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Сбалансированное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_2ps351j34un"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863939,
+        "modifiedTime": 1672565123530,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848416,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rhIFZ2sEjY1f3q7a",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rhIFZ2sEjY1f3q7a"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Эффект трофея - Моровая дева",
+  "type": "effect",
+  "img": "icons/commodities/biological/hand-gnarled-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lZTRxOAm7FAy4aI5"
+    },
+    "cf": {
+      "id": "temp_mgri5lboda"
+    }
+  },
+  "system": {
+    "description": "Вас постоянно окружает туча мух. Противники в ближнем бою с вами получают -2 к своим действиям и 10% шанс получить состояние болезни. Вы также получаете -2 к Соблазнению, Убеждению, Внешнему виду из-за мух",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_7y2on7s9x",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "-2"
+      },
+      {
+        "id": "_ux9dnxuou",
+        "skill": "WITCHER.SkEmpPersuasion",
+        "modifier": "-2"
+      },
+      {
+        "id": "_008xxv8vg",
+        "skill": "WITCHER.SkEmpGrooming",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883180,
+    "modifiedTime": 1685496622016,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ST5gHgmE0gRCRpvB",
+  "folder": "Ny5twfeEX4VEIr47",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ST5gHgmE0gRCRpvB"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Черная жемчужина",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/other/blackpearl.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ziaiccs2az",
+      "color": "#af76b7"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.LEzKHip4NGNxS234"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 2500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Дно океана",
+    "quantityObtainable": "1",
+    "forage": "30",
+    "substanceType": "vitriol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853706,
+    "modifiedTime": 1685496583932,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6Lf00ASayZOMPdoX",
+  "folder": "iAQw57FKsEj08T4b",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!6Lf00ASayZOMPdoX"
+}

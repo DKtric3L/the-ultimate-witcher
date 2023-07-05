@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Нильфгаардский Алебардщик",
+  "img": "modules/the-ultimate-witcher/assets/monsters/nilfgaardian_swordsman.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "anFYT11mK8JKuPY8",
+  "_id": "AjDNLYTGDVWcWiQb",
+  "flags": {},
+  "_key": "!tables.results!SjuCf7xOHUndymuN.AjDNLYTGDVWcWiQb"
+}

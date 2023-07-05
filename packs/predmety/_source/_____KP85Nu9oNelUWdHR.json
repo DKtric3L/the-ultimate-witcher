@@ -1,0 +1,52 @@
+{
+  "name": "Зоря",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/zorya.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.KP85Nu9oNelUWdHR"
+    },
+    "cf": {
+      "id": "temp_71hupsrmvi8"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 550,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Замораживание",
+        "percentage": "30"
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868974,
+    "modifiedTime": 1685496603388,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "KP85Nu9oNelUWdHR",
+  "folder": "gY35AKdkeOXtFVMi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!KP85Nu9oNelUWdHR"
+}

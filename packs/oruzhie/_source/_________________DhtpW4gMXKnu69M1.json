@@ -1,0 +1,69 @@
+{
+  "name": "Затупленный болт",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-simple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wqarogwgy4k"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.6GpzOTi1XUj6aGUI"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 5,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Common",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Несмертельное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863938,
+    "modifiedTime": 1685496598706,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DhtpW4gMXKnu69M1",
+  "folder": "Af4Fdawq6CeqRn8S",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DhtpW4gMXKnu69M1"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Пигмент",
+  "type": "spell",
+  "img": "icons/magic/nature/plant-glowing-white-purple.webp",
+  "system": {
+    "class": "MagicalGift",
+    "level": "minor gift",
+    "source": "",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "В качестве действия вы можете сделать отметку рукой на поверхности желаемого цвета, которая при желании может светиться. Светящаяся метка повышает уровень освещенности на 1 на 4 м вокруг себя (максимум дневной свет). После того, как вы сделали метку, вы можете предпринять другое действие, пока вы находитесь в пределах 4 м, чтобы метка излучала вспышку Яркого света в течение одного раунда, после чего она исчезает",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "Когда кто-то в пределах 10 м от вас подвергается эффекту магического провала, вы тоже подвергаетесь этому эффекту. Если вы уже страдаете от эффекта магического провала, вы не подвергаетесь второму эффекту",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.IpYj5aWiMOQcKTRY"
+    },
+    "cf": {
+      "id": "temp_rpgkv4xo64q"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670242348376,
+    "modifiedTime": 1685496637371,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Q9L0nlR84L8aYj92",
+  "sort": 0,
+  "_id": "Y2MtJamoqgm2WG5w",
+  "_key": "!items!Y2MtJamoqgm2WG5w"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "k4R43KLAUk2XLzP9",
+  "type": 0,
+  "text": "6 метров от цели.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Uxr3PWhiBO5oFx5w.k4R43KLAUk2XLzP9"
+}

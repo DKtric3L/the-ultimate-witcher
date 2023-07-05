@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "text": "Кандалы",
+  "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "P2SoXGLZDT3G6k9k",
+  "_id": "pLqwUnDnE56Xe6pt",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.pLqwUnDnE56Xe6pt"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "JAXFKvXKd8nILtDN",
+  "name": "Таран",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Является действием полного хода. Если цель оказывается более чем в 10м от черта, он может совершить атаку рогами с разбега со штрафом -3, которая наносит 8d6 урона и отбрасывает цель на 6м. Если цель при отлете во что- то врезается, она получает таранящий урон, как от мула."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!yelCsVVeLxe8FuaQ.JAXFKvXKd8nILtDN"
+}

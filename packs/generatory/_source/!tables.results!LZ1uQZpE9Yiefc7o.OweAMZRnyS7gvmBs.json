@@ -1,0 +1,16 @@
+{
+  "text": "Формула: Цитрусовая мазь",
+  "type": 2,
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "OweAMZRnyS7gvmBs",
+  "documentId": "K7Z77osQEfw7yfYS",
+  "flags": {},
+  "_key": "!tables.results!LZ1uQZpE9Yiefc7o.OweAMZRnyS7gvmBs"
+}

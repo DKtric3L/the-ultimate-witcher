@@ -1,0 +1,16 @@
+{
+  "_id": "IbPJbXkLADvyruPR",
+  "type": 2,
+  "text": "Опасность - исслед",
+  "weight": 1,
+  "range": [
+    51,
+    100
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "R027h7L0gVt00e3b",
+  "_key": "!tables.results!2TEoNP5MCIzYphiI.IbPJbXkLADvyruPR"
+}

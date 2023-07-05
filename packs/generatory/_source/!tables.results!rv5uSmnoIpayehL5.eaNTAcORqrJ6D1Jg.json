@@ -1,0 +1,16 @@
+{
+  "text": "Шквал Бронвина",
+  "type": 2,
+  "img": "icons/magic/air/air-wave-gust-blue.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "eaNTAcORqrJ6D1Jg",
+  "documentId": "VL1Q1wSB1KYd7vst",
+  "flags": {},
+  "_key": "!tables.results!rv5uSmnoIpayehL5.eaNTAcORqrJ6D1Jg"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Магическая вспышка",
+  "type": 2,
+  "img": "icons/magic/light/explosion-star-glow-blue-purple.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "Fh4HcspacWzBQfQK",
+  "documentId": "NqfJP6W7ZBrkGRf4",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.Fh4HcspacWzBQfQK"
+}

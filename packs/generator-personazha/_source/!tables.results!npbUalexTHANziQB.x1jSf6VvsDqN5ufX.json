@@ -1,0 +1,16 @@
+{
+  "_id": "x1jSf6VvsDqN5ufX",
+  "type": 0,
+  "text": "Лучшая часть преданности. Вас обучали основам шпионской работы. Вы получаете +1 к Маскировке и можете попытаться замаскироваться без набора для маскировки без каких-либо штрафов",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!npbUalexTHANziQB.x1jSf6VvsDqN5ufX"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "oMPLNx1CGj7aCmqK",
+  "text": "Количество [[1d6]]",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!tlNi36XdXbe970gp.oMPLNx1CGj7aCmqK"
+}

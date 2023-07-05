@@ -1,0 +1,16 @@
+{
+  "_id": "OfYAxJTc3UaVLo7d",
+  "type": 0,
+  "text": "Треснувшая челюсть - От удара челюсть персонажа треснула, из-за чего ему тяжело говорить. -2 к магическим навыкам и словесной дуэли. После стабилизации - штраф уменьшен до -1, после лечения - Штраф -1 к магическим навыкам.",
+  "weight": 1,
+  "range": [
+    5,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!wJu1o6MJg4KO5KoF.OfYAxJTc3UaVLo7d"
+}

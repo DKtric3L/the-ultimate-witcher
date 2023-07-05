@@ -1,0 +1,60 @@
+{
+  "name": "Водяной смерч",
+  "type": "spell",
+  "img": "icons/magic/water/vortex-water-whirlpool.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.t8eVxyypxsP6pz3s"
+    },
+    "cf": {
+      "id": "temp_julrnar8td"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Водяной смерч позволяет вам создать вокруг себя водяной смерч длиной 2 метра. Этот смерч перенаправляет дистанционные атаки, подобно заклинанию Гвинт Троэлли, и действует как заклинание Зефир против всех, кто находится в радиусе 2 метров от вас. Вы не можете бежать, находясь внутри этого торнадо, или совершать атаки из него. Но, если вы приближаетесь к целям на расстояние 2 метров, на них начинает действовать Зефир.",
+    "range": "радиус 2м",
+    "duration": "Актив(6 вын)",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892155,
+    "modifiedTime": 1685496639018,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "zwjXY3cjkGmD3pLy",
+  "folder": "9PhFPu32x5yVnicQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zwjXY3cjkGmD3pLy"
+}

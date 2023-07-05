@@ -1,0 +1,16 @@
+{
+  "_id": "XEB17msQM6PA4Wl4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Один из ваших предков - известный предатель. Из-за этого другие представители старших народов относятся к вам предвзято и жить среди соплеменников вам нелегко.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XAJuTLzLB4Tvx03x.XEB17msQM6PA4Wl4"
+}

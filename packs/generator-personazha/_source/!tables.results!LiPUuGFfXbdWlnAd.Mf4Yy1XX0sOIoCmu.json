@@ -1,0 +1,16 @@
+{
+  "_id": "Mf4Yy1XX0sOIoCmu",
+  "type": 0,
+  "text": "Зерриканская Алхимия Вы проводили время, изучая алхимию зерриканских ученых. Вы начинаете игру с заученной формулой зерриканского огня.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!LiPUuGFfXbdWlnAd.Mf4Yy1XX0sOIoCmu"
+}

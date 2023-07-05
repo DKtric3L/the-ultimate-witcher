@@ -1,0 +1,44 @@
+{
+  "name": "Большой деревянный сундук",
+  "type": "valuable",
+  "img": "icons/containers/chest/chest-simple-steel-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_r3stwb3cdz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.8ESFc3LV4cTNTVee"
+    }
+  },
+  "system": {
+    "description": "Такие сундуки большие и крепкие, что уже отпугивает большинство воришек. Вмещают в себя 50 кг крупных предметов.",
+    "quantity": 1,
+    "weight": 10,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868970,
+    "modifiedTime": 1685496603596,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6LgfnMG9QxiwebMc",
+  "folder": "mg1jdTvvbWMf4cYK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!6LgfnMG9QxiwebMc"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Сельский труженик",
+  "type": "effect",
+  "img": "icons/magic/nature/tree-animated-smile.webp",
+  "system": {
+    "description": "+2 к выживанию в дикой природе при попытке приручить, успокоить или починить себе животное",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1ad17f109b420f7713956e7fc84b983ea2235765",
+      "sourceId": "Item.NMu6gzrwqrpHlyCj"
+    },
+    "core": {
+      "sourceId": "Item.NMu6gzrwqrpHlyCj"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672535572864,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "X3J0W7vHXQybAW2h",
+  "_key": "!items!X3J0W7vHXQybAW2h"
+}

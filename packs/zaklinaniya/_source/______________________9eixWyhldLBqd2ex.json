@@ -1,0 +1,57 @@
+{
+  "name": "Благословенное оружие",
+  "type": "spell",
+  "img": "icons/magic/symbols/runes-etched-steel-blade.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_so5hsxssqwc"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Благословенное оружие создает светящуюся руну на оружии ближнего боя, к которому вы прикасаетесь, которое волшебным образом облегчает и уравновешивает оружие. На время призыва оружие имеет Сбалансированный эффект.",
+    "range": "2м",
+    "duration": "30 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892153,
+    "modifiedTime": 1685496638375,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9eixWyhldLBqd2ex",
+  "folder": "1A4gsGOBCXBnvFaS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9eixWyhldLBqd2ex"
+}

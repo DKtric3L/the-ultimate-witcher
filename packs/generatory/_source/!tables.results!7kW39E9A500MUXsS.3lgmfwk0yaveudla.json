@@ -1,0 +1,16 @@
+{
+  "text": "Живой доспех",
+  "type": 2,
+  "img": "icons/equipment/head/helm-barbute-horned-gold-red.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "3lgmfwk0yaveudla",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "FlNQd91b3NlZGoKP",
+  "_key": "!tables.results!7kW39E9A500MUXsS.3lgmfwk0yaveudla"
+}

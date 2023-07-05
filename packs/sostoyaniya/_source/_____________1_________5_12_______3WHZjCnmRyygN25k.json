@@ -1,0 +1,37 @@
+{
+  "name": "Болезнь: Вши(1 стадия, 5-12 день)",
+  "type": "effect",
+  "img": "icons/creatures/invertebrates/spider-beetle-runed-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.M5b4pYJWFRffYLY6"
+    },
+    "cf": {
+      "id": "temp_uwbt9h030l"
+    }
+  },
+  "system": {
+    "description": "Опасность - низкая, риск заражения - 60%\nБольной страдает от ЗУДА, поскольку паразиты начинают проявляться в волосах и застревают между предметами одежды и кожей.(-2 к социальным навыкам.)\n\nЛЕЧЕНИЕ: Купание с мылом и уксусом имеет 25%-ный шанс покончить с этим заболеванием в\nтечение двух месяцев. Процедура проводится только два раза в неделю. Цитрусовая мазь для кожи повышает шансы на успех (см. Лекарства).",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883165,
+    "modifiedTime": 1685496621730,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3WHZjCnmRyygN25k",
+  "folder": "ZXp1GktF0w40ytBA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3WHZjCnmRyygN25k"
+}

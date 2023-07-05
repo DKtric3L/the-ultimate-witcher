@@ -1,0 +1,16 @@
+{
+  "text": "Ритуальный кинжал",
+  "type": 2,
+  "img": "icons/weapons/daggers/dagger-ritual-black.webp",
+  "weight": 1,
+  "range": [
+    22,
+    22
+  ],
+  "drawn": false,
+  "_id": "0gph5vv8ite543ee",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "qxQ6umLKoLIX26gr",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.0gph5vv8ite543ee"
+}

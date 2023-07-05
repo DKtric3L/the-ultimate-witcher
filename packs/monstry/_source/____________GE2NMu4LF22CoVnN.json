@@ -1,0 +1,75 @@
+{
+  "_id": "GE2NMu4LF22CoVnN",
+  "name": "Кольцо льда",
+  "type": "weapon",
+  "img": "icons/magic/water/barrier-ice-crystal-wall-jagged.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.VZfbDGzBaNhHQnHP"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "6d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "В качестве действия полного хода элементаль льда может подпрыгнуть. Когда он приземлится, вокруг него из земли вырастет кольцо ледяных шипов. Все на дистанции ближ него боя должны совершить проверку изменения позиции (СЛ 17)",
+        "percentage": ""
+      },
+      {
+        "id": "_t7yhff4cn",
+        "name": "Заморозка",
+        "percentage": ""
+      },
+      {
+        "id": "_p2v7xpvmb",
+        "name": "Урон в туловище",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!gRWJO9MGbYg3KEGq.GE2NMu4LF22CoVnN"
+}

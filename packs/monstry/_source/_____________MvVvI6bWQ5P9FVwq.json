@@ -1,0 +1,60 @@
+{
+  "_id": "MvVvI6bWQ5P9FVwq",
+  "name": "Каменный шип",
+  "type": "spell",
+  "img": "icons/magic/earth/projectile-boulder-dust.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.GemBHyhGE7bLRScv"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Это заклинание создаёт сталагмит, который вонзается в цель. Сталагмит наносит 5d6 урона и остаётся торчать, пока не будет уничтожен. Для уничтожения нужно нанести сталагмиту 20 пунктов урона.",
+    "range": "6м",
+    "duration": "мгновенное",
+    "defence": "укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.MvVvI6bWQ5P9FVwq"
+}

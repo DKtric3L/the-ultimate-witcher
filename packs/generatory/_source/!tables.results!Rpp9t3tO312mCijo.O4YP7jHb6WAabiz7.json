@@ -1,0 +1,16 @@
+{
+  "_id": "O4YP7jHb6WAabiz7",
+  "type": 2,
+  "text": "Порчи - Высокая опасность",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "eLlAYKRcZxS71ruF",
+  "_key": "!tables.results!Rpp9t3tO312mCijo.O4YP7jHb6WAabiz7"
+}

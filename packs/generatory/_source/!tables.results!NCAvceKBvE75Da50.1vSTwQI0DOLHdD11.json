@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Темерия",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "SDb0mnPrVoW7W0D1",
+  "_id": "1vSTwQI0DOLHdD11",
+  "flags": {},
+  "_key": "!tables.results!NCAvceKBvE75Da50.1vSTwQI0DOLHdD11"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "6Vn40Xbyy7CjwlE6",
+  "name": "Шипы",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Когда альгулы получает урон, он вытягивает шипы из спины, которые наносят 1 разрушающего урона оружию и 2d6 урона агрессору за каждый неудачный удар. Альгуль втягивает шипы, если дезориентирован."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!flelUO6fj7eLVAJc.6Vn40Xbyy7CjwlE6"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Краснолюдский тяжёлый арбалет",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-ornamental-winged.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.eWMExXaHTHjrLTU8"
+    },
+    "cf": {
+      "id": "temp_gk3j9cv5efd"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3.5,
+    "cost": 850,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 3,
+    "avail": "Rare",
+    "damage": "5d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "2",
+    "range": "300",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Медленно перезаряжается",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Crossbow",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863940,
+    "modifiedTime": 1685496598556,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "92KZ5n2Vd9YTksHG",
+  "folder": "tjuPLNAwPYNFkh1t",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!92KZ5n2Vd9YTksHG"
+}

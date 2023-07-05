@@ -1,0 +1,16 @@
+{
+  "_id": "0JP1du0FyYx38y7A",
+  "type": 0,
+  "text": "Магическая аллергия. У вас развилась аллергия на магию. Всякий раз, когда вы пьете зелье или эликсир, помимо стандартных эффектов, вы также страдаете от тошноты на время действия эликсира.",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4dpnBG7SV5On0Q30.0JP1du0FyYx38y7A"
+}

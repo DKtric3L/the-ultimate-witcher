@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Грибы - шибальцы",
+  "img": "systems/TheWitcherTRPG/assets/images/vitriol.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "GH0OYt5DlJwKEJGL",
+  "_id": "lNFMoRPG2p9bliYx",
+  "flags": {},
+  "_key": "!tables.results!4kxGsvn8IERGehNl.lNFMoRPG2p9bliYx"
+}

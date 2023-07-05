@@ -1,0 +1,16 @@
+{
+  "_id": "jEZthC8lFGqZgpxp",
+  "flags": {},
+  "type": 0,
+  "text": "Снаряд не долетел до цели, упав впереди неё",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XzhVNbs2LhDWFBH1.jEZthC8lFGqZgpxp"
+}

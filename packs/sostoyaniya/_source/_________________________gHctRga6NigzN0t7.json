@@ -1,0 +1,43 @@
+{
+  "name": "Симптом: Кровавый кашель",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.amO8aT9GfZwQmC8S"
+    },
+    "cf": {
+      "id": "temp_nxdlb2anpj"
+    }
+  },
+  "system": {
+    "description": "Постоянно першит горло, неприятная боль. Постоянно выхаркивается кровь...",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_cnlfj2i8z",
+        "skill": "WITCHER.SkDexStealth",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1685496621715,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gHctRga6NigzN0t7",
+  "folder": "gc7euHqdhcoTNbKd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gHctRga6NigzN0t7"
+}

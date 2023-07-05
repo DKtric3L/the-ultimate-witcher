@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    101,
+    110
+  ],
+  "drawn": false,
+  "text": "Необычный заказ",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "9eZwdao1k9VtAnuY",
+  "_id": "RjNemYSjw0CbmIa3",
+  "flags": {},
+  "_key": "!tables.results!E0Ta7aleLnhEvNKG.RjNemYSjw0CbmIa3"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Проклятье заразы",
+  "type": "effect",
+  "img": "icons/magic/unholy/hand-grasping-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Делает жертву проклятия носителем опасной болезни. Болезнь не влияет на носителя, но любой, кто дотронется до него и провалит про­верку Стойкости со СЛ 18, заражается. Если носи­тель остаётся в здании дольше 3 дней, то все, кто находится в этом здании, должны пройти проверку Стойкости со СЛ 16. Если носитель проводит в городе больше недели, то все в городе должны совершить проверку Стойкости со СЛ 14. Интенсивность: высокая",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qrS7jmN3izyhyiFK",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qrS7jmN3izyhyiFK"
+}

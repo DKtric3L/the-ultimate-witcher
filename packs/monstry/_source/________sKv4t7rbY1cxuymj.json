@@ -1,0 +1,78 @@
+{
+  "name": "Картечь",
+  "type": "weapon",
+  "img": "modules/the-ultimate-witcher/assets/bombs/buckshot.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 159,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "7d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "Тел*4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Радиус - 4 метра",
+        "percentage": ""
+      },
+      {
+        "id": "_1hcfrl7h0",
+        "name": "Горение",
+        "percentage": "25"
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_rads4wdft3r"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.6GBzusjtBzSKeLvz"
+    },
+    "scene-packer": {
+      "hash": "48ea3f620b6730ca72fa76badfb076de68c12cef"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1672740461781,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "sKv4t7rbY1cxuymj",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!Br1L9eWnCCCm9T5i.sKv4t7rbY1cxuymj"
+}

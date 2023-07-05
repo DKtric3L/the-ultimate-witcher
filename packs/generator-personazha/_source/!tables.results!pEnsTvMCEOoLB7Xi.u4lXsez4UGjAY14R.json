@@ -1,0 +1,16 @@
+{
+  "_id": "u4lXsez4UGjAY14R",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Торговец. Наибольшее влияние на вас оказал торговец, научивший изворотливости и сообразительности. Снаряжение - Заработанная вами монетка.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!pEnsTvMCEOoLB7Xi.u4lXsez4UGjAY14R"
+}

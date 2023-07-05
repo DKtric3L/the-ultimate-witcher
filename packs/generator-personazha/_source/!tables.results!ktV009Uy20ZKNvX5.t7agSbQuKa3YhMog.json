@@ -1,0 +1,16 @@
+{
+  "_id": "t7agSbQuKa3YhMog",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Hunt Generator",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    3,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "0Czkzh9GtsGa53CF",
+  "_key": "!tables.results!ktV009Uy20ZKNvX5.t7agSbQuKa3YhMog"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "EmVEAjexwa3Pt2Pe",
+  "type": 2,
+  "text": "Сила союзника",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "MUM5QmAXWs9It8X5",
+  "_key": "!tables.results!PnqJflqfZsiQyIF1.EmVEAjexwa3Pt2Pe"
+}

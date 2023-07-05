@@ -1,0 +1,57 @@
+{
+  "name": "Извлечение Айфры",
+  "type": "spell",
+  "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_nmw89gwa8c"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Созданная знаменитой Айнфрой из Маг Турга, Извлечение Айфры позволяет вам высушить цель, а затем использовать ее воду в своих целях. При накладывании этого заклинания цель, не сумевшая защититься, снижает свою текущую Вын на 8d6, и заклинатель может немедленно разыграть Рьеви, Гололед или Струю воды без затрат Вын.",
+    "range": "8м",
+    "duration": "Мгновенное",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "8d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Урон выносливости"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496638173,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hToukx5AaNx9GT59",
+  "folder": "mb94aj9wcpO0oNvy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hToukx5AaNx9GT59"
+}

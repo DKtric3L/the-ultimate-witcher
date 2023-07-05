@@ -1,0 +1,44 @@
+{
+  "name": "Отвар катакана",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/cotolak_potion.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 75,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "avail": "Rare",
+    "effect": "Вы получаете +3 к броску при определении места критического ранения.",
+    "time": "30 минут",
+    "toxicity": "75%"
+  },
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_adni0hxf6rb"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.N57TIfsoWdypiKFp"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887308,
+    "modifiedTime": 1671035439233,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "3rO9W5BPPuebr8jR",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!KGltdXgAyNR4yViS.3rO9W5BPPuebr8jR"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "9kVdEtFeX4a3nAoe",
+  "flags": {},
+  "type": 0,
+  "text": "Удача - Благодарность ведьмака. Как-то раз вы повстречали ведьмака и оказали ему услугу. Теперь он вам должен одну услугу в ответ.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GEA8vo04ZhKaDAEG.9kVdEtFeX4a3nAoe"
+}

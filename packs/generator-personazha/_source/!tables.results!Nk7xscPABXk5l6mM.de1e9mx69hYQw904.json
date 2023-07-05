@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "de1e9mx69hYQw904",
+  "text": "Переселился - Этот дракон раньше жил в другом месте, но что-то заставило его переселиться. Прежнее логово до сих пор существует, и он может туда вернуться.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Nk7xscPABXk5l6mM.de1e9mx69hYQw904"
+}

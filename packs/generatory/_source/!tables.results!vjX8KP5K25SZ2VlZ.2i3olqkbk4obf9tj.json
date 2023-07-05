@@ -1,0 +1,16 @@
+{
+  "text": "Армейский лук",
+  "type": 2,
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "drawn": false,
+  "_id": "2i3olqkbk4obf9tj",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "VEMEW3iqWD8lM9YF",
+  "_key": "!tables.results!vjX8KP5K25SZ2VlZ.2i3olqkbk4obf9tj"
+}

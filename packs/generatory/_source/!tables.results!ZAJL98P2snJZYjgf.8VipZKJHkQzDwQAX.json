@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Альгуль",
+  "img": "modules/the-ultimate-witcher/assets/monsters/algul.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "flelUO6fj7eLVAJc",
+  "_id": "8VipZKJHkQzDwQAX",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.8VipZKJHkQzDwQAX"
+}

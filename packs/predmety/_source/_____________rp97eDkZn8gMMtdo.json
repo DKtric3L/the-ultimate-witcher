@@ -1,0 +1,44 @@
+{
+  "name": "Хороший обед",
+  "type": "valuable",
+  "img": "icons/consumables/food/plate-chicken-grilled-mushroom-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_9bempw9mh8g",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.TMnhVYZiFsszHNz7"
+    }
+  },
+  "system": {
+    "description": "В городе можно отобедать вкусными супами с клёцками, жареным мясцом или маринованными овощами.",
+    "quantity": 1,
+    "weight": 2.5,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1685496603795,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rp97eDkZn8gMMtdo",
+  "folder": "Wl7XwqKi0AbU85lU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rp97eDkZn8gMMtdo"
+}

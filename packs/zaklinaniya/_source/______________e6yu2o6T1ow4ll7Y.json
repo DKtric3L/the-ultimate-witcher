@@ -1,0 +1,57 @@
+{
+  "name": "Сагитта Аурея",
+  "type": "spell",
+  "img": "icons/magic/light/beam-rays-orange-large.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0snrhvir1iqi"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "14",
+    "staminaIsVar": false,
+    "effect": "Сагитта Аурея призывает божественную силу вашего божества, чтобы сформировать копье золотого света. При использовании этой инвокации цель должна пройти проверку Защиты против вашей проверки Сотворения Заклинаний. Если они терпят неудачу, цель получает урон 7d6. Сагитта Аурея может двигаться по прямой линии через цели, при этом каждая цель проходит проверку защиты. Если цель одержима демоном, демон также получает урон и вытесняется из их тела. Кроме того, любой демон, поврежденный этой инвокацией, не может использовать ни одну из своих способностей в следующем раунде.",
+    "range": "20м",
+    "duration": "мгновенное",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "7d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892173,
+    "modifiedTime": 1685496638351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "e6yu2o6T1ow4ll7Y",
+  "folder": "kIuwiWyVmWus24s8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!e6yu2o6T1ow4ll7Y"
+}

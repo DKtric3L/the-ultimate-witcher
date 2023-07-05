@@ -1,0 +1,16 @@
+{
+  "_id": "8BDa9D8PpydHDt9F",
+  "flags": {},
+  "type": 0,
+  "text": "Повреждение глаза: Выбит или выколот. -5 к проверкам внимания, связанным со зрением, -4 к лвк. Персонаж истекает кровью. Стабилизация: -3 к проверкам внимания со зрением, -2 к лвк. Лечение: Перманентный штраф -1 к проверкам внимания зрения и лвк.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!X3USf2pbLIFAaAM9.8BDa9D8PpydHDt9F"
+}

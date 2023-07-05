@@ -1,0 +1,68 @@
+{
+  "name": "Щит из чешуи виверны",
+  "type": "armor",
+  "img": "icons/equipment/shield/kite-decorative-steel-claws.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Pg55gKJEt2sfujxC"
+    },
+    "cf": {
+      "id": "temp_yulv4k2lkie"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2.5,
+    "cost": 500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 18,
+    "reliabilityMax": 18,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Огнеупорный (щит)"
+      }
+    ],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837870,
+    "modifiedTime": 1685496574821,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Pg55gKJEt2sfujxC",
+  "folder": "iuazO6H6PxafTAcT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Pg55gKJEt2sfujxC"
+}

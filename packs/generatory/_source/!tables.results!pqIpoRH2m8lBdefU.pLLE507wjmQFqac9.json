@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    26,
+    26
+  ],
+  "drawn": false,
+  "text": "Формула заклинания(Мастер)",
+  "img": "icons/sundries/scrolls/scroll-bound-ruby-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "B4IBomQJTEh4FsYc",
+  "_id": "pLLE507wjmQFqac9",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.pLLE507wjmQFqac9"
+}

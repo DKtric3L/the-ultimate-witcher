@@ -1,0 +1,16 @@
+{
+  "text": "Кинжал",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "_id": "8nc0d9op2s3dcy0n",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "AaAdyIbTOClQ6Kf2",
+  "_key": "!tables.results!nLFXPW04rBbZ5DaP.8nc0d9op2s3dcy0n"
+}

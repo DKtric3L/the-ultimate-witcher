@@ -1,0 +1,42 @@
+{
+  "name": "Перья феникса",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/feathers_monstrous_64x64.png.6908.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_7waal2pnsr2",
+      "color": "#ff0000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 176,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Phoenixes",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853703,
+    "modifiedTime": 1685496584304,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "8k0t4l0OtFAfWi1m",
+  "folder": "yikOWioIDUj6aZ72",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8k0t4l0OtFAfWi1m"
+}

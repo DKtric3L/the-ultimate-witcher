@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    7
+  ],
+  "drawn": false,
+  "text": "Направление движение монстра",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "w5R1p2Nw78P8MF6E",
+  "_id": "LfrhkT5RfIUqZarC",
+  "flags": {},
+  "_key": "!tables.results!H6UJEPxrbtI1gZ8q.LfrhkT5RfIUqZarC"
+}

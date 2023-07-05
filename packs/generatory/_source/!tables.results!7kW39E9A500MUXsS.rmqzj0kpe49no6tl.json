@@ -1,0 +1,16 @@
+{
+  "text": "Магический барьер",
+  "type": 2,
+  "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "rmqzj0kpe49no6tl",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "3UYNyRt6f1YSFfHo",
+  "_key": "!tables.results!7kW39E9A500MUXsS.rmqzj0kpe49no6tl"
+}

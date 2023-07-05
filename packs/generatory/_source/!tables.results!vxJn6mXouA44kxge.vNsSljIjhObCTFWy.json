@@ -1,0 +1,16 @@
+{
+  "text": "Усиление",
+  "type": 2,
+  "img": "icons/magic/life/cross-embers-glow-yellow-purple.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "vNsSljIjhObCTFWy",
+  "documentId": "4MZOxFLe2kSVyeE4",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.vNsSljIjhObCTFWy"
+}

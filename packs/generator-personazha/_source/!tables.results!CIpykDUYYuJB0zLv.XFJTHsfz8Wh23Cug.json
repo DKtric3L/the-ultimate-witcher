@@ -1,0 +1,16 @@
+{
+  "_id": "XFJTHsfz8Wh23Cug",
+  "flags": {},
+  "type": 0,
+  "text": "Ваша раса - Эльф",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.XFJTHsfz8Wh23Cug"
+}

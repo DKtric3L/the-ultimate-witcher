@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "4GI7QyYINYur5JTT",
+  "text": "Наниматель платит тройную сумму за монстра, согласен на небольшой торг(СЛ 16)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!NNzGcBvEtf8ylxqr.4GI7QyYINYur5JTT"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Повозка",
+  "type": "mount",
+  "img": "icons/commodities/wood/framing-reinforced-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.1aPysnI7hjAk8IkO"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 200,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "dex": "",
+    "control": "0",
+    "speed": "-1",
+    "hp": 30
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9ZDhH76uyzkKjlez",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9ZDhH76uyzkKjlez"
+}

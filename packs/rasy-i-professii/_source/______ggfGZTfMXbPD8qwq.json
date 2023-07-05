@@ -1,0 +1,56 @@
+{
+  "name": "Враны",
+  "type": "race",
+  "img": "modules/the-ultimate-witcher/assets/professions/vran.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.2FphQ3gu98kp3FXc"
+    },
+    "cf": {
+      "id": "temp_rwe5bpoyvsp"
+    }
+  },
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Спокойное сердце",
+      "description": "+1 к сопротивлению убеждению"
+    },
+    "perk2": {
+      "name": "Клыки и когти",
+      "description": "Клыки и когти позволяют наносить урон 3D6, с шансом 50% отравляя жертву."
+    },
+    "perk3": {
+      "name": "Чешуйчатая броня",
+      "description": "Кожа имеет бонус +4 ПБ, которые не снижаются разрушающим уроном."
+    },
+    "perk4": {
+      "name": "Рептилоид",
+      "description": "Врачи, которые не имели дело с вранами, получают штраф -2 к лечению врана, и -5 к попытке оказать ему первую помощь.\nНа холоде вы получаете штраф -2 к своим действиям. Эффект длится ещё 1d6 раундов, когда мороз уже вас не беспокоит."
+    },
+    "socialStanding": {
+      "north": "hatedFeared",
+      "nilfgaard": "toleratedFeared",
+      "skellige": "hatedFeared",
+      "dolBlathanna": "hated",
+      "mahakam": "tolerated"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162873439,
+    "modifiedTime": 1685496612239,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ggfGZTfMXbPD8qwq",
+  "folder": "32GHdDmc9HcJHQ9n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ggfGZTfMXbPD8qwq"
+}

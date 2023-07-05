@@ -1,0 +1,43 @@
+{
+  "name": "Аренда лошади (за день)",
+  "type": "valuable",
+  "img": "icons/sundries/scrolls/scroll-writing-beige.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.XKNIWKPouazxjCq0"
+    },
+    "cf": {
+      "id": "temp_yd58wf1pts8"
+    }
+  },
+  "system": {
+    "description": "Если нужно куда-то добраться поскорее и неважно, какой ценой, то пожалей себя и арендуй лошадь. Придётся платить за каждый день, но уж доберёшься куда быстрее, чем на своих двоих. Особенно если ты краснолюд.",
+    "quantity": 1,
+    "weight": null,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "service",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868970,
+    "modifiedTime": 1685496603173,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "s1bzASupimG21KuZ",
+  "folder": "QEpLVR9XgY47bXqF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!s1bzASupimG21KuZ"
+}

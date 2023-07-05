@@ -1,0 +1,70 @@
+{
+  "name": "Вырезание души",
+  "type": "spell",
+  "img": "icons/magic/unholy/orb-hands-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GVjxhl1UQx9iVPou"
+    },
+    "cf": {
+      "id": "temp_emoosop9os6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d10\nЗаклинатель наносит себе некротический урон (Затраты ПЗ), и следующая его физическая атака наносит цели удвоенный некротический урон, полученный заклинателем. Если цель блокирует удар, она все равно получает некротический урон, полученный заклинателем.",
+    "range": "Ближний бой",
+    "duration": "1d6 раундов",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "2d10 - Некротический урон Заклинателю"
+      },
+      {
+        "id": "_io6sng3ap",
+        "name": "2*2d10 - урон жертве при атаке",
+        "percentage": ""
+      },
+      {
+        "id": "_pszqxl2xn",
+        "name": "1d6 - длительность эффекта(Раунды)",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892156,
+    "modifiedTime": 1685496638691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3OmxF6vCYhFLVx56",
+  "folder": "pBF6Toru9LWVq3ep",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3OmxF6vCYhFLVx56"
+}

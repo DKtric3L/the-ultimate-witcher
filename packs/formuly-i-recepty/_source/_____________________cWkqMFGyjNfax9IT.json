@@ -1,0 +1,214 @@
+{
+  "name": "Доспех школы Медведя",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NFKdDCwn6LHC4wzR"
+    },
+    "cf": {
+      "id": "temp_7t3vzssi8zd"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.QZcRaI5QVEY7KsAi]{доспех школы медведя}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "25ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "7",
+        "name": "Полотно"
+      },
+      {
+        "id": "_tdo1p1523",
+        "name": "Тёмная сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_w7wj7clpg",
+        "name": "Двойное полотно",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_bpynoawhi",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_uwmo1q4dk",
+        "name": "Тёмная сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_08oce0prf",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_tj2n4t5k2",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "8"
+      },
+      {
+        "id": "_akjrkwnlh",
+        "name": "Медвежья шкура",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_3x7dct6ms",
+        "name": "Кровь гнильца",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_kqq8sl8bo",
+        "name": "Серебро",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_er1ben0bm",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_q0lqifuru",
+        "name": "Слюна вампира",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_63iyhfh34",
+        "name": "Шелк",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_lemges7fs",
+        "name": "Печень тролля",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_2isshdcyv",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "6"
+      }
+    ],
+    "investment": 1813,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Доспех школы медведя",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-collared-leather-brown.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 8,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 20,
+        "torsoMaxStopping": 20,
+        "leftArmStopping": 20,
+        "leftArmMaxStopping": 20,
+        "rightArmStopping": 20,
+        "rightArmMaxStopping": 20,
+        "leftLegStopping": 20,
+        "leftLegMaxStopping": 20,
+        "rightLegStopping": 20,
+        "rightLegMaxStopping": 20,
+        "type": "Heavy",
+        "avail": "Rare",
+        "enhancements": 3,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "_6fcytiav1",
+            "name": "Критическое уничтожение: всякий раз, когда вы наносите критическое ранение с помощью одного из ваших ведьмачьих оружий, вы относитесь к этому критическому ранению на один уровень выше (например, простое критическое становится сложным).",
+            "percentage": ""
+          }
+        ],
+        "encumb": 1,
+        "location": "FullCover",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_0w1zqqbn8lrf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668162887305,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848414,
+    "modifiedTime": 1685496578969,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cWkqMFGyjNfax9IT",
+  "folder": "i0ugUJn6YHiPoSLM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cWkqMFGyjNfax9IT"
+}

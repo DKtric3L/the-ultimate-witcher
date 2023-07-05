@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Мастер - Огонь",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "MSvx4NoGMyd3Bmbo",
+  "_id": "XQrrlSb4nu5ZRaCS",
+  "flags": {},
+  "_key": "!tables.results!qXzcIUTDktfT2ZTb.XQrrlSb4nu5ZRaCS"
+}

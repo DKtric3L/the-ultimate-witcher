@@ -1,0 +1,26 @@
+{
+  "_id": "pys48bnomKsgOF16",
+  "name": "Анестетическая слюна",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Если слюна альпа касается кожи цели, она должна пройти проверку Устойчивости со штрафом -2 или теряет сознание до следующего раунда. Иволга защищает от этого эффекта."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!OCFTKPm3wTOGWxot.pys48bnomKsgOF16"
+}

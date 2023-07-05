@@ -1,0 +1,16 @@
+{
+  "text": "Копьё",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "wb09vc5r7el6rkms",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "qxWL46W6O5WeWfzv",
+  "_key": "!tables.results!nLFXPW04rBbZ5DaP.wb09vc5r7el6rkms"
+}

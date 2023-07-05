@@ -1,0 +1,16 @@
+{
+  "_id": "DCx5bDeMkPrAW8Lu",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Проклятый. Наибольшее влияние на вас оказал человек, страдающий от проклятия. Он научил вас никогда никого не судить слишком строго. Снаряжение - Резной тотем.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!pEnsTvMCEOoLB7Xi.DCx5bDeMkPrAW8Lu"
+}

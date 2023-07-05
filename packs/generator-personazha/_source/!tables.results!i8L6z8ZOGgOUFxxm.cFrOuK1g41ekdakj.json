@@ -1,0 +1,16 @@
+{
+  "_id": "cFrOuK1g41ekdakj",
+  "flags": {},
+  "type": 2,
+  "text": "Nilfgaard Vassal Origin",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    4,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "P9HHqXymm9mINwdH",
+  "_key": "!tables.results!i8L6z8ZOGgOUFxxm.cFrOuK1g41ekdakj"
+}

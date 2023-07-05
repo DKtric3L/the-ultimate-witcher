@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Инсектоиды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Insectoids.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "FVXhj1zx5hYIWm2G",
+  "_id": "WffsirnXPkcuxVht",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.WffsirnXPkcuxVht"
+}

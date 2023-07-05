@@ -1,0 +1,16 @@
+{
+  "_id": "VgZylS4pJWSlcJfl",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Изгнанник. Наибольшее влияние на вас оказал изгнанник, научивший сомневаться в устоях общества. Снаряжение - Яркий разноцветный значок.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!iP5n1i6qzSCZaoEy.VgZylS4pJWSlcJfl"
+}

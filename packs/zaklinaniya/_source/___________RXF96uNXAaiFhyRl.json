@@ -1,0 +1,57 @@
+{
+  "name": "Нити жизни",
+  "type": "spell",
+  "img": "icons/magic/unholy/energy-smoke-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_agipi719q8m"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Позволяет в радиусе действия заклинания увидеть нити жизни, связующие всё живое. С помощью Нитей жизни можно определить количество оставшихся ПЗ и любые полученные критические ранения у тех, кого видит заклинатель",
+    "range": "10м",
+    "duration": "Актив(2 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496638236,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RXF96uNXAaiFhyRl",
+  "folder": "vVGv53T7kGsdKAdF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RXF96uNXAaiFhyRl"
+}

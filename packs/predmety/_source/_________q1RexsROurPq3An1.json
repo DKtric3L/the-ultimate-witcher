@@ -1,0 +1,52 @@
+{
+  "name": "Даждьбог",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/dajdbog.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.q1RexsROurPq3An1"
+    },
+    "cf": {
+      "id": "temp_71hupsrmvi8"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 600,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "30"
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868972,
+    "modifiedTime": 1685496603388,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "q1RexsROurPq3An1",
+  "folder": "gY35AKdkeOXtFVMi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!q1RexsROurPq3An1"
+}

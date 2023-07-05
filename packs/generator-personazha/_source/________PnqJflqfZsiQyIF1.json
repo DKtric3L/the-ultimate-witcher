@@ -1,0 +1,39 @@
+{
+  "name": "Союзник",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "nnAOg2mhjOezfRxh",
+    "V0Gu1GOY1KeosmYs",
+    "CoReiEXPot6Bxxne",
+    "EmVEAjexwa3Pt2Pe"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.a4Wq17agKuTrBwzW"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901105,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "PnqJflqfZsiQyIF1",
+  "_key": "!tables!PnqJflqfZsiQyIF1"
+}

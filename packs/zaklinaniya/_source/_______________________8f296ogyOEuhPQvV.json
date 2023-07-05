@@ -1,0 +1,60 @@
+{
+  "name": "Замораживание жидкости",
+  "type": "spell",
+  "img": "icons/magic/water/orb-ice-glow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.77u10lJyWdXm3KKN"
+    },
+    "cf": {
+      "id": "temp_julrnar8td"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Прикасаясь к водоему вы замораживаете воду в нем на области радиусом 4 метра. Если существо в этой области имеет Прж достаточный, чтобы покинуть зону действия заклинания, оно может совершить проверку Изменения позиции и покинуть эту область воды, прежде чем она замерзнет. При провале или если его Прж не достаточно высок для выхода из зоны, цель не может перемещаться или предпринимать какие-то действия до тех пор, пока успешно не пройдет проверку Силы СЛ 18 или пока кто-то не нанесет 10 единиц урона льду. Любое существо, оказавшееся во льду и которому нужно дышать воздухом, начинает задыхаться.",
+    "range": "Касание",
+    "duration": "Мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496639018,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "8f296ogyOEuhPQvV",
+  "folder": "9PhFPu32x5yVnicQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8f296ogyOEuhPQvV"
+}

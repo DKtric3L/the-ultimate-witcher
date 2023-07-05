@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "CH7J7YSblE4rBONj",
+  "text": "Чудовище ненастоящее.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!P10CatHPQPUgk5bO.CH7J7YSblE4rBONj"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "hcWROmFCDbVfE2r4",
+  "text": "Вправо назад(На 5 часов от себя)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!w5R1p2Nw78P8MF6E.hcWROmFCDbVfE2r4"
+}

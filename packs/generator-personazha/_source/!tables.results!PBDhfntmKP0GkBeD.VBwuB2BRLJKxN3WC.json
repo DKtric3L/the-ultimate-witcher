@@ -1,0 +1,16 @@
+{
+  "_id": "VBwuB2BRLJKxN3WC",
+  "type": 2,
+  "text": "Союзник",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "PnqJflqfZsiQyIF1",
+  "_key": "!tables.results!PBDhfntmKP0GkBeD.VBwuB2BRLJKxN3WC"
+}

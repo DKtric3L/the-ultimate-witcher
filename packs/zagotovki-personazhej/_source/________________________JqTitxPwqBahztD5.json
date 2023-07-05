@@ -1,0 +1,62 @@
+{
+  "name": "Магическое обследование",
+  "type": "spell",
+  "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Позволяет быстро оценить состояние здоровья: определить количество оставшихся у цели ПЗ, узнать, какие у неё критические ранения, отравлена/больна ли цель.",
+    "range": "5м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_g0hcqrt3scn"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.NhmD5PO9UyWFgOYp"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1671034713034,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "JqTitxPwqBahztD5",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.JqTitxPwqBahztD5"
+}

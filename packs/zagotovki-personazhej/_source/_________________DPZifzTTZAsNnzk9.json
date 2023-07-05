@@ -1,0 +1,57 @@
+{
+  "_id": "DPZifzTTZAsNnzk9",
+  "name": "Мысленный приказ",
+  "type": "spell",
+  "img": "icons/magic/control/silhouette-aura-energy.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.2023eejdh7iaQ7TQ"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Позволяет заложить в разум цели приказ, который должен быть исполнен в точности. Если приказ представляет собой что-то, чего цель никогда бы не сделала, цель получает бонус +5 к проверке Сопротивления магии.",
+    "range": "10м",
+    "duration": "Вплоть до выполнения приказа",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!3v0292IhRWNohwqu.DPZifzTTZAsNnzk9"
+}

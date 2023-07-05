@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Марионетка",
+  "img": "modules/the-ultimate-witcher/assets/signs/puppet.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "ITNzJjYp5kWfzoUX",
+  "_id": "Ele6dLU7rvHHuOur",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.Ele6dLU7rvHHuOur"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Эссенция призрака",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/essence_nightwraith_64x64.png.6893.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xvosmbgy3f",
+      "color": "#4ab2bf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 95,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Призраки",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853708,
+    "modifiedTime": 1685496584189,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eMBSilmpPd2BG7hp",
+  "folder": "AFuI03RtWy2s7Q7F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eMBSilmpPd2BG7hp"
+}

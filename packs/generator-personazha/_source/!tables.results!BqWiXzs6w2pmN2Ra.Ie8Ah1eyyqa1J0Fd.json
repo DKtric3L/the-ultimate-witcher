@@ -1,0 +1,16 @@
+{
+  "_id": "Ie8Ah1eyyqa1J0Fd",
+  "type": 0,
+  "text": "Порча. Вас прокляла либо ваша собственная рука, либо кто-то, кого вы раздражали. Обсудите с мастером, чтобы выбрать подходящий порчи из списка на стр. 105 или стр. 120 Основной книги. Ваш персонаж еще не снял порчу.",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BqWiXzs6w2pmN2Ra.Ie8Ah1eyyqa1J0Fd"
+}

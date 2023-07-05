@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "7ypuH6aKWfE3dk0I",
+  "text": "Робкий",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!26ym4viM2vvDxxmy.7ypuH6aKWfE3dk0I"
+}

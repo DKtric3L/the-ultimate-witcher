@@ -1,0 +1,60 @@
+{
+  "name": "Хлориник",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/hz.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.HbMD2DvAB6gNrDka"
+    },
+    "cf": {
+      "id": "temp_o2pfhdxk2ma"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "basic",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Хлориник позволяет заклинателю выпускать ядовитый газ изо рта. Любой, попавший в зону действия этого газа, имеет 10% шанс ослепнуть и отравиться. За каждое дополнительно потраченное очко Вын (свыше 1), шанс отравления повышается на 10%. Если газ смешивается с водой, он превращается в кислоту и наносит 1d6/2 разрушающего урона оружию и доспехами.",
+    "range": "3м конус",
+    "duration": "Мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496638464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ELzbpylU6OHKbnCF",
+  "folder": "7aDTE4Bqwe5aou9p",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ELzbpylU6OHKbnCF"
+}

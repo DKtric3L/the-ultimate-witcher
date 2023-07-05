@@ -1,0 +1,16 @@
+{
+  "_id": "ph4JxbZMB7MniZZ5",
+  "flags": {},
+  "type": 2,
+  "text": "Allies: Where Are They?",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "wR2SPbzanEyfYUQJ",
+  "_key": "!tables.results!kE2xg2nNmg3tiylb.ph4JxbZMB7MniZZ5"
+}

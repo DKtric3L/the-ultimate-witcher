@@ -1,0 +1,43 @@
+{
+  "name": "Лира",
+  "type": "valuable",
+  "img": "icons/tools/instruments/harp-gold-glowing.webp",
+  "system": {
+    "description": "Музыкальный инструмент. на котором можно сыграть, если у вас есть навыки.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 38,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.9Kx4s0fq8pJUXn1S"
+    },
+    "cf": {
+      "id": "temp_witw8a9x5dh"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663422411445,
+    "modifiedTime": 1663422411445,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "K5mEegFj61wDuEAO",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!CAccIpkamqCyBDi7.K5mEegFj61wDuEAO"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "tiRmv92tB0cT9VR2",
+  "name": "Белый хлад",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Нитраль может потратить ход, чтобы призвать Белый хлад. Эта способность стоит Нитралю 20 Вын и действует единовременно как заклинания Волны Нагльфара, Туман Дормина, Ливень"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!HBsFnwKNGylLr5Fa.tiRmv92tB0cT9VR2"
+}

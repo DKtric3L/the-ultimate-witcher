@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "ИС Дракон - Качества",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "kXAxyQajbTJT4hVn",
+  "_id": "SykN2kAiAJ9txfPp",
+  "flags": {},
+  "_key": "!tables.results!izTItVmybijLwwAz.SykN2kAiAJ9txfPp"
+}

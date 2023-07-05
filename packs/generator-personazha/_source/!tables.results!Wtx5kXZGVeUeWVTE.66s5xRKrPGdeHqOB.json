@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    4,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "66s5xRKrPGdeHqOB",
+  "text": "Красный дракон - Огненное дыхание красного дракона наносит 10d6 урона вместо 7d6. Когда цель получает урон от Огненного дыхания красного дракона, её броня разрушается на половину от общего урона Огненного дыхания. Если цель блокирует дыхание щитом, щит получает урон.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Wtx5kXZGVeUeWVTE.66s5xRKrPGdeHqOB"
+}

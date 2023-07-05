@@ -1,0 +1,16 @@
+{
+  "_id": "KgpE0Q8gz4x0tE9A",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Allies - Closeness",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "YGNdeAyQ8GX5VCb1",
+  "_key": "!tables.results!tg3h9EldldgJBadD.KgpE0Q8gz4x0tE9A"
+}

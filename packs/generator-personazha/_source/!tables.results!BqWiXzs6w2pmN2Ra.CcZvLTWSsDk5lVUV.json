@@ -1,0 +1,16 @@
+{
+  "_id": "CcZvLTWSsDk5lVUV",
+  "type": 0,
+  "text": "Наставник скончался. Если ваш наставник был еще жив, он умер в течение этого десятилетия. Если у вас не было наставника, вы можете перебросить этот результат. Вам и Мастеру решать, как они умерли",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BqWiXzs6w2pmN2Ra.CcZvLTWSsDk5lVUV"
+}

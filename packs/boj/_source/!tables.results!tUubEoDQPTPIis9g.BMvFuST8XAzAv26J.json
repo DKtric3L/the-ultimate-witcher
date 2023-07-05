@@ -1,0 +1,16 @@
+{
+  "_id": "BMvFuST8XAzAv26J",
+  "flags": {},
+  "type": 0,
+  "text": "Место попадания - Правая Нога | Урон = x1/2",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!tUubEoDQPTPIis9g.BMvFuST8XAzAv26J"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Магическая ловушка",
+  "img": "modules/the-ultimate-witcher/assets/signs/magic_trap.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "V15q3338CLvDxoN3",
+  "_id": "Gs1y2LmMepy6NLmg",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.Gs1y2LmMepy6NLmg"
+}

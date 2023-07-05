@@ -1,0 +1,16 @@
+{
+  "_id": "g0lEhtumnXpkHYbX",
+  "flags": {},
+  "type": 0,
+  "text": "Скакун персонажа сильно брыкается. Совершите проверку атлетики со сл. 20, чтобы остаться в седле. Упав, персонаж считается сбитым с ног.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!aLBBrVnSsL3wqQUx.g0lEhtumnXpkHYbX"
+}

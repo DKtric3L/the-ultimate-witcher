@@ -1,0 +1,16 @@
+{
+  "_id": "yMqVK3tiav0L8fQk",
+  "flags": {},
+  "type": 0,
+  "text": "Старший/ая",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!jCG95EqwqAsEJR0j.yMqVK3tiav0L8fQk"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Защищают ли цель?",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "3fmnzYxuDhQJ8tkA",
+    "wF2Iu981Fsz6mGLP",
+    "FUVNVyvk6O8A0zxY",
+    "RKItlHQxagy1YllK",
+    "l8luRIY2EKAxqL0K",
+    "K9ii23vEopuKGK3o",
+    "B3gZJKcG45PE0YFP"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "aTALt0POjF9aaIR8",
+  "_key": "!tables!aTALt0POjF9aaIR8"
+}

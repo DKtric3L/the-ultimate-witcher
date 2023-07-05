@@ -1,0 +1,101 @@
+{
+  "name": "Формула: Яд аконита",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_cc83pensjd5"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.N5Z6h8OnTCsywmSD]{Яд аконита}</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": 150,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "master",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 18,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 3,
+      "rebis": 1,
+      "aether": 1,
+      "quebrith": null,
+      "hydragenum": null,
+      "vermilion": null,
+      "sol": null,
+      "caelum": 2,
+      "fulgur": null
+    },
+    "associatedItem": {
+      "name": "Яд аконита",
+      "type": "alchemical",
+      "img": "icons/commodities/materials/bowl-powder-gold.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 100,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Everywhere",
+        "effect": "Мелкодисперсный белый порошок, который можно подсыпать в еду и питье. Яд аконита немедленно заставляет цель страдать от удушья. Чтобы выйти из состояния удушья, цель должна пройти проверку Выносливости Сл:20, или кто-то должен помочь пройти проверку Первой помощи Сл:20",
+        "time": "",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868996,
+        "modifiedTime": 1668162868996,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848433,
+    "modifiedTime": 1685496578717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jhaznryrUMxh68is",
+  "folder": "7HVmVrGmTRrNoVTk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jhaznryrUMxh68is"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Киноварь + Квебрит",
+  "type": "effect",
+  "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.JpNmOgLe7rQOdAXw"
+    },
+    "cf": {
+      "id": "temp_zvo0qme6z8p"
+    }
+  },
+  "system": {
+    "description": "+ 15 к Выносливости на 1 час.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_rc3scarwm",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "15"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621964,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9EeFYEPfv8sdi5z9",
+  "folder": "SVDWJ6D7d1oTHirD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9EeFYEPfv8sdi5z9"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "XFy2l49tSxFMwvUu",
+  "flags": {},
+  "type": 0,
+  "text": "Кто ваш союзник: Воин",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!eXv0LlTK1B9dEQtj.XFy2l49tSxFMwvUu"
+}

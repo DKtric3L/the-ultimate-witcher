@@ -1,0 +1,37 @@
+{
+  "name": "roll 1d6/2",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "cDOz9rSQSCUTShDw",
+    "CIp0sPmq0cnUwNa7",
+    "O8MEegPPIfDLmXUA"
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.1FytR43lxQmthGky"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897092,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RBTGn6TQa1Nvrmfc",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!RBTGn6TQa1Nvrmfc"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Тёмная Эссенция",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/essence_nightwraith_64x64.png.6893.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 86,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Полуночницы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "sol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.KGtF3XnmUwJYhLmz"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853708,
+    "modifiedTime": 1669963140616,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "Wzou38FWjTWXxB3o",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!LdBapNGDXE8vLnKc.Wzou38FWjTWXxB3o"
+}

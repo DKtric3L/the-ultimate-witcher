@@ -1,0 +1,16 @@
+{
+  "_id": "YKhMEggwa22NX9sA",
+  "flags": {},
+  "type": 0,
+  "text": "Персонаж катапультирован из седла, пролетев 1d10 метров. Если упал ни с чем не столкнувшись, получает 1d6 урона по случайному месту. Если влетел во что-то, за каждый пролетевший метр добавьте кость урона 1d6.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!aLBBrVnSsL3wqQUx.YKhMEggwa22NX9sA"
+}

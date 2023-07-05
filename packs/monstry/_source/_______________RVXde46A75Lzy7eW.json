@@ -1,0 +1,46 @@
+{
+  "name": "Лимфа Чудовища",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_vampire_64x64.png.6940.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/3",
+    "weight": 0.1,
+    "cost": 152,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Бруксы, Гаркаины, Высшие вампиры",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_245p1o8sc5y",
+      "color": "#e7c61d"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.DzSQnu6tisiGPTvh"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1669888705245,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "RVXde46A75Lzy7eW",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!OCFTKPm3wTOGWxot.RVXde46A75Lzy7eW"
+}

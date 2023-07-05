@@ -1,0 +1,45 @@
+{
+  "name": "Как закончились с ним отношения",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "tisd2xyheKPCXAkB",
+    "pN7fB0Cr4xVQbnwj",
+    "kzwjtwIdZ8xm3Bys",
+    "KLg050Usyf7NZnUG",
+    "ON0b3w0qprNwx2f0",
+    "q8SpRRTStMNcRJOQ",
+    "Md3scMondCDIt4EM",
+    "3UEnQlHPK9UgUMZn",
+    "YBzpxXfwFPBqBSmf",
+    "qehgtJfZ4eQK0Wvz"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.klG0smqozKMJYNlw"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901093,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "TisPIWV9KH4mTuxT",
+  "_key": "!tables!TisPIWV9KH4mTuxT"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "1nfYKEkuMaPNgLxz",
+  "name": "Создание маяка души",
+  "type": "spell",
+  "img": "icons/magic/death/skull-cattle-totem-glow-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.9TDoUoMw02VmtCQ4"
+    },
+    "cf": {
+      "id": "temp_2xb521l7ywx"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ. Если не знаешь, что делать из-за этого предупреждения, не лезь сюда.\n\nСоздания маяка души использует кости для создания тотема, который усиливает способности некроманта в радиусе 6 метров. Маяк души представляет собой тотем высотой 1 метр, увенчанный черепом. Маяк имеет 10 хитов. Вы можете получить выгоду только от одного маяка души одновременно. Бонусы, которые вы получаете, основаны на используемом черепе\n\n◆ Человек/Старшие народы: Сл любого ритуала\nнекромантии снижается на 3. Кроме того, стоимость Вын,\nнеобходимая для выполнения любого ритуала\nнекромантии, снижается на 3. Наконец, если вы\nкритически проваливаете бросок или перегружаетесь при\nсотворении ритуала или заклинания некромантии, вы\nбросаете 1к10-2 вместо 1к10 при броске по таблице\nНеупокоенных духов.\n◆ Зверь/Монстр: Любое существо, созданное некромантией,\nполучает +2 к броскам Атаки и Защиты. Кроме того,\nчувства человека в Синем сне Ханмарвина обостряются,\nдавая ему отслеживание запахов и ночное видение",
+    "range": "",
+    "duration": "1 день",
+    "defence": "",
+    "components": "Череп (от существа, убитого за последние 24 часа), прах (x10), Пятая эссенция (x2), дымная пыль (x3), древесина (x5), камень (x2), кожа (x3), Призрачная пыль (x2)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "16",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!dqokOq0i1ReX4mhA.1nfYKEkuMaPNgLxz"
+}

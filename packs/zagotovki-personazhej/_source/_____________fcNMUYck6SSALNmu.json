@@ -1,0 +1,67 @@
+{
+  "name": "Активный Щит",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/magic_shield.webp",
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "earth",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Квен создаёт сияющий щит вокруг заклинателя. У щита 10 ПЗ за каждое потраченное очко Вын. Каждый раунд, начиная со второго, заклинатель должен тратить на поддержание щита количество очков Вын, равное изначальной стоимости в Вын. Активный щит закрывает только заклинателя, но может защитить ещё одну цель, если та прижмётся к нему. Пока щит активен, ни один материальный предмет не может пройти через него, не разрушив. Двигаться со щитом нужно медленно, бегать запрещено. Когда действие щита заканчивается или его отбрасывают, всё вблизи заклинателя, включая предметы, мебель и союзников, отлетает на 2 метра, получая ld6 урона в туловище. Всё, что прикреплено к земле или тяжелее 226 кг, не отталкивается, но получает урон.",
+    "range": "на себя",
+    "duration": "актив(ст в вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Урон от взрыва щита"
+      },
+      {
+        "id": "_icnezfssk",
+        "name": "+10 пз щита за 1 вын",
+        "percentage": ""
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_by6qvwohmig"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.vk72fOtfHbNvAdeQ"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892151,
+    "modifiedTime": 1671032638847,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "fcNMUYck6SSALNmu",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!KGltdXgAyNR4yViS.fcNMUYck6SSALNmu"
+}

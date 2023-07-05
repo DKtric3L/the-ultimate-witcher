@@ -1,0 +1,60 @@
+{
+  "name": "Дыхание Азомы",
+  "type": "spell",
+  "img": "icons/magic/air/wind-vortex-swirl-blue-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cPVFKoxhU6za9mgx"
+    },
+    "cf": {
+      "id": "temp_rkoyph3dfy"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "air",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "Азома - реданский маг воздуха, полуэльф. Она была знаменита тем, что могла управлять воздухом в легких своего противника. \nДыхание Азомы позволяет вам сделать долгий и глубокий вдох. Это вытягивает воздух из каждого существа в радиусе 6 метров от вас. Они теряют всю свою ВЫН, а вы получаете половину того, что они теряют. Существа задыхаются в течение 1d6 раундов, и даже после восстановления ВЫН и выхода из дезориентированного состояния, они не могут совершать действия, требующие затрат ВЫН, пока удушье не закончится.",
+    "range": "Радиус 6м",
+    "duration": "Мгновенное",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность удушья(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496638961,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "r9u1H2pWyRI6pjSw",
+  "folder": "LTR8wJncOHVonFgc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!r9u1H2pWyRI6pjSw"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Полностью случайное заклинание",
+  "img": "icons/magic/perception/hand-eye-fire-blue.webp",
+  "description": "",
+  "results": [
+    "uKJIlaXSTyIlbEyL",
+    "toZFRfn8VD87fb9z",
+    "0Poqs2qnu7yH9cvS",
+    "MhVCdGpzGJHrpsDN",
+    "d9Jd2Cmd86Tfdrrv",
+    "gKdeWrIHn4YYLmxV"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.szapMSjav08YMTFJ"
+    },
+    "cf": {
+      "id": "temp_o8v204tslw"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932916,
+    "modifiedTime": 1685496644573,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jAFqojKwTbbcNIUx",
+  "folder": "Xh9XSSmbD1c7r9vq",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!jAFqojKwTbbcNIUx"
+}

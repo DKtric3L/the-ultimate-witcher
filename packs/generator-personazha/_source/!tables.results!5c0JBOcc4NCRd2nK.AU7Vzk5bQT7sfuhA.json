@@ -1,0 +1,16 @@
+{
+  "_id": "AU7Vzk5bQT7sfuhA",
+  "flags": {},
+  "type": 0,
+  "text": "Где находится союзник - За пределами",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5c0JBOcc4NCRd2nK.AU7Vzk5bQT7sfuhA"
+}

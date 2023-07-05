@@ -1,0 +1,43 @@
+{
+  "name": "Формула - Подмастерье",
+  "type": "valuable",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ab711ca68456b70c3c4bfd919349c1838f9e84f5"
+    },
+    "core": {
+      "sourceId": "Item.TDTWPb7sjejNJ0Sy"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1672657970466,
+    "modifiedTime": 1672742552625,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "ywNW2SmVQmP3rg0y",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!BfM8p2v3sSdb52E1.ywNW2SmVQmP3rg0y"
+}

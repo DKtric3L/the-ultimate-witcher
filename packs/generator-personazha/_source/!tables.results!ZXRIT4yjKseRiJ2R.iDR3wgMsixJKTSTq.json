@@ -1,0 +1,16 @@
+{
+  "_id": "iDR3wgMsixJKTSTq",
+  "flags": {},
+  "type": 0,
+  "text": "Вы завели себе врага.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZXRIT4yjKseRiJ2R.iDR3wgMsixJKTSTq"
+}

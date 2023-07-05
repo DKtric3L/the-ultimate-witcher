@@ -1,0 +1,60 @@
+{
+  "name": "Песчаная стена",
+  "type": "spell",
+  "img": "icons/magic/earth/barrier-stone-pillar-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.vxmJeyTjxlqEI3eS"
+    },
+    "cf": {
+      "id": "temp_4w8bxpjli5a"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Заклинатель создает стену из песка, чтобы защититься от атак. Стена представляет собой квадрат 2х2 м, толщиной в 0,5 м. Для уничтожения нужно нанести стене 20 пунктов урона. Это заклинание может быть использовано в качестве защитного действия (блокирования). Стена блокирует количество атак ближнего боя, равное 2-кратному значению вашего навыка Сотворения заклинаний.",
+    "range": "6м",
+    "duration": "актив 4 вын, или пока не будет уничтожено",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496638757,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "dAEhTxr1mrSsPYuH",
+  "folder": "UWJmUntsU0DtqGaG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!dAEhTxr1mrSsPYuH"
+}

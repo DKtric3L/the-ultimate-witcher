@@ -1,0 +1,16 @@
+{
+  "_id": "JQmqgYHhLo9rqERr",
+  "flags": {},
+  "type": 2,
+  "text": "Enemies: Generator",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "XjkkpYZRUYC2NpYA",
+  "_key": "!tables.results!M2qaFLX2SZTlgQOI.JQmqgYHhLo9rqERr"
+}

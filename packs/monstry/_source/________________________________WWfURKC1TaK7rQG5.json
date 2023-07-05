@@ -1,0 +1,26 @@
+{
+  "name": "Способность: Переусердствование",
+  "type": "note",
+  "_id": "WWfURKC1TaK7rQG5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Комплект живых доспехов может пожертвовать 10 HP в свой ход и сделать одну дополнительную атаку оружием, которым они владеют. Если использование этой способности уменьшит здоровье живой брони до 0 или меньше, живая броня умрет после дополнительной атаки."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680483890317,
+    "modifiedTime": 1680483910497,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!VbTqxwnvdGPEOxXG.WWfURKC1TaK7rQG5"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Слитки и минералы",
+  "img": "icons/commodities/metal/ingot-stamped-bronze.webp",
+  "description": "",
+  "results": [
+    "YO48FhiuH84P2y9M",
+    "GtpK6d48DjjnDPtt",
+    "KJTzOvmGkuEnpmGD",
+    "fnUtWdFON7OYXP5k",
+    "mKoxha7gxrtdzBUP",
+    "JCO6Ic7iyf1zfwqa",
+    "C2eJ2f6oLm5eI0Cd",
+    "CFj4FHDh8VcPqfz2",
+    "9UU4ep3ge9KclEph",
+    "2enDzx5XcGz7jKOx",
+    "HL2J9Z15hq28cDjZ",
+    "P5pKHRoysWNQD6BC",
+    "FCO35A0pvXvOpyQk",
+    "tHcUJJreoDFAMBVt",
+    "ZRQ7XaaK5K97btl4",
+    "k0TucG1LQmcR2xG8",
+    "zM8pGh6AFmKKe5Zj",
+    "J44edcREljilBphC",
+    "9mjPBeJV6QbLUAN9",
+    "XdgIFR4lyB46bFm9",
+    "NzJnnN00dAyq0YFi",
+    "CgB1UeUmgeyWSxuV",
+    "YEHrfkEkT9BBeA06",
+    "x0qNkvtayHEX2hOO",
+    "yIRF5kaqda5SX0Qy"
+  ],
+  "formula": "1d16",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_gm7qf9vf4j"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644818,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "fp4Eoc9EiA3JJPL5",
+  "sort": 0,
+  "_id": "1XoP3D4PjLB9Btpl",
+  "_key": "!tables!1XoP3D4PjLB9Btpl"
+}

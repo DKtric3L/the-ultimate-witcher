@@ -1,0 +1,60 @@
+{
+  "name": "Поглощение элементов",
+  "type": "spell",
+  "img": "icons/magic/control/debuff-energy-hold-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_1c4rnttvf2l"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Касаясь элемента или получая урон от этого элемента, заклинатель поглощаете часть его силы. На время действия заклинания вы получаете сопротивление к этому типу урона и можете нанести дополнительный урон 2d6 от природы этого элемента. Вы можете поглощать серебро, метеорит, железо, огонь, кислоту, электричество, воду (лед) или дерево.",
+    "range": "на себя",
+    "duration": "2d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496639395,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vwx2AQI0RQZcBPL5",
+  "folder": "5jxNfYqMGdfsQWI6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vwx2AQI0RQZcBPL5"
+}

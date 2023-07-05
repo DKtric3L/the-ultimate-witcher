@@ -1,0 +1,46 @@
+{
+  "_id": "0bjCdF1RvHjYAMzM",
+  "name": "Шкура волка",
+  "type": "component",
+  "img": "icons/commodities/leather/fur-pelt-white.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_fd6i44q3pyb",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.k3jFHmEVFgfvgbET"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 14,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Common",
+    "location": "волки",
+    "quantityObtainable": "3",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!Cton24NnKuuLUHpS.0bjCdF1RvHjYAMzM"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "1 порча низкой опасности",
+  "type": "spell",
+  "system": {
+    "class": "Hexes",
+    "level": "",
+    "source": "",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": false,
+    "effect": "",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_id": "0BphOE9cNuDX6nvV",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663423137115,
+    "modifiedTime": 1663423143400,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!Ezs4OxTZyi9d7KQ0.0BphOE9cNuDX6nvV"
+}

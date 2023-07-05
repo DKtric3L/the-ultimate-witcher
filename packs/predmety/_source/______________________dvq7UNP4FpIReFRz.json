@@ -1,0 +1,43 @@
+{
+  "name": "Инструкции по ремеслу",
+  "type": "valuable",
+  "img": "icons/sundries/documents/document-symbol-circle-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.nTbFCQOcuxYlG93x"
+    },
+    "cf": {
+      "id": "temp_pcz898xpa9"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868975,
+    "modifiedTime": 1685496603482,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "dvq7UNP4FpIReFRz",
+  "folder": "o0EbRg1af2HA22Nh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!dvq7UNP4FpIReFRz"
+}

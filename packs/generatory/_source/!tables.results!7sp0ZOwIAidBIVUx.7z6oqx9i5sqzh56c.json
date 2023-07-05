@@ -1,0 +1,16 @@
+{
+  "text": "Кипящая кровь",
+  "type": 2,
+  "img": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "_id": "7z6oqx9i5sqzh56c",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "7Tp6IFO4JJXWEtHT",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.7z6oqx9i5sqzh56c"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "HwF0uhXxRv4Fvfqr",
+  "type": 0,
+  "text": "Выкуплен магом Странствующий маг увидел ваш потенциал, проезжая через родной город, и сделал предложение вашим родителям. Ты можешь даже не знать, сколько ты стоишь для своих родителей, но когда цена была согласована, и маг забрал тебя.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!yjNois5v027TYdNZ.HwF0uhXxRv4Fvfqr"
+}

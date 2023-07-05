@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    32,
+    32
+  ],
+  "drawn": false,
+  "text": "Палатка",
+  "img": "icons/environment/settlement/tent.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "7fd9VsqwOTlo6UUz",
+  "_id": "RF9NyfCZaHeG7EU6",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.RF9NyfCZaHeG7EU6"
+}

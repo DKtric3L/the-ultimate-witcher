@@ -1,0 +1,38 @@
+{
+  "name": "Случайный Гидраген",
+  "img": "systems/TheWitcherTRPG/assets/images/hydragenum.png",
+  "description": "",
+  "results": [
+    "CeZfIUL4NzGASWRt",
+    "bsX6OfuTnZ1rUW7B",
+    "3jzJoPbeMFKGZrVs",
+    "WYjl1EKgyPbg95c8"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_fq4yov25gun"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644845,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vHNpuBWLrSAYE4i",
+  "sort": 0,
+  "_id": "cs1VG8mi4Kqh4ALO",
+  "_key": "!tables!cs1VG8mi4Kqh4ALO"
+}

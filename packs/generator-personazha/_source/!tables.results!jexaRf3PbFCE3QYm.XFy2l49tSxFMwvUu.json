@@ -1,0 +1,16 @@
+{
+  "_id": "XFy2l49tSxFMwvUu",
+  "flags": {},
+  "type": 0,
+  "text": "В чем сила врага - Подручные",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!jexaRf3PbFCE3QYm.XFy2l49tSxFMwvUu"
+}

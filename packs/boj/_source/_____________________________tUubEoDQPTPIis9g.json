@@ -1,0 +1,41 @@
+{
+  "name": "Место попадания по гуманоиду",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "results": [
+    "RHNQnlcfgi5i1isk",
+    "nGvEbuComhjRZAPP",
+    "bmm5fg7mdHPOmQ3G",
+    "3K1jam0ISPD3EKNg",
+    "BMvFuST8XAzAv26J",
+    "BBam5islqax05Zea"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.3sUSy0fyFiP3ddUo"
+    },
+    "cf": {
+      "id": "temp_k8hwciyvpw"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897073,
+    "modifiedTime": 1685496658120,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tUubEoDQPTPIis9g",
+  "folder": "DL7m2vy4NZZYLWYk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!tUubEoDQPTPIis9g"
+}

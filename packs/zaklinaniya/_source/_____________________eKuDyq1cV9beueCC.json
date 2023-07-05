@@ -1,0 +1,57 @@
+{
+  "name": "Управление чувствами",
+  "type": "spell",
+  "img": "icons/magic/control/debuff-energy-hold-blue-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_dpnqmwag5w"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Позволяет заклинателю заставить цель на время действия заклинания испытывать одно из следующих чувств: ненависть, любовь, подавленность или эйфория.",
+    "range": "5м",
+    "duration": "Id1O раундов",
+    "defence": "Сопр-е магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496637764,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eKuDyq1cV9beueCC",
+  "folder": "cnIlwgnwtzSIOWjW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eKuDyq1cV9beueCC"
+}

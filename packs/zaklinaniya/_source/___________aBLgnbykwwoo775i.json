@@ -1,0 +1,70 @@
+{
+  "name": "Порыв души",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/aard2.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_a5r1vpsvopg"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d6 за очко вын.\nАард теперь создает вокруг заклинателя резкий порыв холодного ветра в виде сферы. За каждое потраченное очко Вын вероятность сбить с ног всех попавших в зону действия заклинания увеличивается на 10%, цели дезориентируются и с 50%-ной вероятностью замораживаются. Летающие существа, пораженные Порывом души, падают на землю и сбиваются с ног.",
+    "range": "радиус 4м",
+    "duration": "мгновенное",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1d6 некротического урона заклинателю за 1 вын"
+      },
+      {
+        "id": "_sw3v024eq",
+        "name": "Сбивает с ног(+10% шанс за 1 вын)",
+        "percentage": "10"
+      },
+      {
+        "id": "_6ladfndd1",
+        "name": "Замораживание",
+        "percentage": "50"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638518,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aBLgnbykwwoo775i",
+  "folder": "bwtndOBz5Q00m7So",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!aBLgnbykwwoo775i"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Карнавальная маска",
+  "type": 2,
+  "img": "icons/equipment/head/mask-carved-scream-tan.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "_id": "57srs4ny853zqf7v",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "VPpbaFgk6LK0q0d7",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.57srs4ny853zqf7v"
+}

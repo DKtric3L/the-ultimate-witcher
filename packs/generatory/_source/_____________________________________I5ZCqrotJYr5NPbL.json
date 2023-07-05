@@ -1,0 +1,40 @@
+{
+  "name": "Боеприпасы - старшие народы - Мастер",
+  "description": "A random table created from the contents of the Мастер Folder.",
+  "results": [
+    "zC4xRDSan9KVTJ4Z",
+    "U8Zofs1sYhStMcCi"
+  ],
+  "formula": "1d2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "aebeebf70e48507df1835291ddb8735166513386",
+      "sourceId": "RollTable.ljhPw7bDBG9IsafW"
+    },
+    "core": {
+      "sourceId": "RollTable.ljhPw7bDBG9IsafW"
+    },
+    "cf": {
+      "id": "temp_cdl3vwuxc69"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672829288153,
+    "modifiedTime": 1685496644432,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "0AbuyKzqZg8gmn41",
+  "sort": 0,
+  "_id": "I5ZCqrotJYr5NPbL",
+  "_key": "!tables!I5ZCqrotJYr5NPbL"
+}

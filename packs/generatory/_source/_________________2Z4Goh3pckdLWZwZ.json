@@ -1,0 +1,44 @@
+{
+  "name": "Чертеж - Новичок",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "gw0E7qK0QibB3Oub",
+    "kQYpC3vj7OjcOilL",
+    "Nq9Uz2QiHgeI84ik",
+    "9Mcv5IF1Q916p1W8",
+    "a90FyMShKqP6XKJy",
+    "y4PT7XmlXtCcsRuW"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e50b0efe62ab9a31190ff3c0c6d1aa6fc91f9029",
+      "sourceId": "RollTable.ho7VefQpK58CmoIM"
+    },
+    "core": {
+      "sourceId": "RollTable.ho7VefQpK58CmoIM"
+    },
+    "cf": {
+      "id": "temp_ic223j20e"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672827870246,
+    "modifiedTime": 1685496644393,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "qf6PR5ZRji9tzZjs",
+  "sort": 0,
+  "_id": "2Z4Goh3pckdLWZwZ",
+  "_key": "!tables!2Z4Goh3pckdLWZwZ"
+}

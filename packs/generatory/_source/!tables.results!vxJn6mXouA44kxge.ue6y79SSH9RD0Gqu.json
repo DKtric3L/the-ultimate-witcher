@@ -1,0 +1,16 @@
+{
+  "text": "Портал-ловушка",
+  "type": 2,
+  "img": "icons/magic/death/skull-weapon-staff-glow-pink.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "ue6y79SSH9RD0Gqu",
+  "documentId": "F38htqVAZA7pFvjY",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.ue6y79SSH9RD0Gqu"
+}

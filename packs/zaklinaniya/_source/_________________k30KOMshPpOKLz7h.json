@@ -1,0 +1,60 @@
+{
+  "name": "Психический удар",
+  "type": "spell",
+  "img": "icons/magic/air/air-pressure-shield-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.PL6kMlWGj69afhM1"
+    },
+    "cf": {
+      "id": "temp_ox1dmapord"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Психический удар отбрасывает всех в радиусе 2 м от вас на 12 метров назад. Эта атака не наносит урона, но если цель при отлете во что-то врезается, она получает таранящий урон. Любой, кто попадает под действие заклинания, должен совершить проверку Устойчивости.",
+    "range": "радиус 2м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2",
+    "templateType": "circle",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496638904,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "k30KOMshPpOKLz7h",
+  "folder": "FompVpMZkGLpN1Nf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!k30KOMshPpOKLz7h"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "jyp8VJlJTHVWz173",
+  "name": "Огниво",
+  "type": "valuable",
+  "img": "icons/commodities/stone/geode-raw-black.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_hdwmzt8oxfu",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.JI2B3OHSRauNu9xa"
+    }
+  },
+  "system": {
+    "description": "Кусок кремня и колечко из стали. Ударишь ими друг о друга, и вот тебе целый сноп искр, от которого огонёк-то и загорится.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 6,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!uTDrWvpSxEA2F0N7.jyp8VJlJTHVWz173"
+}

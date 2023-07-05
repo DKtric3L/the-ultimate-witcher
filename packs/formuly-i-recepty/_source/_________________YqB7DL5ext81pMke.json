@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Фисштех",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.YqB7DL5ext81pMke"
+    },
+    "cf": {
+      "id": "temp_cc83pensjd5"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.i2h2LJgJCjjangOl]{Фисштех}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 120,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "master",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 18,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 2,
+      "rebis": 3,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 2,
+      "vermilion": 1,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Фисштех",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/props/fischteh.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 80,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Poor",
+        "effect": "Любой, кто втягивает носом или втирает в дёсны дозу фисштеха,погружается в подобную трансу эйфорию. Этот наркотик часто\nиспользуют в качестве обезболивающего. После каждого\nприменения совершите проверку Стойкости со СЛ 18.\nПри провале вы становитесь зависимы.\nПринявший фисштех должен совершить проверку Стойкости со СЛ 16, или он будет дезориентирован на срок до получаса. Можно совершать новую проверку каждый раунд, но если результат любой проверки будет ниже 10, персонаж падает без сознания на 5 раундов.\n\n+3 реа, +2 отдыха, +5 Макс. ПЗ, Вын -5. Длится 1d10 часов.",
+        "time": "1d10 часов",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.i2h2LJgJCjjangOl"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868993,
+        "modifiedTime": 1668171495252,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848431,
+    "modifiedTime": 1685496578717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YqB7DL5ext81pMke",
+  "folder": "7HVmVrGmTRrNoVTk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YqB7DL5ext81pMke"
+}

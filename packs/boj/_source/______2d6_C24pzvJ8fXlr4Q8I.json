@@ -1,0 +1,46 @@
+{
+  "name": "Износ 2d6",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "zZm1IDFytqT7O5P1",
+    "UdeYTBiTsqfDWr4H",
+    "RbTWlADpqWLv2KUu",
+    "dpnJ5HDfRSvbN1jT",
+    "2zYLxC15tCOa1FJr",
+    "Y42N9vMFW4ZNhytd",
+    "V4XCCxRer5DCmiFy",
+    "tpA1swumZjJvJkEB",
+    "hcQHlVIOdVqvGn38",
+    "z1vwbJpzX3RvJBqn",
+    "mn3oamjkpNGPN6Si",
+    "2qk29PAbmVd61mWx"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.TzZeEPtWitYmYTLv"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897068,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "C24pzvJ8fXlr4Q8I",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!C24pzvJ8fXlr4Q8I"
+}

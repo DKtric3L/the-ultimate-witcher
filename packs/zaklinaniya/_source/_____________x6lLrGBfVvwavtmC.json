@@ -1,0 +1,57 @@
+{
+  "name": "Сейриф Хайль",
+  "type": "spell",
+  "img": "icons/magic/fire/beam-strike-whip-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rvnwo8w74yf"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Создаёт из стихии огня несколько змей, которые набрасываются на цель. Цель захвачена и горит до тех пор, пока не совершит проверку Уклонения/Изворотливости против вашей проверки Сотворения заклинаний. Каждый раунд, когда цель проваливает проверку, СЛ последующих проверок Уклонения/Изворотливости повышается на 1, поскольку змеи всё туже стискивают цель.",
+    "range": "10м",
+    "duration": "2d10 раундов",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892173,
+    "modifiedTime": 1685496638009,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "x6lLrGBfVvwavtmC",
+  "folder": "D2ZubvkjQZuPCeQt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!x6lLrGBfVvwavtmC"
+}

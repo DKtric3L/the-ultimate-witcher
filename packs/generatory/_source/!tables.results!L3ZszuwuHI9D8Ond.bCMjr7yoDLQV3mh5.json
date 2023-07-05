@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    21,
+    21
+  ],
+  "drawn": false,
+  "text": "Наконечник стрелы",
+  "img": "icons/commodities/metal/arrowhead-steel.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "ipOnn5RzBrpFcafO",
+  "_id": "bCMjr7yoDLQV3mh5",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.bCMjr7yoDLQV3mh5"
+}

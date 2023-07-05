@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Двойное полотно",
+  "img": "icons/commodities/cloth/cloth-roll-worn-blue.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "7bhvAuoPapRMVuYD",
+  "_id": "Z3pgvwlBlTS3WGHI",
+  "flags": {},
+  "_key": "!tables.results!UsMLn6LlS08K6zwk.Z3pgvwlBlTS3WGHI"
+}

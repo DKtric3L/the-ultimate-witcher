@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "text": "Хлопок",
+  "img": "icons/commodities/flowers/clover-red.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "NjqouHhkGbBd8z3S",
+  "_id": "SEQ8XPbxSoG7LdC9",
+  "flags": {},
+  "_key": "!tables.results!UsMLn6LlS08K6zwk.SEQ8XPbxSoG7LdC9"
+}

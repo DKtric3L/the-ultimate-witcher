@@ -1,0 +1,37 @@
+{
+  "name": "Симптом: Зуд",
+  "type": "effect",
+  "img": "icons/magic/acid/dissolve-arm-flesh.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.26InhvpIttJBC1Sk"
+    },
+    "cf": {
+      "id": "temp_nxdlb2anpj"
+    }
+  },
+  "system": {
+    "description": "Всё ужасно чешется. -2 к социальным навыкам.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621715,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2t1FOVfiJZbqtdh5",
+  "folder": "gc7euHqdhcoTNbKd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2t1FOVfiJZbqtdh5"
+}

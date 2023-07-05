@@ -1,0 +1,51 @@
+{
+  "name": "Потеря ноги",
+  "type": "effect",
+  "img": "icons/commodities/bones/bone-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_maooi46ln8"
+    }
+  },
+  "system": {
+    "description": "Удар начисто отрубает ногу или повреждает до такой степени, что вылечить её невозможно. Персонаж истекает кровью.\nСтабилизация уберёт кровотечение, лечение позволит прибегнуть к протезу на место утраченной ноги.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "/4"
+      }
+    ],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkRefDodge",
+        "modifier": "/4"
+      },
+      {
+        "id": "_nre63fen8",
+        "skill": "WITCHER.SkDexAthletics",
+        "modifier": "/4"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883171,
+    "modifiedTime": 1685496621852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NBKgf0E3B9VkqSuG",
+  "folder": "PLkbl9b4zJv5jmUU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NBKgf0E3B9VkqSuG"
+}

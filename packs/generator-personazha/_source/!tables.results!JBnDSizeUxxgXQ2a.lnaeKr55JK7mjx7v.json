@@ -1,0 +1,16 @@
+{
+  "_id": "lnaeKr55JK7mjx7v",
+  "type": 0,
+  "text": "Ложное обвинение. Вас в чем-то ложно обвинили. Бросьте 1d10. 1-2: Кража, 3: Измена, 4: Трусость, 5: Изнасилование, 6: Убийство, 7: Мошенничество, 8: Запретная магия, 9: Уклонение от уплаты налогов, 10: Неэтичные действия.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!JBnDSizeUxxgXQ2a.lnaeKr55JK7mjx7v"
+}

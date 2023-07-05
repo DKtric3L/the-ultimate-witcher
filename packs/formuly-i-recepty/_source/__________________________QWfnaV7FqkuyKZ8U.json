@@ -1,0 +1,150 @@
+{
+  "name": "Низушечий защитный дублет",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.QWfnaV7FqkuyKZ8U"
+    },
+    "cf": {
+      "id": "temp_7b35u0lwoec"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.MNRkAp2IDwitji3B]{Низушечий защитный дублет}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 562,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-armor",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Шелк"
+      },
+      {
+        "id": "_r7m2n1218",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_si592ot9c",
+        "name": "Хлопок",
+        "percentage": "",
+        "quantity": "7"
+      },
+      {
+        "id": "_6wf0ri436",
+        "name": "Двойное полотно",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 281,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Низушечий защитный дублет",
+      "type": "armor",
+      "img": "icons/equipment/chest/coat-collared-red-gold.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 375,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 8,
+        "torsoMaxStopping": 8,
+        "leftArmStopping": 8,
+        "leftArmMaxStopping": 8,
+        "rightArmStopping": 8,
+        "rightArmMaxStopping": 8,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Light",
+        "avail": "Rare",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Выглядит как обычная одежда. Проверка внимания со сл 20, чтобы понять, что это броня."
+          }
+        ],
+        "encumb": 0,
+        "location": "Torso",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.dospehi-starshego-naroda.1S8Ts66n11aBkayG"
+        },
+        "cf": {
+          "id": "temp_njuve1krma"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837868,
+        "modifiedTime": 1668162837868,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848422,
+    "modifiedTime": 1685496579562,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QWfnaV7FqkuyKZ8U",
+  "folder": "secIjsE1CHuBPLzz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QWfnaV7FqkuyKZ8U"
+}

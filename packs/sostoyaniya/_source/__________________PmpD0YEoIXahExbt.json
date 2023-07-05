@@ -1,0 +1,47 @@
+{
+  "name": "Изобретательность",
+  "type": "effect",
+  "img": "icons/environment/settlement/winemaker-still-vintner.webp",
+  "system": {
+    "description": "Люди умны и зачастую находят великолепные решения сложных проблем. Люди получают врожденный бонус +1 к Дедукции.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkIntDeduction",
+        "modifier": "1"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "10f8b938e553284aac9394dde5934739b11c9125",
+      "sourceId": "Item.cwkfOl3CNVIfTmHH"
+    },
+    "core": {
+      "sourceId": "Item.cwkfOl3CNVIfTmHH"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672503880941,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "PmpD0YEoIXahExbt",
+  "_key": "!items!PmpD0YEoIXahExbt"
+}

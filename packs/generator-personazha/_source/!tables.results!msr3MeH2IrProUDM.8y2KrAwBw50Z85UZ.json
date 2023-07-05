@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "8y2KrAwBw50Z85UZ",
+  "text": "Увлечения - Споры с путешественниками. Этот дракон любит вести дискуссии с путешественниками и читать наставления исследователям. Он получает +4 к Со противлению убеждению.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!msr3MeH2IrProUDM.8y2KrAwBw50Z85UZ"
+}

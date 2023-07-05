@@ -1,0 +1,57 @@
+{
+  "name": "Аксий",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/aksii.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_fwhvepus7l5"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "Water",
+    "domain": "basic",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Аксий дезориентирует цель, пока та не совершит успешное испытание Устойчивости со штрафом -1. За каждые 2 дополнительно потраченных очка Вын (свыше 1) испытание Устойчивости становится сложнее на 1.",
+    "range": "8м",
+    "duration": "пока не придёт в себя цель",
+    "defence": "сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "0",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дезориентация(-1 и +(-1) за 2 вын свыше 1)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892151,
+    "modifiedTime": 1685496637306,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "f15TP199SyQ4qo3V",
+  "folder": "nkexNShDkR1WAFsc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!f15TP199SyQ4qo3V"
+}

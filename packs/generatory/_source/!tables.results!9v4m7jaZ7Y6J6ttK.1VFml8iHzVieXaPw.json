@@ -1,0 +1,16 @@
+{
+  "text": "Замена Де Клаудинса",
+  "type": 2,
+  "img": "icons/magic/movement/portal-vortex-orange.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "1VFml8iHzVieXaPw",
+  "documentId": "tSFNKnOfn88FE7QI",
+  "flags": {},
+  "_key": "!tables.results!9v4m7jaZ7Y6J6ttK.1VFml8iHzVieXaPw"
+}

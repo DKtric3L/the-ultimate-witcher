@@ -1,0 +1,43 @@
+{
+  "name": "Треснувшие рёбра (Лечено)",
+  "type": "effect",
+  "img": "icons/commodities/bones/bones-rib-gold.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.tK9pn0zqkWFtARfH"
+    },
+    "cf": {
+      "id": "temp_n2afsx7fi5j"
+    }
+  },
+  "system": {
+    "description": "От удара у персонажа треснули рёбра, отчего\nему больно дышать и напрягаться. Это НЕ влияет на пункты здоровья.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_xqz92nbo2",
+        "derivedStat": "WITCHER.Actor.CoreStat.Enc",
+        "modifier": "-10"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883175,
+    "modifiedTime": 1685496621796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Pr3UAUpvOQdjPmxR",
+  "folder": "i9IWaFNhx9E6aUgp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Pr3UAUpvOQdjPmxR"
+}

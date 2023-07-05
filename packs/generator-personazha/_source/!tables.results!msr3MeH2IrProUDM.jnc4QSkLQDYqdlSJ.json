@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "jnc4QSkLQDYqdlSJ",
+  "text": "Увлечения - Изучение магии. Этот дракон любит изучать теорию магии и исследовать ме ста силы. Он получает +6 к Магическим познаниям.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!msr3MeH2IrProUDM.jnc4QSkLQDYqdlSJ"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Parental Fate: Nilfgaard",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "WLL4GH2QBfngXygQ",
+    "k0AliUujlhUKLN0G",
+    "uxEsX6eym5hKf3yX",
+    "4h4Sw8Y1i17AihjX",
+    "ITgHqKEQCar6G6Et",
+    "5VXUJzVqGqVahzfy",
+    "ONmmUjbSaveNjrSy",
+    "oQQUBuaPK1pTABqq",
+    "R36SexxMtQ1y3Mct",
+    "SdTrfAZtLN9cLgew",
+    "fbee84iwrEvwp5A7",
+    "7yYGp4SSAi9ymCGL",
+    "AErFz1jut68I9mna",
+    "ts84cRjou8LMlLD4",
+    "fb47S0gLn0cLA2eD",
+    "LEz6AVGxGmTiJS5K",
+    "98Ry4FUdzahLh10P",
+    "X4C3zlEyKnAX96jL",
+    "P2j9J9NLbtkzp04u",
+    "XEB17msQM6PA4Wl4"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.uLTZ0SXsQupensWI"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917379,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "PQo3Qo3SWXeADko2",
+  "_key": "!tables!PQo3Qo3SWXeADko2"
+}

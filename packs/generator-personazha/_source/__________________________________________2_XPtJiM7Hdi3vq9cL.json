@@ -1,0 +1,43 @@
+{
+  "name": "Как люди реагировали на вашу магию?Север -2",
+  "img": "icons/svg/circle.svg",
+  "description": "Как люди реагировали на вашу магию?",
+  "results": [
+    "YwV6b4RzaUobaHcY",
+    "dadJyriQ7VBo7iNu",
+    "vYpjxxRtx7sJsSR7",
+    "jjBBX0lz3Q8I3TuN",
+    "HWR69NYyxQp0gA9N",
+    "hqAl7WSRIlqYewUO",
+    "xJYkvkY0VAquNmLS",
+    "Qo2JGvleap3I7lUy"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Fm1HdC3W7hJimgjo"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901096,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "XPtJiM7Hdi3vq9cL",
+  "_key": "!tables!XPtJiM7Hdi3vq9cL"
+}

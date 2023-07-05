@@ -1,0 +1,57 @@
+{
+  "name": "Спиритический сеанс",
+  "type": "spell",
+  "img": "icons/magic/death/undead-ghost-scream-teal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Спиритический сеанс позволяет связаться с духом умершего. Во время сеанса душа мертвеца возвращается в виде духа с разумом умершего. Духу передаются все воспоминания покойного, включая то, как он умер. Поговорить с ним можно на месте его захоронения. Духа можно отправить обратно в мир мёртвых, только если он сам этого захочет или если его уничтожить. Спиритический сеанс призывает духов всех родственников умершего в пределах 20 метров, так что использовать этот ритуал в фамильном склепе не рекомендуется.",
+    "range": "",
+    "duration": "постоянный",
+    "defence": "",
+    "components": "Кровь умершего или его родственника, корень мандрагоры(xl), грибы-шибальцы(х2), аконит(х2), сера(х2)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "12",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496637440,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LFaAgL3CsURXJsaV",
+  "folder": "dsrLHBOICpZhVQvb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LFaAgL3CsURXJsaV"
+}

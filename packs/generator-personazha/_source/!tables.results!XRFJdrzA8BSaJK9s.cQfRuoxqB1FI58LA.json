@@ -1,0 +1,16 @@
+{
+  "_id": "cQfRuoxqB1FI58LA",
+  "flags": {},
+  "type": 0,
+  "text": "Как вы встретились - Вас заставили работать вместе",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XRFJdrzA8BSaJK9s.cQfRuoxqB1FI58LA"
+}

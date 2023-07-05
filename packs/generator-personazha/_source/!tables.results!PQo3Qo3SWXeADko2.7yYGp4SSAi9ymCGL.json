@@ -1,0 +1,16 @@
+{
+  "_id": "7yYGp4SSAi9ymCGL",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей изгнали в пустыню Корат. Скорее всего, они совершили серьезное преступление, но казнить их было опасно.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!PQo3Qo3SWXeADko2.7yYGp4SSAi9ymCGL"
+}

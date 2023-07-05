@@ -1,0 +1,60 @@
+{
+  "name": "Кислотное дыхание",
+  "type": "spell",
+  "img": "icons/magic/acid/pouring-gas-smoke-liquid.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.TZQ6VMf1iPxb8JWc"
+    },
+    "cf": {
+      "id": "temp_01h4gyhswg6t"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Заклинатель может плюнуть большим количеством кислоты в одну цель на расстоянии 6 метров. Цель получает 2d6 урона от кислоты, а попадание на снаряжение наносит ему 1d6/2 разрушающего урона",
+    "range": "6м",
+    "duration": "Мгновенное",
+    "defence": "Укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "1/2 разрушающего урона снаряжению"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496638575,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lXlqUYSfzudcRRs5",
+  "folder": "ndviRHoqdpigGVTn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lXlqUYSfzudcRRs5"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Дыхание суккуба",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/succubus_breath.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 20,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Common",
+    "effect": "Втерев в кожу, вы получаете +2 к Соблазнению. Если состав\nподлить в питьё, выпивший получает -5 против Соблазнения.\nДля обнаружения дыхания суккуба в питье требуется\nпроверка Внимания со СЛ 16",
+    "time": "",
+    "toxicity": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.fwrDVAPzVqD2BhCO"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868973,
+    "modifiedTime": 1669962370711,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "VD1sUiK3rqvIiSal",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!UH48FlY85LQFJuzE.VD1sUiK3rqvIiSal"
+}

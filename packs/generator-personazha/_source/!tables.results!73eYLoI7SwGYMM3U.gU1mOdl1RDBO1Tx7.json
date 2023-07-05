@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Высший вампир - Возраст",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "kFqwDYlgGZSaQCYZ",
+  "_id": "gU1mOdl1RDBO1Tx7",
+  "flags": {},
+  "_key": "!tables.results!73eYLoI7SwGYMM3U.gU1mOdl1RDBO1Tx7"
+}

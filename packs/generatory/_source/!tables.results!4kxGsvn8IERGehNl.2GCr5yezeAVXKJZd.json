@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Лепестки белого мирта",
+  "img": "systems/TheWitcherTRPG/assets/images/vitriol.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "OFHjow75LAEfpowU",
+  "_id": "2GCr5yezeAVXKJZd",
+  "flags": {},
+  "_key": "!tables.results!4kxGsvn8IERGehNl.2GCr5yezeAVXKJZd"
+}

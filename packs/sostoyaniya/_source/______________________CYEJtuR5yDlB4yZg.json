@@ -1,0 +1,37 @@
+{
+  "name": "Эффект - Сейриф хайль",
+  "type": "effect",
+  "img": "icons/magic/fire/beam-strike-whip-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Схвачен огненными змеями, опутан и горит. Проверка уклонения против сотворения заклинания, которое наложило эффект позволит выбраться. Каждый провал даст +1 к следующей проверке.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883178,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "CYEJtuR5yDlB4yZg",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!CYEJtuR5yDlB4yZg"
+}

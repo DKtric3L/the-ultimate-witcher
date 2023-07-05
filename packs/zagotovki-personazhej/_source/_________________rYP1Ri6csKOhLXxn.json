@@ -1,0 +1,40 @@
+{
+  "_id": "rYP1Ri6csKOhLXxn",
+  "name": "Дневник с замком",
+  "type": "valuable",
+  "img": "icons/sundries/books/book-simple-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.agdyTnWTvWduP6l8"
+    }
+  },
+  "system": {
+    "description": "Простенькая книжка с пустыми страницами в кожаной обложке. Я в свой гроссбух записываю, какие товары у меня есть и что я продал.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 8,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671035479263,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!p22j81fJJYgk0Zfx.rYP1Ri6csKOhLXxn"
+}

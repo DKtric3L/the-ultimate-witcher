@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Формула: Отвар альгуля",
+  "img": "icons/sundries/documents/document-symbol-person-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "3yhDDYD6QiKOIvqe",
+  "_id": "55OK23jPa5LA4Ggt",
+  "flags": {},
+  "_key": "!tables.results!fVcw47eCMtM2w0qP.55OK23jPa5LA4Ggt"
+}

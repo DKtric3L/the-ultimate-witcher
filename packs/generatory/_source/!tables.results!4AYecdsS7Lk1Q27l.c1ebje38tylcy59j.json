@@ -1,0 +1,16 @@
+{
+  "text": "Набор для макияжа",
+  "type": 2,
+  "img": "icons/skills/trades/textiles-cloth-dye-red.webp",
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "_id": "c1ebje38tylcy59j",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "tCd05eBEt9mJeu7G",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.c1ebje38tylcy59j"
+}

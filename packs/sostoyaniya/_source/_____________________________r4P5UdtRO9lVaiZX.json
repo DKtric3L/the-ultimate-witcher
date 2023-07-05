@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Эликсир выносливости",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/potions/endurance_potion.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    },
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.C6c9eod6aJzrtz6U"
+    }
+  },
+  "system": {
+    "description": "Токсичность 50%. Позволяет выпившему немедленно восстановить 3d6 выносливости. Токсичность эликсира длится до истечения срока его действия независимо от того, используется ли выносливость.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_s6a33ttfz",
+        "skill": "WITCHER.SkWillResistCoer",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883188,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "r4P5UdtRO9lVaiZX",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!r4P5UdtRO9lVaiZX"
+}

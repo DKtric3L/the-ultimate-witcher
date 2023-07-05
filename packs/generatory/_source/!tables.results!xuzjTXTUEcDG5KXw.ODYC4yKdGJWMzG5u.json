@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "ODYC4yKdGJWMzG5u",
+  "text": "Препятствие - Преступление касается чего-то, с чем персонаж никогда раньше не сталкивался.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!xuzjTXTUEcDG5KXw.ODYC4yKdGJWMzG5u"
+}

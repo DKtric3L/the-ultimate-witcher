@@ -1,0 +1,36 @@
+{
+  "name": "Бомбы и ловушки",
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "results": [
+    "jILDKlUzHE06OnBu",
+    "x97uaxuq6MMEcadb"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.tX7SSR9blBdl76e0"
+    },
+    "cf": {
+      "id": "temp_c7t3jk2q5hm"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932892,
+    "modifiedTime": 1685496644377,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "598wNzOrQpbWtxxp",
+  "folder": "6P29UjutkIAiKpOL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!598wNzOrQpbWtxxp"
+}

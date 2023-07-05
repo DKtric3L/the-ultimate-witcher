@@ -1,0 +1,40 @@
+{
+  "name": "Разделитель монет",
+  "type": "valuable",
+  "img": "icons/tools/fasteners/bracket.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zf5u6w9lv4"
+    }
+  },
+  "system": {
+    "description": "Сложный инструмент, с помощью которого можно разделить монету пополам и заново нанести чеканку на чистую сторону. Потратив 30 минут, персонаж с Разделителем монет может взять до 100 крон и разделить их, удвоив количество монет. Эти монеты тоньше, но это можно определить только проверкой Внимания со Сл 18. Если у персонажа есть набор инструментов торговца, он может использовать встроенную шкалу, чтобы автоматически узнать, что монеты были разделены.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 75,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868987,
+    "modifiedTime": 1685496603881,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BnYBGW1T3gtBvq8p",
+  "folder": "q1ZDZnYV2jrmlqwx",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!BnYBGW1T3gtBvq8p"
+}

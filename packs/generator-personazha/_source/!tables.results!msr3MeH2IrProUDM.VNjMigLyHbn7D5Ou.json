@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "VNjMigLyHbn7D5Ou",
+  "text": "Увлечения - Наблюдение за людьми. Этот дракон любит наблюдать за окрестными поселениями. У него есть двое друзей, живущих по соседству.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!msr3MeH2IrProUDM.VNjMigLyHbn7D5Ou"
+}

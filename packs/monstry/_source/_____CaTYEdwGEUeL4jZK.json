@@ -1,0 +1,55 @@
+{
+  "_id": "CaTYEdwGEUeL4jZK",
+  "name": "Рога",
+  "type": "weapon",
+  "img": "icons/commodities/bones/hurn-curved-yellow.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": -1,
+    "avail": "Everywhere",
+    "damage": "7d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!yelCsVVeLxe8FuaQ.CaTYEdwGEUeL4jZK"
+}

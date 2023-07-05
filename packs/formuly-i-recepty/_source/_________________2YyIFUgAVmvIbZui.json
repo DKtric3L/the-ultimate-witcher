@@ -1,0 +1,160 @@
+{
+  "name": "Красная алебарда",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.2YyIFUgAVmvIbZui"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.5WAfwJI8qAwbHPhs]{Красная алебарда}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1296,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "11ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "6",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_8q0hf93wk",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_wkw8lrzic",
+        "name": "Третогорская сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_0xcfpsh86",
+        "name": "Кож",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_7yv9ozco4",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_lhiols7vs",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 646,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Красная алебарда",
+      "type": "weapon",
+      "img": "icons/weapons/polearms/halberd-crescent-small-spiked.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 4,
+        "cost": 865,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее, Дробящее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": true,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Poor",
+        "damage": "6d6+3",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Длинное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Staff/Spear",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_upy3ob71tu"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863939,
+        "modifiedTime": 1672564579450,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848418,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2YyIFUgAVmvIbZui",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2YyIFUgAVmvIbZui"
+}

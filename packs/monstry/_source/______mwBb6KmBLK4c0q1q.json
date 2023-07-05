@@ -1,0 +1,26 @@
+{
+  "_id": "mwBb6KmBLK4c0q1q",
+  "name": "Лидер",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Зачастую яги руководят группами гулей. Если яга жива, то все гули в стае получают +4 к Храбрости. Яга также может отдавать стае невербальные команды. Эти команды могут быть трудными для простого гуля."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!gwtn96X2s18xdNp7.mwBb6KmBLK4c0q1q"
+}

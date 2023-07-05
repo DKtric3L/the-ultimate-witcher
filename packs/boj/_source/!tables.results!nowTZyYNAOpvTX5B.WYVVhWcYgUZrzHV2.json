@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    91,
+    100
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "WYVVhWcYgUZrzHV2",
+  "text": "Цель - Полностью Случайная(Жеребьёвка)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!nowTZyYNAOpvTX5B.WYVVhWcYgUZrzHV2"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Кожа Драконида",
+  "img": "icons/commodities/leather/scales-blue.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "N0RYutO47twyckl7",
+  "_id": "EReYVISkK3lOOXes",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.EReYVISkK3lOOXes"
+}

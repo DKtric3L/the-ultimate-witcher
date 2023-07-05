@@ -1,0 +1,36 @@
+{
+  "name": "Боеприпасы - Обычные",
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "results": [
+    "bOtGja0QmpnTnLaO",
+    "rEShKZ1qDRtCEDCh"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.YodH0S0Xs46fJ7aQ"
+    },
+    "cf": {
+      "id": "temp_cdl3vwuxc69"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932891,
+    "modifiedTime": 1685496644432,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aAc8Uvks5afFLhXP",
+  "folder": "0AbuyKzqZg8gmn41",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!aAc8Uvks5afFLhXP"
+}

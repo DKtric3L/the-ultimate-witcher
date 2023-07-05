@@ -1,0 +1,104 @@
+{
+  "name": "Формула: Отвар из куролиска",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-person-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.pNg2953qOQnnr8T0"
+    },
+    "cf": {
+      "id": "temp_a45doihc8"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.eF0fHAOVpv0iO6Ub]{Отвар куролиска}</p>\n<p>требуется мутаген монстра и крепкий алкоголь для изготовления.</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "level": "witcher",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 16,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 1,
+      "rebis": 1,
+      "aether": 1,
+      "quebrith": null,
+      "hydragenum": null,
+      "vermilion": null,
+      "sol": 1,
+      "caelum": null,
+      "fulgur": null
+    },
+    "associatedItem": {
+      "name": "Отвар куролиска",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/potions/kraken_potion.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 69,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "decoction",
+        "avail": "Rare",
+        "effect": "Ваш порог токсичности равен 200%",
+        "time": "30 минут",
+        "toxicity": "75%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_adni0hxf6rb"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887309,
+        "modifiedTime": 1668182668303,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848424,
+    "modifiedTime": 1685496578680,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pNg2953qOQnnr8T0",
+  "folder": "Fb6VoHyNCjiAun2V",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pNg2953qOQnnr8T0"
+}

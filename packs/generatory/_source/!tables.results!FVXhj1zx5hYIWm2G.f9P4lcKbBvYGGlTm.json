@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Кикимора-Воин",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Kikimora_warrion_Karol_Bem.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "RLNXSrJYWdFHbKvT",
+  "_id": "f9P4lcKbBvYGGlTm",
+  "flags": {},
+  "_key": "!tables.results!FVXhj1zx5hYIWm2G.f9P4lcKbBvYGGlTm"
+}

@@ -1,0 +1,71 @@
+{
+  "_id": "N6WMCRv1wDM3Y7gs",
+  "name": "Корд",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard-bronze.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_2ps351j34un"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.BlMQTxPW1XUY4P0e"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 725,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "5d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "25"
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": null,
+    "modifiedTime": 1672759336668,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_key": "!actors.items!oKCibeKFEw6hUKDB.N6WMCRv1wDM3Y7gs"
+}

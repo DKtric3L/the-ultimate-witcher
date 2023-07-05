@@ -1,0 +1,75 @@
+{
+  "_id": "Bb4hWA4lNi08SEpZ",
+  "name": "Укус",
+  "type": "weapon",
+  "img": "icons/creatures/abilities/mouth-teeth-rows-red.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.PuuRP7l5cnc6umlH"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Everywhere",
+    "damage": "6d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "100"
+      },
+      {
+        "id": "_aukl30l6e",
+        "name": "Улучшенное пробивающее броню",
+        "percentage": ""
+      },
+      {
+        "id": "_au3fya7ub",
+        "name": "Высасывание крови 2d6",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!tTfwvCdrxkKSAc86.Bb4hWA4lNi08SEpZ"
+}

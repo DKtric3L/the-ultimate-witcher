@@ -1,0 +1,16 @@
+{
+  "text": "Благословение исцеления",
+  "type": 2,
+  "img": "icons/magic/nature/beam-hand-leaves-green.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "bndu7t897nlpvvtr",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "p9ahWwqaWIhteJUG",
+  "_key": "!tables.results!GRliin48ziIIG4vs.bndu7t897nlpvvtr"
+}

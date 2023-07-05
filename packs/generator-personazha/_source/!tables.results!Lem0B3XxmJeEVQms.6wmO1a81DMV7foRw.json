@@ -1,0 +1,16 @@
+{
+  "_id": "6wmO1a81DMV7foRw",
+  "flags": {},
+  "type": 2,
+  "text": "Siblings: Age",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "jCG95EqwqAsEJR0j",
+  "_key": "!tables.results!Lem0B3XxmJeEVQms.6wmO1a81DMV7foRw"
+}

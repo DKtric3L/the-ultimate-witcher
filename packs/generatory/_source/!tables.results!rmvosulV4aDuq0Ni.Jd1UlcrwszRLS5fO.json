@@ -1,0 +1,16 @@
+{
+  "_id": "Jd1UlcrwszRLS5fO",
+  "type": 2,
+  "text": "Друид - Новичок",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    6,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "7sp0ZOwIAidBIVUx",
+  "_key": "!tables.results!rmvosulV4aDuq0Ni.Jd1UlcrwszRLS5fO"
+}

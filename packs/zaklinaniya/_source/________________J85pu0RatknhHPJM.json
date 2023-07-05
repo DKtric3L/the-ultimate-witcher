@@ -1,0 +1,57 @@
+{
+  "name": "Ритуал очищения",
+  "type": "spell",
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Очищает тело одной цели от ядов и болезней. При сотворении ритуала заклинатель совершает проверку Про ведения ритуалов с заданной СЛ для очищения тела цели: для очищения от крепкого алкоголя и наркотиков — СЛ 12, от ядов и масел — СЛ 15. Очистить организм от сильных болезней достаточно трудно — в данном случае СЛ составляет 18. Риту ал очищения не может исцелить заразу вроде Бича Катрионы.",
+    "range": "",
+    "duration": "мгновенный",
+    "defence": "",
+    "components": "листья балиссы(x1), вороний глаз(x1), мелок(х2), омела(х2), крепкий алкоголь(x1)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "меняется",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496637440,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "J85pu0RatknhHPJM",
+  "folder": "dsrLHBOICpZhVQvb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!J85pu0RatknhHPJM"
+}

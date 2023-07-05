@@ -1,0 +1,39 @@
+{
+  "name": "Случайный материал",
+  "img": "icons/commodities/materials/powder-red-green-yellow.webp",
+  "description": "",
+  "results": [
+    "i9HnmOnsGdOmSb06",
+    "KvIM6vcuc3dkoLIJ",
+    "yvbKMZiXznO6wA0d",
+    "4jq3uy3DdGNeo0af",
+    "uwmAdv0BprCnnZhw"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_o8v204tslw"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644573,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Xh9XSSmbD1c7r9vq",
+  "sort": 0,
+  "_id": "Aylgxm2XemLxSSOc",
+  "_key": "!tables!Aylgxm2XemLxSSOc"
+}

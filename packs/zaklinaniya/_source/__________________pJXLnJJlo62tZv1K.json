@@ -1,0 +1,60 @@
+{
+  "name": "Большое исцеление",
+  "type": "spell",
+  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ZrbRX0dfPMoWbta7"
+    },
+    "cf": {
+      "id": "temp_ox1dmapord"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "27",
+    "staminaIsVar": false,
+    "effect": "Большое исцеление увеличивает естественное исцеление цели, что позволяет ей восстанавливать 10 ПЗ за раунд. Эффект длится до конца заклинания. В качестве альтернативы, это заклинание можно использовать неоднократно, чтобы исцелять критические ранения за вдвое меньшее количество бросков, чем необходимо.",
+    "range": "2м",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496638904,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pJXLnJJlo62tZv1K",
+  "folder": "FompVpMZkGLpN1Nf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pJXLnJJlo62tZv1K"
+}

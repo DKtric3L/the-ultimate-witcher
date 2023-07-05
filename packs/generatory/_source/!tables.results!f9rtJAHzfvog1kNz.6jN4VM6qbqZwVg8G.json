@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    25,
+    25
+  ],
+  "drawn": false,
+  "text": "Лютня",
+  "img": "icons/tools/instruments/lute-gold-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "88ulB7DxF5fZ0jKz",
+  "_id": "6jN4VM6qbqZwVg8G",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.6jN4VM6qbqZwVg8G"
+}

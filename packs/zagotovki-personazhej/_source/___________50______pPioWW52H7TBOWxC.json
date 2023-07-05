@@ -1,0 +1,37 @@
+{
+  "name": "Стоимостью 50 крон",
+  "type": "component",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "component",
+    "rarity": "",
+    "location": "",
+    "quantityObtainable": "",
+    "forage": "",
+    "substanceType": ""
+  },
+  "_id": "pPioWW52H7TBOWxC",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663423730127,
+    "modifiedTime": 1663423738724,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!uwoc5G9Eyjzo0fxU.pPioWW52H7TBOWxC"
+}

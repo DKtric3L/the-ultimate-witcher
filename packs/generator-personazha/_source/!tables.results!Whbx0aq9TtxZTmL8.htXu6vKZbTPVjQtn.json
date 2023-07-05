@@ -1,0 +1,16 @@
+{
+  "_id": "htXu6vKZbTPVjQtn",
+  "flags": {},
+  "type": 0,
+  "text": "Болтливость",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Whbx0aq9TtxZTmL8.htXu6vKZbTPVjQtn"
+}

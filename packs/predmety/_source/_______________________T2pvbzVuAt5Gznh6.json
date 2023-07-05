@@ -1,0 +1,51 @@
+{
+  "name": "Стабилизирующее стремя",
+  "type": "enhancement",
+  "img": "icons/tools/fasteners/chain-steel-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.T2pvbzVuAt5Gznh6"
+    },
+    "cf": {
+      "id": "temp_frzayswlhnf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 395,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "Everywhere",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дает арбалету эффект Сбалансированное."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603273,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "T2pvbzVuAt5Gznh6",
+  "folder": "AVzS20lEfUPVxlW1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!T2pvbzVuAt5Gznh6"
+}

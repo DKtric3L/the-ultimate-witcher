@@ -1,0 +1,44 @@
+{
+  "name": "Амулет с самоцветом",
+  "type": "valuable",
+  "img": "icons/equipment/neck/necklace-faceted-gold-green.webp",
+  "system": {
+    "description": "Фокусирующее(3)",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 312500,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.a9Ph00V1ID1AAQU9"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868970,
+    "modifiedTime": 1671035135097,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "w5c64JSVv5c6b3iv",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.w5c64JSVv5c6b3iv"
+}

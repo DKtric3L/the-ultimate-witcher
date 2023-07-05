@@ -1,0 +1,16 @@
+{
+  "_id": "SdTrfAZtLN9cLgew",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Ваша семья в долгах из-за азартных игр или займов. Вам очень нужны деньги.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!eitdqoqbBaHut7oL.SdTrfAZtLN9cLgew"
+}

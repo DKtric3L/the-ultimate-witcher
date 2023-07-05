@@ -1,0 +1,63 @@
+{
+  "name": "Сметающий Аард",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/sweeping_aard.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_by6qvwohmig"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "air",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Аард теперь создаёт выброс телекинетической силы вокруг заклинателя. За каждое потраченное очко Вын всё, с чем сталкивается энергия, ошеломлено и с вероятностью 10% сбито с ног. Энергия распространяется во все стороны подобно сфере. Летающие существа, попавшие под действие Сметающего Аарда, падают на землю.",
+    "range": "радиус 4м",
+    "duration": "мгновенный",
+    "defence": "укл",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Ошеломление",
+        "percentage": ""
+      },
+      {
+        "id": "_g764gqkwu",
+        "name": "Сбивает с ног(+10% за 1 вын)",
+        "percentage": "10"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496637331,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "iNtP2GEXblE94lq8",
+  "folder": "1yUiH11eSu2R2pwl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!iNtP2GEXblE94lq8"
+}

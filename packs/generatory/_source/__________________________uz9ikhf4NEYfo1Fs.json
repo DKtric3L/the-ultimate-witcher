@@ -1,0 +1,38 @@
+{
+  "name": "Случайная Инвокация жреца",
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
+  "description": "",
+  "results": [
+    "ZEvFvC0Mi2858HIp",
+    "m3XZiRnt3EwOvCb0",
+    "NFq3pBGelrK4froW",
+    "pD7Q0kqh3aNWGBRJ"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CWAvYpJU5353dcxa"
+    },
+    "cf": {
+      "id": "temp_s23761z2tk"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932919,
+    "modifiedTime": 1685496644216,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "uz9ikhf4NEYfo1Fs",
+  "folder": "UBZ0NONtvUbanf9g",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!uz9ikhf4NEYfo1Fs"
+}

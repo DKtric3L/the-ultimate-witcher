@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "ZqJMJZ8q8dGUrhc8",
+  "text": "Наниматель даёт двойную сумму, торговаться не намерен.(СЛ - 20)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!HIgQWDxBiLavbVSJ.ZqJMJZ8q8dGUrhc8"
+}

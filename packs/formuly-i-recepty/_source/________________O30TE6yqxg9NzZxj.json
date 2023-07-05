@@ -1,0 +1,170 @@
+{
+  "name": "Талгарская зима",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-formal-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.O30TE6yqxg9NzZxj"
+    },
+    "cf": {
+      "id": "temp_qcbrs1shnce"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.WYC3p5tTASeaS6Ye]{Талгарская зима}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "traps",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Древесина"
+      },
+      {
+        "id": "_prdu97cgw",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_1qqlctf2k",
+        "name": "Эссенция воды",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_oq3ub68bm",
+        "name": "Грибы-шибальцы",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 84,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Талгарская зима",
+      "type": "valuable",
+      "img": "modules/the-ultimate-witcher/assets/bombs/talgarian_winter.png",
+      "system": {
+        "description": "Радиус - 4 метра, тип - стихийная ловушка.\nЛюбой, попавший в зону взрыва, замораживается на месте на 8 раундов или до тех пор, пока не совершит проверку Силы, СЛ 18, либо пока по нему не нанесут удар. Атака по замороженной цели наносит ей дополнительно 2d6 урона.",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 126,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "toolkit",
+        "level": "witcher",
+        "isFormulae": false,
+        "craftingDC": 18,
+        "alchemyDC": 0,
+        "craftingTime": "30м",
+        "components": "",
+        "craftingComponents": [
+          {
+            "id": "first",
+            "quantity": "3",
+            "name": "Древесина"
+          },
+          {
+            "id": "_prdu97cgw",
+            "name": "Нитки",
+            "percentage": "",
+            "quantity": "4"
+          },
+          {
+            "id": "_1qqlctf2k",
+            "name": "Эссенция воды",
+            "percentage": "",
+            "quantity": "1"
+          },
+          {
+            "id": "_oq3ub68bm",
+            "name": "Грибы-шибальцы",
+            "percentage": "",
+            "quantity": "1"
+          }
+        ],
+        "investment": 84,
+        "learned": false,
+        "alchemyComponents": {
+          "vitriol": 0,
+          "rebis": 0,
+          "aether": 0,
+          "quebrith": 0,
+          "hydragenum": 0,
+          "vermilion": 0,
+          "sol": 0,
+          "caelum": 0,
+          "fulgur": 0
+        },
+        "associatedItem": {},
+        "avail": "Poor",
+        "effect": "",
+        "conceal": "S",
+        "quality": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.recepty.O30TE6yqxg9NzZxj"
+        },
+        "cf": {
+          "id": "temp_5rbvvy0nejs"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887310,
+        "modifiedTime": 1668182793870,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496579796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "O30TE6yqxg9NzZxj",
+  "folder": "vIuywOMpy1LOwsfX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!O30TE6yqxg9NzZxj"
+}

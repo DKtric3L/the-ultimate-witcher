@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    5
+  ],
+  "drawn": false,
+  "text": "Нпс - речь",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "j6Kz6lZJLr3YC52C",
+  "_id": "twAGPr5HXHnvJkuo",
+  "flags": {},
+  "_key": "!tables.results!dM54QUqSdwhZTKlL.twAGPr5HXHnvJkuo"
+}

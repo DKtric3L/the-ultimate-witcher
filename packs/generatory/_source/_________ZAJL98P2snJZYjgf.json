@@ -1,0 +1,62 @@
+{
+  "name": "Трупоеды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Necrophages.png",
+  "description": "",
+  "results": [
+    "8VipZKJHkQzDwQAX",
+    "60FChS55y2iSJc5k",
+    "Ha5KZs4uqggzqyyF",
+    "PJ9Ay9PI8R0HMQcy",
+    "dmIMybnYJqC9uoAf",
+    "DSiNokPERKCOYeB2",
+    "z0uCCQaMQUPa5IPO",
+    "9PxIN1GNZptzHGPi",
+    "qJeDYUUiRuszwzaF",
+    "XrPStWWB3FXB4ofO",
+    "4mJ2onTAmS2SBIo3",
+    "KWXDomlKI23O4ZYM",
+    "EeM0GVWsPfR85omu",
+    "T1Q2F5js8LbOhMF8",
+    "mj9DSnVOjqs6NZrV",
+    "41iVEGXAQ0q2V3Tb",
+    "A6hvqOQO1M3ZBt74",
+    "MdtVN6EGO1OICZG2",
+    "xh5T055kNC1JX9wt",
+    "NohgEk4dvEeSmDQ4",
+    "JMHRMrLqX2awVP4F",
+    "4yT9sEYG5aYtJzQg",
+    "LoaNmDyptAiZ7DWe",
+    "VHGAiIU22mEpMuCo",
+    "GIJlb6Q0CSBY0dD8",
+    "1u2DsE0biZ7FPQ01",
+    "xSJoeTJcBCd3uxwK",
+    "1x11nTicJ4pNoQnN"
+  ],
+  "formula": "1d19",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "ZAJL98P2snJZYjgf",
+  "_key": "!tables!ZAJL98P2snJZYjgf"
+}

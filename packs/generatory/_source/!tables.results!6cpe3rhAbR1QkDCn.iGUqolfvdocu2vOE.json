@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "iGUqolfvdocu2vOE",
+  "text": "Нет внезапного поворота",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!6cpe3rhAbR1QkDCn.iGUqolfvdocu2vOE"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Гаркаин-Вожак",
+  "img": "modules/the-ultimate-witcher/assets/monsters/garkain.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "38OyYWRLT60Xc1xF",
+  "_id": "k4934mdlc4jCrabv",
+  "flags": {},
+  "_key": "!tables.results!KyFSraxX1yw7cePM.k4934mdlc4jCrabv"
+}

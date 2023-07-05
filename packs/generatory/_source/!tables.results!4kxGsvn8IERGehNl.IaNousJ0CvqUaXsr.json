@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Calcium Equum",
+  "img": "systems/TheWitcherTRPG/assets/images/vitriol.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "zK9saFoAtQy7ofXN",
+  "_id": "IaNousJ0CvqUaXsr",
+  "flags": {},
+  "_key": "!tables.results!4kxGsvn8IERGehNl.IaNousJ0CvqUaXsr"
+}

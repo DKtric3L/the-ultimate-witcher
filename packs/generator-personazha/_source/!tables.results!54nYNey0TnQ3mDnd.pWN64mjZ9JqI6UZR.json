@@ -1,0 +1,16 @@
+{
+  "_id": "pWN64mjZ9JqI6UZR",
+  "flags": {},
+  "type": 0,
+  "text": "У вас 8 братьев или/и сестёр.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!54nYNey0TnQ3mDnd.pWN64mjZ9JqI6UZR"
+}

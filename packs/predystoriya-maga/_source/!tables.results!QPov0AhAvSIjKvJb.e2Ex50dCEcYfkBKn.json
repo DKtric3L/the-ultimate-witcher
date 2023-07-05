@@ -1,0 +1,16 @@
+{
+  "_id": "e2Ex50dCEcYfkBKn",
+  "type": 0,
+  "text": "Внешкольное обучение. Вы учились у многих наставников, узнавая столько, сколько могли. Начните с дополнительным заклинания новичка. Вас взял в ученики маг.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!QPov0AhAvSIjKvJb.e2Ex50dCEcYfkBKn"
+}

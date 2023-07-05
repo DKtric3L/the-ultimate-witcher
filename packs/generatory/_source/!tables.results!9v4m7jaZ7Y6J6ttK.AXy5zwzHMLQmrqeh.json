@@ -1,0 +1,16 @@
+{
+  "text": "Землетрясение Стаммельфорда",
+  "type": 2,
+  "img": "icons/magic/earth/barrier-stone-brown-green.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "AXy5zwzHMLQmrqeh",
+  "documentId": "kKR2YmwwBOfcD1sr",
+  "flags": {},
+  "_key": "!tables.results!9v4m7jaZ7Y6J6ttK.AXy5zwzHMLQmrqeh"
+}

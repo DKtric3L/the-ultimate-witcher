@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Истинный посох связывания",
+  "img": "icons/weapons/staves/staff-animal-skull-bull.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "mzaKnGxoAHJ6EwA9",
+  "_id": "mA36XRCR28zFfgzF",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.mA36XRCR28zFfgzF"
+}

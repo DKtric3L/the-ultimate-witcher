@@ -1,0 +1,57 @@
+{
+  "name": "Земляной столб",
+  "type": "spell",
+  "img": "icons/magic/earth/barrier-stone-pillar-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_g0hcqrt3scn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Земляной столб позволяет вам поднять 2-метровый кубический столб из земляной поверхности. Эта колонна считается укрытием с 10 ПБ и остается до тех пор, пока не будет уничтожена.",
+    "range": "10м",
+    "duration": "мгновенная",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496637801,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TMJMmdxAlbrgYZLr",
+  "folder": "1qvYxGy2tyjjpXzr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TMJMmdxAlbrgYZLr"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Адепт из Аретузы",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Adeptka_iz_Aretuzi_Grafit_Studio.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "BfM8p2v3sSdb52E1",
+  "_id": "0oVQUIuNxyqB74LN",
+  "flags": {},
+  "_key": "!tables.results!PwkSg3BxS9FxVkyI.0oVQUIuNxyqB74LN"
+}

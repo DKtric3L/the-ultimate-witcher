@@ -1,0 +1,46 @@
+{
+  "name": "Прах феникса",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/dust_gargoyle_64x64.png.6878.png",
+  "system": {
+    "description": "",
+    "quantity": "2d6",
+    "weight": 0.1,
+    "cost": 94,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Phoenixes",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "sol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_79u2kp2qn4d",
+      "color": "#d2ab1e"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.epiT54byFJ2IwssG"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1669962738947,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "FwMrZRkgSnOkAyDP",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!fDqDFVREsbBM9EX9.FwMrZRkgSnOkAyDP"
+}

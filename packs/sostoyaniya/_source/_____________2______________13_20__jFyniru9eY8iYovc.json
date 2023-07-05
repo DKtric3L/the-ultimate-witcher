@@ -1,0 +1,37 @@
+{
+  "name": "Болезнь: Вши(2 стадия, день 13-20)",
+  "type": "effect",
+  "img": "icons/creatures/invertebrates/spider-beetle-runed-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.iAM8CmPG1fbk17CC"
+    },
+    "cf": {
+      "id": "temp_uwbt9h030l"
+    }
+  },
+  "system": {
+    "description": "Опасность - низкая, риск заражения - 60% Диагноз - проверка внимания 12.\nНачинается заражение. Больной не может спать из-за ночного зуда, что вызывает УСТАЛОСТЬ.(-2 к социальным навыкам.)\n\nЛЕЧЕНИЕ: Купание с мылом и уксусом имеет 25%-ный шанс покончить с этим заболеванием в\nтечение двух месяцев. Процедура проводится только два раза в неделю. Цитрусовая мазь для кожи повышает шансы на успех (см. Лекарства).",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883165,
+    "modifiedTime": 1685496621730,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jFyniru9eY8iYovc",
+  "folder": "ZXp1GktF0w40ytBA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jFyniru9eY8iYovc"
+}

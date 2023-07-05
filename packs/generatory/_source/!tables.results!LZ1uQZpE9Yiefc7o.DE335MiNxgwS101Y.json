@@ -1,0 +1,16 @@
+{
+  "text": "Формула: Мытые коренья",
+  "type": 2,
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "DE335MiNxgwS101Y",
+  "documentId": "6Aab6R61FVfbiD0N",
+  "flags": {},
+  "_key": "!tables.results!LZ1uQZpE9Yiefc7o.DE335MiNxgwS101Y"
+}

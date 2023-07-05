@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Рабочий с вилами",
+  "img": "modules/the-ultimate-witcher/assets/monsters/worker.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "xvaGQmWTRZjVbYPB",
+  "_id": "aUtm21TfC1jTwVz0",
+  "flags": {},
+  "_key": "!tables.results!1k8ULtKIur5o7ske.aUtm21TfC1jTwVz0"
+}

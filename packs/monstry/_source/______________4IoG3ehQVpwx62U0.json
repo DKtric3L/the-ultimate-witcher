@@ -1,0 +1,46 @@
+{
+  "name": "Корень лопуха",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/other/burdock.webp",
+  "system": {
+    "description": "",
+    "quantity": "2",
+    "weight": 0.1,
+    "cost": 32,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Поля и леса",
+    "quantityObtainable": "1d6",
+    "forage": "12",
+    "substanceType": "vermilion"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_z2lk3hpfm4e",
+      "color": "#3b9b58"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.wEzQXtOovexT4ZfI"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669965220083,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "4IoG3ehQVpwx62U0",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!mzLvpWjcjx1a20dS.4IoG3ehQVpwx62U0"
+}

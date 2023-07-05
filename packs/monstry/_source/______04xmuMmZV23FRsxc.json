@@ -1,0 +1,19 @@
+{
+  "color": "#292929",
+  "name": "Звери",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": null,
+  "_id": "04xmuMmZV23FRsxc",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!04xmuMmZV23FRsxc"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Инструменты для творчества",
+  "type": 2,
+  "img": "icons/tools/laboratory/bowl-liquid-pink-yellow-green.webp",
+  "weight": 1,
+  "range": [
+    19,
+    19
+  ],
+  "drawn": false,
+  "_id": "uqjj89bmdwuhqaty",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "bNVxMwvXwDQKJhLc",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.uqjj89bmdwuhqaty"
+}

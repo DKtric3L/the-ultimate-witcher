@@ -1,0 +1,40 @@
+{
+  "_id": "X03IQQI3HUgc1ba2",
+  "name": "Письменные принадлежности",
+  "type": "valuable",
+  "img": "icons/tools/scribal/ink-quill-pink.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.GzIj9duhasH2i8JV"
+    }
+  },
+  "system": {
+    "description": "Позволяют писать письма, записки и тд.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 25,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!p22j81fJJYgk0Zfx.X03IQQI3HUgc1ba2"
+}

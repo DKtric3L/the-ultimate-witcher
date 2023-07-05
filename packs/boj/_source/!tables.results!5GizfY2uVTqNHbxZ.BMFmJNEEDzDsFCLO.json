@@ -1,0 +1,16 @@
+{
+  "_id": "BMFmJNEEDzDsFCLO",
+  "type": 0,
+  "text": "Воздух: Воздух завихряется вокруг персонажа, нанося ему урон, в зависимости от величины критического провала. Персонажа отбрасывает назад на 2 метра.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5GizfY2uVTqNHbxZ.BMFmJNEEDzDsFCLO"
+}

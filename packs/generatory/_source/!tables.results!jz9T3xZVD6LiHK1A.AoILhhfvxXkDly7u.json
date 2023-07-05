@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Корень Мандрагоры",
+  "img": "systems/TheWitcherTRPG/assets/images/vermilion.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "1mAmz7N135HJOPbx",
+  "_id": "AoILhhfvxXkDly7u",
+  "flags": {},
+  "_key": "!tables.results!jz9T3xZVD6LiHK1A.AoILhhfvxXkDly7u"
+}

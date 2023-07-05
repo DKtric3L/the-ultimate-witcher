@@ -1,0 +1,26 @@
+{
+  "_id": "evIUGBVvMlPgFhwY",
+  "name": "Магия жизни",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Шептуха нанести себе глубокий порез руке, который наносит ей 1 еденицу урона и исцеляет цель на расстоянии 20 м на 5 ПЗ"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!dqokOq0i1ReX4mhA.evIUGBVvMlPgFhwY"
+}

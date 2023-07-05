@@ -1,0 +1,60 @@
+{
+  "name": "Тепло Тхонни",
+  "type": "spell",
+  "img": "icons/magic/fire/flame-burning-hand-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.FmMDBsBXumIexQ9w"
+    },
+    "cf": {
+      "id": "temp_1ldq6zu6i6ej"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Тхонни была первым магом, отправившимся в экспедицию на Крайний Север Континента. Она создала заклинание, помогающее справиться с экстремальным холодом в этом регионе. \n\nТепло Тхонни заставляет ваше тело излучать тепло на расстояние в 20 метров. Все, кто находится в этой зоне, не получает штрафов от холода.",
+    "range": "на себя",
+    "duration": "1d10 часов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Часы)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496638808,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nACy5A2qZVkVKbUh",
+  "folder": "ZcfqdHfSUvKAeyeQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nACy5A2qZVkVKbUh"
+}

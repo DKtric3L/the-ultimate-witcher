@@ -1,0 +1,16 @@
+{
+  "_id": "i4xdMVprCrmKRphl",
+  "type": 2,
+  "text": "Стиль преподавания",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "O7wJ3nZ23BENAAe8",
+  "_key": "!tables.results!zfAzg51mEWYmAY9B.i4xdMVprCrmKRphl"
+}

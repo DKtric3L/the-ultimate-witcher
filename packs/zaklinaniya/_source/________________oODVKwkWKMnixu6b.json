@@ -1,0 +1,58 @@
+{
+  "name": "Очищающее пламя",
+  "type": "spell",
+  "img": "icons/magic/fire/flame-burning-skull-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a9snocl3pol"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Очищающее пламя поджигает цель, нанося ей 3d6 урона.",
+    "range": "10м",
+    "duration": "пока не потушат",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "3d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "100"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496638327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "oODVKwkWKMnixu6b",
+  "folder": "vseZIvovion73VUQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oODVKwkWKMnixu6b"
+}

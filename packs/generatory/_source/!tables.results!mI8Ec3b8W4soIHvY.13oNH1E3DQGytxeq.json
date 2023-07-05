@@ -1,0 +1,16 @@
+{
+  "text": "Рука бури",
+  "type": 2,
+  "img": "icons/magic/death/skull-horned-white-purple.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "13oNH1E3DQGytxeq",
+  "documentId": "PblPrDZ7zsBS3bC2",
+  "flags": {},
+  "_key": "!tables.results!mI8Ec3b8W4soIHvY.13oNH1E3DQGytxeq"
+}

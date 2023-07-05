@@ -1,0 +1,16 @@
+{
+  "text": "Туман Дормина",
+  "type": 2,
+  "img": "icons/magic/air/fog-gas-smoke-blue-gray.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "idmOkvmnVI0KQ82d",
+  "documentId": "GxTxqr6jeC0NlBhE",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.idmOkvmnVI0KQ82d"
+}

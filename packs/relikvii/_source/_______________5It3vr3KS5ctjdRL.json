@@ -1,0 +1,93 @@
+{
+  "name": "Доспехи драуга",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-helmet-metal.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-dospehov.VaKmghgTXvshorg4"
+    },
+    "cf": {
+      "id": "temp_uj8iaif803"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 37,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 36,
+    "headMaxStopping": 36,
+    "torsoStopping": 36,
+    "torsoMaxStopping": 36,
+    "leftArmStopping": 36,
+    "leftArmMaxStopping": 36,
+    "rightArmStopping": 36,
+    "rightArmMaxStopping": 36,
+    "leftLegStopping": 36,
+    "leftLegMaxStopping": 36,
+    "rightLegStopping": 36,
+    "rightLegMaxStopping": 36,
+    "type": "Heavy",
+    "avail": "Everywhere",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "+25 ПЗ"
+      },
+      {
+        "id": "_45lpx1h77",
+        "name": "+2 сопр-е магии",
+        "percentage": ""
+      },
+      {
+        "id": "_tcytkbpbi",
+        "name": "Сопр-е огню",
+        "percentage": ""
+      },
+      {
+        "id": "_8zp1cegnp",
+        "name": "Сопр-е Кровотечению",
+        "percentage": ""
+      },
+      {
+        "id": "_pdja7n6r4",
+        "name": "Сопр-е яду",
+        "percentage": ""
+      },
+      {
+        "id": "_mdtqpqu8a",
+        "name": "+2 сотв-е заклинаний",
+        "percentage": ""
+      }
+    ],
+    "encumb": 3,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877955,
+    "modifiedTime": 1685496616922,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5It3vr3KS5ctjdRL",
+  "folder": "PRppF7wbRYRReD1k",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5It3vr3KS5ctjdRL"
+}

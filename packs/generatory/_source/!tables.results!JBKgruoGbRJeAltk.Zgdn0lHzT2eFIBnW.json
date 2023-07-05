@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Чертёж оружия",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "LHYC2pOz2YtuCn6c",
+  "_id": "Zgdn0lHzT2eFIBnW",
+  "flags": {},
+  "_key": "!tables.results!JBKgruoGbRJeAltk.Zgdn0lHzT2eFIBnW"
+}

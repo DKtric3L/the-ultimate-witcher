@@ -1,0 +1,16 @@
+{
+  "_id": "jCsO4hX1EfeRlY8p",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Вердэн (+1 Выживание в дикой природе)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!78lzsNtasApP4bML.jCsO4hX1EfeRlY8p"
+}

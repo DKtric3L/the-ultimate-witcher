@@ -1,0 +1,37 @@
+{
+  "name": "Болезнь: Бич Катрионы(1 стадия, день 1)",
+  "type": "effect",
+  "img": "icons/creatures/mammals/rodent-rat-diseaed-gray.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.0Ao7PguTyCCga6nj"
+    },
+    "cf": {
+      "id": "temp_8q6t0m6mw7t"
+    }
+  },
+  "system": {
+    "description": "Опасность - смертельная, риск заражения - 35%.\nВ течение нескольких часов после заражения Катрионой больной страдает от ГОЛОВНОЙ БОЛИ, ЛИХОРАДКИ и МЫШЕЧНЫХ БОЛЕЙ. Симптомы вскоре выходят из-под контроля, когда больной начинает кашлять кровью, часто теряя сознание и ДЕЗОРИЕНТИРУЯСЬ.\n\nЛЕЧЕНИЕ И ПРЕДОТВРАЩЕНИЕ РАСПРОСТРАНЕНИЯ: От Катрионы существует только одно лекарство - Эликсир Мец. Контакты с пострадавшими должны быть сведены\nк абсолютному минимуму, а после их смерти тела (и все их имущество) должны быть немедленно сожжены. Ритуал очищения не может вылечить этот недуг ни на одной стадии",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883165,
+    "modifiedTime": 1685496621771,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QOEfI7F6YDuVjkGy",
+  "folder": "IANvJaDamsUSy6LV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QOEfI7F6YDuVjkGy"
+}

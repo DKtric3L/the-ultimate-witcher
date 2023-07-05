@@ -1,0 +1,26 @@
+{
+  "_id": "4BRGwd3MKzlkl7eB",
+  "name": "Полет",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "В качестве перемещения грифон может взлететь. Грифона можно сбить, только дезориентировав или нанеся более 10 урона одной атакой. Если грифон сбит, он должен пройти проверку Атлетики со СЛ 16, или получит урон от падения, соответствующий высоте в метрах, с которой он упал."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!n11LrQjygfk21hMN.4BRGwd3MKzlkl7eB"
+}

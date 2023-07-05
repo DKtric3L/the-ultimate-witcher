@@ -1,0 +1,40 @@
+{
+  "name": "Parents: Northern",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "L8reTnv3nbQNgi0e",
+    "MWl2EoIWD33CT3oV",
+    "liefj3VOt3jFZnfH",
+    "a6YCIDdtwpoL5ytY"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.g5NAULNGDXrVJKTf"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917381,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "3dkzpZf8N1lyCpNf",
+  "_key": "!tables!3dkzpZf8N1lyCpNf"
+}

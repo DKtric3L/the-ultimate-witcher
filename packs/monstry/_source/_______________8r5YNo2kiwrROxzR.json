@@ -1,0 +1,60 @@
+{
+  "_id": "8r5YNo2kiwrROxzR",
+  "name": "Синтез Кадфана",
+  "type": "spell",
+  "img": "icons/magic/death/skull-trio-badge-purple.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.CzdBVid2imiBYknC"
+    },
+    "cf": {
+      "id": "temp_2xb521l7ywx"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ. Если не знаешь, что делать из-за этого предупреждения, не лезь сюда.\n\nСинтез Кадфана — очень сложный ритуал,\nсозданный печально известным некромантом Кадфаном из\nЭббинга перед его исчезновением. Ритуал частично\nоживляет большое количество трупов, связывая их вместе в\nединое слитое существо, которое может двигаться и\nдействовать по вашим командам. Существо, которое вы\nсоздаете, является Амальгамой трупов. Подобно голему, он\nвыполнит любое задание, данное его создателем, до буквы, но\nбольше не способен к более высокому мышлению",
+    "range": "",
+    "duration": "постоянное",
+    "defence": "",
+    "components": "10 трупов(от существ, убитых за последние 24 часа), мелок (x5), дубильные травы(x10), лунный осколок (x1), лепестки морозника (x2), царская водка (x3), Пятая эссенция (x10), свечи (x10), Вороний глаз (x5), Призрачная пыль (x5), Эссенция призрака (x5)",
+    "alternateComponents": "",
+    "preparationTime": "15 раундов",
+    "dificultyCheck": "22",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!KAhtipbo9AjyZASy.8r5YNo2kiwrROxzR"
+}

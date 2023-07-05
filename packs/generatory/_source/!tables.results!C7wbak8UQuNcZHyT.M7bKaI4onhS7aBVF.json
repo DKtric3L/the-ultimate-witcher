@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Эст-Эст",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/est_est.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "FeyioY9LY0HhvleJ",
+  "_id": "M7bKaI4onhS7aBVF",
+  "flags": {},
+  "_key": "!tables.results!C7wbak8UQuNcZHyT.M7bKaI4onhS7aBVF"
+}

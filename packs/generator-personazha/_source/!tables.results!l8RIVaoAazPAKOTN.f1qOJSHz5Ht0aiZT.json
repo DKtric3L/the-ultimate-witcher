@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    5
+  ],
+  "drawn": false,
+  "text": "ИС дракон - События в жизни",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "Nk7xscPABXk5l6mM",
+  "_id": "f1qOJSHz5Ht0aiZT",
+  "flags": {},
+  "_key": "!tables.results!l8RIVaoAazPAKOTN.f1qOJSHz5Ht0aiZT"
+}

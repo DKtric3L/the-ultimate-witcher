@@ -1,0 +1,39 @@
+{
+  "name": "Witcher Lifepath: Danger - Enemies: Are They Alive?",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "q0DM4FW7XCnFdKZu",
+    "kQX7ZeIIWKy5yTPF",
+    "oKZeEBIq2FLMNk2e"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.5SMk1LldZEW7ymdp"
+    },
+    "cf": {
+      "id": "temp_axvl3ljag6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162957153,
+    "modifiedTime": 1685496652379,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "ghKESyZyM9aHCqmD",
+  "sort": 0,
+  "_id": "tnwYpfMGVnD8BKWS",
+  "_key": "!tables!tnwYpfMGVnD8BKWS"
+}

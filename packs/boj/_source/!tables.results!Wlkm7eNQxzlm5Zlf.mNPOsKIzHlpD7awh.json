@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    25,
+    25
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "mNPOsKIzHlpD7awh",
+  "text": "Поиск укрытия, отступление к нему.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Wlkm7eNQxzlm5Zlf.mNPOsKIzHlpD7awh"
+}

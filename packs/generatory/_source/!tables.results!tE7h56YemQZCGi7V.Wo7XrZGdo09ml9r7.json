@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "Wo7XrZGdo09ml9r7",
+  "text": "За дверью - Фермер ищет свою выигрышную свинью, которая сбежала.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!tE7h56YemQZCGi7V.Wo7XrZGdo09ml9r7"
+}

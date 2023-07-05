@@ -1,0 +1,187 @@
+{
+  "name": "Стальной меч школы Грифона",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Hp0wy1guAxbyXCrt"
+    },
+    "cf": {
+      "id": "temp_it4g7ooaw5k"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.D7JQh8ccgrkRWZUC]{Стальной меч школы грифона}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укреплённое дерево"
+      },
+      {
+        "id": "_juckbkd7l",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_mdbkqmxhs",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_opd2yetrb",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_o5ivxhpag",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_8ez4pusf3",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_7y5dlrbsd",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_mps9s3sa0",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_d3jmjs0mn",
+        "name": "Яйцо грифона",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 656,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Стальной меч школы грифона",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2.5,
+        "cost": null,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 1,
+        "avail": "Rare",
+        "damage": "5d6+2",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Пробивающее броню",
+            "percentage": ""
+          },
+          {
+            "id": "_pfwq211hi",
+            "name": "Метеоритное",
+            "percentage": ""
+          },
+          {
+            "id": "_sljcywg7n",
+            "name": "Фокусирующее(1)",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_ub4c5p36xla"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887310,
+        "modifiedTime": 1668162887310,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848429,
+    "modifiedTime": 1685496579062,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TNvSUm3lDj9F8z3R",
+  "folder": "ZfwsDbS2qqWb4jdv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TNvSUm3lDj9F8z3R"
+}

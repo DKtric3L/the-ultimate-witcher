@@ -1,0 +1,56 @@
+{
+  "name": "Эльфы(Aen Seidhe)",
+  "type": "race",
+  "img": "modules/the-ultimate-witcher/assets/professions/elven.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.eWaMyHGhCiLXAfVk"
+    },
+    "cf": {
+      "id": "temp_rwe5bpoyvsp"
+    }
+  },
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Чувство прекрасного",
+      "description": "<p>+1 к искусству</p>"
+    },
+    "perk2": {
+      "name": "Стрелок",
+      "description": "<p>+2 к стрельбе, вы способны выхватывать и натягивать лук, не тратя на это действие.</p>"
+    },
+    "perk3": {
+      "name": "Единение с природой",
+      "description": "<p>Дикие животные не нападут без причины и будут относиться дружелюбно. Также вы автоматически находите субстанции-растения, если им свойственно расти на выбранной территории.</p>"
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "hated",
+      "nilfgaard": "equal",
+      "skellige": "equal",
+      "dolBlathanna": "equal",
+      "mahakam": "equal"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162873440,
+    "modifiedTime": 1685496612239,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "MM6MdyF94gvWTZsw",
+  "folder": "32GHdDmc9HcJHQ9n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!MM6MdyF94gvWTZsw"
+}

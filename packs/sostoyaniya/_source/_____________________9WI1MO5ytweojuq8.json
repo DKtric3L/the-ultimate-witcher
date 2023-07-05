@@ -1,0 +1,68 @@
+{
+  "name": "Эффект: Природный яд",
+  "type": "weapon",
+  "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wWc9OyPn5CNBNmIq"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Отравление",
+        "percentage": "25"
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9WI1MO5ytweojuq8",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9WI1MO5ytweojuq8"
+}

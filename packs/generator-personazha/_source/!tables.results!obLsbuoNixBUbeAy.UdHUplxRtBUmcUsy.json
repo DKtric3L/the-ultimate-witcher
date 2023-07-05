@@ -1,0 +1,16 @@
+{
+  "_id": "UdHUplxRtBUmcUsy",
+  "flags": {},
+  "type": 0,
+  "text": "Никакой опасности не произошло в этом десятилетии.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    50
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!obLsbuoNixBUbeAy.UdHUplxRtBUmcUsy"
+}

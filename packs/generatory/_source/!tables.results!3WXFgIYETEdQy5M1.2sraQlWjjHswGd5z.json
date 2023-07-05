@@ -1,0 +1,16 @@
+{
+  "text": "Триглав",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/triglav.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "2sraQlWjjHswGd5z",
+  "documentId": "lAx0m7tA8jYhO4bJ",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.2sraQlWjjHswGd5z"
+}

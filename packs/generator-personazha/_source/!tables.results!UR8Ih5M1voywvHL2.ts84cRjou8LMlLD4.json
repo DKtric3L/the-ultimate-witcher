@@ -1,0 +1,16 @@
+{
+  "_id": "ts84cRjou8LMlLD4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей прокляли. Выберите сами проклятие или отдайте право выбора своему мастеру.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UR8Ih5M1voywvHL2.ts84cRjou8LMlLD4"
+}

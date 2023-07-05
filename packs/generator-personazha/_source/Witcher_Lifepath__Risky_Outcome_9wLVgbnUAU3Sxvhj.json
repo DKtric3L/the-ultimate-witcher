@@ -1,0 +1,43 @@
+{
+  "name": "Witcher Lifepath: Risky Outcome",
+  "img": "icons/svg/circle.svg",
+  "description": "Roll this once for every decade after age 29 for your character.",
+  "results": [
+    "UdHUplxRtBUmcUsy",
+    "26OatJZ2irFtE5Ly",
+    "P2yeZWXSDGGrGeKW",
+    "RVpgllc0boqo3hTN",
+    "YVCSNqm0kMcDxKF3",
+    "t7agSbQuKa3YhMog",
+    "gnrDCDMdILjGyQdl"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.QePGYXnyLXGAKZgM"
+    },
+    "cf": {
+      "id": "temp_axvl3ljag6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162957159,
+    "modifiedTime": 1685496652379,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "ghKESyZyM9aHCqmD",
+  "sort": 0,
+  "_id": "9wLVgbnUAU3Sxvhj",
+  "_key": "!tables!9wLVgbnUAU3Sxvhj"
+}

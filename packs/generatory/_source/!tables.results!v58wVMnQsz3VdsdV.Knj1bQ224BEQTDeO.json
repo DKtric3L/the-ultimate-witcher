@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Болезнь: Новиградский поцелуй(1 стадия, день 1-21)",
+  "img": "icons/commodities/biological/pustules-red.webp",
+  "documentCollection": "the-ultimate-witcher.sostoyaniya",
+  "documentId": "WHDNP7unWhkK8he1",
+  "_id": "Knj1bQ224BEQTDeO",
+  "flags": {},
+  "_key": "!tables.results!v58wVMnQsz3VdsdV.Knj1bQ224BEQTDeO"
+}

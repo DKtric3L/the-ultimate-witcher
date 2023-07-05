@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    100,
+    100
+  ],
+  "drawn": false,
+  "text": "Заказ - Исключительные",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "4iNJUoQumJ4PqAVp",
+  "_id": "Pv5Zv6KQOyGhJxJE",
+  "flags": {},
+  "_key": "!tables.results!E0Ta7aleLnhEvNKG.Pv5Zv6KQOyGhJxJE"
+}

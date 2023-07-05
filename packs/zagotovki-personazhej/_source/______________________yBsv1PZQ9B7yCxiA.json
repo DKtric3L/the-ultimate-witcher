@@ -1,0 +1,46 @@
+{
+  "name": "Лепестки белого мирта",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/white_myrtle_64x64.png.6689.png",
+  "system": {
+    "description": "",
+    "quantity": "4",
+    "weight": 0.1,
+    "cost": 8,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Common",
+    "location": "Поля",
+    "quantityObtainable": "1d10",
+    "forage": "12",
+    "substanceType": "vitriol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_ziaiccs2az",
+      "color": "#af76b7"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.OFHjow75LAEfpowU"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1671035391495,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "yBsv1PZQ9B7yCxiA",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.yBsv1PZQ9B7yCxiA"
+}

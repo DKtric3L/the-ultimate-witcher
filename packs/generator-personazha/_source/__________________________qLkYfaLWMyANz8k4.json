@@ -1,0 +1,46 @@
+{
+  "name": "Мужчина - особые признаки",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "jdY6XL2MUQK30tzV",
+    "nrFSIQFths3HBOCP",
+    "585gwGBekjlTdVxq",
+    "y1qB70xoy5WqLL70",
+    "GCZ1EkRCTwI2RbFC",
+    "WNGqqDPpvF93sISm",
+    "u8CmGU4DWS4K5L57",
+    "FrUO2hx42n4coeHI",
+    "CjBE2OdYIIMpRkUh",
+    "5JxjMsC0cqd0W1Gu",
+    "5GuIzzkPJgQ24Ofj",
+    "y6xqOB7e1wa24zcA"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "qLkYfaLWMyANz8k4",
+  "_key": "!tables!qLkYfaLWMyANz8k4"
+}

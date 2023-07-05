@@ -1,0 +1,44 @@
+{
+  "name": "ИС Дракон - Характер",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "JlYiaZtIGPpoMwDj",
+    "CU8Jt0CIS7UcDX6H",
+    "Hk4pBbBL41N5EET2",
+    "TatPO7NtY7on3dja",
+    "ztr7DwD1GOD0wub6",
+    "IIEOm5oKq2vviA0k",
+    "jcf1ZyFqjLv4l7K2",
+    "gncUXS897yYRFq1o",
+    "0bZgIpgsgaHzBDvP",
+    "7ypuH6aKWfE3dk0I"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "26ym4viM2vvDxxmy",
+  "_key": "!tables!26ym4viM2vvDxxmy"
+}

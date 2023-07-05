@@ -1,0 +1,74 @@
+{
+  "name": "Алхимические составы",
+  "img": "icons/consumables/plants/basil-herb-green.webp",
+  "results": [
+    "u4RvmQR0utdArdGi",
+    "CEqyfcoAuRpdACVL",
+    "A31ReA0TqJlplVFI",
+    "tChfDBcGyVEP1mDa",
+    "uqSHbujFqbaiprU1",
+    "obQOjaEfwcAd8DEC",
+    "KfZLIeyTqiWTAebm",
+    "yDTVcrsjoQJeOQ6Z",
+    "RaiBLw2KF2SalKGG",
+    "YWLy4cHQwXb3jgtR",
+    "Oys3LinbXEXcQt0y",
+    "SLh4onDsbOGJTQI1",
+    "KET4NnackP6ymPfa",
+    "JXl7CLZCAg4xq8TV",
+    "P35dG7DKeL2XIzow",
+    "zy3xPHOsY9x0ZHAM",
+    "b7itev31KsrFsl0c",
+    "LfY3VvXFmldZV4Jr",
+    "OJlSNU5xPUbFBcxf",
+    "976qvu0YpLhm5MBe",
+    "NjJHJrzA47sH93oC",
+    "1cu9E1QavaSfbPFs",
+    "jQatYAqhDxTaTgcm",
+    "KNac272sSwqE5CgD",
+    "AANKLziOUDH6tsCz",
+    "yhGdIbVdDfCjXg2L",
+    "dYEPKkRUVHmPyJC5",
+    "nhp9xWorziK2v77y",
+    "3GwhO1xYEtgpXSOF",
+    "Lj1j8o79DMcGzZsh",
+    "vj9N8ZYtteY2dYOl",
+    "MZpSuKFs4KBzGwL8",
+    "gvTHZB0A4XxiAXVH",
+    "JJJbv0zc9M5ZGMoH",
+    "9LFLTjqI78jnMXOk",
+    "3m0sgaGcHofPcdUx",
+    "DavnwbQU4OXTKiVZ",
+    "CaA5yDcuf6Hpe1gY",
+    "lqqBqOkwu9S1Ob0Z",
+    "SPwvSEMB0fFApKhy"
+  ],
+  "formula": "1d40",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.qBAEt55laJW4u63R"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932890,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "W8cXwwH5s7CwRPIx",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!W8cXwwH5s7CwRPIx"
+}

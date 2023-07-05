@@ -1,0 +1,16 @@
+{
+  "_id": "tfUjaxwfTwqW98vG",
+  "flags": {},
+  "type": 0,
+  "text": "Кто ваш союзник - Жрец или жрица",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZUBkUvcUatZgopy5.tfUjaxwfTwqW98vG"
+}

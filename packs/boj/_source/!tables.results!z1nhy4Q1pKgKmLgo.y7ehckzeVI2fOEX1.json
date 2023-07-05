@@ -1,0 +1,16 @@
+{
+  "_id": "y7ehckzeVI2fOEX1",
+  "type": 2,
+  "text": "Место попадания по гуманоиду",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "tUubEoDQPTPIis9g",
+  "_key": "!tables.results!z1nhy4Q1pKgKmLgo.y7ehckzeVI2fOEX1"
+}

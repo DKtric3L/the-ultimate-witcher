@@ -1,0 +1,16 @@
+{
+  "text": "Записи о персонажах игроков",
+  "type": 2,
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "ybz224bz8uqn2p88",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "LiPUtnOWSqwMlFAn",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.ybz224bz8uqn2p88"
+}

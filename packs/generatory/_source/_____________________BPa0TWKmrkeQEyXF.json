@@ -1,0 +1,37 @@
+{
+  "name": "Модификации арбалета",
+  "img": "icons/sundries/documents/blueprint-anchor.webp",
+  "results": [
+    "dkwndGy4uXhRysBd",
+    "ugZjmAsSBXS6mqu7",
+    "7DWZ4dfLPGiBurpl"
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.11MD83XdTcRb1tVg"
+    },
+    "cf": {
+      "id": "temp_c7t3jk2q5hm"
+    }
+  },
+  "description": "Если нужно, поставь замок на том, что не хочешь разыгрывать.",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932909,
+    "modifiedTime": 1685496644377,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BPa0TWKmrkeQEyXF",
+  "folder": "6P29UjutkIAiKpOL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!BPa0TWKmrkeQEyXF"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Потайной карман",
+  "type": "valuable",
+  "img": "icons/containers/bags/coinpouch-simple-leather-tan.webp",
+  "system": {
+    "description": "Такой небольшой кармашек, вшиваемый с изнанки одежды, вмещает 5 кг маленьких предметов (проверка Внимания со СЛ 16 для обнаружения).",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 13,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_r3stwb3cdz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.gXeafPvzCWKZmePM"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663424671515,
+    "modifiedTime": 1670417070040,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "EUGZ0pEKeOkDalIf",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!tXSRAIVui3uC4sEh.EUGZ0pEKeOkDalIf"
+}

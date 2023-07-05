@@ -1,0 +1,37 @@
+{
+  "name": "Болезнь: Чахотка(3 стадия, день 31+)",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.5nkdQIVi0ATQclET"
+    },
+    "cf": {
+      "id": "temp_7y1wsf4jzmn"
+    }
+  },
+  "system": {
+    "description": "Опасность - высокая, риск заражения - 65%. Диагноз: Первая помощь СЛ18 | Лечащее прикосновение СЛ15.\nУ больного начинается ОДЫШКА, поскольку болезнь поражает легкие. Выполнение легкой физической активности требует проверки Устойчивости. При провале больной не умирает, но страдает от удушья в течении 1d6 раундов. Стандартные правила применяются для смертельного исхода от этого состояния.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883166,
+    "modifiedTime": 1685496621758,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "FE1IR9wsgS3Jf7YP",
+  "folder": "aql65wChKZ3qmDGb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!FE1IR9wsgS3Jf7YP"
+}

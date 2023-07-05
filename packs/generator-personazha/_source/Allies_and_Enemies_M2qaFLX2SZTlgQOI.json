@@ -1,0 +1,37 @@
+{
+  "name": "Allies and Enemies",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "JQmqgYHhLo9rqERr",
+    "cUNRbBflCqmrkzp7"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.eOacMynNDvHOojIe"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668288155736,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "M2qaFLX2SZTlgQOI",
+  "_key": "!tables!M2qaFLX2SZTlgQOI"
+}

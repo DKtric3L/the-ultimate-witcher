@@ -1,0 +1,16 @@
+{
+  "_id": "3y2qPJq6NvWtk34M",
+  "type": 0,
+  "text": "Соперник. Своими действиями вы сделали соперником другого члена школы. Сделайте бросок по таблице Обиды, но они должны быть обиженной стороной.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!JBnDSizeUxxgXQ2a.3y2qPJq6NvWtk34M"
+}

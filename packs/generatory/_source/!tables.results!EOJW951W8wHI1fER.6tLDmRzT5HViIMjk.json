@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Ртутный раствор",
+  "img": "systems/TheWitcherTRPG/assets/images/aether.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "V4hEaPqjB1oSMlNf",
+  "_id": "6tLDmRzT5HViIMjk",
+  "flags": {},
+  "_key": "!tables.results!EOJW951W8wHI1fER.6tLDmRzT5HViIMjk"
+}

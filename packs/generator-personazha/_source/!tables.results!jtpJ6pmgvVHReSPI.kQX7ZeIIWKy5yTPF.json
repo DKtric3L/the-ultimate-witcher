@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли испытания - Приемлемые мутации(Без модификаторов). Испытание травами прошло успешно. Вы стали ведьмаком без тяжёлых последствий, если не считать воспоминаний об ужасной боли.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!jtpJ6pmgvVHReSPI.kQX7ZeIIWKy5yTPF"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Эффект - Штормовой ветер",
+  "type": "effect",
+  "img": "icons/magic/air/wind-tornado-cyclone-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Сильный ветер, тяжело на ногах устоять, что уж говорить про остальное.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_4i0u16btj",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-2"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883178,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hv0dhcOJjYlcHKQP",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hv0dhcOJjYlcHKQP"
+}

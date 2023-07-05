@@ -1,0 +1,57 @@
+{
+  "name": "Полиморфизм",
+  "type": "spell",
+  "img": "icons/creatures/amphibians/bullfrog-glowing-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ay4624k8l6q"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "earth",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Полиморфизм позволяет принять облик змеи, кошки, птицы или собаки. Находясь в облике животного, заклинатель имеет физические параметры этого животного (см. Бестиарий). Любые предметы, которые заклинатель имеет при себе, трансформируются вместе с ним. Для возвращения в прежний облик нужно снова сотворить это заклинание.",
+    "range": "на себя",
+    "duration": "До повторного заклинания",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496638102,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DniFo8UjEjwBwwo6",
+  "folder": "aPtAcy2MErYLuZbi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DniFo8UjEjwBwwo6"
+}

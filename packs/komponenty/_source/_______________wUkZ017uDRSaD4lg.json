@@ -1,0 +1,44 @@
+{
+  "name": "Слюна Котолака",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_monstrous_64x64.png.6939.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_79u2kp2qn4d"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.aOsYtFlQ0nk3i32A"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 90,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Волколаки",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "sol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853705,
+    "modifiedTime": 1685496584269,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "wZNnZXg87AFfT9W9",
+  "sort": 0,
+  "_id": "wUkZ017uDRSaD4lg",
+  "_key": "!items!wUkZ017uDRSaD4lg"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    30
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "1uf8HpjP9y9q227r",
+  "text": "Цель - Самая ближайшая(Если их несколько - жеребьёвка)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!nowTZyYNAOpvTX5B.1uf8HpjP9y9q227r"
+}

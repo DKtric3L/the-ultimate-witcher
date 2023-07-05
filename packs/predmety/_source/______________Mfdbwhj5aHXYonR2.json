@@ -1,0 +1,43 @@
+{
+  "name": "Трофей тролля",
+  "type": "valuable",
+  "img": "icons/commodities/bones/skull-feline-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.9LasqMscA9SRNCOE"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "system": {
+    "description": "Чтобы опьянеть, требуется в два раза больше алкоголя, и у вас никогда не будет похмелья.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1685496603299,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Mfdbwhj5aHXYonR2",
+  "folder": "aNWkZufhkhuFhdgA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Mfdbwhj5aHXYonR2"
+}

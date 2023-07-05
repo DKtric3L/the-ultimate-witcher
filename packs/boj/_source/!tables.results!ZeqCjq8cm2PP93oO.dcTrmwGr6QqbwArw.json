@@ -1,0 +1,16 @@
+{
+  "_id": "dcTrmwGr6QqbwArw",
+  "flags": {},
+  "type": 0,
+  "text": "Треснувшие рёбра - От удара у персонажа треснули рёбра, отчего ему больно дышать и напрягаться. -2 к тел, не влияет на ПЗ. После стабилизации - Штраф -1 к тел, После лечения -10 к переносимому весу.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZeqCjq8cm2PP93oO.dcTrmwGr6QqbwArw"
+}

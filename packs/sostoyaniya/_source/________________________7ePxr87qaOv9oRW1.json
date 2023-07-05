@@ -1,0 +1,51 @@
+{
+  "name": "Небольшая травма головы",
+  "type": "effect",
+  "img": "icons/skills/wounds/injury-face-impact-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0okd4sumrx3o"
+    }
+  },
+  "system": {
+    "description": "От удара у вашего персонажа сотрясение мозга и небольшое внутреннее кровотечение, отчего он с трудом соображает.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "-1"
+      },
+      {
+        "id": "_to5zb2jvd",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [
+      {
+        "id": "first",
+        "derivedStat": "WITCHER.Actor.CoreStat.Stun",
+        "modifier": "-1"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883169,
+    "modifiedTime": 1685496621814,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7ePxr87qaOv9oRW1",
+  "folder": "popcTSR0VPsBTxwV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7ePxr87qaOv9oRW1"
+}

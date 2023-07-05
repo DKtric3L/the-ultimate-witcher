@@ -1,0 +1,90 @@
+{
+  "name": "Сильная жажда",
+  "type": "effect",
+  "img": "icons/consumables/drinks/wine-amphora-clay-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.EDSoZQhaKtlwQVJr"
+    },
+    "cf": {
+      "id": "temp_xq906tikww"
+    }
+  },
+  "system": {
+    "description": "Язык липнет к небу, словно туда клея налили, в глазах пелена, а тело стало ватным. Это уже не смешно, хочется пить, ты уже из лужи готов хлестать!",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "/2"
+      },
+      {
+        "id": "_u8alrrb87",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "/2"
+      },
+      {
+        "id": "_6285dibul",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "/2"
+      },
+      {
+        "id": "_m26kye6w4",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "/2"
+      },
+      {
+        "id": "_vq4z5vqup",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "/2"
+      },
+      {
+        "id": "_t4q1hkjiv",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "/2"
+      },
+      {
+        "id": "_yahhnm5e7",
+        "stat": "WITCHER.Actor.Stat.Cra",
+        "modifier": "/2"
+      },
+      {
+        "id": "_8uf6uj2ps",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "/2"
+      }
+    ],
+    "derived": [
+      {
+        "id": "first",
+        "derivedStat": "WITCHER.Actor.CoreStat.woundTreshold",
+        "modifier": "/2"
+      }
+    ],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "",
+        "modifier": 0
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621661,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "y3T7akS2b2qcGlbY",
+  "folder": "1H4Dkaei03yMUCuF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!y3T7akS2b2qcGlbY"
+}

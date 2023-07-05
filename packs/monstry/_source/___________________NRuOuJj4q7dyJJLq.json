@@ -1,0 +1,26 @@
+{
+  "_id": "NRuOuJj4q7dyJJLq",
+  "name": "Проглотить целиком",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Риггер может использовать действие атаки, чтобы проглотить цель целиком. Успешно схваченный противник автоматически считается обездвиженным и получает удушье в следующем раунде, он также получает 1 разрушающий урон всей броне и оружию (более хрупкие предметы могут быть уничтожены). Побег возможен с помощью проверки Борьбы против показателя проверки захвата риггера со СЛ+2. Если риггер получает более 15 единиц урона от одного удара, его немедленно тошнит всем, что он успел проглотить."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!wEgOfrhMmIYiFlrn.NRuOuJj4q7dyJJLq"
+}

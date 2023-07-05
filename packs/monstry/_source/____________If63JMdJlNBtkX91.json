@@ -1,0 +1,60 @@
+{
+  "_id": "If63JMdJlNBtkX91",
+  "name": "Живой огонь",
+  "type": "spell",
+  "img": "icons/magic/fire/flame-burning-tree-stump.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wcrqgntympb"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.9jkAeGajJGHa3Nuw"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Живой огонь позволяет вам призвать небольшое количество жизни в огонь. Хотя этот живой огонь не такой разумный и могущественный, как элементаль огня, он может совершать ходы по вашей инициативе. Живой огонь имеет показатель скорости 5, считается бестелесным и может использовать Энье, Волну огня и Пылающий вихрь с основой Сотворения заклинаний 16 и бесконечной Вын. Живой огонь не может совершать дополнительные действия и уничтожается, если огонь потушен",
+    "range": "10м",
+    "duration": "10 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.If63JMdJlNBtkX91"
+}

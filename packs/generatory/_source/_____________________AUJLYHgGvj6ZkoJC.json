@@ -1,0 +1,45 @@
+{
+  "name": "Чертеж - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "kBp4Xi1wUoKGQRVh",
+    "fGXpkkVZeaeF8Geo",
+    "STTUqJJ2RVwqGeRP",
+    "S6EiN5D9e8lRSmuz",
+    "Lx4ZsUW2b9EmLh4Z",
+    "3h37rkdfJzydUjKU",
+    "SUvpujXvb7uEma0A"
+  ],
+  "formula": "1d7",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0b5205fbbadbb2497f3f51a0d129b7c34037e993",
+      "sourceId": "RollTable.PY0wdQrccHslGPa4"
+    },
+    "core": {
+      "sourceId": "RollTable.PY0wdQrccHslGPa4"
+    },
+    "cf": {
+      "id": "temp_ic223j20e"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672828019837,
+    "modifiedTime": 1685496644393,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "qf6PR5ZRji9tzZjs",
+  "sort": 0,
+  "_id": "AUJLYHgGvj6ZkoJC",
+  "_key": "!tables!AUJLYHgGvj6ZkoJC"
+}

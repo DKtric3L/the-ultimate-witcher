@@ -1,0 +1,37 @@
+{
+  "name": "Эффект трофея - Леший",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/trophy/leshii.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lZTRxOAm7FAy4aI5"
+    },
+    "cf": {
+      "id": "temp_mgri5lboda"
+    }
+  },
+  "system": {
+    "description": "Животные и звери могут понять вас, когда вы говорите, и вы можете вступить с ними в словесную дуэль, чтобы заставить их подчиняться вам. В любом случае животное или зверь никогда не сделает для вас то, чего не сделал бы сам (например, прыгнул со скалы).",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883180,
+    "modifiedTime": 1685496622016,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Ky46M65Avjbz7kKv",
+  "folder": "Ny5twfeEX4VEIr47",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Ky46M65Avjbz7kKv"
+}

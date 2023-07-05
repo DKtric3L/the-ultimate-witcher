@@ -1,0 +1,57 @@
+{
+  "name": "Потоп Ис",
+  "type": "spell",
+  "img": "icons/magic/nature/root-vines-silhouette-teal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_nmw89gwa8c"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "24",
+    "staminaIsVar": false,
+    "effect": "Потоп Ис позволяет вам призвать 20-метровый куб\nводы, который разливается во всех направлениях. Любой,\nпопавший в эту область, получает 5к6 повреждений\nтуловища и должен пройти проверку Силы с Сл:24, иначе\nбудет сбит с ног, когда вода ударит их. Если использовать\nзаклинание на открытой местности, вода будет выливаться\nнаружу в течение того же хода, в котором оно было\nприменено. При применении в замкнутом пространстве вода\nзаполняет пространство, разрушая любые неукрепленные\nбарьеры, и оставляет область полностью затопленной.",
+    "range": "40м",
+    "duration": "мгновенная",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "20",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сбит с ног"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638173,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vNcVkkFXkbIvwD5v",
+  "folder": "mb94aj9wcpO0oNvy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vNcVkkFXkbIvwD5v"
+}

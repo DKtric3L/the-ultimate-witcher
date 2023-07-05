@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    47,
+    47
+  ],
+  "drawn": false,
+  "text": "Шулерские кости",
+  "img": "icons/sundries/gaming/dice-runed-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "1JPQpkBdSNxylXgw",
+  "_id": "qNYJ1lmrvRlaKP2r",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.qNYJ1lmrvRlaKP2r"
+}

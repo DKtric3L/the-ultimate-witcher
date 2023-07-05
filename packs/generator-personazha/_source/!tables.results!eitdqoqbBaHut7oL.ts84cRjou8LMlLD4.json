@@ -1,0 +1,16 @@
+{
+  "_id": "ts84cRjou8LMlLD4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: По какой-то причине вашу семью ненавидят в родном городе, и никто не хочет иметь дела с вашей семьей.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!eitdqoqbBaHut7oL.ts84cRjou8LMlLD4"
+}

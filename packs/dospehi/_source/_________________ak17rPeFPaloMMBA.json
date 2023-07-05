@@ -1,0 +1,63 @@
+{
+  "name": "Махакамские латы",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-steel-black.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi-starshego-naroda.TAAv9uXc7GrlfGuV"
+    },
+    "cf": {
+      "id": "temp_njuve1krma"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 30,
+    "cost": 3525,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 30,
+    "headMaxStopping": 30,
+    "torsoStopping": 30,
+    "torsoMaxStopping": 30,
+    "leftArmStopping": 30,
+    "leftArmMaxStopping": 30,
+    "rightArmStopping": 30,
+    "rightArmMaxStopping": 30,
+    "leftLegStopping": 30,
+    "leftLegMaxStopping": 30,
+    "rightLegStopping": 30,
+    "rightLegMaxStopping": 30,
+    "type": "Light",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 2,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": true,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837867,
+    "modifiedTime": 1685496574746,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ak17rPeFPaloMMBA",
+  "folder": "l7EsfQL6fGwe66qi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ak17rPeFPaloMMBA"
+}

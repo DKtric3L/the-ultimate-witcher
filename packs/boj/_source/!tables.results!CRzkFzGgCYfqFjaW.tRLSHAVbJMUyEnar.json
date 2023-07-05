@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "tRLSHAVbJMUyEnar",
+  "text": "Левая нога, Штраф -3, урон 1/2х",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!CRzkFzGgCYfqFjaW.tRLSHAVbJMUyEnar"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Оккультные предметы",
+  "img": "icons/commodities/biological/hand-gnarled-purple.webp",
+  "results": [
+    "awjtmsge6jntl0fg",
+    "4r85fv1hbypszs6k",
+    "1wgg1ipqo2bzar5q",
+    "g2dxh7aupsgj0lim",
+    "ybz224bz8uqn2p88",
+    "v1i674z7ybq0h8fe",
+    "faxx4ugjq8hr2sch",
+    "lnf04y9powce5b5b",
+    "j2kw8yr8gjlyi20d",
+    "9kkxq6v7xkefwzzi",
+    "38mmb04rz2r8dgei",
+    "dkwowrqoyqoq97i4",
+    "jtdy14pv8hvqwlyx",
+    "duneawcm61pm2wzk",
+    "y4ahu7xc89g9c889",
+    "k4yli97vbnewtzf6",
+    "0sepwgfdotnjmk66",
+    "n87yd0ncevsqwpe3",
+    "4vwi5zyyckb8zsvm",
+    "4w7qydfc3ov9fjub",
+    "xddal2oun3csg8n8",
+    "0gph5vv8ite543ee",
+    "e7u2eyo3zlnfth42",
+    "ty44nu3gy45madlc",
+    "w2744x7e2prb1ncr",
+    "8ilj9zcjfcr7z5de",
+    "a5c3vqwguo5hrcy6",
+    "awgqz2u5bvnja0de",
+    "ykv9aq5sxsceoxor",
+    "iozqjvyg66bfd3gk",
+    "vduxe1284im2m0jj",
+    "d4exkdhxaftoo6i5",
+    "9387uwep92aerhhs",
+    "76nm3tg6avlkg638",
+    "7ohc99ms0cemuckg",
+    "cplamw5gd6ktpnbd",
+    "j0chc8m6g8hn0v1r",
+    "z5wre24topo83dyg",
+    "dfse6bby059uafwc",
+    "7trpf4ihz8oq3uev"
+  ],
+  "formula": "1d40",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.VlGNIZpt2elf0BGH"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932912,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RY5vLhRQ3cUTYUa7",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!RY5vLhRQ3cUTYUa7"
+}

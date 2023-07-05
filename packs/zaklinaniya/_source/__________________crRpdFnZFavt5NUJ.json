@@ -1,0 +1,57 @@
+{
+  "name": "Сотворение голема",
+  "type": "spell",
+  "img": "icons/magic/earth/strike-fist-stone-gray.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_jng7v7c6yv"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Позволяет создать простого голема, который будет служить заклинателю до своей смерти. Полученный голем во всём подчиняется воле заклинателя, но не может думать и выполнять точные действия, требующие использования пальцев или поднятия небольших предметов. Голем исполняет последний отданный ему приказ. При провале он будет повторять попытки до тех пор, пока не достигнет успеха или пока ему не прикажут остановиться. Если приказ бессрочный («носи воду»), голем будет выполнять его до тех пор, пока ему не прикажут остановиться или пока он не умрёт.",
+    "range": "",
+    "duration": "постоянный",
+    "defence": "",
+    "components": "камень(х10), мелок(х2), совершенный самоцвет(xl), укреплённое дерево(х10), дымная пыль(х5), пятая эссенция(х2)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "20",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496637493,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "crRpdFnZFavt5NUJ",
+  "folder": "LEQUCMjLSMjWdmGB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!crRpdFnZFavt5NUJ"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Тьма смерти",
+  "type": "spell",
+  "img": "icons/magic/unholy/silhouette-robe-evil-glow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.kOrKn5zXxivSFb0m"
+    },
+    "cf": {
+      "id": "temp_emoosop9os6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d6\nНа время действия заклинания вы можете видеть в полной темноте без штрафов, но при дневном свете на все действия налагается штраф -3",
+    "range": "на себя",
+    "duration": "1d6/2 часов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6/2",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Ночное зрение(Часов)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496638691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "24LKhTZ9ugozjLKT",
+  "folder": "pBF6Toru9LWVq3ep",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!24LKhTZ9ugozjLKT"
+}

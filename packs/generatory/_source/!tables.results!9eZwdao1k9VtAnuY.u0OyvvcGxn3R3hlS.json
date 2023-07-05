@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "u0OyvvcGxn3R3hlS",
+  "text": "Зачистка территории от стайных монстров или группы разбойников. Оплата по стандарту.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.u0OyvvcGxn3R3hlS"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Алкагест",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/alkagest.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_9bempw9mh8g",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.fXTieldKnAc1Tmsg"
+    }
+  },
+  "system": {
+    "description": "Есть спиртные напитки, а есть чистый спирт. Алкагест — по сути, чистый спирт для алхимии. Краснолюда с одного глотка вынесет напрочь, а уж если выжрать целую бутылку, то траванёшься точно.\nПри употреблении бутылки алкагеста персонаж получает отравление и опьянение. Для избавления от этих эффектов требуется проверка Стойкости со СЛ 16, но даже при успехе опьянение сохраняется количество часов, равное (12-Тел) вашего персонажа. Опьянение можно снять слезами жён.\n\nПройди проверку со сл. 16, при провале становишься зависим от алкоголя(не только алкагеста).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 25,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868970,
+    "modifiedTime": 1685496603795,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "77iecT5JztnnrFmC",
+  "folder": "Wl7XwqKi0AbU85lU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!77iecT5JztnnrFmC"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "HRQCRCNtACQ79gS7",
+  "type": 2,
+  "text": "Ритуалы - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    6,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "7kW39E9A500MUXsS",
+  "_key": "!tables.results!QQRrBSpygMunqWe0.HRQCRCNtACQ79gS7"
+}

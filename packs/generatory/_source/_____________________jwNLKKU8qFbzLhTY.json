@@ -1,0 +1,45 @@
+{
+  "name": "Подмастерье - Воздух",
+  "description": "A random table created from the contents of the Воздух Folder.",
+  "results": [
+    "R4VmWm5D4U4vZZ6y",
+    "ppz2wVQxeIpX8nUl",
+    "0fZb8w4AdWSMqmOa",
+    "R5dCKTWXVqUEEIPR",
+    "n02M2hOsBVrC6F7x",
+    "9COZSMOZNG9YjOTZ",
+    "rb9KGaiQm9nwAwX5"
+  ],
+  "formula": "1d7",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "497c518c5a70ffa5aeff6c26cd63497664bfc39f",
+      "sourceId": "RollTable.ongZBFY5wvwtYY5b"
+    },
+    "core": {
+      "sourceId": "RollTable.ongZBFY5wvwtYY5b"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593594503,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "jwNLKKU8qFbzLhTY",
+  "_key": "!tables!jwNLKKU8qFbzLhTY"
+}

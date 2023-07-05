@@ -1,0 +1,187 @@
+{
+  "name": "Стальной меч школы кота",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.yphzpC0R3k6NLM1X"
+    },
+    "cf": {
+      "id": "temp_eejrxmr7tpm"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.FHhh72xYLHhEzH7X]{Стальной меч школы кота}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укреплённое дерево"
+      },
+      {
+        "id": "_fzb200mpb",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_salofmja0",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_zmljgqkzd",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_hw3mk4pmx",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_cp74v9k4l",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_q9tbncpul",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_sciy5x38z",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_jku39tfvt",
+        "name": "Глаза виверны",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 656,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Стальной меч школы кота",
+      "type": "weapon",
+      "img": "icons/weapons/swords/greatsword-crossguard-barbed.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1.5,
+        "cost": null,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 2,
+        "avail": "Rare",
+        "damage": "4d6+2",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Пробивающее броню",
+            "percentage": ""
+          },
+          {
+            "id": "_4fa7fdq92",
+            "name": "Кровопускающее",
+            "percentage": "30"
+          },
+          {
+            "id": "_ykumjodpt",
+            "name": "Метеоритное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_ub4c5p36xla"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887310,
+        "modifiedTime": 1668162887310,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848429,
+    "modifiedTime": 1685496578946,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5oO8Nzt19NbIp6hf",
+  "folder": "JeCUXNH29x3KI0jS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5oO8Nzt19NbIp6hf"
+}

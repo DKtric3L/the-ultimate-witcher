@@ -1,0 +1,16 @@
+{
+  "text": "Миниатюрный стол битвы",
+  "type": 2,
+  "img": "icons/commodities/wood/wood-wheel-brown.webp",
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "_id": "wtzlq0hnh5gcur3g",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "N5nPWLNAVVyUYzcW",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.wtzlq0hnh5gcur3g"
+}

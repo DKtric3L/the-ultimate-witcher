@@ -1,0 +1,44 @@
+{
+  "name": "Экстракты Трав",
+  "type": "component",
+  "img": "icons/commodities/materials/powder-red-green-yellow.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "rarity": "Rare",
+    "location": "Создаётся",
+    "quantityObtainable": "",
+    "forage": "18",
+    "substanceType": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.bEfNWPI65pgoDm5M"
+    },
+    "cf": {
+      "id": "temp_5fs5k8llj4f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670748159435,
+    "modifiedTime": 1685496639186,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "MoEHlU2BhTZKp1h3",
+  "sort": 0,
+  "_id": "LkopEUPa2AVel5Ek",
+  "_key": "!items!LkopEUPa2AVel5Ek"
+}

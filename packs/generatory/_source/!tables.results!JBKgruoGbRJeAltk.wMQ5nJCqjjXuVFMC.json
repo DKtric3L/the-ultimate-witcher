@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Усиления брони",
+  "img": "icons/sundries/documents/blueprint-shield.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "aMwMh2HTKIG87rg0",
+  "_id": "wMQ5nJCqjjXuVFMC",
+  "flags": {},
+  "_key": "!tables.results!JBKgruoGbRJeAltk.wMQ5nJCqjjXuVFMC"
+}

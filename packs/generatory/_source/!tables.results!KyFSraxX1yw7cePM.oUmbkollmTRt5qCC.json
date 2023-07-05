@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Экимма",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Katakan_Bartlomiej_Gawel.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "IbTqnt35asA7BeVt",
+  "_id": "oUmbkollmTRt5qCC",
+  "flags": {},
+  "_key": "!tables.results!KyFSraxX1yw7cePM.oUmbkollmTRt5qCC"
+}

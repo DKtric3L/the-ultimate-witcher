@@ -1,0 +1,42 @@
+{
+  "name": "Клыки Высшего вампира",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tooth_endriag_64x64.dds_.6947.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_7waal2pnsr2",
+      "color": "#ff0000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 250,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Высшие вампиры",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1685496584304,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ZTMXg8Fqdd2voubL",
+  "folder": "yikOWioIDUj6aZ72",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ZTMXg8Fqdd2voubL"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Псионический удар",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-slit-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.EEjnbqani48ryIFw"
+    },
+    "cf": {
+      "id": "temp_ox1dmapord"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "Вы создаете псионический удар, исходящий из вашего разума, повреждающий разум других людей. Вы можете распределить 10d6 психического урона, не поглощаемого броней, между каждым существом на расстоянии до 10 м от вас (минимум по 1d6 каждому). У существа, ПЗ которого из-за этого заклинания опускается до 0, взрывается голова.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "10d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Психический урон"
+      },
+      {
+        "id": "_5qj7av7m1",
+        "name": "Не снижается броней",
+        "percentage": ""
+      },
+      {
+        "id": "_zdgr58zvu",
+        "name": "Можно распределить между разными целями минимум по 1d6 урона.",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496638904,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QMSZClr3CdO0n4Y6",
+  "folder": "FompVpMZkGLpN1Nf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QMSZClr3CdO0n4Y6"
+}

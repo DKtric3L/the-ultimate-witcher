@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "doJoHWxCsQSSFumQ",
+  "text": "Старый - Этому дракону более 100 000 лет, и в его жизни было 4 крупных события. Он может вложить 20 очков в освоенные навыки. Его сокровища стоят 25 000 крон.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!l8RIVaoAazPAKOTN.doJoHWxCsQSSFumQ"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Странные предметы",
+  "img": "icons/commodities/biological/shell-snail.brown.webp",
+  "description": "",
+  "results": [
+    "lhM4Qsl6O1DADXRG",
+    "5VaGegzkvLTY8dZN",
+    "pKgUxyAT3JZUF0iT",
+    "KIZdniZwYEtLIhhd",
+    "PWoPqGPm2ij7c49G",
+    "Z3kHzz2FULaXPfgI",
+    "f3VCOpcdQwlwgT9q",
+    "jPqrd2XkAJzDn3nN",
+    "sku4F6iwhuoPlYqN",
+    "qdyda4FKKWMLixYl",
+    "JVOzEzlwuWgJeAIO",
+    "uvaEOLJq3uxbgM2u",
+    "smW46QR6yx5WoEG1",
+    "CQ2pwECltgqhH2hp",
+    "2fZZBgvegONgqSdw",
+    "CaafJg2XM2JfFqTe",
+    "DHRoEJcutHi2iVfJ",
+    "gAO7JFFMLFmt8krP",
+    "g98UD3hidOWPJjMH",
+    "PiGx3ZLxZZtLQtix",
+    "bCMjr7yoDLQV3mh5",
+    "Eu2RdxDN72RcOQMI",
+    "pg99t4vK0dMbrz1F",
+    "pqztJMZkivXEjvdH",
+    "Lh8ypPgCDFTgaRIt",
+    "CqcsVWDr64UvPV1A",
+    "YXmmKqbFKMo6GOfV",
+    "DmemldeKjfruNoxj",
+    "jSiMfFh5kawpHQ4x",
+    "jziOWHkiJkHB3Kju",
+    "WUJR8bRimPYNDqTJ",
+    "HrwXlqUCpUMIrL3J",
+    "NUWX6W3Sy0VAWiOL",
+    "Z0S6fAfn7EaFT27I",
+    "b44mIgQRkA1SYFKb",
+    "fbZW23AxcKKdLDfN",
+    "n0hwY3wszdBSZgGW"
+  ],
+  "formula": "1d37",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.YcFGM3dGzLB8jKrM"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932923,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "L3ZszuwuHI9D8Ond",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!L3ZszuwuHI9D8Ond"
+}

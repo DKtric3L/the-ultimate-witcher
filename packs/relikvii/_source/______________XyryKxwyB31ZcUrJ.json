@@ -1,0 +1,43 @@
+{
+  "name": "Кукла Кухарки",
+  "type": "valuable",
+  "img": "icons/equipment/neck/necklace-carved-bone-skull.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.fJ7ZEvOOW061JK00"
+    },
+    "cf": {
+      "id": "temp_2vzp4o52vxp"
+    }
+  },
+  "system": {
+    "description": "Фокус(2), +2 сотворение заклинаний, использований за сессию - 2. Потратив час и сосредоточишись на человеке, вы можете причинить ему боль или прошептать что-то через куклу. Это не может ранить или убить, но может повлиять на действия цели.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "clothing",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877955,
+    "modifiedTime": 1685496616914,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XyryKxwyB31ZcUrJ",
+  "folder": "vnVc4zbuh56yjRrm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!XyryKxwyB31ZcUrJ"
+}

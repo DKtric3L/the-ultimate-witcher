@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Скелет",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Kaedven_ghost_Manuel_Castanon.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "8NKoAXcntHvuwXUQ",
+  "_id": "kTZBNBJc7JpGawcQ",
+  "flags": {},
+  "_key": "!tables.results!Xqc5niSQ2i4iC98E.kTZBNBJc7JpGawcQ"
+}

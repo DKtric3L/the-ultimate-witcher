@@ -1,0 +1,16 @@
+{
+  "text": "Угольная дверь",
+  "type": 2,
+  "img": "icons/magic/unholy/hand-claw-glow-orange.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "Hx9aFzlhC5jrraYw",
+  "documentId": "GTe28RDVSc8UTIra",
+  "flags": {},
+  "_key": "!tables.results!iYD2we7cDsTiRycD.Hx9aFzlhC5jrraYw"
+}

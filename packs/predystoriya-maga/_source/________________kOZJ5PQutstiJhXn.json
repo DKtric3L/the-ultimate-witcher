@@ -1,0 +1,33 @@
+{
+  "name": "Раса и пол мага",
+  "img": "icons/magic/control/buff-flight-wings-runes-red.webp",
+  "results": [
+    "7ECvmLy1xL5mjK3B",
+    "9UKnHVAiKgMmt45g"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.K33hftJnZCW3ACKb"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668163135926,
+    "modifiedTime": 1668163203659,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_id": "kOZJ5PQutstiJhXn",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!kOZJ5PQutstiJhXn"
+}

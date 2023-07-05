@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    56,
+    65
+  ],
+  "drawn": false,
+  "text": "Заказ - Инсектоиды",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "7FfA6yXogtdQ3b2z",
+  "_id": "v5BELOcim4OMW0cm",
+  "flags": {},
+  "_key": "!tables.results!8agTRt5Fn18mmyex.v5BELOcim4OMW0cm"
+}

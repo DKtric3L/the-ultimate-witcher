@@ -1,0 +1,87 @@
+{
+  "_id": "HyRuryFwcItJZPbr",
+  "name": "Снежная буря",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-ornate-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_158empsijjm"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.jWy2338i7Vopemjl"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 2,
+    "avail": "Rare",
+    "damage": "4d6",
+    "reliable": 20,
+    "maxReliability": 20,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длинное",
+        "percentage": ""
+      },
+      {
+        "id": "_smathk5re",
+        "name": "Фокус(5)",
+        "percentage": ""
+      },
+      {
+        "id": "_sck15jwjf",
+        "name": "Ул. Фокус",
+        "percentage": ""
+      },
+      {
+        "id": "_r2qoa0k4n",
+        "name": "Метеоритное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 3,
+    "enhancementItems": [
+      {},
+      {},
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Staff/Spear",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!HBsFnwKNGylLr5Fa.HyRuryFwcItJZPbr"
+}

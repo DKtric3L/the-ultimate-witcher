@@ -1,0 +1,38 @@
+{
+  "name": "Тяжелый крит - Торс",
+  "img": "icons/commodities/biological/organ-stomach.webp",
+  "results": [
+    "5dg2Dsc7HXOK4bd8",
+    "TaIU4NLMUL8zBwbb",
+    "wR15QZwxmTjkDtFO",
+    "KH4VZ6csUICghQLr"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.sCWmQ8FvCBId1vVV"
+    },
+    "cf": {
+      "id": "temp_uizkox49o8e"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897090,
+    "modifiedTime": 1685496658134,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "X6VFkRY9rCOzgpbV",
+  "folder": "XPYNpQX82syKEdJ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!X6VFkRY9rCOzgpbV"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Шкура Пантеры",
+  "type": "component",
+  "img": "icons/commodities/leather/fur-pelt-spotted-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_fd6i44q3pyb",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 38,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Common",
+    "location": "Panthers",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853708,
+    "modifiedTime": 1685496584075,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pM04tDef10zEJ4gP",
+  "folder": "EoqHKbAG9zsUPO5U",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pM04tDef10zEJ4gP"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "DXRa8MQt6viE1iyD",
+  "type": 0,
+  "text": "Сила союзника - Знание",
+  "weight": 1,
+  "range": [
+    3,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!MUM5QmAXWs9It8X5.DXRa8MQt6viE1iyD"
+}

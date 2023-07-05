@@ -1,0 +1,42 @@
+{
+  "name": "Хвостовые перья Куролиска",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/feathers_monstrous_64x64.png.6908.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xvosmbgy3f",
+      "color": "#4ab2bf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 135,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Cockatrice",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853706,
+    "modifiedTime": 1685496584189,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Eo1iy4qLfMOLSZDM",
+  "folder": "AFuI03RtWy2s7Q7F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Eo1iy4qLfMOLSZDM"
+}

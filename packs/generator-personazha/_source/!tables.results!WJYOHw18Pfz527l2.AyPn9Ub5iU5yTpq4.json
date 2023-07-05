@@ -1,0 +1,16 @@
+{
+  "_id": "AyPn9Ub5iU5yTpq4",
+  "type": 0,
+  "text": "Профессия врага - Друид",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!WJYOHw18Pfz527l2.AyPn9Ub5iU5yTpq4"
+}

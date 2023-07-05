@@ -1,0 +1,75 @@
+{
+  "name": "Ирден",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/irden.webp",
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "basic",
+    "stamina": "Мен",
+    "staminaIsVar": true,
+    "effect": "Ирден создаёт на земле вокруг заклинателя большой магический круг. Любой вошедший в этот круг (кроме самого заклинателя) получает штраф к Скор и Реа равный 1 плюс 1 за каждые 2 потраченных очка Вын помимо первого. Максимальный штраф равен 4. Штрафы действуют до тех пор, пока вошедшие находятся в круге. Любое бесплотное существо, вошедшее в круг, становится материальным.",
+    "range": "радиус 3м",
+    "duration": "5 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "0",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Штраф скорости(Затраты вын)"
+      },
+      {
+        "id": "_cxbvaw6j3",
+        "name": "Штраф реакции(Затраты вын)",
+        "percentage": ""
+      },
+      {
+        "id": "_9eyodf1ye",
+        "name": "Материализация",
+        "percentage": ""
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_fwhvepus7l5"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.Y85kaZdMQ0CEsXXx"
+    },
+    "scene-packer": {
+      "hash": "83f14013ac712d1b43e7fb0c1961765b22f47777"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1672538866451,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "zhMRzmllicLOjQnI",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!84b1V2oC2ohXF2yr.zhMRzmllicLOjQnI"
+}

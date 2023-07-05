@@ -1,0 +1,43 @@
+{
+  "name": "Снотворное",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.fRqjpk2g8vcwzr4S"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 69,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Common",
+    "effect": "Принявший снотворное должен пройти проверку стойкости со сл 18, после чего жертва начинает терять 8 вын в минуту(В бою 4 в раунд), пока его запас не достигнет нуля, после чего она погрузится в глубокий сон на 1d6 часов.\nМожно выпить из флакона, либо подлить в напиток, но тогда продолжительность сна снижается вдвое, как и эффективность снижения выносливости.\nПроверка внимания со сл 16 даст понять, что в напитке подмешано снотворное.",
+    "time": "1D6 часов",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "t0sT9Td8Y8uscVU1",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!t0sT9Td8Y8uscVU1"
+}

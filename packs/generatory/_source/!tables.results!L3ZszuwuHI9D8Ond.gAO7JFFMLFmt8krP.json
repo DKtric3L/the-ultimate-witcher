@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "drawn": false,
+  "text": "Кусок механизма",
+  "img": "icons/commodities/tech/cog-copper.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "LJIecI2xrnNKfIhY",
+  "_id": "gAO7JFFMLFmt8krP",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.gAO7JFFMLFmt8krP"
+}

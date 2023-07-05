@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Масло против огров",
+  "img": "icons/sundries/documents/document-symbol-skull-tan.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "4l2Rmym9TZbQq3FF",
+  "_id": "mh6T45SZbrz0btBF",
+  "flags": {},
+  "_key": "!tables.results!S4FCgPes7Ai4jUAT.mh6T45SZbrz0btBF"
+}

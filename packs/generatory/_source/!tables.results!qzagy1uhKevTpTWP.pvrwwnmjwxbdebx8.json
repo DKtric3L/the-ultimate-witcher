@@ -1,0 +1,16 @@
+{
+  "text": "Украшения",
+  "type": 2,
+  "img": "icons/equipment/finger/ring-faceted-ornate-silver-red.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "pvrwwnmjwxbdebx8",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Yh7QBtv6ZreOEaVh",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.pvrwwnmjwxbdebx8"
+}

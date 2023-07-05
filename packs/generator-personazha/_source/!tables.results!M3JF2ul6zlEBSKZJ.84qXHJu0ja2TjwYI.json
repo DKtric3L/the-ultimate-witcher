@@ -1,0 +1,16 @@
+{
+  "_id": "84qXHJu0ja2TjwYI",
+  "type": 2,
+  "text": "Опасность - полит",
+  "weight": 1,
+  "range": [
+    51,
+    100
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "JBnDSizeUxxgXQ2a",
+  "_key": "!tables.results!M3JF2ul6zlEBSKZJ.84qXHJu0ja2TjwYI"
+}

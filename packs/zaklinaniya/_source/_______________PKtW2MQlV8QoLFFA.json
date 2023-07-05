@@ -1,0 +1,57 @@
+{
+  "name": "Дыхание Авроры",
+  "type": "spell",
+  "img": "icons/magic/water/orb-water-bubbles-teal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_lu7t5sx8px8"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "Water",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Дыхание Авроры, разработанное знаменитым магом воды Авророй Хенсонос для исследования затопленных руин у берегов континента, позволяет вам дышать не только воздухом, но и водой, искусно управляя магией воды.",
+    "range": "на себя",
+    "duration": "30 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496637883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PKtW2MQlV8QoLFFA",
+  "folder": "KwqiK2bUcnubIyHN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PKtW2MQlV8QoLFFA"
+}

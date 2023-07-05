@@ -1,0 +1,43 @@
+{
+  "name": "Киноварь + Солнце",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-circular-corked-labeled-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.B1RlVAWpBUXWATGm"
+    },
+    "cf": {
+      "id": "temp_eux3i6hppej"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "+3 к Реакции на 10 раундов. Срок годности - трое суток.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496603958,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NVp2hrlTxuekjjtT",
+  "folder": "CBt5ySUeOvzVkJGY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NVp2hrlTxuekjjtT"
+}

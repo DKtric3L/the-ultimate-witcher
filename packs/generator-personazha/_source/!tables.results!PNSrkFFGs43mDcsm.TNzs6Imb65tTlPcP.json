@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Высший вампир - отношение к крови",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "66LjDsrgWz00Zpg2",
+  "_id": "TNzs6Imb65tTlPcP",
+  "flags": {},
+  "_key": "!tables.results!PNSrkFFGs43mDcsm.TNzs6Imb65tTlPcP"
+}

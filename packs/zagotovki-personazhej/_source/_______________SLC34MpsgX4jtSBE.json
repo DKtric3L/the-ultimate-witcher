@@ -1,0 +1,84 @@
+{
+  "_id": "SLC34MpsgX4jtSBE",
+  "name": "Доспехи ворона",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-leather-brown-belted.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-dospehov.mvjbHEHTi3c40rMB"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 12,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 12,
+    "torsoMaxStopping": 12,
+    "leftArmStopping": 12,
+    "leftArmMaxStopping": 12,
+    "rightArmStopping": 12,
+    "rightArmMaxStopping": 12,
+    "leftLegStopping": 12,
+    "leftLegMaxStopping": 12,
+    "rightLegStopping": 12,
+    "rightLegMaxStopping": 12,
+    "type": "Light",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [
+      {},
+      {},
+      {}
+    ],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сопротивление яду"
+      },
+      {
+        "id": "_d0uc3ig58",
+        "name": "Сопротивление кровотечению",
+        "percentage": ""
+      },
+      {
+        "id": "_726zj514q",
+        "name": "+15 ПЗ",
+        "percentage": ""
+      },
+      {
+        "id": "_4b73jkl7v",
+        "name": "+3 к храбрости",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "FullCover",
+    "equiped": "/",
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!KGltdXgAyNR4yViS.SLC34MpsgX4jtSBE"
+}

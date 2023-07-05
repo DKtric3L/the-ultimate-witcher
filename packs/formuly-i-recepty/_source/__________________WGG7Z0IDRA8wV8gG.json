@@ -1,0 +1,121 @@
+{
+  "name": "Тканевое усиление",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-shield.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.WGG7Z0IDRA8wV8gG"
+    },
+    "cf": {
+      "id": "temp_7r6kpcrjc8l"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.WVFG6HrzBmYyOxhT]{Тканевое усиление}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 60,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 14,
+    "alchemyDC": 0,
+    "craftingTime": "3ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Двойное полотно"
+      },
+      {
+        "id": "_cjmph18e8",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 28,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Тканевое усиление",
+      "type": "enhancement",
+      "img": "icons/commodities/cloth/cloth-patterned-pink.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 40,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "armor",
+        "applied": "",
+        "avail": "Everywhere",
+        "effects": [
+          {
+            "id": "first",
+            "name": "Сопротивление кровотечению."
+          }
+        ],
+        "stopping": 1,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.WVFG6HrzBmYyOxhT"
+        },
+        "cf": {
+          "id": "temp_58lmmpxrkto"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162868991,
+        "modifiedTime": 1672567943753,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496578884,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WGG7Z0IDRA8wV8gG",
+  "folder": "V80WmJMd4ALHSPty",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WGG7Z0IDRA8wV8gG"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Колодец знаний (Гединейт)",
+  "type": 2,
+  "img": "icons/magic/water/water-hand.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "byija9ukcf8nrzkt",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "FrrXHml9K1QdnvP1",
+  "_key": "!tables.results!lezfYVfaJHFGTx7D.byija9ukcf8nrzkt"
+}

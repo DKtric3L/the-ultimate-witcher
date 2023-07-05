@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Черты животного - Крылья",
+  "type": "effect",
+  "img": "icons/magic/nature/wolf-paw-glow-large-teal-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cSFx3M3VW7715z5l"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Вы можете летать на значение своей скорости. 2d10 часов. 10 урона или дезориентация заставит пройти проверку атлетики 16, или вы упадете и получите урон от падения.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883188,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Jsr6d25AZtmvtDP8",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Jsr6d25AZtmvtDP8"
+}

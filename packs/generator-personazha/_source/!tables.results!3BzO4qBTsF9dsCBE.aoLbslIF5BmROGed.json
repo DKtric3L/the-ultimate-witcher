@@ -1,0 +1,16 @@
+{
+  "_id": "aoLbslIF5BmROGed",
+  "type": 2,
+  "text": "Место рождения старших",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "1gYSL4Xx0NAjrkqZ",
+  "_key": "!tables.results!3BzO4qBTsF9dsCBE.aoLbslIF5BmROGed"
+}

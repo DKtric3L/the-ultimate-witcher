@@ -1,0 +1,43 @@
+{
+  "_id": "uBMJ1llM5ZrxAHkI",
+  "name": "Зелёный мутаген",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "flags": {
+    "core": {
+      "sourceId": "Item.FQe4Ke3f0pHAWXb4"
+    },
+    "cf": {
+      "id": "temp_loaduoyv3n"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "",
+    "effect": "+5 ПЗ",
+    "alchemyDC": "16",
+    "minorMutation": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1669964026342,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_key": "!actors.items!pg97zZOfg7F0DkfP.uBMJ1llM5ZrxAHkI"
+}

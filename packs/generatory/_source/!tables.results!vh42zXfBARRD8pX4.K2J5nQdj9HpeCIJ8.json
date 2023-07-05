@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Бордель - Есть ли Завсегдатай",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "IOUmr0Px26eMF6H2",
+  "_id": "K2J5nQdj9HpeCIJ8",
+  "flags": {},
+  "_key": "!tables.results!vh42zXfBARRD8pX4.K2J5nQdj9HpeCIJ8"
+}

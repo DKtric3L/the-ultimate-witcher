@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Белое вино из Боклера",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/white_wine_from_bokler.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "EtmkuP2Y81w3m04y",
+  "_id": "Z2qoRXXVdFVi9RvM",
+  "flags": {},
+  "_key": "!tables.results!C7wbak8UQuNcZHyT.Z2qoRXXVdFVi9RvM"
+}

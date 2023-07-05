@@ -1,0 +1,57 @@
+{
+  "name": "Формование земли",
+  "type": "spell",
+  "img": "icons/environment/settlement/stone-stairs.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ay4624k8l6q"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "earth",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Формование земли позволяет вам создать единую структуру, состоящую из материалов, присутствующих на участке, таких как дерево, камень или земля, которые заполняют 20-метровый куб. Эта структура может быть какой угодно, при условии, что она проста по своей природе, например, огромная стена, статуя или укрепленное сооружение с несколькими комнатами и простой обстановкой. Структура будет построена в течение следующих 10 минут и будет варьироваться в ПБ от деревянной стены с 5 ПБ до каменной стены с 30 ПБ. Это определяет Мастер.",
+    "range": "6м",
+    "duration": "постоянное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496638102,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "KVuoDR8YbgBEfePG",
+  "folder": "aPtAcy2MErYLuZbi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!KVuoDR8YbgBEfePG"
+}

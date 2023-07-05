@@ -1,0 +1,44 @@
+{
+  "name": "Одеяло",
+  "type": "valuable",
+  "img": "icons/commodities/cloth/cloth-patterned-teal.webp",
+  "system": {
+    "description": "Огромный кусок брезента, под которым можно самому от дождя укрыться или же накрыть от него что-нибудь ещё.",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.szsupZFIJ99PO2CC"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663423360121,
+    "modifiedTime": 1670417083375,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "IrTPnQr6oxE4lcCB",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!P4BmPjhPTLEnY0Ir.IrTPnQr6oxE4lcCB"
+}

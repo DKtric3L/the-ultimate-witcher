@@ -1,0 +1,60 @@
+{
+  "name": "Печать джинна",
+  "type": "spell",
+  "img": "icons/magic/air/air-wave-gust-smoke-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.quSi2lRYfpnzsEe3"
+    },
+    "cf": {
+      "id": "temp_fxqdiplgtgg"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Печать джинна позволяет создавать Сосуд джинна",
+    "range": "",
+    "duration": "одно использование",
+    "defence": "",
+    "components": "Бутылка, Кости из крыла летучей мыши (x2), Calcium Equum (x3), Дымная пыль (x1), Серебро (x5)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "15",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892168,
+    "modifiedTime": 1685496639098,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ZWEM3s8xjHvfRhyC",
+  "folder": "frZElF7gtXj0TtZt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ZWEM3s8xjHvfRhyC"
+}

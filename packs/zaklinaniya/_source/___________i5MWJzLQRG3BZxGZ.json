@@ -1,0 +1,65 @@
+{
+  "name": "Голос Хима",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-shadow-monster-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NE4nEsC2HbtAM1ec"
+    },
+    "cf": {
+      "id": "temp_yt9b8cjci6m"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 4d10.\nВы шепчете что-то себе под нос, и только разумное существо, по вашему выбору, которое вы видите, может услышать и понять это. Цель постоянно слышит в своей голове голоса, вызывающие худшие чувства вины и сожаления. При провале проверки Сопротивления магии, цель получает 10d6 некротического урона и дезориентирована.",
+    "range": "20м",
+    "duration": "Мгновенное",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d10+10d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "4d10 - Некротический урон заклинателю"
+      },
+      {
+        "id": "_adaqcv7o5",
+        "name": "10d6 - некротический урон жертве",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892157,
+    "modifiedTime": 1685496639054,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "i5MWJzLQRG3BZxGZ",
+  "folder": "61JxKnK4vxszNzbe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!i5MWJzLQRG3BZxGZ"
+}

@@ -1,0 +1,188 @@
+{
+  "name": "Посох с крюком",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.2eKuTD2Y391vUN1I"
+    },
+    "cf": {
+      "id": "temp_ddwqxocukpf"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.UrMxTqAMQ0cI7PJs]{Посох с крюком}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 824,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "6",
+        "name": "Древесина"
+      },
+      {
+        "id": "_mye1nnqln",
+        "name": "Cталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_ag44kjlpt",
+        "name": "Пятая эссенция",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_kjk1q73fq",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_h19ydbc69",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_m7fl1ofe2",
+        "name": "Cталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_r79e8qxc8",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_xroy5bniz",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_capksvvws",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 412,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Посох с крюком",
+      "type": "weapon",
+      "img": "icons/weapons/staves/staff-engraved-wood.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3.5,
+        "cost": 550,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее, Дробящее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": true,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Poor",
+        "damage": "2d6",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Длинное",
+            "percentage": ""
+          },
+          {
+            "id": "_mi1x7d95r",
+            "name": "Фокус(1)",
+            "percentage": ""
+          },
+          {
+            "id": "_hrst8e0ay",
+            "name": "Захватное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Staff/Spear",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_dqlx2jf67mg"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863941,
+        "modifiedTime": 1672565209185,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848426,
+    "modifiedTime": 1685496579717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2eKuTD2Y391vUN1I",
+  "folder": "b2anqQiTRYL0jSkN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2eKuTD2Y391vUN1I"
+}

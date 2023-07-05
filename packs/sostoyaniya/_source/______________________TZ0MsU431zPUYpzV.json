@@ -1,0 +1,84 @@
+{
+  "name": "Изнеможение от голода",
+  "type": "effect",
+  "img": "icons/consumables/food/plate-fish-bowl-bones-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.UUZ1qHUuLbyzGiPi"
+    },
+    "cf": {
+      "id": "temp_xq906tikww"
+    }
+  },
+  "system": {
+    "description": "Ты на пределе, еле держишься на ногах и соображаешь, в глазах то и дело темнеет от голода.\nЕщё немного, и ты труп.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "/4"
+      },
+      {
+        "id": "_u8alrrb87",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "/4"
+      },
+      {
+        "id": "_6285dibul",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "/4"
+      },
+      {
+        "id": "_m26kye6w4",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "/4"
+      },
+      {
+        "id": "_vq4z5vqup",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "/4"
+      },
+      {
+        "id": "_t4q1hkjiv",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "/4"
+      },
+      {
+        "id": "_yahhnm5e7",
+        "stat": "WITCHER.Actor.Stat.Cra",
+        "modifier": "/4"
+      },
+      {
+        "id": "_8uf6uj2ps",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "/4"
+      }
+    ],
+    "derived": [
+      {
+        "id": "_0god8tcjp",
+        "derivedStat": "WITCHER.Actor.CoreStat.woundTreshold",
+        "modifier": "/4"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883168,
+    "modifiedTime": 1685496621661,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TZ0MsU431zPUYpzV",
+  "folder": "1H4Dkaei03yMUCuF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TZ0MsU431zPUYpzV"
+}

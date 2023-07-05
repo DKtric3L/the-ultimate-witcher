@@ -1,0 +1,16 @@
+{
+  "_id": "IYg1A4xcy41NgQph",
+  "type": 0,
+  "text": "Помощник учителя Вы потратили свое время, помогая учителю или, возможно, своему наставнику. Обучая новым заклинаниям других магов, вы вдвое уменьшаете количество требуемых проверок обучения.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!LiPUuGFfXbdWlnAd.IYg1A4xcy41NgQph"
+}

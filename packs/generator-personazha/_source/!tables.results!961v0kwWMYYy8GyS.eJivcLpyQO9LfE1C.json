@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "eJivcLpyQO9LfE1C",
+  "text": "На торсе надет слегка потрёпанный гамбезон.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!961v0kwWMYYy8GyS.eJivcLpyQO9LfE1C"
+}

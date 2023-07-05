@@ -1,0 +1,44 @@
+{
+  "name": "Трофей лешего",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/leshii.webp",
+  "system": {
+    "description": "Животные и звери могут понять вас, когда вы говорите, и вы можете вступить с ними в словесную дуэль, чтобы заставить их подчиняться вам. В любом случае животное или зверь никогда не сделает для вас то, чего не сделал бы сам (например, прыгнул со скалы).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.3SqG3lDRFOKRr4Da"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1669965241132,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "0Y4GE1wb2IugShfJ",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!9iFDcoHx6bfRsyV3.0Y4GE1wb2IugShfJ"
+}

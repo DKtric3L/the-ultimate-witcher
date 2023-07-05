@@ -1,0 +1,57 @@
+{
+  "name": "Сомна",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/somna.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_by6qvwohmig"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Сомна усыпляет одну цель успокаивающей магией. При применении этого знака, если цель не смогла защититься, она засыпает и считается Дезориентированной до тех пор, пока не проснется через 8 часов. Если вы потратите 2 очка Вын на применение этого Знака, цель проснется, если получит урон, если кто-то разбудит ее или раздастся громкий шум. Если вы потратите 4 очка Вын, цель проснется только в том случае, если она получит урон или если кто-то попытается разбудить ее действием. Если вы потратите 6 очков Вын, цель проснется, только если получит урон или если кто-то попытается разбудить ее действием полного раунда. Если вы потратите 7 очков Вын, цель проснется, только если получит урон. Если у цели нет причин подозревать магическое вмешательство до того, как ее усыпят, она не узнает, что на нее воздействовала магия, когда проснется.",
+    "range": "8м",
+    "duration": "8 часов",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496637331,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rhfztb85Q95btTdZ",
+  "folder": "1yUiH11eSu2R2pwl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rhfztb85Q95btTdZ"
+}

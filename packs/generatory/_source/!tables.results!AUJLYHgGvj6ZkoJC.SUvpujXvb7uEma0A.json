@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Чертеж - бомбы и ловушки - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "iPhXl2OhWuhnS59i",
+  "_id": "SUvpujXvb7uEma0A",
+  "flags": {},
+  "_key": "!tables.results!AUJLYHgGvj6ZkoJC.SUvpujXvb7uEma0A"
+}

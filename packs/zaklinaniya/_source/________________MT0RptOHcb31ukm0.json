@@ -1,0 +1,65 @@
+{
+  "name": "Волна Гайнретра",
+  "type": "spell",
+  "img": "icons/magic/water/wave-water-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6o4p77gUJ9AkiIYv"
+    },
+    "cf": {
+      "id": "temp_julrnar8td"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Гайнретр - маг из клана Димунов на Скеллиге. Он использовал свои заклинания, чтобы помочь кораблям плыть быстрее. \nВолна Гайнретра превращает небольшое количество воды в большую волну. Цель получает 4d6 дробящего урона по туловищу и отбрасывается назад на 8 метров. Если цель при отлете во что- то врезается, она получает таранящий урон.",
+    "range": "10м",
+    "duration": "мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дробящий урон"
+      },
+      {
+        "id": "_iyflabulm",
+        "name": "Отбрасывает на 8 метров",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892155,
+    "modifiedTime": 1685496639018,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "MT0RptOHcb31ukm0",
+  "folder": "9PhFPu32x5yVnicQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!MT0RptOHcb31ukm0"
+}

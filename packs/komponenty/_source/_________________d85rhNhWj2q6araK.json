@@ -1,0 +1,45 @@
+{
+  "name": "Клыки веспертыля",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tooth_nekker.dds_.6951.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_fg9eec92znn",
+      "color": "#af76b7"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.Up4kKSr4Qplm778I"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 86,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Веспертыли",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1685496584148,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "d85rhNhWj2q6araK",
+  "folder": "7TZIuuDLQ1YmQET3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!d85rhNhWj2q6araK"
+}

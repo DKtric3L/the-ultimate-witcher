@@ -1,0 +1,16 @@
+{
+  "_id": "oKZeEBIq2FLMNk2e",
+  "flags": {},
+  "type": 0,
+  "text": "Когда вы стали ведьмаком - Раннее детство(Нет модификаторов). Вас забрали в ведьмачью школу в возрасте от 4 до 6 лет. У вас есть воспоминания о нормальной жизни, что помогло в испытании травами.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!C5d6zkIMvS9gDWEN.oKZeEBIq2FLMNk2e"
+}

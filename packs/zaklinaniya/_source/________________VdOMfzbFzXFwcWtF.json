@@ -1,0 +1,58 @@
+{
+  "name": "Волны Нагльфара",
+  "type": "spell",
+  "img": "icons/magic/water/wave-water-explosion.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zj30gssz7x"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Это заклинание при думал чародей, заявлявший, что воочию видел Дикую Охоту. Оно создаёт волну ледяной магии, которая распространяется на 3 метра во все стороны от заклинателя. Любой, кто не уклонится или не блокирует заклинание, становится заморожен и получает 4d6 урона.",
+    "range": "радиус 3м",
+    "duration": "мгновенное",
+    "defence": "укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Заморозка",
+        "percentage": "100"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892155,
+    "modifiedTime": 1685496638034,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VdOMfzbFzXFwcWtF",
+  "folder": "hCWlGuK2kocnUbkH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VdOMfzbFzXFwcWtF"
+}

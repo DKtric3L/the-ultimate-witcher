@@ -1,0 +1,16 @@
+{
+  "_id": "Kg6cLOw7bcrhf9zi",
+  "flags": {},
+  "type": 0,
+  "text": "Вывих руки - После удара рука вывихнута и плохо слушается. -2 к действию этой рукой. После стабилизации - штраф -1 к действию рукой, После лечения - штраф -1 к силе.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZeqCjq8cm2PP93oO.Kg6cLOw7bcrhf9zi"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Коди Бивид",
+  "type": "spell",
+  "img": "icons/magic/nature/plant-sprout-coconut-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_g0hcqrt3scn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Коди Бивид позволяет за один ход вырастить из семечка небольшое взрослое растение. С помощью этого заклинания можно выращивать травы (в т. ч. для алхимии), но не крупные растения вроде деревьев.",
+    "range": "4м",
+    "duration": "Мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496637801,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rLBmsjb4uhQQPSWJ",
+  "folder": "1qvYxGy2tyjjpXzr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rLBmsjb4uhQQPSWJ"
+}

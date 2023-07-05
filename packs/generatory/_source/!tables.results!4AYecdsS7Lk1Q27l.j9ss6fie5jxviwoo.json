@@ -1,0 +1,16 @@
+{
+  "text": "Инструменты алхимика",
+  "type": 2,
+  "img": "icons/tools/cooking/mortar-yellow.webp",
+  "weight": 1,
+  "range": [
+    21,
+    21
+  ],
+  "drawn": false,
+  "_id": "j9ss6fie5jxviwoo",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "uj6LrlKnthjWZYr8",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.j9ss6fie5jxviwoo"
+}

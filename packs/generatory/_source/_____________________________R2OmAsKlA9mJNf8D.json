@@ -1,0 +1,48 @@
+{
+  "name": "Необычный заказ - осложнения",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "xkgiMULOgDQXNpgd",
+    "Qoz9gfCLK1WfALpX",
+    "Fk91Z1V3mkOsyZFe",
+    "o51RZ9wFZuNnzGFJ",
+    "qPzUWk89wSyfsiR2",
+    "3ARowXcKu9l1qVVN",
+    "GmuXvA47hhknQiIx",
+    "8faUXYaeQNgVK0ER",
+    "nVXoZ0CMdUaAcn63",
+    "JzJtVIRuLNjTKHHz",
+    "3WxPfyp9kaaQ0bKD",
+    "ipYETdEudOUqAgBv",
+    "xef2nvTsdyWdPxYC",
+    "hcgXhggKRvhwhAyq"
+  ],
+  "formula": "1d14",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "R2OmAsKlA9mJNf8D",
+  "_key": "!tables!R2OmAsKlA9mJNf8D"
+}

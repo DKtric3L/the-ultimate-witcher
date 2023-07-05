@@ -1,0 +1,68 @@
+{
+  "name": "Драгунская броня гномьей работы",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-gilded-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi-starshego-naroda.YeJDWVKzglocgzU3"
+    },
+    "cf": {
+      "id": "temp_njuve1krma"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 20,
+    "cost": 2850,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 25,
+    "headMaxStopping": 25,
+    "torsoStopping": 25,
+    "torsoMaxStopping": 25,
+    "leftArmStopping": 25,
+    "leftArmMaxStopping": 25,
+    "rightArmStopping": 25,
+    "rightArmMaxStopping": 25,
+    "leftLegStopping": 25,
+    "leftLegMaxStopping": 25,
+    "rightLegStopping": 25,
+    "rightLegMaxStopping": 25,
+    "type": "Light",
+    "avail": "Rare",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "+2 верховая езда"
+      }
+    ],
+    "encumb": 2,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": true,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837866,
+    "modifiedTime": 1685496574746,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WGvzq7unq2QdsAq2",
+  "folder": "l7EsfQL6fGwe66qi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WGvzq7unq2QdsAq2"
+}

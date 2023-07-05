@@ -1,0 +1,118 @@
+{
+  "name": "Лирийская кожа",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-recipe-alchemical.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.gwkQDfdJVF5ZoEaY"
+    },
+    "cf": {
+      "id": "temp_rdx4vwsofff"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.komponenty.0XFObVZGve999iIw]{Лирийская кожа}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 80,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "1 ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Кожа"
+      },
+      {
+        "id": "_cyde35388",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_sneoxhvj6",
+        "name": "Уголь",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 40,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Лирийская кожа",
+      "type": "component",
+      "img": "icons/commodities/leather/leather-patch-brown.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 60,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "animal-parts",
+        "rarity": "Poor",
+        "location": "Покупается или создается",
+        "quantityObtainable": "N/A",
+        "forage": "N/A",
+        "substanceType": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_fd6i44q3pyb",
+          "color": "#000000"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162853702,
+        "modifiedTime": 1668162853702,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848419,
+    "modifiedTime": 1685496579268,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gwkQDfdJVF5ZoEaY",
+  "folder": "vF9pkWKvP9L8HCew",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gwkQDfdJVF5ZoEaY"
+}

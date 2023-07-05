@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Удача - Джекпот. Благодаря какому-то событию или по счастливой случайности вы получаете 1d10*100 крон",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GEA8vo04ZhKaDAEG.q0DM4FW7XCnFdKZu"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Скоя'таэль - Краснолюд",
+  "img": "modules/the-ultimate-witcher/assets/monsters/krasnolud_warrior.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "enqWyoNk1uSSvnV8",
+  "_id": "7CvbW3PrErgfwbpG",
+  "flags": {},
+  "_key": "!tables.results!0YCiJl940NC5KpCP.7CvbW3PrErgfwbpG"
+}

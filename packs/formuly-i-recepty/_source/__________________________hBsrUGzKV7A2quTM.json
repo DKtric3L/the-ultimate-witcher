@@ -1,0 +1,175 @@
+{
+  "name": "Сеть охотника на монстров",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.DEZAFV2mKAiOPaNP"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.zR5ItJk7A2HHilDz]{Сеть охотника на монстров}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 750,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 24,
+    "alchemyDC": 0,
+    "craftingTime": "6ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Эфирная смазка"
+      },
+      {
+        "id": "_l5w4r0q0e",
+        "name": "Ртутный раствор",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_zqf23ctk4",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_n4dgjm3t7",
+        "name": "Сера",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_3leko742a",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "25"
+      },
+      {
+        "id": "_439ckuy14",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 375,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Сеть охотника на монстров",
+      "type": "weapon",
+      "img": "icons/weapons/thrown/bolas-stone.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 4,
+        "cost": 500,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "2",
+        "range": "4м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Опутывающее",
+            "percentage": ""
+          },
+          {
+            "id": "_wiknqxbom",
+            "name": "Цель, пораженная этим оружием, опутывается им. Она снижают свою скорость на 5 и получают штраф -2 ко всем физическим действиям. Каждый ход цель может совершать проверку Уклонения/Побега или Акробатики(?) с Сл: 18, чтобы сбежать. В качестве альтернативы другой персонаж может действием убрать оружие.",
+            "percentage": ""
+          },
+          {
+            "id": "_zxd97wvg3",
+            "name": "Магическое связывание",
+            "percentage": ""
+          },
+          {
+            "id": "_u8ssh0lif",
+            "name": "Пока существо прикасается к этому оружию, оно не может стать невидимым или неосязаемым или использовать любую способность, которая позволяет ему телепортироваться. Существа, которые уже являются невидимыми или неосязаемыми, становятся видимыми и осязаемыми при прикосновении к этому оружию.",
+            "percentage": ""
+          }
+        ],
+        "conceal": "L",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Athletics",
+        "rollOnlyDmg": false,
+        "isThrowable": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_5fd8qju81pt"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863943,
+        "modifiedTime": 1672542514276,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848428,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hBsrUGzKV7A2quTM",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hBsrUGzKV7A2quTM"
+}

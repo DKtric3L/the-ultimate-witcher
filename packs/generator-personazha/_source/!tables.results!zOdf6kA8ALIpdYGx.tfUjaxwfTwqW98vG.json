@@ -1,0 +1,16 @@
+{
+  "_id": "tfUjaxwfTwqW98vG",
+  "flags": {},
+  "type": 0,
+  "text": "Причина вражды - Шантаж",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zOdf6kA8ALIpdYGx.tfUjaxwfTwqW98vG"
+}

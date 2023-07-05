@@ -1,0 +1,16 @@
+{
+  "text": "Сушеное мясо",
+  "type": 2,
+  "img": "icons/consumables/meat/steak-alien-orange.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "y3lp0jftmozn5bsz",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "q9SfVSHlYPfVTXaK",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.y3lp0jftmozn5bsz"
+}

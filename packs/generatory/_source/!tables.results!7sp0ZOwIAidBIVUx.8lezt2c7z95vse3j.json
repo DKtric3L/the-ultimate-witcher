@@ -1,0 +1,16 @@
+{
+  "text": "Печать щедрости",
+  "type": 2,
+  "img": "icons/magic/nature/seed-acorn-glowing-green.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "8lezt2c7z95vse3j",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "O3uRiwfLCa5HKZ1U",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.8lezt2c7z95vse3j"
+}

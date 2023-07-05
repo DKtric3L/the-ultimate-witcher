@@ -1,0 +1,16 @@
+{
+  "_id": "md13gU5GXWqdSo3b",
+  "flags": {},
+  "type": 0,
+  "text": "Потеря ноги. Её уже не вернуть, вы истекаете кровью. Скор, уклонение, атлетика снижены вчетверо. Стабилизация уберёт кровотечение. Дальше только протез.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!X3USf2pbLIFAaAM9.md13gU5GXWqdSo3b"
+}

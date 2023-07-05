@@ -1,0 +1,70 @@
+{
+  "name": "Свет богов",
+  "type": "spell",
+  "img": "icons/magic/light/beam-strike-village-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_2p80iyngdu1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "7",
+    "staminaIsVar": false,
+    "effect": "Свет богов создает очень сильный поток света, исходящий из ваших рук или символа веры. Любое существо в пределах дистанции, провалившее проверку Сопротивления магии, получает 1d6 не поглощаемого броней урона, ослепляется на 1d6 раундов и имеет 10% шанс загореться.",
+    "range": "6м конус",
+    "duration": "мгновенное",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "1d6 - Урон заклинания сквозь броню"
+      },
+      {
+        "id": "_o5htxv3c2",
+        "name": "1d6 - Длительность ослепления",
+        "percentage": ""
+      },
+      {
+        "id": "_9anujqotd",
+        "name": "Горение",
+        "percentage": "10"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892173,
+    "modifiedTime": 1685496639258,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qOLQmFDMybFAeKBL",
+  "folder": "7qXEELZDYM9OW2E6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qOLQmFDMybFAeKBL"
+}

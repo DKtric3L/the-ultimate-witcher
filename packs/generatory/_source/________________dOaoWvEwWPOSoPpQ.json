@@ -1,0 +1,44 @@
+{
+  "name": "Случайный Ребис",
+  "img": "systems/TheWitcherTRPG/assets/images/rebis.png",
+  "description": "",
+  "results": [
+    "2nauCE85qeDOL3aP",
+    "hTd3lb9shJXp8auf",
+    "PknrZjhT5FypMHlH",
+    "oWWkyAREnj0tkTLF",
+    "4AhL3te27HbLYrxA",
+    "ATRi0HnmXonxXoJZ",
+    "h9C72ywgJxc7O7Jg",
+    "2NHrwBWgdYC6y4xb",
+    "pHXB7YdhmgZdluL2",
+    "A3lB24I8QezwddbX"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_fq4yov25gun"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644845,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vHNpuBWLrSAYE4i",
+  "sort": 0,
+  "_id": "dOaoWvEwWPOSoPpQ",
+  "_key": "!tables!dOaoWvEwWPOSoPpQ"
+}

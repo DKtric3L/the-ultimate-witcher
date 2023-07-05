@@ -1,0 +1,51 @@
+{
+  "name": "Нильфгаардский прицел",
+  "type": "enhancement",
+  "img": "icons/weapons/guns/gun-worn-steel.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.hnOM5MQmOxL3KDUW"
+    },
+    "cf": {
+      "id": "temp_frzayswlhnf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 275,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "Everywhere",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Добавляет +1 к Точности арбалета."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1685496603273,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hnOM5MQmOxL3KDUW",
+  "folder": "AVzS20lEfUPVxlW1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hnOM5MQmOxL3KDUW"
+}

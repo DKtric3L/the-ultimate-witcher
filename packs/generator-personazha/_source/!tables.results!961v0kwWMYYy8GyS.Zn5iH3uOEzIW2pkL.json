@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    10
+  ],
+  "drawn": false,
+  "text": "Цвет одежды",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "FyyEZcabCMDVJ1rL",
+  "_id": "Zn5iH3uOEzIW2pkL",
+  "flags": {},
+  "_key": "!tables.results!961v0kwWMYYy8GyS.Zn5iH3uOEzIW2pkL"
+}

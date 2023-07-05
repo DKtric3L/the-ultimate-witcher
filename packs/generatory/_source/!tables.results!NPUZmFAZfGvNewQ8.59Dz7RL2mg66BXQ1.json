@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "59Dz7RL2mg66BXQ1",
+  "text": "Солдат [[1d6]], Алебардщиков[[1d6]], Лучников[[1d3]]",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!NPUZmFAZfGvNewQ8.59Dz7RL2mg66BXQ1"
+}

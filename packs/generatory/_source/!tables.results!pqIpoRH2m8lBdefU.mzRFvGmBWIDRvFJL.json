@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    28,
+    28
+  ],
+  "drawn": false,
+  "text": "Формула заклинания(Подмастерье)",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-black-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "BgrKFfYYfodhp14g",
+  "_id": "mzRFvGmBWIDRvFJL",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.mzRFvGmBWIDRvFJL"
+}

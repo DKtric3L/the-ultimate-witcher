@@ -1,0 +1,16 @@
+{
+  "_id": "WLL4GH2QBfngXygQ",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей погибли во время войны с Нильфгаардом. Скорее всего, это был отец, но мать тоже могла сражаться или стать жертвой войны.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BVAifyDThmUYivmt.WLL4GH2QBfngXygQ"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Ухо эльфа",
+  "type": 2,
+  "img": "icons/commodities/biological/ear-grey-brown.webp",
+  "weight": 1,
+  "range": [
+    30,
+    30
+  ],
+  "drawn": false,
+  "_id": "iozqjvyg66bfd3gk",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "TWGKlrCABNe3Nvo4",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.iozqjvyg66bfd3gk"
+}

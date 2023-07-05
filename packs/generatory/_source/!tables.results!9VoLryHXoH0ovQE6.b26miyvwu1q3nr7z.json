@@ -1,0 +1,16 @@
+{
+  "text": "Эльфское усиление",
+  "type": 2,
+  "img": "icons/equipment/shoulder/pauldron-segmented-green.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "b26miyvwu1q3nr7z",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "4LiCe7ujsGEhfCRA",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.b26miyvwu1q3nr7z"
+}

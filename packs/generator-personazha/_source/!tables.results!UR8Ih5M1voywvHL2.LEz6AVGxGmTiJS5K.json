@@ -1,0 +1,16 @@
+{
+  "_id": "LEz6AVGxGmTiJS5K",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Ваши родители отдали вас другой семье, чтобы вы выжили, поскольку они не могли позаботиться о вас сами.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UR8Ih5M1voywvHL2.LEz6AVGxGmTiJS5K"
+}

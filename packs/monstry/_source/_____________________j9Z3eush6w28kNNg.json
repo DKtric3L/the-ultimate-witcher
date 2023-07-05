@@ -1,0 +1,26 @@
+{
+  "_id": "j9Z3eush6w28kNNg",
+  "name": "Необходимость в теле",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Несмотря на все их могущество, Рюхины могут использовать свои силы только после обретения телесной формы. Без тела они могут только нашептывать из тени и пытаться овладеть кем-то. В этой форме они имеют Сопротивление магии +0"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!8FMvYdrRjZw0oKqW.j9Z3eush6w28kNNg"
+}

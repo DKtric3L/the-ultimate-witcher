@@ -1,0 +1,16 @@
+{
+  "_id": "8RjxmT6Fy9aRN15h",
+  "type": 0,
+  "text": "8 урона.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5oQbkOlmaagcJWSj.8RjxmT6Fy9aRN15h"
+}

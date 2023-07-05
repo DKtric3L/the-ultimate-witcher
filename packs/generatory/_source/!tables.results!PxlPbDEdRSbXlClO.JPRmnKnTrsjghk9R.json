@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Нильфгаардская лимонная",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/nilfgaardian_lemon.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "hkOkVPJ3n4Y6Eevy",
+  "_id": "JPRmnKnTrsjghk9R",
+  "flags": {},
+  "_key": "!tables.results!PxlPbDEdRSbXlClO.JPRmnKnTrsjghk9R"
+}

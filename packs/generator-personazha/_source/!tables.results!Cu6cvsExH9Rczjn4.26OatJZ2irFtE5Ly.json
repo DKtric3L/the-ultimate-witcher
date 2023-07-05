@@ -1,0 +1,16 @@
+{
+  "_id": "26OatJZ2irFtE5Ly",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Benefit Outcome",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "Fh8VJ3C7tUE27Cc9",
+  "_key": "!tables.results!Cu6cvsExH9Rczjn4.26OatJZ2irFtE5Ly"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Ирден",
+  "img": "modules/the-ultimate-witcher/assets/signs/irden.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "Y85kaZdMQ0CEsXXx",
+  "_id": "TUFhMuDA1BIESLzp",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.TUFhMuDA1BIESLzp"
+}

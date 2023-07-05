@@ -1,0 +1,171 @@
+{
+  "name": "Топор берсерка",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.tql5bKCzXK5OzeQi"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.E1lfba0kFjJ259u8]{Топор берсерка}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1440,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "13ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Махакамская сталь"
+      },
+      {
+        "id": "_ma8ztlf62",
+        "name": "Укрепленное дерево",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_fl5ifvbj4",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_zfubqtfof",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_adav1c43f",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_wwut0fket",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_1cyk3kdi7",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 722,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Топор берсерка",
+      "type": "weapon",
+      "img": "icons/weapons/axes/axe-battle-skull-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3,
+        "cost": 960,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее",
+          "slashing": true,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Poor",
+        "damage": "6d6",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Кровопускающее",
+            "percentage": "25"
+          },
+          {
+            "id": "_4iyuevx0a",
+            "name": "Разрушающее",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Melee",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_o71fael2g4m"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863944,
+        "modifiedTime": 1672565252269,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tql5bKCzXK5OzeQi",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tql5bKCzXK5OzeQi"
+}

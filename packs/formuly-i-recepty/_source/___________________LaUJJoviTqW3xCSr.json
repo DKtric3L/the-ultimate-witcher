@@ -1,0 +1,112 @@
+{
+  "name": "Укрепленное дерево",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.LaUJJoviTqW3xCSr"
+    },
+    "cf": {
+      "id": "temp_p3g8oxyx8m"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.komponenty.jbOKNow5x4U1S9KM]{Укрепленная древесина}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 21,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 12,
+    "alchemyDC": 0,
+    "craftingTime": "1/2ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Древесина"
+      },
+      {
+        "id": "_1k8pr0ojj",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 11,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Укрепленное дерево",
+      "type": "component",
+      "img": "icons/commodities/wood/lumber-stack-brown3.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 16,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "crafting-material",
+        "rarity": "Poor",
+        "location": "Покупается и создается",
+        "quantityObtainable": "N/A",
+        "forage": "N/A",
+        "substanceType": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_0cj8i72dlee",
+          "color": "#000000"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162853706,
+        "modifiedTime": 1668162853706,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496579242,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LaUJJoviTqW3xCSr",
+  "folder": "CtSK1cB3wahTviNy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LaUJJoviTqW3xCSr"
+}

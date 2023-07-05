@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    35,
+    35
+  ],
+  "drawn": false,
+  "text": "Формула: Отвар черта",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "uAed4R97MwAvD3Lu",
+  "_id": "pWHBI8y8WxZ8izKQ",
+  "flags": {},
+  "_key": "!tables.results!fVcw47eCMtM2w0qP.pWHBI8y8WxZ8izKQ"
+}

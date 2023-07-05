@@ -1,0 +1,40 @@
+{
+  "name": "Высший Вампир",
+  "img": "icons/skills/wounds/bone-broken-tooth-fang-red.webp",
+  "description": "",
+  "results": [
+    "CAwxb6jJHl3AWoL6",
+    "gU1mOdl1RDBO1Tx7",
+    "fmZvLvMEzf2NSHc4",
+    "ZPkJ7onQp7Dj1AJg",
+    "jdV2ObYy0mrrJpdj",
+    "gSwwVRzKzUhQkVlc"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_byzg6gdmclf"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652203,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "kRoyXzVvAOEsZHj4",
+  "sort": 0,
+  "_id": "73eYLoI7SwGYMM3U",
+  "_key": "!tables!73eYLoI7SwGYMM3U"
+}

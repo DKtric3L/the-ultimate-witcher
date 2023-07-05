@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "drawn": false,
+  "text": "Книга сказок",
+  "img": "icons/sundries/books/book-embossed-gold-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "A5Jog9BkseTLsY7n",
+  "_id": "4XwcBMVJFAivhYQ2",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.4XwcBMVJFAivhYQ2"
+}

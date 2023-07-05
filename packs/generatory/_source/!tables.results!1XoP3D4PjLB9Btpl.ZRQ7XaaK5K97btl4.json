@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "text": "Тёмное железо",
+  "img": "icons/commodities/metal/ingot-plain-steel.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "9eqUpyc90hVvmdL1",
+  "_id": "ZRQ7XaaK5K97btl4",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.ZRQ7XaaK5K97btl4"
+}

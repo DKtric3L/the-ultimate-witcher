@@ -1,0 +1,16 @@
+{
+  "_id": "Aoa6abqsATy4bJGX",
+  "flags": {},
+  "type": 0,
+  "text": "Ваша раса - Ведьмак",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.Aoa6abqsATy4bJGX"
+}

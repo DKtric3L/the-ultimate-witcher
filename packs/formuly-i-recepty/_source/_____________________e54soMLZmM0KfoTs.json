@@ -1,0 +1,108 @@
+{
+  "name": "Формула: Летняя мазь",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.e54soMLZmM0KfoTs"
+    },
+    "cf": {
+      "id": "temp_odzgattgzk8"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.IGGi5E59KRwYj2UQ]{Летняя мазь}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 33,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "novice",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 12,
+    "craftingTime": "5 раундов",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 1,
+      "quebrith": 1,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Летняя мазь",
+      "type": "alchemical",
+      "img": "icons/tools/laboratory/bowl-mixing.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 22,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Common",
+        "effect": "Втерев в шею и запястья, удваивает количество часов, которые персонаж может провести в условиях экстремального холода, снижает штраф к Вын от экстремальной жары до четверти, вместо трети. И трети, вместо 1/2, если ты одет тепло.",
+        "time": "",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_d3zai9b3nmq",
+          "color": "#000000"
+        },
+        "core": {
+          "sourceId": "Compendium.world.predmety.RVorVv82J5WxnLBS"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868978,
+        "modifiedTime": 1668162868978,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848419,
+    "modifiedTime": 1685496578568,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "e54soMLZmM0KfoTs",
+  "folder": "JHAOFbhEaanr5CRj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!e54soMLZmM0KfoTs"
+}

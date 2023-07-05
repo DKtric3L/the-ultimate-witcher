@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Болезнь: Чахотка(1 Стадия)",
+  "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
+  "documentCollection": "the-ultimate-witcher.sostoyaniya",
+  "documentId": "GRnuF1uKbSD7IZNh",
+  "_id": "VRy8DHecoZgsY7yL",
+  "flags": {},
+  "_key": "!tables.results!v58wVMnQsz3VdsdV.VRy8DHecoZgsY7yL"
+}

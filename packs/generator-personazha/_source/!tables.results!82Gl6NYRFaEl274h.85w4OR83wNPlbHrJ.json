@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "85w4OR83wNPlbHrJ",
+  "text": "Основал секту - Этот вампир собрал небольшую группу представителей других рас (30 гуманоидов), объединив их общей целью (не важно какой). В секте могут знать или не знать о том, что их лидер — вампир.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!82Gl6NYRFaEl274h.85w4OR83wNPlbHrJ"
+}

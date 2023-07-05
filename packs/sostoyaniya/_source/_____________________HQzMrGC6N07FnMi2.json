@@ -1,0 +1,52 @@
+{
+  "name": "Молниеносная реакция",
+  "type": "effect",
+  "img": "icons/magic/air/wind-tornado-funnel-blue-grey.webp",
+  "system": {
+    "description": "+1 к Реакции и Ловкости. Данный бонус позволяет повысить значения Реа и Лвк выше 10",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "1"
+      },
+      {
+        "id": "_aamfaieia",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "66b3627c2683d03b082f14e4c1d29fedaf6218cf",
+      "sourceId": "Item.vr2CpfPN6eNQD6l3"
+    },
+    "core": {
+      "sourceId": "Item.vr2CpfPN6eNQD6l3"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672537645783,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "HQzMrGC6N07FnMi2",
+  "_key": "!items!HQzMrGC6N07FnMi2"
+}

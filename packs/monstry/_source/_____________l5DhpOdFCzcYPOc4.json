@@ -1,0 +1,60 @@
+{
+  "_id": "l5DhpOdFCzcYPOc4",
+  "name": "Живой доспех",
+  "type": "spell",
+  "img": "icons/equipment/head/helm-barbute-horned-gold-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_z7p1hjwewoi"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.FlNQd91b3NlZGoKP"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "14",
+    "staminaIsVar": false,
+    "effect": "Собрав полный комплект доспехов с сердцем голема и наполняя сердце магией, вы можете оживить доспехи как верного слугу. После выполнения этого ритуала доспехи, которые вы использовали, оживляются и использует блок характеристик живой брони, за исключением Прочности брони, которая равна используемой вами броне. Живая броня не является разумным существом и вечно предана своему создателю. Он выполнит любую задачу, написанную его создателем с помощью письма",
+    "range": "",
+    "duration": "Постоянная",
+    "defence": "",
+    "components": "Головная броня (x1), Корпусная броня (x1), Ножная броня( x1), Пятая эссенция (x3), Дымная пыль( x3), Сердце голема(x1)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.l5DhpOdFCzcYPOc4"
+}

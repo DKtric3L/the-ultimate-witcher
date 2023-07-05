@@ -1,0 +1,40 @@
+{
+  "name": "Мутанты",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "zUHjj1EZccrhopSm",
+    "GhDBQPwISnlUK2iK",
+    "cFR68amu6nROzNcB",
+    "TtGHFG5Tydq3KTPr",
+    "WPrposQg73PcotDG",
+    "MDQuRgC7ZxI34lAp"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "jd2Ecka768dr68wk",
+  "_key": "!tables!jd2Ecka768dr68wk"
+}

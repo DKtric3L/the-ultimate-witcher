@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Хим",
+  "img": "modules/the-ultimate-witcher/assets/monsters/him.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "PcwXzXqzjq3WeFrz",
+  "_id": "e9OAGXMfsq5vRKjn",
+  "flags": {},
+  "_key": "!tables.results!Py1eaPHfXVJvNA6s.e9OAGXMfsq5vRKjn"
+}

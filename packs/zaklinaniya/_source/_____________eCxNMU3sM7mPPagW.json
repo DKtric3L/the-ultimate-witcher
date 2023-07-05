@@ -1,0 +1,57 @@
+{
+  "name": "Травничество",
+  "type": "spell",
+  "img": "icons/magic/nature/mushrooms-fire-glow-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a1f9vxmt8yw"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "druid",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Травничество позволяет создавать эликсир, используя древние практики друидов вместо традиционной алхимии. Пока все ингредиенты для эликсира являются растениями, вы можете бросить проверку Сотворения заклинаний вместо проверки Алхимии при создании Эликсира или на этапе Восстановления.",
+    "range": "2м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496638262,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eCxNMU3sM7mPPagW",
+  "folder": "KJ7hbWltUlxzYhEM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eCxNMU3sM7mPPagW"
+}

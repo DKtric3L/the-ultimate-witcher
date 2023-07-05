@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Гуманоиды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Humanoids.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "QsHfkPdgm5B4nY5r",
+  "_id": "FMRyVKr9aDnoVcgo",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.FMRyVKr9aDnoVcgo"
+}

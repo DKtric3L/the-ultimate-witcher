@@ -1,0 +1,60 @@
+{
+  "_id": "4jz4yVlTLao8pcqe",
+  "name": "Артефактная компрессия",
+  "type": "spell",
+  "img": "icons/magic/control/voodoo-doll-pain-damage-purple.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_jng7v7c6yv"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.mK0pdwxedUxMUViA"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Артефактная компрессия уменьшает существо в пределах 10 метров до 1/10 от его изначального размера и заключает в нефрит. Цель, превращённая в такую статуэтку, пребывает без сознания. Процесс трансформации крайне болезнен для цели — она должна совершить проверку Стойкости со СЛ 15, чтобы не получить 6d6 урона в туловище. Цель может неограниченное время находиться в состоянии артефактной компрессии. Тело сохраняется в изначальном со стоянии и не стареет. В сжатом виде у цели всего 1/5 её стандартных ПЗ с округлением вверх. При потере этих ПЗ цель умирает. Если у фигурки отломать конечность при проверке Силы со СЛ 14 или при нанесении 5 урона, это считается потерей конечности. Если фигурке отломить голову, цель умирает. Приклеивание конечности компрессированной фигурке не восстанавливает конечность существа. После декомпрессии цель дезориентирована, пока не пройдёт испытание Устойчивости",
+    "range": "",
+    "duration": "до отмены",
+    "defence": "",
+    "components": "совершенный самоцвет(xl), пятая эссенция(х5), дымная пыль(х2), речная глина(х4)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TAgpqRjhqjZdQ6fL.4jz4yVlTLao8pcqe"
+}

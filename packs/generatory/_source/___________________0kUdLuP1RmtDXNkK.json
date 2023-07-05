@@ -1,0 +1,44 @@
+{
+  "name": "Подмастерье - Вода",
+  "description": "A random table created from the contents of the Вода Folder.",
+  "results": [
+    "M3Wx1x9ceOFD8M4t",
+    "3Z9yPWPyhSPc1MD5",
+    "iQNsGbz8lXZGYwAl",
+    "tMiIGDulFInJbjBK",
+    "tUh7KLyOV2Ai6IqL",
+    "8ARyJYTdg2d5vH30"
+  ],
+  "formula": "1d6",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "89ce6eb3c65d266f12f5229c1a5cebb619586e50",
+      "sourceId": "RollTable.MExRyjRBIiJ0gD0J"
+    },
+    "core": {
+      "sourceId": "RollTable.MExRyjRBIiJ0gD0J"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593614264,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "0kUdLuP1RmtDXNkK",
+  "_key": "!tables!0kUdLuP1RmtDXNkK"
+}

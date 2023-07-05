@@ -1,0 +1,16 @@
+{
+  "_id": "JFQp11xOxJvsDKNM",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Культ великого солнца. На вас сильно повлияла церковь. Вы потратили годы на изучение ритуалов и песнопений. Снаряжение - Церемониальная маска.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!iP5n1i6qzSCZaoEy.JFQp11xOxJvsDKNM"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Долг - Из-за сломанного снаряжения, игры в гвинт или подобному вы задолжали 1d10*100 крон заведению или благородному дому",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!T6UvpRgRnhXp4gV7.q0DM4FW7XCnFdKZu"
+}

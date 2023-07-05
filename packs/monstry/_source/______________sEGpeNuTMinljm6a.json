@@ -1,0 +1,62 @@
+{
+  "_id": "sEGpeNuTMinljm6a",
+  "name": "Латные поножи",
+  "type": "armor",
+  "img": "icons/equipment/leg/tasset-steel-grey.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi.lDcakxNRzk6xSsKA"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 7.5,
+    "cost": 625,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 20,
+    "leftLegMaxStopping": 20,
+    "rightLegStopping": 20,
+    "rightLegMaxStopping": 20,
+    "type": "Heavy",
+    "avail": "Rare",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "effects": [],
+    "encumb": 1,
+    "location": "Leg",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!syTROxdvQZp4AsiH.sEGpeNuTMinljm6a"
+}

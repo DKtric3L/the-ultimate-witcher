@@ -1,0 +1,57 @@
+{
+  "name": "Осквернение Бигелоу",
+  "type": "spell",
+  "img": "icons/skills/toxins/poison-skull-herbs-bottle-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_agipi719q8m"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Осквернение Бигелоу заражает вредными бактериями всю еду или напитки, которые вы желаете, в пределах 2-метровой кубической площади. Если вы потратите 5 Вын на произнесение этой инвокации, любой, кто съест пораженную еду или напиток, в течение следующего часа будет статус Болезнь. Находясь под действием Болезни, цель получает -2 ко всем действиям, снижает свою максимальную Вын на одну четверть и должна делать проверки Стойкости со сложностью 14 на усмотрение мастера игры или страдать от состояния Тошноты. Болезнь можно снять, только если Доктор бросит проверку Лечащего прикосновения с Сл 15 на пораженном персонаже, а затем этот персонаж получит полноценный ночной отдых. Если вы потратите 10 выносливости на произнесение этого призыва, пораженные цели также пострадают от отравления.",
+    "range": "4м",
+    "duration": "постоянное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496638236,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "yzr2UvNJaZ6ZUQYW",
+  "folder": "vVGv53T7kGsdKAdF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!yzr2UvNJaZ6ZUQYW"
+}

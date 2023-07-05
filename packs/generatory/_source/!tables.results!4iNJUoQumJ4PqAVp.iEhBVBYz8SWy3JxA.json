@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Кухарка",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Kuharka_Bartlomiej_Gawel.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "PGlZYpPXbooaZXbD",
+  "_id": "iEhBVBYz8SWy3JxA",
+  "flags": {},
+  "_key": "!tables.results!4iNJUoQumJ4PqAVp.iEhBVBYz8SWy3JxA"
+}

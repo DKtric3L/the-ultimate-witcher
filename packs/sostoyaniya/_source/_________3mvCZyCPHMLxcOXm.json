@@ -1,0 +1,49 @@
+{
+  "name": "Практика",
+  "type": "effect",
+  "img": "icons/skills/melee/sword-winged-holy-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.MiFVkgHUzPhkd1ZO"
+    },
+    "cf": {
+      "id": "temp_et1htt64j0c"
+    }
+  },
+  "system": {
+    "description": "Тренировки позволяют держать себя в форме, ты чувствуешь, что можешь большее, чем обычно.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_h650xjxn5",
+        "stat": "none",
+        "modifier": 0
+      }
+    ],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "",
+        "modifier": 0
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883171,
+    "modifiedTime": 1685496621677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3mvCZyCPHMLxcOXm",
+  "folder": "FcoowEm4mYGPMieN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3mvCZyCPHMLxcOXm"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "wGdXdCY9gvqg3C7h",
+  "type": 0,
+  "text": "Ученик алхимика Вы потратили некоторое время на изучение тонкостей алхимии. Вы начинаете игру с любыми 2 алхимическими формулами для новичков и получаете +1 к алхимии.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!LiPUuGFfXbdWlnAd.wGdXdCY9gvqg3C7h"
+}

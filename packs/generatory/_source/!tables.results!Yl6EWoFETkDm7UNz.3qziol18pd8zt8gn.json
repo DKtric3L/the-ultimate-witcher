@@ -1,0 +1,16 @@
+{
+  "text": "Божественное вдохновение",
+  "type": 2,
+  "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "_id": "3qziol18pd8zt8gn",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "kNT8sHXnKUs4N4P8",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.3qziol18pd8zt8gn"
+}

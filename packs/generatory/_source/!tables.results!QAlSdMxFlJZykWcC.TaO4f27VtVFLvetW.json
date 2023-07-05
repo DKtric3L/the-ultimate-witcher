@@ -1,0 +1,16 @@
+{
+  "text": "Ливень",
+  "type": 2,
+  "img": "icons/magic/water/projectile-beams-salvo-blue.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "TaO4f27VtVFLvetW",
+  "documentId": "JmCOkkUfvPSy4Vkc",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.TaO4f27VtVFLvetW"
+}

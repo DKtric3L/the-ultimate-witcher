@@ -1,0 +1,71 @@
+{
+  "name": "Отравленный коготь гарпии",
+  "type": "weapon",
+  "img": "icons/weapons/thrown/dart-feathered.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_5fd8qju81pt"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 450,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Everywhere",
+    "damage": "1d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "Тел*4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Отравленное",
+        "percentage": "90"
+      },
+      {
+        "id": "_az0iv3ba0",
+        "name": "Сбалансированное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863941,
+    "modifiedTime": 1685496598744,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1AOt5DTDFkEmUo0L",
+  "folder": "0NR1thozchDVQIHT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1AOt5DTDFkEmUo0L"
+}

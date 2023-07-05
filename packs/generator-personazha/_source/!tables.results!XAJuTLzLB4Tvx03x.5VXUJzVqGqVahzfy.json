@@ -1,0 +1,16 @@
+{
+  "_id": "5VXUJzVqGqVahzfy",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Ваша семья умерла во время войны с Нильфгаардом, Возможно, они сражались на войне, а может, просто были её жертвами.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XAJuTLzLB4Tvx03x.5VXUJzVqGqVahzfy"
+}

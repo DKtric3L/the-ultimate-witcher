@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "hB4RZIYZmfApi7H8",
+  "text": "Обе руки отсутствуют, вместо них[[1d2]] 1 - дешёвые протезы, 2 - качественные протезы.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!H9xXdQ6h1dtR9QIe.hB4RZIYZmfApi7H8"
+}

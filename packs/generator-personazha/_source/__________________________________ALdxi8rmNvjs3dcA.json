@@ -1,0 +1,54 @@
+{
+  "name": "Жизнь в академии - Малая академия",
+  "img": "icons/environment/settlement/watchtower-cliff.webp",
+  "results": [
+    "41nHUNsS2Ccwwy1c",
+    "aWCdgGwei2XsLFix",
+    "ZWnEVAWUlyeeyVCU",
+    "FLEk11rG2TSj815p",
+    "I1gNYaciecrJjqfQ",
+    "7oEtl2Nl1XgpV9tR",
+    "8FyLjsQznMA2rxV1",
+    "jLdwCWwvwztT79gH",
+    "e2Ex50dCEcYfkBKn",
+    "mm5qvwIV00iok6cd",
+    "74JMsiPjpEK9yNSb",
+    "iXqUYeidcMypHwy4",
+    "ARK4quM5DlUtv8Pa",
+    "Nz0CmbGYBOfCJ7bK",
+    "iZVnd7lnVr3irUWM",
+    "quhAk377cNtVo30h",
+    "yYsEsnZ7X1jvKIXp",
+    "99JbQJZkEEgQEeiP",
+    "aLKnsFvpXeXmyzem",
+    "qYijxbQKCA9icx1u"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.VUIaaZ8lBPNZF7oc"
+    },
+    "cf": {
+      "id": "temp_dzgvfo2vboe"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926182,
+    "modifiedTime": 1685496652425,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ALdxi8rmNvjs3dcA",
+  "folder": "xccyEiQ9jAncMgNo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!ALdxi8rmNvjs3dcA"
+}

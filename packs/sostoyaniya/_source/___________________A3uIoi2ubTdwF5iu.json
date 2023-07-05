@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Марионетка",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/signs/puppet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.8zPKe2bB2tggzYiA"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Аксий теперь способен управлять разумом противника, заставляя его сражаться на стороне заклинателя число раундов, равное количеству затраченных на сотворение знака очков Вын. Каждый раунд цель может совершать проверку Сопротивления магии против вашей проверки Сотворения заклинаний, чтобы попытаться освободиться от влияния знака.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883183,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "A3uIoi2ubTdwF5iu",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!A3uIoi2ubTdwF5iu"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Обычные предметы",
+  "img": "icons/commodities/leather/leather-buckle-steel-tan.webp",
+  "results": [
+    "YlgI7DnwVyBbluOw",
+    "n7P2NH31XUsBymCX",
+    "Z0PVSw2OveI7D2wQ",
+    "Fare1Nexa5RTnUxG",
+    "2BaSgM0kvOuQFSBV",
+    "1K1YbIHuuVrkJOCZ",
+    "0VvI3Pt6F1rk9qVC",
+    "xE5Sh9OseIgk56W7",
+    "uHlQJFw9MMxEZTiu",
+    "RSNph0uzgZZedC9i",
+    "kdAkvWD6hMOyvtk2",
+    "v9yh1TTB3sq3Rc0i",
+    "SPRKHt7sZ05BVLNz",
+    "sDuN4E4Z77vRoWNs",
+    "8VRHwDKihJbiciW8",
+    "Iu5gChfPWVR10QQA",
+    "p8WNt4mjpyjxGtnG",
+    "8wPMKlMhsEmyQDT1",
+    "IwzFjMu7KOquGoSH",
+    "SIupClRS5fqebmI5",
+    "N0wDUBr4TUU3EmUi",
+    "5X1wqWmLF3B7SSv2",
+    "4kcFsQuwYbWg8fGy",
+    "Qn8KF3xPn4RvzXBQ",
+    "eNJMxqibXtdGBqXd",
+    "hSYkFHSsaM8gjreZ",
+    "IOnReXqcrQakxr7f",
+    "QxjSsZRPMs7n2WLG",
+    "AQfkbJQkimgSIo90",
+    "ziNQy2qspZvIucX5",
+    "R31V1rd0cM9oo7KC",
+    "wM6I0fP9n8XqByLX",
+    "eItQjka7Huayo94w",
+    "KbJgAZpP5SdLqBWz",
+    "rSZgpX93qJBwIhLn",
+    "yV2XwDSvmtxIIJmb",
+    "FsH4BrzIBlZAcO25"
+  ],
+  "formula": "1d37",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.i2skYA8QgOt4KjcJ"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932910,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "o5IMB1uQaVSG1InL",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!o5IMB1uQaVSG1InL"
+}

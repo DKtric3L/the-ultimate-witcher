@@ -1,0 +1,16 @@
+{
+  "text": "Перун",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/perun.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "YgsC6tAxnCX10ffq",
+  "documentId": "rMGTVWGfqbKJgY8u",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.YgsC6tAxnCX10ffq"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Инверн",
+  "type": 2,
+  "img": "icons/magic/water/snowflake-ice-purple.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "3Z9yPWPyhSPc1MD5",
+  "documentId": "GfCTP7cj5Sv0Dh7l",
+  "flags": {},
+  "_key": "!tables.results!0kUdLuP1RmtDXNkK.3Z9yPWPyhSPc1MD5"
+}

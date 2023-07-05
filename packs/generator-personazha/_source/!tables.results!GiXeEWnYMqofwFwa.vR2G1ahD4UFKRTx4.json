@@ -1,0 +1,16 @@
+{
+  "_id": "vR2G1ahD4UFKRTx4",
+  "type": 0,
+  "text": "Вы родились в Северных королевствх (Цидарис, Керак, или Верден)",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GiXeEWnYMqofwFwa.vR2G1ahD4UFKRTx4"
+}

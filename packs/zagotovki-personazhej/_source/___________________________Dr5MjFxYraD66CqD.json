@@ -1,0 +1,43 @@
+{
+  "name": "Принадлежности для готовки",
+  "type": "valuable",
+  "img": "icons/tools/cooking/cauldron-empty.webp",
+  "system": {
+    "description": "Позволяют готовить еду.",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 15,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.Fd38siB3rAKoRgTE"
+    },
+    "cf": {
+      "id": "temp_zf5u6w9lv4"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663424867853,
+    "modifiedTime": 1663424867853,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "Dr5MjFxYraD66CqD",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dGYJGK7TFYppq74h.Dr5MjFxYraD66CqD"
+}

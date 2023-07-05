@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Внезапный поворот заказа",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "P10CatHPQPUgk5bO",
+  "_id": "J4azQyaQdLHmFURF",
+  "flags": {},
+  "_key": "!tables.results!6cpe3rhAbR1QkDCn.J4azQyaQdLHmFURF"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Песочные часы(Час)",
+  "type": "valuable",
+  "img": "icons/tools/navigation/hourglass-grey.webp",
+  "system": {
+    "description": "Если надо следить за временем, бери песочные часы. Песок из одной чаши в другую за час пересыпается.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 38,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.rfuSnichJCFHLklN"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663422914874,
+    "modifiedTime": 1670417129338,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "458161UYcqGaiaCp",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!QCJUoRqklmUYaicw.458161UYcqGaiaCp"
+}

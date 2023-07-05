@@ -1,0 +1,60 @@
+{
+  "_id": "sLdcypMSkEmDu5Zm",
+  "name": "Тюрьма Тальфрина",
+  "type": "spell",
+  "img": "icons/magic/nature/root-vine-entangled-hands.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.wKuhDSVQpdLCoW43"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Заклинание названо в честь Тальфрина из Назаира — рыцаря-предателя, что три дня был в плену в саду чародея. Оно опутывает цель корнями, для уничтожения которых нужно нанести им 15 пунктов урона. Чтобы выпутаться из корней, требуется проверка Уклонения/ Изворотливости со СЛ, равной результату проверки Сотворения заклинаний. Такую проверку можно совершать каждый раунд в качестве действия.",
+    "range": "10м",
+    "duration": "Пока не уничтожат",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!j8ksX28JMdRAUPyZ.sLdcypMSkEmDu5Zm"
+}

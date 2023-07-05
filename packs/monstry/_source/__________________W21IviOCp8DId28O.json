@@ -1,0 +1,55 @@
+{
+  "_id": "W21IviOCp8DId28O",
+  "name": "Зеркальный эффект",
+  "type": "spell",
+  "img": "icons/magic/light/beam-rays-red-small.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wcrqgntympb"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.n1arcVFULjnU4zoa"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Зеркальный эффект создаёт ослепительно яркий луч света, наносящий 10d6 урона. От луча можно уклониться, его можно заблокировать (при этом луч уничтожает то, что его блокирует), но нельзя переместить с помощью ветра. Единственное, что может парировать этот эффект, — зеркальная поверхность, которая при этом получает урон. Отражённый луч отклоняется в случайном направлении. Заклинание использует солнечные лучи и не действует там, куда эти лучи не проникают. При лунном свете или в пасмурные дни заклинание наносит половину урона.",
+    "range": "20м",
+    "duration": "2d6 раундов",
+    "defence": "укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "10d6",
+    "effects": []
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!ctnZdItFrR5kV9N2.W21IviOCp8DId28O"
+}

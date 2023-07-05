@@ -1,0 +1,36 @@
+{
+  "name": "Руны и глифы",
+  "img": "icons/commodities/stone/engraved-symbol-water-grey.webp",
+  "results": [
+    "EYKgNoaRJu9D1TBp",
+    "gnmH9U4bD5bTsinZ"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.SdvJIOGtmqiEo343"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932918,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3wp0NndHZX5mlMwj",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!3wp0NndHZX5mlMwj"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Короткий лук",
+  "type": "weapon",
+  "img": "icons/weapons/bows/shortbow-leather.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rpglc34ihvo"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 290,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "3d6+3",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "100м",
+    "equiped": false,
+    "effects": [],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Archery",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863939,
+    "modifiedTime": 1685496598663,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SOjDBYUX20KEEXoj",
+  "folder": "2IkNgpEkJTz0CRQl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SOjDBYUX20KEEXoj"
+}

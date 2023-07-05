@@ -1,0 +1,16 @@
+{
+  "_id": "JFQp11xOxJvsDKNM",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Церковь. На вас сильно повлияла местная религия. Вы ежедневно проводили много времени в церкви. Снаряжение - Священный текст.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!pEnsTvMCEOoLB7Xi.JFQp11xOxJvsDKNM"
+}

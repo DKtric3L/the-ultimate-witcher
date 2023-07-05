@@ -1,0 +1,16 @@
+{
+  "text": "Раступление вод",
+  "type": 2,
+  "img": "icons/magic/water/wave-water-teal.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "8lfmR99gJwWlLp2I",
+  "documentId": "nwno5SnLumTrwPs6",
+  "flags": {},
+  "_key": "!tables.results!lpcKCRY2iQvW7IvZ.8lfmR99gJwWlLp2I"
+}

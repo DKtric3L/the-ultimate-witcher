@@ -1,0 +1,68 @@
+{
+  "_id": "0sal4Wm8rg4GL9LC",
+  "name": "Бронебойные боеприпасы",
+  "type": "weapon",
+  "img": "icons/weapons/ammunition/arrow-head-war.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_yr6clv8o1dd"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.D20AIL7Uif8n2wxL"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 20,
+    "weight": 0.1,
+    "cost": 15,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Common",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пробивающие броню",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!mzLvpWjcjx1a20dS.0sal4Wm8rg4GL9LC"
+}

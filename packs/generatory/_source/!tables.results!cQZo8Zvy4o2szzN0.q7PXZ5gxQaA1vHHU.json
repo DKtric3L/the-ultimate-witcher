@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Формула - Лекарство",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "LZ1uQZpE9Yiefc7o",
+  "_id": "q7PXZ5gxQaA1vHHU",
+  "flags": {},
+  "_key": "!tables.results!cQZo8Zvy4o2szzN0.q7PXZ5gxQaA1vHHU"
+}

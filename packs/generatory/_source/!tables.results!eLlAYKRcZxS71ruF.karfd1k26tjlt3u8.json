@@ -1,0 +1,16 @@
+{
+  "text": "Порча забвения",
+  "type": 2,
+  "img": "icons/magic/control/fear-fright-shadow-monster-purple.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "karfd1k26tjlt3u8",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "eAnOv95TRwugeEVw",
+  "_key": "!tables.results!eLlAYKRcZxS71ruF.karfd1k26tjlt3u8"
+}

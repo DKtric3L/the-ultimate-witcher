@@ -1,0 +1,16 @@
+{
+  "_id": "Y8g0DWGZfC5wLYWx",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Маг. Наибольшее влияние на вас оказал маг, научивший не бояться магии и всё подвергать сомнению. Снаряжение - Подвеска.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!pEnsTvMCEOoLB7Xi.Y8g0DWGZfC5wLYWx"
+}

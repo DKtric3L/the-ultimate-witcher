@@ -1,0 +1,69 @@
+{
+  "name": "Метательная ярость бредана",
+  "type": "weapon",
+  "img": "modules/the-ultimate-witcher/assets/props/bredans_wrath.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_oauhgt5gb1d"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.r4VW6dYBn1a5wQLp"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 95,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "2d6",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "Тел*2м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Радиус 2 метра",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868979,
+    "modifiedTime": 1685496603937,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "53Qvfm3U0WQ4OKAa",
+  "folder": "qVl9500nCqT0Bzyi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!53Qvfm3U0WQ4OKAa"
+}

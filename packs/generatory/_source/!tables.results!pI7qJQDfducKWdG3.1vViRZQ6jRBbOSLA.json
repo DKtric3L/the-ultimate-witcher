@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Огров Воск",
+  "img": "icons/commodities/materials/slime-thick-orange.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "bftGpZm1GI20UNiJ",
+  "_id": "1vViRZQ6jRBbOSLA",
+  "flags": {},
+  "_key": "!tables.results!pI7qJQDfducKWdG3.1vViRZQ6jRBbOSLA"
+}

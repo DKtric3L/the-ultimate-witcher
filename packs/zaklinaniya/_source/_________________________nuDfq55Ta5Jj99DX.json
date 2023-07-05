@@ -1,0 +1,57 @@
+{
+  "name": "Вечный суд(Вечный огонь)",
+  "type": "spell",
+  "img": "icons/magic/fire/flame-burning-creature-skeleton.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Взывая к силе Вечного Огня, заклинатель заставляет цель загореться ярким белым пламенем с красными проблесками. Такое пламя наносит двойной урон от горения и может быть по тушено лишь магическим образом либо полным погружением под воду на 3 раунда. Всё, что коснётся этого пламени, тут же загорится обычным огнём и может быть потушено за 1 полный раунд.",
+    "range": "10м",
+    "duration": "пока не потушат",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nuDfq55Ta5Jj99DX",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nuDfq55Ta5Jj99DX"
+}

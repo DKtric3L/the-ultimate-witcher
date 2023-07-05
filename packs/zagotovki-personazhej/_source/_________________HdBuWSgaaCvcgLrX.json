@@ -1,0 +1,43 @@
+{
+  "name": "Дневник/Гроссбух",
+  "type": "valuable",
+  "img": "icons/sundries/books/book-simple-brown.webp",
+  "system": {
+    "description": "Простенькая книжка с пустыми страницами в кожаной обложке. Я в свой гроссбух записываю, какие товары у меня есть и что я продал.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 8,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.agdyTnWTvWduP6l8"
+    },
+    "cf": {
+      "id": "temp_witw8a9x5dh"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663424017744,
+    "modifiedTime": 1670417180621,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "HdBuWSgaaCvcgLrX",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!hVlOV9UApkUxS9TM.HdBuWSgaaCvcgLrX"
+}

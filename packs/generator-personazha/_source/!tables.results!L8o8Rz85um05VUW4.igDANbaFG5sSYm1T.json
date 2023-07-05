@@ -1,0 +1,16 @@
+{
+  "_id": "igDANbaFG5sSYm1T",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Доль Блатанна (+1 Этикет)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!L8o8Rz85um05VUW4.igDANbaFG5sSYm1T"
+}

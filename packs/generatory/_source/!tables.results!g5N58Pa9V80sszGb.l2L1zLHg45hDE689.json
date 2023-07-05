@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Аард",
+  "img": "modules/the-ultimate-witcher/assets/signs/aard.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "h2E35Mg2dD4V2Vhq",
+  "_id": "l2L1zLHg45hDE689",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.l2L1zLHg45hDE689"
+}

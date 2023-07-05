@@ -1,0 +1,16 @@
+{
+  "_id": "th9s2aW3pwS3ZZX2",
+  "flags": {},
+  "type": 0,
+  "text": "Кто ваш враг - Солдат",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zQPAsWO3lllBuz03.th9s2aW3pwS3ZZX2"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Выбор цели - Разумные монстры",
+  "img": "icons/skills/targeting/crosshair-bars-yellow.webp",
+  "description": "Бросается по мере необходимости.",
+  "results": [
+    "1uf8HpjP9y9q227r",
+    "C8gFjGdWJbb2LfXB",
+    "LscTeARPjmAubnQ3",
+    "mWxa5ouheK9NIBjH",
+    "WYVVhWcYgUZrzHV2"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_7w0yaq9ld8e"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496658091,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "B9p09jchSVk9ntOf",
+  "sort": 0,
+  "_id": "nowTZyYNAOpvTX5B",
+  "_key": "!tables!nowTZyYNAOpvTX5B"
+}

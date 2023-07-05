@@ -1,0 +1,16 @@
+{
+  "_id": "ticmAMGOApfSdZ7x",
+  "type": 0,
+  "text": "Магический биолог Вы потратили много времени, изучая магию, присущую монстрам, таких как Леший и Бесы. Вы начинаете игру, зная Ритуал Наполнения Трофея (стр. 102 Фолианта Хаоса). Если у вас уже есть это знание, вы перебрасываете этот результат",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!LiPUuGFfXbdWlnAd.ticmAMGOApfSdZ7x"
+}

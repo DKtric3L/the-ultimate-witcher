@@ -1,0 +1,42 @@
+{
+  "name": "Жвалы сколопендромофра",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/mandible_endriag.dds_.6928.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_fg9eec92znn",
+      "color": "#af76b7"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 48,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Giant Centipede",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1685496584148,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "zbi3l3JdOEjkfYS5",
+  "folder": "7TZIuuDLQ1YmQET3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zbi3l3JdOEjkfYS5"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Моровая дева",
+  "img": "modules/the-ultimate-witcher/assets/monsters/pesta.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "GvHkNN3d16eUO8Ig",
+  "_id": "yDEuvft0mNjeYZpD",
+  "flags": {},
+  "_key": "!tables.results!Py1eaPHfXVJvNA6s.yDEuvft0mNjeYZpD"
+}

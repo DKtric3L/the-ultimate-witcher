@@ -1,0 +1,68 @@
+{
+  "name": "Броня скоя'таэлей",
+  "type": "armor",
+  "img": "icons/equipment/chest/shirt-collared-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi-starshego-naroda.3UKGH6681XfqUPMa"
+    },
+    "cf": {
+      "id": "temp_njuve1krma"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 12,
+    "cost": 2325,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 20,
+    "headMaxStopping": 20,
+    "torsoStopping": 20,
+    "torsoMaxStopping": 20,
+    "leftArmStopping": 20,
+    "leftArmMaxStopping": 20,
+    "rightArmStopping": 20,
+    "rightArmMaxStopping": 20,
+    "leftLegStopping": 20,
+    "leftLegMaxStopping": 20,
+    "rightLegStopping": 20,
+    "rightLegMaxStopping": 20,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "+2 к скрытности в дикой местности"
+      }
+    ],
+    "encumb": 1,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837865,
+    "modifiedTime": 1685496574746,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4crLEUNPzlERNF5E",
+  "folder": "l7EsfQL6fGwe66qi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4crLEUNPzlERNF5E"
+}

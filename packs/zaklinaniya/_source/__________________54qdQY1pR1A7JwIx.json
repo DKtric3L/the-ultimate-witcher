@@ -1,0 +1,60 @@
+{
+  "name": "Остановка времени",
+  "type": "spell",
+  "img": "icons/magic/time/hourglass-yellow-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NwBQ922xRrTAgZHO"
+    },
+    "cf": {
+      "id": "temp_ox1dmapord"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "Вы останавливаете время для всех, кроме себя. Вы можете действовать 2d6/2 ходов, прежде чем время вернется в нормальное русло.",
+    "range": "на себя",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6/2",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дополнительные ходы"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496638904,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "54qdQY1pR1A7JwIx",
+  "folder": "FompVpMZkGLpN1Nf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!54qdQY1pR1A7JwIx"
+}

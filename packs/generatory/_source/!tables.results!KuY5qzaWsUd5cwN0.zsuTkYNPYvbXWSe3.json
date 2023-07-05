@@ -1,0 +1,16 @@
+{
+  "text": "Кольчужное Усиление",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-shield.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "zsuTkYNPYvbXWSe3",
+  "documentId": "EWj2rov3xscKDfkZ",
+  "flags": {},
+  "_key": "!tables.results!KuY5qzaWsUd5cwN0.zsuTkYNPYvbXWSe3"
+}

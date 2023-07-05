@@ -1,0 +1,46 @@
+{
+  "name": "Голосовые связки ослизга",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/vocal_cords_siren_64x64.png.6958.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 99,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Slyzards",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_fg9eec92znn",
+      "color": "#af76b7"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.8ZvEqEo1bg52edrB"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1669962666063,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "C06X1FM5uC1mR5K4",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!QdpnQpyVmID9dpxE.C06X1FM5uC1mR5K4"
+}

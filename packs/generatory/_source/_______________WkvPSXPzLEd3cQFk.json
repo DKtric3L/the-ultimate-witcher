@@ -1,0 +1,47 @@
+{
+  "name": "Случайный глиф",
+  "description": "A random table created from the contents of the Глифы Folder.",
+  "results": [
+    "XygSZIdhB9cUOyGu",
+    "ktZPWGavi4rrYmnq",
+    "nr2L8CglMiAKBD42",
+    "5sHKspkCqS7hMHQC",
+    "j8Cce6n26B51fKiW",
+    "ObZ9dYccMRXufY2G",
+    "ZKzGgB575nQo1dEz",
+    "cz0bYzRZPVjUogZU",
+    "p8gV7ypGkz8kA2DP"
+  ],
+  "formula": "1d9",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "38fd36d91677bddb479c962aae209662b40d33e6",
+      "sourceId": "RollTable.FkoQQW1oRzSXEOcI"
+    },
+    "core": {
+      "sourceId": "RollTable.FkoQQW1oRzSXEOcI"
+    },
+    "cf": {
+      "id": "temp_xters3vqr27"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672738657323,
+    "modifiedTime": 1685496644685,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TYaDuD5wiTFyeLxV",
+  "sort": 0,
+  "_id": "WkvPSXPzLEd3cQFk",
+  "_key": "!tables!WkvPSXPzLEd3cQFk"
+}

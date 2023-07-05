@@ -1,0 +1,16 @@
+{
+  "text": "Бригантина",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "_id": "dllrw5oykpdha6qg",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "nOD2aZBv70pznqra",
+  "_key": "!tables.results!y4812hCEgD5hikg4.dllrw5oykpdha6qg"
+}

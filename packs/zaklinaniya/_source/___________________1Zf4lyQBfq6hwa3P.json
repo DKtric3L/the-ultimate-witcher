@@ -1,0 +1,57 @@
+{
+  "name": "Магическая кузница",
+  "type": "spell",
+  "img": "icons/tools/smithing/furnace-fire-metal-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rvnwo8w74yf"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Магическая кузница позволяет создавать волшебный огонь, который можно использовать для очистки металла. Когда слитки металла помещаются в этот огонь, их примеси сгорают, что облегчает их восстановление после неудачной попытки изготовления. На этапе Восстановления любые использованные очищенные слитки автоматически восстанавливаются. Кроме того, созданный огонь действует как Походная кузница для целей крафта, но не может быть использована на двимерите.\n\nСлитки, созданные Магической кузницей, ничем не отличаются и не являются магическими, а это означает, что трудно убедить торговца или мастера заплатить за них более высокую цену, не продемонстрировав их чистоту",
+    "range": "2м",
+    "duration": "1 день",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892163,
+    "modifiedTime": 1685496638009,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1Zf4lyQBfq6hwa3P",
+  "folder": "D2ZubvkjQZuPCeQt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1Zf4lyQBfq6hwa3P"
+}

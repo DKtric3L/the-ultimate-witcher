@@ -1,0 +1,16 @@
+{
+  "_id": "th9s2aW3pwS3ZZX2",
+  "flags": {},
+  "type": 0,
+  "text": "Удача - Прирученный зверь. Вы сумели приручить дикое животное. Совершите бросок 1d10: 1-7 дикая собака, от 8 до 10 - волк.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GEA8vo04ZhKaDAEG.th9s2aW3pwS3ZZX2"
+}

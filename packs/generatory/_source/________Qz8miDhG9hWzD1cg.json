@@ -1,0 +1,47 @@
+{
+  "name": "Редания",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "bh4A3pMuM1PkD9He",
+    "h1yLIYMCIBlq3tCY",
+    "segMrTqGNUVQtesy",
+    "T4uzfy4u20mkW12k",
+    "ruNQjqizPqrcONeZ",
+    "LVTZfEA5hhD35WLc",
+    "brwGgZJP1hLlg72d",
+    "TjTXNZNqc5WBIX10",
+    "hocdRjZ2XcKLeymQ",
+    "wWQNwnn6wjZWxbAE",
+    "r7HfhczgfoeadJ8l",
+    "8LMNddu47D10Bmf8",
+    "2dXlIo5mZlLL8XH3"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "Qz8miDhG9hWzD1cg",
+  "_key": "!tables!Qz8miDhG9hWzD1cg"
+}

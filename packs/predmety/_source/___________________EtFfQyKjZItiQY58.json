@@ -1,0 +1,51 @@
+{
+  "name": "Скеллигское стремя",
+  "type": "enhancement",
+  "img": "icons/tools/fasteners/chain-brass-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.EtFfQyKjZItiQY58"
+    },
+    "cf": {
+      "id": "temp_frzayswlhnf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 375,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "Everywhere",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Повышает надёжность арбалета на +5 и позволяет использовать его в\nкачестве дробящего оружия ближнего боя с уроном, равным урону от\nвыстрела, но со штрафом к точности -1"
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603273,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EtFfQyKjZItiQY58",
+  "folder": "AVzS20lEfUPVxlW1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!EtFfQyKjZItiQY58"
+}

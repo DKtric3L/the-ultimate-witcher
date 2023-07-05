@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Случайный Фульгор",
+  "img": "systems/TheWitcherTRPG/assets/images/fulgur.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "nEhHrX4DD1Ixu99L",
+  "_id": "W4Otx0yIqvPthAhS",
+  "flags": {},
+  "_key": "!tables.results!KazdLyCjT8qCW9UV.W4Otx0yIqvPthAhS"
+}

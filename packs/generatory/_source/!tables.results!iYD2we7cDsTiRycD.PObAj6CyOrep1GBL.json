@@ -1,0 +1,16 @@
+{
+  "text": "Магическая кузница",
+  "type": 2,
+  "img": "icons/tools/smithing/furnace-fire-metal-orange.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "PObAj6CyOrep1GBL",
+  "documentId": "1Zf4lyQBfq6hwa3P",
+  "flags": {},
+  "_key": "!tables.results!iYD2we7cDsTiRycD.PObAj6CyOrep1GBL"
+}

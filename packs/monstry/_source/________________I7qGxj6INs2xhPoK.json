@@ -1,0 +1,60 @@
+{
+  "_id": "I7qGxj6INs2xhPoK",
+  "name": "Огненное клеймо",
+  "type": "spell",
+  "img": "icons/magic/symbols/rune-sigil-red-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.pPLy9shwoUS2tC0O"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Огненное клеймо позволяет нанести на обнажённую кожу цели клеймо с простым символом или словом. Клеймо наносит ld6 урона и оставляет большой шрам на всю жизнь.",
+    "range": "8м",
+    "duration": "Мгновенное",
+    "defence": "Нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!18gHB3Adpvb9PMks.I7qGxj6INs2xhPoK"
+}

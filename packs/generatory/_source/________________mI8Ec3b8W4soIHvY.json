@@ -1,0 +1,42 @@
+{
+  "name": "Мастер - Воздух",
+  "description": "A random table created from the contents of the Воздух Folder.",
+  "results": [
+    "QBTEe7VeveEEul7D",
+    "Qoc2qnqsVFgjyoNt",
+    "zM2fp4WXIhDZ4Vcs",
+    "13oNH1E3DQGytxeq"
+  ],
+  "formula": "1d4",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d91b288fb30be2fa611c2b30beb343f9c162edfc",
+      "sourceId": "RollTable.M29jCuPyUGG0OjEz"
+    },
+    "core": {
+      "sourceId": "RollTable.M29jCuPyUGG0OjEz"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593740069,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "mI8Ec3b8W4soIHvY",
+  "_key": "!tables!mI8Ec3b8W4soIHvY"
+}

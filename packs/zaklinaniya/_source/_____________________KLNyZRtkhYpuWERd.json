@@ -1,0 +1,52 @@
+{
+  "name": "Прикосновение молнии",
+  "type": "spell",
+  "img": "icons/magic/lightning/claws-unarmed-strike-teal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_8d23sz774xs"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Прикосновение молнии позволяет наполнить неподвижный металлический предмет мощным зарядом электричества. При наложении этого заклинания объект становится электрической ловушкой, которая наносит 1d6 урона первому месту на теле, которое его касается. Это заклинание можно зарядить, потратив дополнительные раунды, сосредоточившись на нем во время сотворения. За каждый раунд, в течение которого вы продолжаете удерживать объект и тратить энергию на его поддержание , ловушка наносит дополнительно 1d6 урона (максимум 8d6 всего). Если объект перемещается прежде, чем он коснется тела, он теряет все заряды. Кроме того, через 24 часа после произнесения заклинания объект теряет все заряды. Требуется проверка Внимания со Сл:20, чтобы определить, что объект был затронут этим заклинанием.",
+    "range": "2м",
+    "duration": "Актив(5 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6-8d6",
+    "effects": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496637983,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "KLNyZRtkhYpuWERd",
+  "folder": "qEnUV4TFfXrvClWj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!KLNyZRtkhYpuWERd"
+}

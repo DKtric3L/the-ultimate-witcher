@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Укрепленное дерево",
+  "img": "icons/commodities/wood/lumber-stack-brown3.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "jbOKNow5x4U1S9KM",
+  "_id": "kb8Aknl9dhKTJUIk",
+  "flags": {},
+  "_key": "!tables.results!UsMLn6LlS08K6zwk.kb8Aknl9dhKTJUIk"
+}

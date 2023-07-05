@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Порча глашатая",
+  "type": "effect",
+  "img": "icons/skills/wounds/injury-face-impact-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.vbVJoqmBBqXdeW6X"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Жертва не может контролировать громкость своего голоса. Всякий раз, когда жертва хочет заговорить, она должна бросить 1d6. На 1 или 2 она шепчет, на 5 или 6 - кричит, а на 3 или 4 - говорит на средней громкости.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883185,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "W13pKYnAnjaeJqp7",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!W13pKYnAnjaeJqp7"
+}

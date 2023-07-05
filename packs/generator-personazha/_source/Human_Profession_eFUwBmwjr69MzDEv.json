@@ -1,0 +1,44 @@
+{
+  "name": "Human Profession",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "txWHzHySbKVqvVJy",
+    "gknOuUjTzhNobwBf",
+    "4KzVuwtnuwZv7YtD",
+    "nazai4pjRrZQol7v",
+    "RL96ak8Y8PedDk55",
+    "1ESjbfj4crmoTCGI",
+    "mq2PwohwHs5RnB5N",
+    "sEgnzX8uKdOesEO3",
+    "TAqa3U3Hkb74BuhC"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.generator-dop-tablicy.ZSSaEVLn53BVQ77b"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917373,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "eFUwBmwjr69MzDEv",
+  "_key": "!tables!eFUwBmwjr69MzDEv"
+}

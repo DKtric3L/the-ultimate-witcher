@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "5mkQM7qy7aZ4LE6B",
+  "text": "Деревня",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!vqNUVoqMmRseEsgP.5mkQM7qy7aZ4LE6B"
+}

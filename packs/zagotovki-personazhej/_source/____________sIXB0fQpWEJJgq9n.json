@@ -1,0 +1,62 @@
+{
+  "name": "Гидромантия",
+  "type": "spell",
+  "img": "icons/magic/water/tendrils-ice-growth.webp",
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Гидромантия позволяет на небольшой водной поверхности просмотреть событие, произошедшее (или ещё происходящее) в пределах двух дней до текущего момента. Для просмотра прошедшего события СЛ равна 15, а при попытке просмотреть событие, происходящее в данный момент, СЛ увеличивается на 3. Если на месте происходящего события окажется маг, он может почувствовать слежку, совершив проверку Магических познаний со СЛ, равной результату проверки Проведения ритуалов.",
+    "range": "",
+    "duration": "Актив(2 вын)",
+    "defence": "",
+    "components": "небольшая водная поверхность или чаша с водой, лунная крошка(xl), пятая эссенция(х2), лепестки белого мирта(х2), жемчуг(х2), плод берберки(xl)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "15(18)",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.3fJOLTXalN3XfuGw"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892156,
+    "modifiedTime": 1671034743370,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "sIXB0fQpWEJJgq9n",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.sIXB0fQpWEJJgq9n"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "th9s2aW3pwS3ZZX2",
+  "flags": {},
+  "type": 0,
+  "text": "Убит друг или любимый - Бросьте 1d10: 1-3 убит чудовищем, 4-6 его казнили, 7-8 жертва убийцы, 9-10 его отравили.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!T6UvpRgRnhXp4gV7.th9s2aW3pwS3ZZX2"
+}

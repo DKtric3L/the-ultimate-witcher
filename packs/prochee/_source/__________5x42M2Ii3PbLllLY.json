@@ -1,0 +1,61 @@
+{
+  "name": "Активация",
+  "type": "weapon",
+  "_id": "5x42M2Ii3PbLllLY",
+  "img": "icons/skills/melee/blade-tips-triple-steel.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющий",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "3d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "1",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Если у цели нет брони на ногах, то она получает среднее критическое ранение «Перелом ноги».",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668183168798,
+    "modifiedTime": 1668183193900,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_key": "!actors.items!PFxvQYT5vn1reDgL.5x42M2Ii3PbLllLY"
+}

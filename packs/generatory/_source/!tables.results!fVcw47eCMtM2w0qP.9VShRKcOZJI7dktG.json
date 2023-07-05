@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    28,
+    28
+  ],
+  "drawn": false,
+  "text": "Формула: Отвар из элементаля",
+  "img": "icons/sundries/documents/document-symbol-person-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "ZRDnDrRe6DspvSpP",
+  "_id": "9VShRKcOZJI7dktG",
+  "flags": {},
+  "_key": "!tables.results!fVcw47eCMtM2w0qP.9VShRKcOZJI7dktG"
+}

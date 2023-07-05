@@ -1,0 +1,16 @@
+{
+  "_id": "ts84cRjou8LMlLD4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей казнили по ложному обвинению. То ли они стали козлами отпущения, то ли оказались не в том месте и не в то время.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BVAifyDThmUYivmt.ts84cRjou8LMlLD4"
+}

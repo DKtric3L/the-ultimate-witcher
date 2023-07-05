@@ -1,0 +1,16 @@
+{
+  "_id": "GFG68ttIcxp5FIM9",
+  "type": 0,
+  "text": "Обучение боевой магии. Вы провели десятилетие, тренируясь, чтобы сражаться с другими пользователями магии и сопротивляться их силе. Вы получаете +1 к Сопротивлению магии.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ENltA9xkbh8cljBm.GFG68ttIcxp5FIM9"
+}

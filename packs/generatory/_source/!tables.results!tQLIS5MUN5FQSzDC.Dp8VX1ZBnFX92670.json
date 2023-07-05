@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Бес",
+  "img": "modules/the-ultimate-witcher/assets/monsters/devil.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "gXjtJ2Kw9QcTbJvM",
+  "_id": "Dp8VX1ZBnFX92670",
+  "flags": {},
+  "_key": "!tables.results!tQLIS5MUN5FQSzDC.Dp8VX1ZBnFX92670"
+}

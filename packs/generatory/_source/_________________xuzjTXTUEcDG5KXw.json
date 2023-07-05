@@ -1,0 +1,44 @@
+{
+  "name": "Виды препятствий",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "x39IJl4XjwBQ6oCA",
+    "mPM3gDRO4zK3O0XZ",
+    "EEoPRV5iigXgOX5w",
+    "krYmrbPPKkjT3rWZ",
+    "O9VKKaW6CmsXWZvL",
+    "mEso8jAwsSAqPzv1",
+    "1BsGllUePRC5ZvTi",
+    "cj00zhH20TXyBGSk",
+    "ODYC4yKdGJWMzG5u",
+    "IgEOHp24VlseXsXq"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "xuzjTXTUEcDG5KXw",
+  "_key": "!tables!xuzjTXTUEcDG5KXw"
+}

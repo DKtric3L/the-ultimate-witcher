@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Пурпурная археспора",
+  "img": "modules/the-ultimate-witcher/assets/monsters/archespore_purple.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "13Rvoq4ea3GV51vn",
+  "_id": "LIcWY3mhoAITC9NS",
+  "flags": {},
+  "_key": "!tables.results!zr9cLesDWkcJHfms.LIcWY3mhoAITC9NS"
+}

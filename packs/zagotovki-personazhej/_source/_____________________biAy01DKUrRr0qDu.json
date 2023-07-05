@@ -1,0 +1,47 @@
+{
+  "name": "Медальон школы волка",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/medallions/wolf.png",
+  "system": {
+    "description": "Начинает дрожать, если в радиусе 20 метров есть чудовище или источник магии.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_sdiu4u3femp"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.GQU54MGOSvqeI99B"
+    },
+    "scene-packer": {
+      "hash": "68caed4453ff37ba6417b98742402d901e6851b5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1668162887306,
+    "modifiedTime": 1672538931955,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "biAy01DKUrRr0qDu",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!84b1V2oC2ohXF2yr.biAy01DKUrRr0qDu"
+}

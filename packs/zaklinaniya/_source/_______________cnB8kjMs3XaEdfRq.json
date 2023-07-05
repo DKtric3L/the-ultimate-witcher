@@ -1,0 +1,65 @@
+{
+  "name": "Водный всплеск",
+  "type": "spell",
+  "img": "icons/magic/water/projectiles-ice-explosion.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6oLx9wpNfJWq1685"
+    },
+    "cf": {
+      "id": "temp_jbsyq0q4p1r"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Заклинатель создает небольшое количество воды и бросает ее в противника. Цель получает 5d6 дробящего урона и сбита с ног. На 1d6 раундов цель также становится уязвима для урона электричеством. Если цель блокирует удар, она все равно сбивается с ног.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дробящий урон"
+      },
+      {
+        "id": "_gfc5v84jc",
+        "name": "1d6 раундов уязвимость к электричеству",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892155,
+    "modifiedTime": 1685496638834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cnB8kjMs3XaEdfRq",
+  "folder": "AEZFF14cMz7MkSyA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cnB8kjMs3XaEdfRq"
+}

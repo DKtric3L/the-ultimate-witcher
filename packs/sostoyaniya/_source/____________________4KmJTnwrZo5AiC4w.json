@@ -1,0 +1,34 @@
+{
+  "name": "Перелом руки (стаб)",
+  "type": "effect",
+  "img": "icons/skills/wounds/bone-broken-knee-beam.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0okd4sumrx3o"
+    }
+  },
+  "system": {
+    "description": "Персонаж получил перелом руки. Штраф -2 ко всем действиям этой рукой.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883171,
+    "modifiedTime": 1685496621814,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4KmJTnwrZo5AiC4w",
+  "folder": "popcTSR0VPsBTxwV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4KmJTnwrZo5AiC4w"
+}

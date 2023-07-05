@@ -1,0 +1,60 @@
+{
+  "name": "Ритуал козьей шкуры",
+  "type": "spell",
+  "img": "icons/creatures/mammals/goat-horned-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Ac90vL0IVsFeYcIH"
+    },
+    "cf": {
+      "id": "temp_edwyou57yq"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "ГОЭТИЯ! Если не знаешь о чем речь, не лезь сюда.\n\nПроцесс: Ритуал козьей шкуры — это сложный ритуал, используемый для создания Мантии из козьей шкуры, которая защищает практикующих гоетиков во время их ритуалов. Во время этого ритуала практикующий, который должен воздерживаться от всех плотских удовольствий и предварительно поститься в течение двух недель, должен помазать козу маслом, настоянным на лепестках гинации и морозника, и возложить на ее голову венок из вербены и шелка. В начале ритуала практикующий должен убить козу, снять с нее кожу и бросить тело в горящий костер из дерева и костей животных. Пока коза горит, практикующий должен читать непрерывную серию защитных молитв. Когда огонь догорит, практикующий должен взять пепел от костра и втереть его в шкуру козы, а затем обжечь ее и прикрепить застежки, сделанные из козьих костей.\n\nЭффект: Вы создаете одну мантию из козьей кожи",
+    "range": "",
+    "duration": "мгновенное",
+    "defence": "",
+    "components": "коза (x1), масло (x5), уголь (x1), Кинжал из кровавого камня, лепестки гинации (x2), лепестки морозника (x3), дубильные травы (x3), вербена (x4), древесина (x10), кости животных (x3), шелк (x1). ДОПЛАТА - 639 крон.",
+    "alternateComponents": "",
+    "preparationTime": "30 раундов",
+    "dificultyCheck": "16",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496637624,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pEM5a2P0psRJ4Zm5",
+  "folder": "hgixJd3wpr9AXLlR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pEM5a2P0psRJ4Zm5"
+}

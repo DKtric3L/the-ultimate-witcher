@@ -1,0 +1,42 @@
+{
+  "name": "Помет Черта",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/dust_gargoyle_64x64.png.6878.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.5,
+    "cost": 78,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Черт и место обитания",
+    "quantityObtainable": "1d6/2",
+    "forage": "20",
+    "substanceType": "caelum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.world.komponenty.QaOLTljeu1T1xrhW"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1669965314520,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "E6BFxlzbyq7mongd",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!yelCsVVeLxe8FuaQ.E6BFxlzbyq7mongd"
+}

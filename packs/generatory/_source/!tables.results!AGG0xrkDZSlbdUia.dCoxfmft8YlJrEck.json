@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Чертеж - модификации арбалета - Мастер",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "UVKcYmOKVfsAkLR9",
+  "_id": "dCoxfmft8YlJrEck",
+  "flags": {},
+  "_key": "!tables.results!AGG0xrkDZSlbdUia.dCoxfmft8YlJrEck"
+}

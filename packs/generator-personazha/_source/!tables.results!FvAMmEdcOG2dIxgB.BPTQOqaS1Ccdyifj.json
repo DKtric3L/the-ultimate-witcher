@@ -1,0 +1,16 @@
+{
+  "_id": "BPTQOqaS1Ccdyifj",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Торговцы. Вы росли, продавая товары со всей империи, и повидали разные экзотические изделия со всего мира. Начальное снаряжение - 2 Знакомых.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!FvAMmEdcOG2dIxgB.BPTQOqaS1Ccdyifj"
+}

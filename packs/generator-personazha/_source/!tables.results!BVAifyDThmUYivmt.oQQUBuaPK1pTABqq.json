@@ -1,0 +1,16 @@
+{
+  "_id": "oQQUBuaPK1pTABqq",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Родители продали вас за золото или обменяли на какие-то вещи или услуги. Похоже, золото было им нужнее, чем вы.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BVAifyDThmUYivmt.oQQUBuaPK1pTABqq"
+}

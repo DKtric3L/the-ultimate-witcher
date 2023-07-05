@@ -1,0 +1,16 @@
+{
+  "text": "Гроза",
+  "type": 2,
+  "img": "icons/magic/lightning/bolt-forked-large-blue.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "Qoc2qnqsVFgjyoNt",
+  "documentId": "2IVtbtpdsqhHuT1L",
+  "flags": {},
+  "_key": "!tables.results!mI8Ec3b8W4soIHvY.Qoc2qnqsVFgjyoNt"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "p0WUkxWYGUPh4gEB",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Разумное чудовище. Наибольшее влияние на вас оказало разумное чудовище, научившее вас, что не все чудовища - зло. Снаряжение - Странный тотем.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!iP5n1i6qzSCZaoEy.p0WUkxWYGUPh4gEB"
+}

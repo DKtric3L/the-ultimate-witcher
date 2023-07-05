@@ -1,0 +1,44 @@
+{
+  "name": "Цвет одежды",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "oehlIvnLOPIcYTB9",
+    "j5NlxH4XmlVIdV8n",
+    "mH0W28fxSv3qQe0A",
+    "uuVP3G9ekkK5681V",
+    "rLtFsWPf3XwlVx5e",
+    "LkSZnt3hgegNDI80",
+    "nMDEylUpgMzWQ5Oe",
+    "uzEFduRY2RnB4yxd",
+    "94UVRHXB48Ty81Jv",
+    "76Djao5C9fryukPV"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "FyyEZcabCMDVJ1rL",
+  "_key": "!tables!FyyEZcabCMDVJ1rL"
+}

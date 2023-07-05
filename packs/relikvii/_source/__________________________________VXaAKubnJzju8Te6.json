@@ -1,0 +1,83 @@
+{
+  "name": "Доспехи военачальника дикой охоты",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-steel-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-dospehov.xAwmCJqpLvrJw2cM"
+    },
+    "cf": {
+      "id": "temp_uj8iaif803"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 35,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 30,
+    "headMaxStopping": 30,
+    "torsoStopping": 30,
+    "torsoMaxStopping": 30,
+    "leftArmStopping": 30,
+    "leftArmMaxStopping": 30,
+    "rightArmStopping": 30,
+    "rightArmMaxStopping": 30,
+    "leftLegStopping": 30,
+    "leftLegMaxStopping": 30,
+    "rightLegStopping": 30,
+    "rightLegMaxStopping": 30,
+    "type": "Heavy",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сопротивление яду"
+      },
+      {
+        "id": "_4dh36h781",
+        "name": "+4 сопротивление магии",
+        "percentage": ""
+      },
+      {
+        "id": "_45wln8kjm",
+        "name": "+4 сотворение заклинаний",
+        "percentage": ""
+      },
+      {
+        "id": "_ojbrf7b66",
+        "name": "+3 энергии",
+        "percentage": ""
+      }
+    ],
+    "encumb": 1,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": true,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877954,
+    "modifiedTime": 1685496616922,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VXaAKubnJzju8Te6",
+  "folder": "PRppF7wbRYRReD1k",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VXaAKubnJzju8Te6"
+}

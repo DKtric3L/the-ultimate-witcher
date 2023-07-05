@@ -1,0 +1,42 @@
+{
+  "name": "Когти химеры",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/claw_monstrous.png.6874.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/3",
+    "weight": 5,
+    "cost": 205,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Frighteners",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.V9yLOtXAu3H5LRyu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669963950119,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "dVgyoAUFpliVjfUf",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!8T6WvA4ZCWgaXb3t.dVgyoAUFpliVjfUf"
+}

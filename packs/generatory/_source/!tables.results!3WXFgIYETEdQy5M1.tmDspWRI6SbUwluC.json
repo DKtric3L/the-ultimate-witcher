@@ -1,0 +1,16 @@
+{
+  "text": "Зоря",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/zorya.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "tmDspWRI6SbUwluC",
+  "documentId": "KP85Nu9oNelUWdHR",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.tmDspWRI6SbUwluC"
+}

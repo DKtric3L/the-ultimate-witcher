@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "7PXxEAJpwwSa06NN",
+  "text": "Обычная атака + Перемещение на СКОР/2",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!H6UJEPxrbtI1gZ8q.7PXxEAJpwwSa06NN"
+}

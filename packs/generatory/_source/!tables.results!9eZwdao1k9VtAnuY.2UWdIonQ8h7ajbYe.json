@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Необычный заказ - цена живьем",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "NNzGcBvEtf8ylxqr",
+  "_id": "2UWdIonQ8h7ajbYe",
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.2UWdIonQ8h7ajbYe"
+}

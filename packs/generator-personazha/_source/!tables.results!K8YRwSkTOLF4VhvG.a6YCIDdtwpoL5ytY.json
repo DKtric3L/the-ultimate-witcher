@@ -1,0 +1,16 @@
+{
+  "_id": "a6YCIDdtwpoL5ytY",
+  "flags": {},
+  "type": 2,
+  "text": "Parental Fate: Elderland",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "UR8Ih5M1voywvHL2",
+  "_key": "!tables.results!K8YRwSkTOLF4VhvG.a6YCIDdtwpoL5ytY"
+}

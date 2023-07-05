@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Новичок - Вода",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "QAlSdMxFlJZykWcC",
+  "_id": "NZBaRDmGPGadtotr",
+  "flags": {},
+  "_key": "!tables.results!sgbHp1FLCjvxzyZO.NZBaRDmGPGadtotr"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Телекоммуникация",
+  "type": "spell",
+  "img": "icons/magic/unholy/hands-cloud-light-pink.webp",
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Телекоммуникатор позволяет связаться с тем, у кого есть такое же устройство. Ритуал прост, но для его проведения у обоих собеседников должен быть телекоммуникатор и они оба должны провести ритуал. Данный ритуал позволяет общаться на огромном расстоянии, из любых уголков Континента.",
+    "range": "",
+    "duration": "1 час",
+    "defence": "",
+    "components": "Телекоммуникатор",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "нет",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.4BW1jmePCfQk7QU4"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892175,
+    "modifiedTime": 1671034749602,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "4zSdHx7mLAz1ZIKs",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.4zSdHx7mLAz1ZIKs"
+}

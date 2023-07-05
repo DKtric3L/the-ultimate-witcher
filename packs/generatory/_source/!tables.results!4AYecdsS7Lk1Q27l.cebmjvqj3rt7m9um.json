@@ -1,0 +1,16 @@
+{
+  "text": "Сигнальный рожок",
+  "type": 2,
+  "img": "icons/commodities/bones/horn-worn-beige.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "cebmjvqj3rt7m9um",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "s4LtkKWmyTY6dnSq",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.cebmjvqj3rt7m9um"
+}

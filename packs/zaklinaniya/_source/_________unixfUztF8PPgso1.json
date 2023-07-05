@@ -1,0 +1,57 @@
+{
+  "name": "Коррозия",
+  "type": "spell",
+  "img": "icons/magic/unholy/hand-weapon-glow-black-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zj30gssz7x"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "14",
+    "staminaIsVar": false,
+    "effect": "Ржавчина позволяет излучать брызги химически активной воды, которая быстро окисляет металлические предметы. Если использовать это заклинание на доспехах цели, все их надетые доспехи получают 2d6 разрушающего урона, а ношение любого из них накладыывает штраф -2 на Реакцию, Ловкость и Скорость. Если использовать это заклинание на оружии цели, оружие получает урон Надежности 2d6 и накладывает -2 на атаки, совершенные им. Если это заклинание блокируется щитом, щит получает урон Надежности 2d6. Коррозию, созданную этим заклинанием, можно удалить с 10 предметов, потратив час на проверку Ремесла Сл: 14",
+    "range": "4м",
+    "duration": "постоянное",
+    "defence": "укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496638034,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "unixfUztF8PPgso1",
+  "folder": "hCWlGuK2kocnUbkH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!unixfUztF8PPgso1"
+}

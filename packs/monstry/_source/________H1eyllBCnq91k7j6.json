@@ -1,0 +1,44 @@
+{
+  "name": "Неясыть",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/tawny_owl.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 19,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Каждый раз, когда вы выполняете действие\nотдыха, чтобы восстановить Вын, получите\nдополнительно 2 Вын.",
+    "time": "20 раундов",
+    "toxicity": "50%"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.Esqnw7wffx4I5pOj"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887308,
+    "modifiedTime": 1669961992123,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "H1eyllBCnq91k7j6",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dxyWHzqdwqA0HCFh.H1eyllBCnq91k7j6"
+}

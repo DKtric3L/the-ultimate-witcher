@@ -1,0 +1,57 @@
+{
+  "name": "Божественная удача(Крева)",
+  "type": "spell",
+  "img": "icons/magic/control/buff-luck-fortune-rainbow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Взывая к Креве, заклинатель получает силу божественного провидения. Во время действия заклинания вы можете потратить количество очков Удачи, равное утроенному значению вашего навыка Сотворение заклинаний. Вы можете добавить эти очки к любому сделанному вами броску, а также давать штрафы или бонусы к броскам любого, кто находится не далее чем в 10 метрах от вас.",
+    "range": "на себя/10м",
+    "duration": "1 час",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892153,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "oTQDAMwVyj5qXNsC",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oTQDAMwVyj5qXNsC"
+}

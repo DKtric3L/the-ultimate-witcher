@@ -1,0 +1,60 @@
+{
+  "name": "Разлагающий удар",
+  "type": "spell",
+  "img": "icons/magic/acid/dissolve-pool-bubbles.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.DodieVUxsuflKXZf"
+    },
+    "cf": {
+      "id": "temp_emoosop9os6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d6.\nРазлагающий удар добавляет отравление (50%) или болезнь (50%) любому оружию на время действия заклинания.",
+    "range": "10м",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496638691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "trMOUEW1DCpYjY8R",
+  "folder": "pBF6Toru9LWVq3ep",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!trMOUEW1DCpYjY8R"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Эффект: Ирден",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/signs/irden.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.FuJQ90Zul5wNezsO"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Любой вошедший в этот круг (кроме самого заклинателя) получает штраф к Скор и Реа до тех пор, пока не покинет круг. Любое бесплотное существо, вошедшее в круг, становится материальным",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_yno5klpdq",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-1"
+      },
+      {
+        "id": "_bsec60kwv",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aqdpr5XSXK3WD1pN",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!aqdpr5XSXK3WD1pN"
+}

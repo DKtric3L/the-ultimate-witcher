@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Чертеж - усиления брони - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "KuY5qzaWsUd5cwN0",
+  "_id": "2gthTTFos3u8Gxj6",
+  "flags": {},
+  "_key": "!tables.results!aMwMh2HTKIG87rg0.2gthTTFos3u8Gxj6"
+}

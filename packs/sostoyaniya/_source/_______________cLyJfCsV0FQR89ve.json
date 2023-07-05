@@ -1,0 +1,37 @@
+{
+  "name": "Порча забвения",
+  "type": "effect",
+  "img": "icons/magic/control/fear-fright-shadow-monster-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.cLyJfCsV0FQR89ve"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Порча забвения погружает разум субъекта в густой бульон магического мрака, что затрудняет сохранение знаний и воспоминаний. Субъект больше не может получать О.У. через обучение или изучение и практику, больше не может учить кого-то и больше не может изучать новую магию. Кроме того, один раз в день Мастер может призвать субъекта сделать бросок на Сопротивление Магии с Сл:20 или забыть факт, воспоминание, рецепт, заклинание, инвокацию, ритуал, порчу или знак по выбору Мастера до тех пор, пока порча не будет устранена",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883171,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cLyJfCsV0FQR89ve",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cLyJfCsV0FQR89ve"
+}

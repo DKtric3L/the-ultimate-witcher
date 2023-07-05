@@ -1,0 +1,40 @@
+{
+  "_id": "LWwMr8G7YZmLD86o",
+  "name": "Трофей мантикоры",
+  "type": "valuable",
+  "img": "icons/commodities/bones/horn-antler-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.3HoDB1q5JTi1Pcpg"
+    }
+  },
+  "system": {
+    "description": "Вы повышаете СЛ сопротивления или снятия эффектов используемых вами ядов на 2.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!D3bajktqlbQz0p0d.LWwMr8G7YZmLD86o"
+}

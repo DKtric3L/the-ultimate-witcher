@@ -1,0 +1,43 @@
+{
+  "name": "Мутаген: Амфисбена",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-red.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.JNbrCrFXPyCNzbpX"
+    },
+    "cf": {
+      "id": "temp_rbyx8aypau"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "red",
+    "source": "Амфисбены",
+    "effect": "+1 к урону при борьбе",
+    "alchemyDC": "15",
+    "minorMutation": "Острые клыки"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868980,
+    "modifiedTime": 1685496626928,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "folder": "FtXLmapVkCPDlZcW",
+  "sort": 0,
+  "_id": "sCfG7Op9YSTBLpUZ",
+  "_key": "!items!sCfG7Op9YSTBLpUZ"
+}

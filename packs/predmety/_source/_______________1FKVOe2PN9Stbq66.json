@@ -1,0 +1,44 @@
+{
+  "name": "Надежный замок",
+  "type": "valuable",
+  "img": "icons/commodities/metal/fragments-steel-ring.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.PvXs9wvMS78VQI3b"
+    }
+  },
+  "system": {
+    "description": "Взломать его крайне тяжело. Такие стоят в банках и прочих местах, где важна надёжность (проверка Взлома замков со СЛ 18).",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 68,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1FKVOe2PN9Stbq66",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1FKVOe2PN9Stbq66"
+}

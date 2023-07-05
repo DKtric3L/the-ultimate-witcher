@@ -1,0 +1,68 @@
+{
+  "name": "Скелетная павеза",
+  "type": "armor",
+  "img": "icons/equipment/shield/Scutum-steel-worn.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uj8iaif803"
+    },
+    "core": {
+      "sourceId": "Compendium.world.dospehi.Vezh5BUKfOJISyWN"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 8,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 30,
+    "reliabilityMax": 30,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Heavy",
+    "avail": "Poor",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Полное укрытие"
+      }
+    ],
+    "encumb": 1,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877956,
+    "modifiedTime": 1685496616922,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ajC3t8610a8KPsD2",
+  "folder": "PRppF7wbRYRReD1k",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ajC3t8610a8KPsD2"
+}

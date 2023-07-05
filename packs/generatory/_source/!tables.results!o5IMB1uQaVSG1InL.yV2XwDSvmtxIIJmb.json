@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    36,
+    36
+  ],
+  "drawn": false,
+  "text": "Частично исписанный дневник",
+  "img": "icons/sundries/books/book-symbol-fire-gold-orange.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "NJOTuK21VKB0z84N",
+  "_id": "yV2XwDSvmtxIIJmb",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.yV2XwDSvmtxIIJmb"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Арбалет",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uugqhd13qjr"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 455,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 1,
+    "avail": "Everywhere",
+    "damage": "4d6+2",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "2",
+    "range": "100",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Медленно перезаряжается",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Crossbow",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863936,
+    "modifiedTime": 1685496598674,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4xRZ9UopeqdL3B4U",
+  "folder": "OfTUWgpov2wtraF3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4xRZ9UopeqdL3B4U"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "nq9kBferIyAZOEec",
+  "text": "Наниматель хотел поймать чудовище.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!P10CatHPQPUgk5bO.nq9kBferIyAZOEec"
+}

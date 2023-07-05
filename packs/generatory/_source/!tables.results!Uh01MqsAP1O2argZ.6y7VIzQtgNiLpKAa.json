@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Постоялый двор - Есть ли Азартные игры",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "m6e3LS2yJGSOf6uf",
+  "_id": "6y7VIzQtgNiLpKAa",
+  "flags": {},
+  "_key": "!tables.results!Uh01MqsAP1O2argZ.6y7VIzQtgNiLpKAa"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "ИС Дракон - Подвид",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "Wtx5kXZGVeUeWVTE",
+  "_id": "5Y74w4W6YqsnJsxe",
+  "flags": {},
+  "_key": "!tables.results!izTItVmybijLwwAz.5Y74w4W6YqsnJsxe"
+}

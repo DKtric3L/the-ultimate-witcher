@@ -1,0 +1,70 @@
+{
+  "name": "Облако жуков",
+  "type": "spell",
+  "img": "icons/creatures/invertebrates/bee-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_1c4rnttvf2l"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Плотное облако жуков образуется в радиусе 10 м от заклинателя. В этой области царит полная темнота для всех, кроме вас. Любое враждебное существо получает 1d6 колющего урона по всему телу. Даже если атака не проходит сквозь броню, она наносит 1 пункт разрушающего урона.",
+    "range": "на себя",
+    "duration": "2d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "1d6 - Урон жуков"
+      },
+      {
+        "id": "_vzs9mysyu",
+        "name": "2d6 - Длительность заклинания(раунды)",
+        "percentage": ""
+      },
+      {
+        "id": "_9295b9wni",
+        "name": "Броня будет терять прочность, даже если защитила.",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1685496639395,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qRPhX902Zpjknjbz",
+  "folder": "5jxNfYqMGdfsQWI6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qRPhX902Zpjknjbz"
+}

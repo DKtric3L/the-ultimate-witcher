@@ -1,0 +1,44 @@
+{
+  "name": "Доска для покера на костях",
+  "type": "valuable",
+  "img": "icons/commodities/stone/paver-tile-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.sru90RcuReINK88I"
+    }
+  },
+  "system": {
+    "description": "Стандартная доска для покера на костях, ещё и с ёмкостью для бросков. И с десятью костями в комплекте.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 25,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868973,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JxlfcwQ1gI3CLpls",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!JxlfcwQ1gI3CLpls"
+}

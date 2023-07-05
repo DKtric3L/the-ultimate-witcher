@@ -1,0 +1,16 @@
+{
+  "text": "Божественное перо",
+  "type": 2,
+  "img": "icons/skills/wounds/anatomy-organ-brain-pink-red.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "ve4aq39r0lxvlpcu",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "E8dyYPMuTh15SfPu",
+  "_key": "!tables.results!NhqlCImviS9V9dZw.ve4aq39r0lxvlpcu"
+}

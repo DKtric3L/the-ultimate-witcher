@@ -1,0 +1,60 @@
+{
+  "name": "Энергетический зверь",
+  "type": "spell",
+  "img": "icons/creatures/magical/spirit-undead-ghost-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_m5jdkghug28"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Заклинатель призывает существо чистого хаоса в форме любого животного. Эта материализованная энергия получает характеристики этого животного. Зверь не может атаковать, но способен на все остальное, что может делать этот вид животного. У него есть своя воля, но он подчиняется приказам заклинателя, а тот может видеть и слышать все, что делает зверь. Когда ПЗ зверя опускается до 0, он просто исчезает.",
+    "range": "",
+    "duration": "Пока не убито или развеяно",
+    "defence": "",
+    "components": "Пятая эссенция (x5), Дымная пыль (x5), Мелок (x4), Кости животных (x5), Сырое мясо (x5), Винный камень (x2), Склеродерм (x5)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892180,
+    "modifiedTime": 1685496639124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vHTDVN3A8y6azEhp",
+  "folder": "9Po5TIJ5gLDJqbWG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vHTDVN3A8y6azEhp"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Чертеж - усиления брони - Новичок",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "KcbXhapBSKFUbDoU",
+  "_id": "tGdJvL9yUOxTUYWg",
+  "flags": {},
+  "_key": "!tables.results!aMwMh2HTKIG87rg0.tGdJvL9yUOxTUYWg"
+}

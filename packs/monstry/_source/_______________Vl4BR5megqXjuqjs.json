@@ -1,0 +1,42 @@
+{
+  "name": "Слюна Эндриаги",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_vampire_64x64.png.6940.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 38,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Endrega",
+    "quantityObtainable": "1d6",
+    "forage": "15",
+    "substanceType": "vermilion"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.H7wgpCBThNq3Qk7e"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853705,
+    "modifiedTime": 1669964062182,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "Vl4BR5megqXjuqjs",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!Mh1kQU9nEHBmWCLW.Vl4BR5megqXjuqjs"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "YwV6b4RzaUobaHcY",
+  "type": 0,
+  "text": "Твоя семья бросила тебя.",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XPtJiM7Hdi3vq9cL.YwV6b4RzaUobaHcY"
+}

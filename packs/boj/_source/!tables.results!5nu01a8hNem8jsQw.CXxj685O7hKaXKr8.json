@@ -1,0 +1,16 @@
+{
+  "_id": "CXxj685O7hKaXKr8",
+  "type": 0,
+  "text": "Пациент получает 2 урона",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5nu01a8hNem8jsQw.CXxj685O7hKaXKr8"
+}

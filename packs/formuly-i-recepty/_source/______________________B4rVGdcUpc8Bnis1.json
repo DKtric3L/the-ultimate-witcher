@@ -1,0 +1,160 @@
+{
+  "name": "Маска чумного доктора",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Ps7bZ2uMCpS7LsdW"
+    },
+    "cf": {
+      "id": "temp_8yjl1dw9xk"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.CFyVcmRfJJwsXA2h]{Маска чумного доктора}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 850,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Кожа"
+      },
+      {
+        "id": "_s5m2sindf",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_hrsjjotmi",
+        "name": "Кожа драконида",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_fr3ekpngq",
+        "name": "Стекло",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 194,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Маска чумного доктора",
+      "type": "armor",
+      "img": "icons/equipment/head/mask-plague-grey.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 390,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 5,
+        "headMaxStopping": 5,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Light",
+        "avail": "Poor",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Зловеще выглядящая для большинства, эта печально извест- ная маска полностью закрывающая лицо, с капюшоном и стеклянной защитой для глаз и длинным загнутым клювом, куда владелец набивал ароматические нюхательные соли, чтобы защититься от заболевания. Маску чумного докто- ра нельзя носить поверх другой Брони."
+          },
+          {
+            "id": "_r7nhwhp4c",
+            "name": "Снижает риск заражения на 10% в течение одного дня, если внутренняя часть клюва наполнена дозой Нюхательной Соли.",
+            "percentage": ""
+          },
+          {
+            "id": "_g5lh30ddq",
+            "name": "+3 к проверкам выносливости против воздушно-капельных болезней, ядов и тошноте",
+            "percentage": ""
+          }
+        ],
+        "encumb": 0,
+        "location": "Head",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.N7sltWx3IL76UsUq"
+        },
+        "cf": {
+          "id": "temp_mxldaj92pz"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837867,
+        "modifiedTime": 1668162837867,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848420,
+    "modifiedTime": 1685496579825,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "B4rVGdcUpc8Bnis1",
+  "folder": "h2GdPhv84jUFZGxg",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!B4rVGdcUpc8Bnis1"
+}

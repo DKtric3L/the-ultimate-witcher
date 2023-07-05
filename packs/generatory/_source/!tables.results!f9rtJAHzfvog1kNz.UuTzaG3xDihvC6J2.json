@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    26,
+    26
+  ],
+  "drawn": false,
+  "text": "Мелок",
+  "img": "icons/commodities/stone/paver-cobble-white.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "CEC4rv3Rej15ZtKZ",
+  "_id": "UuTzaG3xDihvC6J2",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.UuTzaG3xDihvC6J2"
+}

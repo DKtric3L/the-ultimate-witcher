@@ -1,0 +1,16 @@
+{
+  "text": "Взор природы",
+  "type": 2,
+  "img": "icons/creatures/eyes/slime-single-red.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "_id": "qtroaf4zhjkzlq6s",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "Tb4E30gf9Rz11FRA",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.qtroaf4zhjkzlq6s"
+}

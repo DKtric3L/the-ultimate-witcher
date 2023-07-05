@@ -1,0 +1,57 @@
+{
+  "name": "Портал-ловушка",
+  "type": "spell",
+  "img": "icons/magic/death/skull-weapon-staff-glow-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uo04sybp4yb"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Портал-ловушка позволяет разместить магическую ловушку внутри портала, которая перенаправляет конечную точку портала. После произнесения заклинания вы узнаете конечную точку портала и можете выбрать место в пределах 1.6 км от этой точки в качестве новой конечной точки. Эта ловушка вносит заметное изменение в портал, для обнаружения которого требуется проверка Магического познания Сл: 16 или проверка Образования Сл: 20. Любой, у кого есть хотя бы 1 очко в обучении магии, автоматически получает возможность пройти проверку Магического познания, увидев портал, чтобы попытаться обнаружить ловушку. Сразу же после того, как существо проходит через портал, ловушка рассеивается, но свидетельство того, что портал был ловушкой, остается в течение 1 месяца.",
+    "range": "4м",
+    "duration": "1 мес",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496637929,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "F38htqVAZA7pFvjY",
+  "folder": "Kq5EsZjuyQjP2c1F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!F38htqVAZA7pFvjY"
+}

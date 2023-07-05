@@ -1,0 +1,16 @@
+{
+  "_id": "FSiN9Lz0KFhVSqtl",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей, кто из родителей: Отец",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!YeykB5xTXRnWe7lO.FSiN9Lz0KFhVSqtl"
+}

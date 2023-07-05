@@ -1,0 +1,57 @@
+{
+  "name": "Печать охоты",
+  "type": "spell",
+  "img": "icons/skills/targeting/crosshair-mark-rough-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_agipi719q8m"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Применение Печати Охоты на цель позволяет вам изменить то, как ее воспринимают животные и монстры. После применения этой инвокации вы можете пометить до 6 целей как «безопасные» или «добыча». Цель, помеченная как «безопасная», не беспокоит животных, и любой зверь, с которым они сталкиваются, изначально дружелюбен; и любой монстр, с которым они столкнутся, изначально будет нейтральным. Цель с пометкой «добыча» воспринимается как добыча всеми хищными животными или монстрами. Эти существа будут атаковать цель, как только заметят. Обе метки «Добыча» и «Безопасная» кажутся почти идентичными, но с проверкой Образования DC:16 вы можете заметить разницу",
+    "range": "2м",
+    "duration": "1 день",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892168,
+    "modifiedTime": 1685496638236,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "KoiuWRDvokL1eo6F",
+  "folder": "vVGv53T7kGsdKAdF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!KoiuWRDvokL1eo6F"
+}

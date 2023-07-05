@@ -1,0 +1,42 @@
+{
+  "name": "Когти Гончей Дикой Охоты",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/claw_monstrous.png.6874.png",
+  "system": {
+    "description": "",
+    "quantity": "2",
+    "weight": 1,
+    "cost": 120,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Гончие ДО",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.Up4kKSr4Qplm778I"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669965613692,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "xCjWlUWjbfsJprWu",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dYHSeCFWH3up0KFS.xCjWlUWjbfsJprWu"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Жутко плесневелый хлеб",
+  "img": "icons/commodities/materials/slime-thick-green.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Z1UvgTmEwPbAYtZs",
+  "_id": "Z3kHzz2FULaXPfgI",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.Z3kHzz2FULaXPfgI"
+}

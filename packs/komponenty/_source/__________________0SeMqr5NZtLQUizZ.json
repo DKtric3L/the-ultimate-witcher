@@ -1,0 +1,42 @@
+{
+  "name": "Желудок Мантикоры",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/maw_cockatrice_64x64.png.6929.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_245p1o8sc5y",
+      "color": "#e7c61d"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 189,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Мантикоры",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1685496584212,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0SeMqr5NZtLQUizZ",
+  "folder": "HjNVduTYA5Hnj66m",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0SeMqr5NZtLQUizZ"
+}

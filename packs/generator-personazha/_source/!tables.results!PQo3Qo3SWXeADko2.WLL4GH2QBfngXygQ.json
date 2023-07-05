@@ -1,0 +1,16 @@
+{
+  "_id": "WLL4GH2QBfngXygQ",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Ваш отец погиб в одной из Северных войн. Возможно, он уже был военным или его только призвали на службу, когда началась война.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!PQo3Qo3SWXeADko2.WLL4GH2QBfngXygQ"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Свет истины",
+  "type": "spell",
+  "img": "icons/magic/fire/elemental-fire-humanoid.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a9snocl3pol"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Создаёт яркий белый огонёк, заставляющий одну цель говорить правду. Каждый раунд цель проходит новую проверку. При провале цель должна отвечать правду на любой заданный вопрос.",
+    "range": "5м",
+    "duration": "Актив(2 вын)",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892173,
+    "modifiedTime": 1685496638327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Kukt29D2QsOaCfEQ",
+  "folder": "vseZIvovion73VUQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Kukt29D2QsOaCfEQ"
+}

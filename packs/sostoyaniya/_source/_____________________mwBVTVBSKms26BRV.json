@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Лес марибора",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/potions/maribores_forest.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_d24zge9h815"
+    }
+  },
+  "system": {
+    "description": "15 раундов, 50% токсичности.\nКаждый раз, когда вы получаете кость адреналина, возьмите ещё одну.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883183,
+    "modifiedTime": 1685496622135,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "mwBVTVBSKms26BRV",
+  "folder": "LzDekdlbqkuddQPT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!mwBVTVBSKms26BRV"
+}

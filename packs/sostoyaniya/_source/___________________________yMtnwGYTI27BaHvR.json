@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Фульгор + Киноварь",
+  "type": "effect",
+  "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.sPODG1LtIysJeyWl"
+    },
+    "cf": {
+      "id": "temp_zvo0qme6z8p"
+    }
+  },
+  "system": {
+    "description": "+3 против Запугивания на 1 час.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_fv7s0fgrd",
+        "skill": "WITCHER.SkWillCourage",
+        "modifier": "3"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883187,
+    "modifiedTime": 1685496621964,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "yMtnwGYTI27BaHvR",
+  "folder": "SVDWJ6D7d1oTHirD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!yMtnwGYTI27BaHvR"
+}

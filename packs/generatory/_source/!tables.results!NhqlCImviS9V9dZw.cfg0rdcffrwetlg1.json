@@ -1,0 +1,16 @@
+{
+  "text": "Божественный портал",
+  "type": 2,
+  "img": "icons/magic/air/wind-vortex-swirl-red.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "cfg0rdcffrwetlg1",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "d4XCxpxtPTXzjKax",
+  "_key": "!tables.results!NhqlCImviS9V9dZw.cfg0rdcffrwetlg1"
+}

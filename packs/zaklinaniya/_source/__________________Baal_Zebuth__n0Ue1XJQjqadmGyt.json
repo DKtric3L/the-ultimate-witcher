@@ -1,0 +1,65 @@
+{
+  "name": "Кислотное Дыхание(Baal-Zebuth)",
+  "type": "spell",
+  "img": "icons/magic/acid/projectile-stream-bubbles.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.VVGpXRxJxCLrBzud"
+    },
+    "cf": {
+      "id": "temp_y5c320rzgq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Заклинатель получаете благословение силой Baal-Zebuth. Он можете схожую с огненным дыханием дракона, но наносящую урон магической кислотой и удвоенный разрушающий урон.",
+    "range": "10м",
+    "duration": "мгновенная",
+    "defence": "изм поз, блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "10м",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "7d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Броня теряет 2 пункта прочности"
+      },
+      {
+        "id": "_pbbjru77z",
+        "name": "Урон по всем частям тела",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496639313,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "n0Ue1XJQjqadmGyt",
+  "folder": "MrlJwKcG9EWlHZie",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!n0Ue1XJQjqadmGyt"
+}

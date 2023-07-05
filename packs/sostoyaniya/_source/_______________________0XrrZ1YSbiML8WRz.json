@@ -1,0 +1,48 @@
+{
+  "name": "Эффект: отвар котолака",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/acid.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_bbcgrxjnis"
+    }
+  },
+  "system": {
+    "description": "30 минут, 75% токсичности.\nВы получаете +5 к параметрам ИНТ и РЕМ.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_8cno6j54o",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "5"
+      },
+      {
+        "id": "_ejfilyu0i",
+        "stat": "WITCHER.Actor.Stat.Cra",
+        "modifier": "5"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883185,
+    "modifiedTime": 1685496621987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0XrrZ1YSbiML8WRz",
+  "folder": "lwEwxv6jTNqqSH5w",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0XrrZ1YSbiML8WRz"
+}

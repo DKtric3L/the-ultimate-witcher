@@ -1,0 +1,43 @@
+{
+  "name": "Формула - Новичок",
+  "type": "valuable",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b2ce57bbf262abae5cbe2ca8549c11ce7aefac07"
+    },
+    "core": {
+      "sourceId": "Item.TDTWPb7sjejNJ0Sy"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1672657970466,
+    "modifiedTime": 1672742550672,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "tm0z3SIie8v4krnL",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!BfM8p2v3sSdb52E1.tm0z3SIie8v4krnL"
+}

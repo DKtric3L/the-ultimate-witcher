@@ -1,0 +1,57 @@
+{
+  "name": "Божественное перо",
+  "type": "spell",
+  "img": "icons/skills/wounds/anatomy-organ-brain-pink-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0snrhvir1iqi"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Божественное перо позволяет проникнуть в разум цели и изменить ее воспоминания. Потратив 14 Вын, вы можете заблокировать воспоминания цели, которая не может защититься от этого вызова, вызывая у нее тяжелую ретроградную амнезию. Потратив 16 Вын, вы можете внедрить созданные вами воспоминания в цель, которая не может защититься. Если память цели была заблокирована этим заклинанием, она получает +5 к сопротивлению внедрению этих новых воспоминаний.",
+    "range": "2м",
+    "duration": "постоянное",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892153,
+    "modifiedTime": 1685496638351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "E8dyYPMuTh15SfPu",
+  "folder": "kIuwiWyVmWus24s8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!E8dyYPMuTh15SfPu"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Покров",
+  "type": "spell",
+  "img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uo04sybp4yb"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Покров позволяет сделать себя и все, что вы носите, невидимыми. Это дает вам +10 к Скрытности и +5 к Атаке и Защите. Даже если существо совершает проверку Бдительности, чтобы заметить вас, вы все равно получаете +3 к Атаке и Защите. Ирден или бомба из лунной пыли могут сделать вас частично видимым, снизив ваш бонус Скрытности до +5, а бонус Атаки и Защиты до +3. Если вас атакуют, пока вы невидимы, это заклинание немедленно прекращается.",
+    "range": "на себя",
+    "duration": "актив(вын 2)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496637929,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "zJqtxdrq6ovynuhU",
+  "folder": "Kq5EsZjuyQjP2c1F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zJqtxdrq6ovynuhU"
+}

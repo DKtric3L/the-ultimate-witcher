@@ -1,0 +1,44 @@
+{
+  "name": "Огниво",
+  "type": "valuable",
+  "img": "icons/commodities/stone/geode-raw-black.webp",
+  "system": {
+    "description": "Кусок кремня и колечко из стали. Ударишь ими друг о друга, и вот тебе целый сноп искр, от которого огонёк-то и загорится.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 6,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.JI2B3OHSRauNu9xa"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663424872972,
+    "modifiedTime": 1663424872972,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "nrMRl22zdq4xoGaL",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dGYJGK7TFYppq74h.nrMRl22zdq4xoGaL"
+}

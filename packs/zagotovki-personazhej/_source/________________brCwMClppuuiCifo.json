@@ -1,0 +1,63 @@
+{
+  "name": "Арбалетный болт",
+  "type": "weapon",
+  "img": "icons/weapons/ammunition/arrow-broadhead.webp",
+  "system": {
+    "description": "",
+    "quantity": 20,
+    "weight": 0.1,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_wqarogwgy4k"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.DC48zepBJGPL7evf"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1663422704386,
+    "modifiedTime": 1672566659035,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "brCwMClppuuiCifo",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!TbDY7PdVyaA6e4ar.brCwMClppuuiCifo"
+}

@@ -1,0 +1,154 @@
+{
+  "name": "Боевой топор",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.tSm4mn00PT72pMh7"
+    },
+    "cf": {
+      "id": "temp_ddwqxocukpf"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.Zqngfc2kjl14hzzQ]{Боевой топор}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 786,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_dbpqc4bvf",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_y961fit0e",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_db8rbb5bz",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_yqhexrsbz",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_lnj53neof",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "5"
+      }
+    ],
+    "investment": 389,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Боевой топор",
+      "type": "weapon",
+      "img": "icons/weapons/axes/axe-battle-heavy-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 525,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее",
+          "slashing": true,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Common",
+        "damage": "5d6",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [],
+        "conceal": "L",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Melee",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_o71fael2g4m"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863936,
+        "modifiedTime": 1672565254225,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848409,
+    "modifiedTime": 1685496579717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tSm4mn00PT72pMh7",
+  "folder": "b2anqQiTRYL0jSkN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tSm4mn00PT72pMh7"
+}

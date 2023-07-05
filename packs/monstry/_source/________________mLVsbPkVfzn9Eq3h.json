@@ -1,0 +1,75 @@
+{
+  "_id": "mLVsbPkVfzn9Eq3h",
+  "name": "Атака с разбега",
+  "type": "weapon",
+  "img": "icons/skills/melee/strike-flail-destructive-yellow.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": -2,
+    "avail": "Everywhere",
+    "damage": "7d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "5-10м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Цель отлетает на 5 метров, урон тарана если столкнется с препятствием",
+        "percentage": ""
+      },
+      {
+        "id": "_etqei487l",
+        "name": "При блок проверка силы со сл 25, чтобы не отлететь.",
+        "percentage": ""
+      },
+      {
+        "id": "_ai0qj46xu",
+        "name": "При уклонении утковол продолжает разбег, если ударится о что-то, получит дезориентацию.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!GyTbTuPSLT9hameg.mLVsbPkVfzn9Eq3h"
+}

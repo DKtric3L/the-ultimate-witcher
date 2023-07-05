@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "DMVOLWyfEQe1t70s",
+  "text": "Напал на крупный город - Этот дракон совершил налёт на крупный город Континента и награбил сокровищ на тысячи крон, вписав своё имя в историю Континента. Он получает +8 к репутации.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Nk7xscPABXk5l6mM.DMVOLWyfEQe1t70s"
+}

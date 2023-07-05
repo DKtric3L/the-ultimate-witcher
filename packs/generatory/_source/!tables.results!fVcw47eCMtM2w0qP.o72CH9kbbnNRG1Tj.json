@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    24,
+    24
+  ],
+  "drawn": false,
+  "text": "Формула: Отвар из лешего",
+  "img": "icons/sundries/documents/document-symbol-person-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "YL5DsZBkEUagQrLt",
+  "_id": "o72CH9kbbnNRG1Tj",
+  "flags": {},
+  "_key": "!tables.results!fVcw47eCMtM2w0qP.o72CH9kbbnNRG1Tj"
+}

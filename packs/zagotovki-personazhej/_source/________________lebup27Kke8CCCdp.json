@@ -1,0 +1,44 @@
+{
+  "name": "Наплечная сумка",
+  "type": "valuable",
+  "img": "icons/containers/bags/pack-leather-embossed-brown.webp",
+  "system": {
+    "description": "Закидываешь её на плечо и спокойно перетаскиваешь целых 30 кг небольших предметов.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 14,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.mmTjc3XS7bNhxvku"
+    },
+    "cf": {
+      "id": "temp_r3stwb3cdz"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1671035092655,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "lebup27Kke8CCCdp",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.lebup27Kke8CCCdp"
+}

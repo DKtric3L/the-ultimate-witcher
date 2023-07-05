@@ -1,0 +1,178 @@
+{
+  "name": "Ручной арбалет",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.O4cWD7gQNpTk4QIz"
+    },
+    "cf": {
+      "id": "temp_ddwqxocukpf"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.dCyiwQNfw2uexbXz]{Ручной арбалет}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 426,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "8ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_vp7c3intv",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_lx51q3mih",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_y9vvwv9io",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ogwwm17wh",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_df7tc198i",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_ku7xhwnf1",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ralyikzom",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_48irsudg7",
+        "name": "Железо",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 214,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Ручной арбалет",
+      "type": "weapon",
+      "img": "icons/weapons/crossbows/handcrossbow-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 285,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": 1,
+        "avail": "Everywhere",
+        "damage": "2d6+2",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "1",
+        "range": "50",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Медленно перезаряжается",
+            "percentage": ""
+          }
+        ],
+        "conceal": "L",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Crossbow",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_uugqhd13qjr"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863942,
+        "modifiedTime": 1672542412009,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848427,
+    "modifiedTime": 1685496579717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "O4cWD7gQNpTk4QIz",
+  "folder": "b2anqQiTRYL0jSkN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!O4cWD7gQNpTk4QIz"
+}

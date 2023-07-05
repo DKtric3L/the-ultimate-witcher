@@ -1,0 +1,78 @@
+{
+  "name": "Лунный лук",
+  "type": "weapon",
+  "img": "icons/weapons/bows/shortbow-recurve-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-oruzhiya.dB8rYKQJ46eE6ZC4"
+    },
+    "cf": {
+      "id": "temp_158empsijjm"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Rare",
+    "damage": "8d6+2",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "200",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Замораживание",
+        "percentage": "75"
+      },
+      {
+        "id": "_gx7ty050v",
+        "name": "Сбалансированное",
+        "percentage": ""
+      },
+      {
+        "id": "_riue33fll",
+        "name": "+3 урона призракам",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Archery",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877955,
+    "modifiedTime": 1685496616900,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nJ0MGZVkt2of4zr8",
+  "folder": "qosTfu30dYf09sIj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nJ0MGZVkt2of4zr8"
+}

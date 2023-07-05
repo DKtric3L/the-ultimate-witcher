@@ -1,0 +1,60 @@
+{
+  "name": "Добрый самаритянин",
+  "type": "spell",
+  "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_0gz04w1fnmy5"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Жертва не может отказать ни в одной просьбе, будь то деньги или услуга. Она не может сказать «нет», даже если чувствует, что это может ей навредить.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Medium",
+    "liftRequirement": "Потребуются 1 жемчужина, свеча и повязка на глаза. Жертва кладет жемчужину под язык, надевает повязку на глаза и держит зажженную свечу обеими руками. Затем жертва поворачивается лицом к северу, востоку, югу и западу, каждый раз говоря о том, что она сделала, и объясняя, почему не хотела этого делать.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496639522,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qbdS0ByYvJC3YLAR",
+  "folder": "EIBjRCq06UND2xWm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qbdS0ByYvJC3YLAR"
+}

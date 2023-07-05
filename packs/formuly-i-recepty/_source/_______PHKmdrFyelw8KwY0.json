@@ -1,0 +1,19 @@
+{
+  "color": "#454545",
+  "name": "Оружие",
+  "sorting": "m",
+  "type": "Item",
+  "folder": "lDj0Nv9hoeZyWmFS",
+  "_id": "PHKmdrFyelw8KwY0",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!PHKmdrFyelw8KwY0"
+}

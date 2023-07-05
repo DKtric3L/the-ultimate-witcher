@@ -1,0 +1,50 @@
+{
+  "name": "Family Status: Northern",
+  "img": "icons/svg/circle.svg",
+  "description": "Everyone grows up differently. One man may come of age in a palace, as the son of a\nking, while another toils as a slave in the vineyard of a wealthy man. Your family status can tell a lot about how you grew up and what kind of person you turn out to be.",
+  "results": [
+    "5nnfEB4exhLKU2mN",
+    "vox7NUbtHmyKyBxI",
+    "VlrPIguiOBBjm4bm",
+    "KN1jkgllBFtZX23D",
+    "IsRY79j4twFs8apC",
+    "NQNctkYs5dmyGEkh",
+    "d6KS3R5eEDFIeMmw",
+    "LojwHWtEWxxqb6PZ",
+    "BPTQOqaS1Ccdyifj",
+    "0bRV83bCJSU0qETV",
+    "HMOPPekiY08124lE",
+    "mvqP5Ic7KBewbj2x",
+    "AvyV1RxSjBFrzpUx",
+    "YEQ2wdEvKm0Eamde"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.K0GQBcaCqzLKVuuu"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917373,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "gYToKKwOpEYSEMIy",
+  "_key": "!tables!gYToKKwOpEYSEMIy"
+}

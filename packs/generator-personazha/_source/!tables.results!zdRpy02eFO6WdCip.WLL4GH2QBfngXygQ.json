@@ -1,0 +1,16 @@
+{
+  "_id": "WLL4GH2QBfngXygQ",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Ваша семья обращена в рабство за преступление против империи или по ложному обвинению. Только вам удалось сбежать.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.WLL4GH2QBfngXygQ"
+}

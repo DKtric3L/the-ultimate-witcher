@@ -1,0 +1,16 @@
+{
+  "_id": "zq8PF1uVPo71ZtiK",
+  "type": 0,
+  "text": "Ваш персонаж случайно ранил сам себя.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!sv1j1pIEXP9ImQxB.zq8PF1uVPo71ZtiK"
+}

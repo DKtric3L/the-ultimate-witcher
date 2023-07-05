@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Оружие - Великий мастер",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "q5JUxH3wC8Z0iZSJ",
+  "_id": "WXoouGNeQVRgunzT",
+  "flags": {},
+  "_key": "!tables.results!LHYC2pOz2YtuCn6c.WXoouGNeQVRgunzT"
+}

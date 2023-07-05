@@ -1,0 +1,16 @@
+{
+  "text": "Звериная порча",
+  "type": 2,
+  "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "m4q5kei5xy054q5x",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "RoM1c1c4kClZsyEL",
+  "_key": "!tables.results!eLlAYKRcZxS71ruF.m4q5kei5xy054q5x"
+}

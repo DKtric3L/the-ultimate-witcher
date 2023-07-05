@@ -1,0 +1,57 @@
+{
+  "name": "Трансмутация",
+  "type": "spell",
+  "img": "icons/commodities/metal/ingot-hammered-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ay4624k8l6q"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "earth",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Трансмутация позволяет изменить свойства минерала или металла. Заклинатель может превратить кусок одного металла в любой другой металл, а несовершенный самоцвет — в совершенный, подходящий для сотворения заклинаний. Двимерит и другие металлы, касающиеся двимерита, не могут быть созданы или изменены с помощью этого заклинания.",
+    "range": "2м",
+    "duration": "Постоянное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496638102,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LnbNK2h71ottALDv",
+  "folder": "aPtAcy2MErYLuZbi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LnbNK2h71ottALDv"
+}

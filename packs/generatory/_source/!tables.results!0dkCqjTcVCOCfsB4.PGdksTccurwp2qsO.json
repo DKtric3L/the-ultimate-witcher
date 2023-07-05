@@ -1,0 +1,16 @@
+{
+  "_id": "PGdksTccurwp2qsO",
+  "type": 2,
+  "text": "Руны и глифы",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "3wp0NndHZX5mlMwj",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.PGdksTccurwp2qsO"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Изношенный башмак",
+  "type": "valuable",
+  "img": "icons/commodities/leather/boot-torn-tan.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_pcz898xpa9",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.fbid0466FMeO9mbR"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868975,
+    "modifiedTime": 1685496603482,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tmjVKB39HW3RQWXO",
+  "folder": "o0EbRg1af2HA22Nh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tmjVKB39HW3RQWXO"
+}

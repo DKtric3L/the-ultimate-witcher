@@ -1,0 +1,16 @@
+{
+  "_id": "VlrPIguiOBBjm4bm",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Под опекой мага. В юном возрасте вас отдали под опеку магу. Вы жили в комфортных условиях, но опекуна своего практически не видели - он постоянно был занят. Начальное снаряжение - Летопись(+1 к образованию)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gYToKKwOpEYSEMIy.VlrPIguiOBBjm4bm"
+}

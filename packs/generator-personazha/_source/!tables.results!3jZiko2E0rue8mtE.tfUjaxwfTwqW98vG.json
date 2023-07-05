@@ -1,0 +1,16 @@
+{
+  "_id": "tfUjaxwfTwqW98vG",
+  "flags": {},
+  "type": 0,
+  "text": "Уровень силы - 8",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!3jZiko2E0rue8mtE.tfUjaxwfTwqW98vG"
+}

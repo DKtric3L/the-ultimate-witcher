@@ -1,0 +1,44 @@
+{
+  "name": "Скоя'таэли",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "AhSS4yoi00SUxVha",
+    "hGlPIhmr2y4Ptus6",
+    "OcCn63RQEdrBrHhp",
+    "SN1CaQfaxARXSSix",
+    "9NBRcCrsGe5LV6SN",
+    "2jIhBW4XNmli9WK2",
+    "5bxs8lFNVKgCFMk9",
+    "o4wY0JOYqJ3Jojg7",
+    "J05kU6xl6PsKOJfw",
+    "i1jXVS4KjmuCNjpN"
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "nyikxFvaUeigy72E",
+  "_key": "!tables!nyikxFvaUeigy72E"
+}

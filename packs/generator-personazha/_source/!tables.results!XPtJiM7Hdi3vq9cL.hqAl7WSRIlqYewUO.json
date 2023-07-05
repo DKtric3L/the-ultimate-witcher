@@ -1,0 +1,16 @@
+{
+  "_id": "hqAl7WSRIlqYewUO",
+  "type": 0,
+  "text": "Если вы девушка, позже вы поступили в аретузу. Если мужчина - Бан Ард.Совершите броски по доп. таблице, опираясь от своей школы.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XPtJiM7Hdi3vq9cL.hqAl7WSRIlqYewUO"
+}

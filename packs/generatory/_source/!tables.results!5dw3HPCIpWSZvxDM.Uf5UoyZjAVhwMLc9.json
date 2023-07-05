@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Исключительные",
+  "img": "icons/svg/biohazard.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "YGJTmsJ1rLJSj7Kh",
+  "_id": "Uf5UoyZjAVhwMLc9",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.Uf5UoyZjAVhwMLc9"
+}

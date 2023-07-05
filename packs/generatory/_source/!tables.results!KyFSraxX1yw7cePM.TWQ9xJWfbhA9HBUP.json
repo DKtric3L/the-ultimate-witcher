@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Брукса",
+  "img": "modules/the-ultimate-witcher/assets/monsters/bruxa.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "peBJcF5diDknACSa",
+  "_id": "TWQ9xJWfbhA9HBUP",
+  "flags": {},
+  "_key": "!tables.results!KyFSraxX1yw7cePM.TWQ9xJWfbhA9HBUP"
+}

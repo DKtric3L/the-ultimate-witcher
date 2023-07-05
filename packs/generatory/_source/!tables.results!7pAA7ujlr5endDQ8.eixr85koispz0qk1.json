@@ -1,0 +1,16 @@
+{
+  "text": "Телекоммуникация",
+  "type": 2,
+  "img": "icons/magic/unholy/hands-cloud-light-pink.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "_id": "eixr85koispz0qk1",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "4BW1jmePCfQk7QU4",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.eixr85koispz0qk1"
+}

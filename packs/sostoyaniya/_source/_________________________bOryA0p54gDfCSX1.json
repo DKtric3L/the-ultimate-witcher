@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Демонический щит",
+  "type": "effect",
+  "img": "icons/magic/death/projectile-skull-fire-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.IW9lgoPeHgUxR2sc"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Следующая немагическая атака по вам будет отменена, а атакующий потерпит 2d6 урона, загорится, и получит половину отменённого урона.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bOryA0p54gDfCSX1",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bOryA0p54gDfCSX1"
+}

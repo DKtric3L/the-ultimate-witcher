@@ -1,0 +1,26 @@
+{
+  "_id": "0JyQ4yLmUkkVYH5K",
+  "name": "Небесная слабость",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "На солнечном свете полуночница получает штраф -2 ко всем действиям."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!LdBapNGDXE8vLnKc.0JyQ4yLmUkkVYH5K"
+}

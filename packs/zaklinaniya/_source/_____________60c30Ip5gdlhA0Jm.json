@@ -1,0 +1,57 @@
+{
+  "name": "Дурной сглаз",
+  "type": "spell",
+  "img": "icons/magic/death/skeleton-worn-skull-tan.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_60zlp8zqudv"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Наложение Дурного глаза на объект плетет вокруг цели паутину несчастья, которая угрожает каждому его движению. Всякий раз, когда субъект совершает критический провал, она должна бросить дважды и выбрать худший результат. Кроме того, Мастеру рекомендуется выбирать время броска всякий раз, когда он случайным образом определяет цель угрозы.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Medium",
+    "liftRequirement": "Субъект должен добыть единицу кораллов Великого моря (50 крон) и превратить их в амулет, пройдя проверку Искусства с СЛ:14. Амулет нужно носить в течение всего полнолуния, и он разобьется на рассвете, освободив вас от порчи.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496637557,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "60c30Ip5gdlhA0Jm",
+  "folder": "4MnJoakXrsDD7VMD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!60c30Ip5gdlhA0Jm"
+}

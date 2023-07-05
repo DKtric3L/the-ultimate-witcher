@@ -1,0 +1,46 @@
+{
+  "_id": "qn990NgV5RxpJ9a5",
+  "name": "Древесина",
+  "type": "component",
+  "img": "icons/commodities/wood/lumber-stack-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_0cj8i72dlee",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.twJjzRGwSxqzcyPf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "2d10",
+    "weight": 1,
+    "cost": 3,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "crafting-material",
+    "rarity": "Everywhere",
+    "location": "Леса",
+    "quantityObtainable": "2d6",
+    "forage": "8",
+    "substanceType": ""
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!S1uDJQNnHjRmEr5q.qn990NgV5RxpJ9a5"
+}

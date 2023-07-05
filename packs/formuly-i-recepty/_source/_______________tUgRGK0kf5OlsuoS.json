@@ -1,0 +1,174 @@
+{
+  "name": "Эльфская глефа",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.tUgRGK0kf5OlsuoS"
+    },
+    "cf": {
+      "id": "temp_o6021xqcjz"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.65SiYbPAnla4vM80]{Эльфская глефа}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1386,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 19,
+    "alchemyDC": 0,
+    "craftingTime": "10ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "6",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_2ohqdvk74",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_g1ut2oiz6",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_k0805mu2d",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_pzei5pk6d",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_hbq46ekab",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_if6nnakhp",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 692,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Эльфская глефа",
+      "type": "weapon",
+      "img": "icons/weapons/polearms/glaive-hooked-steel.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3,
+        "cost": 925,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее, Дробящее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": true,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 2,
+        "avail": "Rare",
+        "damage": "4d6+3",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Кровопускающее",
+            "percentage": "25"
+          },
+          {
+            "id": "_btty7z7h9",
+            "name": "Длинное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Staff/Spear",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.p2DRg7XaNMA9TQIt"
+        },
+        "cf": {
+          "id": "temp_upy3ob71tu"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863945,
+        "modifiedTime": 1672564645202,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848432,
+    "modifiedTime": 1685496579684,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tUgRGK0kf5OlsuoS",
+  "folder": "CmRwhBGVa7PHSDao",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tUgRGK0kf5OlsuoS"
+}

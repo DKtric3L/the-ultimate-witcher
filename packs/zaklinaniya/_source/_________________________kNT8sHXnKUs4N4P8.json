@@ -1,0 +1,57 @@
+{
+  "name": "Божественное вдохновение",
+  "type": "spell",
+  "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_so5hsxssqwc"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Божественное вдохновение, распространенное как среди инквизиторов, так и среди художников, позволяет вам благословить цель проницательностью. Сотворив эту инвокацию , вы даете бонус +2 к одному навыку. Цель этого вызова должна иметь как минимум значение Навыка 1 в затронутом навыке, прежде чем вызов будет разыгран. Персонаж может воспользоваться этим призывом только один раз в день.",
+    "range": "8м",
+    "duration": "10 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892153,
+    "modifiedTime": 1685496638375,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kNT8sHXnKUs4N4P8",
+  "folder": "1A4gsGOBCXBnvFaS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kNT8sHXnKUs4N4P8"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Слёзы суккуба",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-conical-bubbling-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.A4fFWZ0sWgY8XXWW"
+    },
+    "cf": {
+      "id": "temp_6q0b5iuuekf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 280,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Everywhere",
+    "effect": "Отданные добровольно или взятые силой слезы, собранные с Суккуба, а затем закапанные по капле в каждый глаз, способны излечивать заболевания, передающиеся половым путем, такие как сифилис. Если это лекарство используется на людях, не страдающих венерическими заболеваниями, то они сходят с ума от похоти и необузданной ревности в течение 1d10 часов, влюбляясь в первого, кого увидят, а остальных пытаются убить",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603978,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "P4poQ68zSNvdGQ4h",
+  "folder": "hZqzoFHjJGUaINA2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!P4poQ68zSNvdGQ4h"
+}

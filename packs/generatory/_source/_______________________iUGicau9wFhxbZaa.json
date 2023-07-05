@@ -1,0 +1,46 @@
+{
+  "name": "Шкуры и Части животных",
+  "img": "icons/commodities/leather/fur-simple-brown.webp",
+  "description": "",
+  "results": [
+    "jQYgLf7SdJ6AMGl0",
+    "8ZnZsGvmubctipPx",
+    "EReYVISkK3lOOXes",
+    "4HAGE4GKypnAQqJg",
+    "fQBu1hepg2lXIQp5",
+    "yS4BQVcDuL2DRwqT",
+    "hKgQXxHfvHTEogu0",
+    "z9OVTW0VxiO5Ya1B",
+    "8vUkI134K1dlCPUA",
+    "DHLBRdtivc8tupIX",
+    "D8zJND8tZa5i3AGi",
+    "ybXEaEzWM8kKJnsv"
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_gm7qf9vf4j"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644818,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "fp4Eoc9EiA3JJPL5",
+  "sort": 0,
+  "_id": "iUGicau9wFhxbZaa",
+  "_key": "!tables!iUGicau9wFhxbZaa"
+}

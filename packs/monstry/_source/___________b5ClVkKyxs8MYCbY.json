@@ -1,0 +1,26 @@
+{
+  "_id": "b5ClVkKyxs8MYCbY",
+  "name": "Поток огня",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Феникс может использовать эту способность максимум три раунда, после чего должен охладиться (минимум 1 раунд), прежде чем снова её использовать. Каждый раунд феникс может выбирать новую цель. Двимеритовые бомбы не дают использовать эту способность."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!fDqDFVREsbBM9EX9.b5ClVkKyxs8MYCbY"
+}

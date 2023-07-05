@@ -1,0 +1,16 @@
+{
+  "_id": "2U5ldGhbDAmKtF00",
+  "type": 0,
+  "text": "Место силы. Вы нашли Место Силы и использовали его энергию. Вы получаете 5 единиц Пятой сущности. Определите с мастером, где он находится и на какой элемент настроен.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ENltA9xkbh8cljBm.2U5ldGhbDAmKtF00"
+}

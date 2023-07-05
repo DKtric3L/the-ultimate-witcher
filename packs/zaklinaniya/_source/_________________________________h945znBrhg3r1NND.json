@@ -1,0 +1,65 @@
+{
+  "name": "Дыхание Дракона(Зеррикантермент)",
+  "type": "spell",
+  "img": "icons/magic/fire/blast-jet-stream-splash.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wlIPxP1zK7Wk50PC"
+    },
+    "cf": {
+      "id": "temp_y5c320rzgq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Заклинатель получает благословение силой Зеррикантермента. Он может совершить атаку, схожую с огненным дыханием золотого дракона.",
+    "range": "10 м",
+    "duration": "мгновенная",
+    "defence": "изм поз, блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "10",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "7d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Броня теряет 2 пункта прочности"
+      },
+      {
+        "id": "_vlq2nw9vw",
+        "name": "Урон по всем частям тела",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496639313,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "h945znBrhg3r1NND",
+  "folder": "MrlJwKcG9EWlHZie",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!h945znBrhg3r1NND"
+}

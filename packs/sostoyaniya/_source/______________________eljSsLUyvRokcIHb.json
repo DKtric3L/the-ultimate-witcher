@@ -1,0 +1,85 @@
+{
+  "name": "Выбитые зубы (Лечено)",
+  "type": "effect",
+  "img": "icons/commodities/bones/tooth-molar-white-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0okd4sumrx3o"
+    }
+  },
+  "system": {
+    "description": "Ударом персонажу выбили часть зубов. Совершите бросок 1d10, чтобы узнать количество выбитых зубов.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkWillSpellcastLable",
+        "modifier": "-1"
+      },
+      {
+        "id": "_e17vkzqmz",
+        "skill": "WITCHER.SkWillHexLable",
+        "modifier": "-1"
+      },
+      {
+        "id": "_ozdh1hkr0",
+        "skill": "WITCHER.SkWillRitCraftLable",
+        "modifier": "-1"
+      },
+      {
+        "id": "_3umoe9pyx",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "-1"
+      },
+      {
+        "id": "_2glrnubb6",
+        "skill": "WITCHER.SkEmpPersuasion",
+        "modifier": "-1"
+      },
+      {
+        "id": "_u9hm3zigs",
+        "skill": "WITCHER.SkEmpLeadership",
+        "modifier": "-1"
+      },
+      {
+        "id": "_gzhns5emc",
+        "skill": "WITCHER.SkEmpDeceit",
+        "modifier": "-1"
+      },
+      {
+        "id": "_34vo57e55",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "-1"
+      },
+      {
+        "id": "_wjg2fzj0y",
+        "skill": "WITCHER.SkWillIntim",
+        "modifier": "-1"
+      },
+      {
+        "id": "_g06rxj5bh",
+        "skill": "WITCHER.SkIntSocialEt",
+        "modifier": "-1"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883167,
+    "modifiedTime": 1685496621814,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eljSsLUyvRokcIHb",
+  "folder": "popcTSR0VPsBTxwV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eljSsLUyvRokcIHb"
+}

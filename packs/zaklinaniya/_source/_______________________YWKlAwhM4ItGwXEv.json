@@ -1,0 +1,57 @@
+{
+  "name": "Темное зеркало Беккера",
+  "type": "spell",
+  "img": "icons/magic/control/energy-stream-link-spiral-teal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_e8hxoxvji0v"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Темное зеркало Беккера позволяет заманить отражение существа в отражающую поверхность рядом с ним, истощая его силу. При накладывании этого заклинания вы можете выбрать две характеристики цели и уменьшить их каждую на 1d6. Это уменьшение характеристик также уменьшает значения дополнительных параметров. После истощения, эта характеристика остается пониженной на время действия заклинания или до тех пор, пока зеркальная поверхность, содержащая отражение, не будет полностью уничтожена. Пораженная цель не оставляет отражение, пока заклинание не закончится. Существо которое не имеет отражения не может быть затронуто Темным Зеркалом Беккера.",
+    "range": "10м",
+    "duration": "1 мес",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892175,
+    "modifiedTime": 1685496638078,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YWKlAwhM4ItGwXEv",
+  "folder": "Zv5jElL7a6RPe9Ks",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YWKlAwhM4ItGwXEv"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Краснолюдский точильный камень",
+  "type": "valuable",
+  "img": "icons/commodities/stone/ore-chunk-magma-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_qcb9pzvuyk"
+    }
+  },
+  "system": {
+    "description": "Небольшой точильный камень, который можно использовать для заточки клинкового оружия. Потратив полчаса, пользователь может использовать Краснолюдский точильный камень, чтобы дать одному рубящему или колющему оружию (или 10 стрелам/болтам) эффект пробивания брони для следующего боя. Краснолюдский точильный камень можно применить 3 раза, прежде чем он будет израсходован.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 300,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496603216,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "P1h2IpYEks3TlsXE",
+  "folder": "FELlswVzIFFkLTjH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!P1h2IpYEks3TlsXE"
+}

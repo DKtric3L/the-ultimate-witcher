@@ -1,0 +1,16 @@
+{
+  "text": "Акхан Далл",
+  "type": 2,
+  "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "6d37PoVA1lYy85n5",
+  "documentId": "PEkQbmmybWEFxIEt",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.6d37PoVA1lYy85n5"
+}

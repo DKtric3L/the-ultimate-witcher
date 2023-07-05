@@ -1,0 +1,41 @@
+{
+  "name": "Гуманоиды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Humanoids.png",
+  "description": "",
+  "results": [
+    "ejy9BWyIBZyQlT7f",
+    "QcYhlIQtjckvHUY5",
+    "OrgpUXeCVA6bPZz9",
+    "DhaWlPjfvFJFNABl",
+    "WHrmyV3F8mSvlNby",
+    "cIyn5HXU8jpQkcXD",
+    "tqUPu1lbz3Hdx2Sp"
+  ],
+  "formula": "1d7",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "QsHfkPdgm5B4nY5r",
+  "_key": "!tables!QsHfkPdgm5B4nY5r"
+}

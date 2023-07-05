@@ -1,0 +1,26 @@
+{
+  "_id": "OT0C4tlk9sUk2g9o",
+  "name": "Боязнь огня",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Вендиго боится огня. Чтобы подойти к огню, ему приходится себя пересиливать. Чтобы подойти на 6 метров или ближе к огню размером с костёр, вендиго должен успешно пройти проверку Храбрости со СЛ 20, а на 10 метров или ближе к большому костру — проверку Храбрости со СЛ 26. Проверка Храбрости не требуется, если вендиго хочет приблизиться к факелу или горящему оружию, но при возможности он не будет нападать первым на того, кто держит этот предмет."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!h36v8BTXKysKCWgP.OT0C4tlk9sUk2g9o"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Краснолюдское усиление",
+  "type": 2,
+  "img": "icons/equipment/shoulder/pauldron-segmented-red.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "_id": "gft4jlmwawu7366s",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "mVtaZCSX5005EYxz",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.gft4jlmwawu7366s"
+}

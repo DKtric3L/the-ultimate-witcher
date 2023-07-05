@@ -1,0 +1,16 @@
+{
+  "_id": "M2HENBWyZLf6ss7y",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Скеллиге (+1 Храбрость)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!78lzsNtasApP4bML.M2HENBWyZLf6ss7y"
+}

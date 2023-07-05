@@ -1,0 +1,16 @@
+{
+  "text": "Травничество",
+  "type": 2,
+  "img": "icons/magic/nature/mushrooms-fire-glow-blue.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "p218i9badq2bdzhq",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "eCxNMU3sM7mPPagW",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.p218i9badq2bdzhq"
+}

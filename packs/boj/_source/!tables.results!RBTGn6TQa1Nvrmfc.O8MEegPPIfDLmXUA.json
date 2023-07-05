@@ -1,0 +1,16 @@
+{
+  "_id": "O8MEegPPIfDLmXUA",
+  "type": 0,
+  "text": "3 раунда",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!RBTGn6TQa1Nvrmfc.O8MEegPPIfDLmXUA"
+}

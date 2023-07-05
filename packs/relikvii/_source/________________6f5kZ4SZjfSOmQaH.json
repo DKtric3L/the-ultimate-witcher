@@ -1,0 +1,83 @@
+{
+  "name": "Медвежий коготь",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-evil-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-oruzhiya.6ptEmILutb0m28Jj"
+    },
+    "cf": {
+      "id": "temp_158empsijjm"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 2,
+    "avail": "Rare",
+    "damage": "10d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длинное",
+        "percentage": ""
+      },
+      {
+        "id": "_nphzt9lmw",
+        "name": "Сбалансированное",
+        "percentage": ""
+      },
+      {
+        "id": "_o1j2c43vb",
+        "name": "Кровопускающее",
+        "percentage": "25"
+      },
+      {
+        "id": "_x0g5rrl05",
+        "name": "Метеоритное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877955,
+    "modifiedTime": 1685496616900,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6f5kZ4SZjfSOmQaH",
+  "folder": "qosTfu30dYf09sIj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!6f5kZ4SZjfSOmQaH"
+}

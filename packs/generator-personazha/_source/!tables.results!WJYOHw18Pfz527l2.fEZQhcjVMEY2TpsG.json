@@ -1,0 +1,16 @@
+{
+  "_id": "fEZQhcjVMEY2TpsG",
+  "type": 0,
+  "text": "Профессия врага - Ремесленик",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!WJYOHw18Pfz527l2.fEZQhcjVMEY2TpsG"
+}

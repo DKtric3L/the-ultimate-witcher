@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "qq7bc3kzxIMM4xmJ",
+  "text": "Юный - Этому вампиру несколько десятков лет, и в его жизни было 1 крупное событие. Он может вложить 5 очков в освоенные навыки.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!kFqwDYlgGZSaQCYZ.qq7bc3kzxIMM4xmJ"
+}

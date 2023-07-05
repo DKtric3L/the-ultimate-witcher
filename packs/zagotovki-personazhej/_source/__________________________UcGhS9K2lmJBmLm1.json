@@ -1,0 +1,71 @@
+{
+  "name": "Низушечий защитный дублет",
+  "type": "armor",
+  "img": "icons/equipment/chest/coat-collared-red-gold.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 375,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 8,
+    "torsoMaxStopping": 8,
+    "leftArmStopping": 8,
+    "leftArmMaxStopping": 8,
+    "rightArmStopping": 8,
+    "rightArmMaxStopping": 8,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Light",
+    "avail": "Rare",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Выглядит как обычная одежда. Проверка внимания со сл 20, чтобы понять, что это броня."
+      }
+    ],
+    "encumb": 0,
+    "location": "Torso",
+    "equiped": "/",
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi-starshego-naroda.1S8Ts66n11aBkayG"
+    },
+    "cf": {
+      "id": "temp_njuve1krma"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162837868,
+    "modifiedTime": 1671034854275,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "UcGhS9K2lmJBmLm1",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.UcGhS9K2lmJBmLm1"
+}

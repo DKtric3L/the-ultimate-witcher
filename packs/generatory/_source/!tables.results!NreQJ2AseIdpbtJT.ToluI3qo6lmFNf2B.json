@@ -1,0 +1,16 @@
+{
+  "text": "Пробивающий болт Скорпио (x5)",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "ToluI3qo6lmFNf2B",
+  "documentId": "inhPb93EclDEr9me",
+  "flags": {},
+  "_key": "!tables.results!NreQJ2AseIdpbtJT.ToluI3qo6lmFNf2B"
+}

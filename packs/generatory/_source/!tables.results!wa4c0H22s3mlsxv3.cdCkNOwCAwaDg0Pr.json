@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Корзина",
+  "img": "icons/containers/misc/basket-handle-woven-gold.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "5JPFDbG8VsnzQPk7",
+  "_id": "cdCkNOwCAwaDg0Pr",
+  "flags": {},
+  "_key": "!tables.results!wa4c0H22s3mlsxv3.cdCkNOwCAwaDg0Pr"
+}

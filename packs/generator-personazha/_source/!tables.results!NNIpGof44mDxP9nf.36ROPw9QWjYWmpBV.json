@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Ваш возлюбленный спит с кем попало, а когда вы об этом узнали, он отказался прекращать",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NNIpGof44mDxP9nf.36ROPw9QWjYWmpBV"
+}

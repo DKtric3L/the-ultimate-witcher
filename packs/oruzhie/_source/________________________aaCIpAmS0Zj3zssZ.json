@@ -1,0 +1,69 @@
+{
+  "name": "Краснолюдские пробивные",
+  "type": "weapon",
+  "img": "icons/weapons/ammunition/arrows-bodkin-yellow-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.ygGwTLqRmvoMsAfU"
+    },
+    "cf": {
+      "id": "temp_rol4jixhdr"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 5,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Разрушающее",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863940,
+    "modifiedTime": 1685496598693,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aaCIpAmS0Zj3zssZ",
+  "folder": "6VRzYzYvkVscR6OQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!aaCIpAmS0Zj3zssZ"
+}

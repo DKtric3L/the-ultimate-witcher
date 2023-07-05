@@ -1,0 +1,68 @@
+{
+  "name": "Эффект: Отвар дракопаха",
+  "type": "armor",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lR9jP5qmEfhHGYz9"
+    },
+    "cf": {
+      "id": "temp_bbcgrxjnis"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 10,
+    "headMaxStopping": 10,
+    "torsoStopping": 10,
+    "torsoMaxStopping": 10,
+    "leftArmStopping": 10,
+    "leftArmMaxStopping": 10,
+    "rightArmStopping": 10,
+    "rightArmMaxStopping": 10,
+    "leftLegStopping": 10,
+    "leftLegMaxStopping": 10,
+    "rightLegStopping": 10,
+    "rightLegMaxStopping": 10,
+    "type": "Natural",
+    "avail": "Everywhere",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883184,
+    "modifiedTime": 1685496621987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BthIt16TGVwgV5KA",
+  "folder": "lwEwxv6jTNqqSH5w",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!BthIt16TGVwgV5KA"
+}

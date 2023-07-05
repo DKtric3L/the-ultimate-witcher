@@ -1,0 +1,55 @@
+{
+  "name": "Теневые щупальца",
+  "type": "spell",
+  "img": "icons/commodities/biological/tentacle-purple-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.dwj4EGFeqTlbYOGx"
+    },
+    "cf": {
+      "id": "temp_01h4gyhswg6t"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d6.\nЧерные эбонитовые щупальца появляются из земли и хватают цель за ноги. Цель захвачена и должна совершить проверку Уклонения/Изворотливости против первоначального результата Сотворения заклинаний или получит 20 урона от щупалец.",
+    "range": "10м",
+    "duration": "пока не уничтожены",
+    "defence": "Укл",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "20",
+    "effects": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496638575,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qLdbc6qPB5liBNlM",
+  "folder": "ndviRHoqdpigGVTn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qLdbc6qPB5liBNlM"
+}

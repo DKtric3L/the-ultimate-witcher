@@ -1,0 +1,57 @@
+{
+  "name": "Вечный зуд",
+  "type": "spell",
+  "img": "icons/skills/wounds/illness-disease-glowing-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0hnqv3ub2out"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "На гениталиях жертвы высыпают воспалённые зудящие прыщи. Вечный зуд не наносит урона, но причиняет жертве постоянный дискомфорт, что даёт штраф -1 к любым действиям. Также жертва получает штраф -5 к Соблазнению, когда доходит до раздевания",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "Жертва должна взять единицу склеродерма, немного собачьей петрушки и переступня, затем развести костёр и связать травы в пучок. Как только всё будет готово, травы нужно поджечь и пеплом посыпать пострадавший от порчи участок тела, произнося при этом магические слова.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496637534,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "C1LZN3u1eGOBMZ5d",
+  "folder": "lGUspSPt2bEySA3U",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!C1LZN3u1eGOBMZ5d"
+}

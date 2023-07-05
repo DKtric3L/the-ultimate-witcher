@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Карман ранца",
+  "img": "icons/containers/bags/satchel-worn-leather-tan.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "dZliDuGtNqJPIgYB",
+  "_id": "Eacjr2vBY0RmhDFH",
+  "flags": {},
+  "_key": "!tables.results!wa4c0H22s3mlsxv3.Eacjr2vBY0RmhDFH"
+}

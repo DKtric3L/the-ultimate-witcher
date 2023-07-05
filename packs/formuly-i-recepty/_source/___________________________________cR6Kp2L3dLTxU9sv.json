@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Кровосвёртывающий порошок",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.cR6Kp2L3dLTxU9sv"
+    },
+    "cf": {
+      "id": "temp_odzgattgzk8"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.eWyMtrl9CweX6FXY]{Кровосвёртывающий порошок}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "novice",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 12,
+    "craftingTime": "5 раундов",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 1,
+      "aether": 1,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Кровосвёртывающий порошок",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/props/blood_clotting_solution.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 20,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Common",
+        "effect": "Нанесение кровосвёртывающего порошка на рану останавливает\nкровотечение на 2d10 раундов. По окончании действия рана снова начинает кровоточить.",
+        "time": "2d10 раундов",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.eWyMtrl9CweX6FXY"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868977,
+        "modifiedTime": 1668171363339,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848419,
+    "modifiedTime": 1685496578568,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cR6Kp2L3dLTxU9sv",
+  "folder": "JHAOFbhEaanr5CRj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cR6Kp2L3dLTxU9sv"
+}

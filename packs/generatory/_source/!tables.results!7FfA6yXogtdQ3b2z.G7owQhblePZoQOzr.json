@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Королева эндриаг",
+  "img": "modules/the-ultimate-witcher/assets/monsters/edriag_queen.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "4guXwbwdA020G9Bo",
+  "_id": "G7owQhblePZoQOzr",
+  "flags": {},
+  "_key": "!tables.results!7FfA6yXogtdQ3b2z.G7owQhblePZoQOzr"
+}

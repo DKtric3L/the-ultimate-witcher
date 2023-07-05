@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Элементаль земли",
+  "img": "modules/the-ultimate-witcher/assets/monsters/elemental_earth.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "DCPM1xtFpJXDAswL",
+  "_id": "tA3r4GFK361ZQdVn",
+  "flags": {},
+  "_key": "!tables.results!uwlvXPDMxRwC1EJ5.tA3r4GFK361ZQdVn"
+}

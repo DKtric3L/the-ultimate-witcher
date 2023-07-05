@@ -1,0 +1,26 @@
+{
+  "_id": "12ljQac5Sxf4OIXM",
+  "name": "Облако мух",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Песта вступает в бой, окружённая облаком заражённых мух. Каждый персонаж в начале своего хода, если находится на дистанции\nближнего боя от песты, получает штраф - 2 ко всем действиям и с вероятностью 25 % заражается болезнью. Если поразить песту\nатакой огнём или заклинанием ветра, облако мух рассеется, но моровая дева может в качестве действия снова призвать мух."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!GvHkNN3d16eUO8Ig.12ljQac5Sxf4OIXM"
+}

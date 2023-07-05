@@ -1,0 +1,40 @@
+{
+  "name": "Яд аконита",
+  "type": "alchemical",
+  "img": "icons/commodities/materials/bowl-powder-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Everywhere",
+    "effect": "Мелкодисперсный белый порошок, который можно подсыпать в еду и питье. Яд аконита немедленно заставляет цель страдать от удушья. Чтобы выйти из состояния удушья, цель должна пройти проверку Выносливости Сл:20, или кто-то должен помочь пройти проверку Первой помощи Сл:20",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868996,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "N5Z6h8OnTCsywmSD",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!N5Z6h8OnTCsywmSD"
+}

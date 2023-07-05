@@ -1,0 +1,101 @@
+{
+  "name": "Формула: Помощник следователя",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_odzgattgzk8"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.Tih9lnWmQkXQUazH]{Помощник следователя}</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": 60,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "novice",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 14,
+    "craftingTime": "10 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 2,
+      "rebis": null,
+      "aether": null,
+      "quebrith": null,
+      "hydragenum": null,
+      "vermilion": 1,
+      "sol": null,
+      "caelum": null,
+      "fulgur": null
+    },
+    "associatedItem": {
+      "name": "Помощник следователя",
+      "type": "alchemical",
+      "img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0,
+        "cost": 30,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Everywhere",
+        "effect": "Распылитель, наполненный алхимической жидкостью, реагирующей на кровь. При распылении на область, где присутствовала кровь, жидкость становится черной, что\nсвидетельствует о наличии крови. \nКонтейнер с Помощником следователя можно применить 10\nраз, прежде чем он будет израсходован.",
+        "time": "",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868986,
+        "modifiedTime": 1668162868986,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848426,
+    "modifiedTime": 1685496578568,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LnURaBdHuUOyCrtA",
+  "folder": "JHAOFbhEaanr5CRj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LnURaBdHuUOyCrtA"
+}

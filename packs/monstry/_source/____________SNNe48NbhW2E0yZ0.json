@@ -1,0 +1,26 @@
+{
+  "_id": "SNNe48NbhW2E0yZ0",
+  "name": "Регенерация",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "5 пз за раунд"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!yelCsVVeLxe8FuaQ.SNNe48NbhW2E0yZ0"
+}

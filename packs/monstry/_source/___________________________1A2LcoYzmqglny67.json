@@ -1,0 +1,26 @@
+{
+  "name": "Способность: Мастер оружия",
+  "type": "note",
+  "_id": "1A2LcoYzmqglny67",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Комплект живых доспехов по своей природе искусен во всем оружии и имеет основу навыков 16 со всеми навыками владения оружием. Когда живой доспех вооружен одноручным оружием, он совершает все атаки с 2 СА. Когда он владеет двуручным оружием, он совершает все атаки с 1 СА."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680483838958,
+    "modifiedTime": 1680483861744,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!VbTqxwnvdGPEOxXG.1A2LcoYzmqglny67"
+}

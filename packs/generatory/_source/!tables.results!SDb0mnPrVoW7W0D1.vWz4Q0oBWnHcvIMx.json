@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Копейщик синих полосок",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Sinie_Poloski_razvedchiki_Marta_Dettlaff.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "46l6VflnM18Zu3Hy",
+  "_id": "vWz4Q0oBWnHcvIMx",
+  "flags": {},
+  "_key": "!tables.results!SDb0mnPrVoW7W0D1.vWz4Q0oBWnHcvIMx"
+}

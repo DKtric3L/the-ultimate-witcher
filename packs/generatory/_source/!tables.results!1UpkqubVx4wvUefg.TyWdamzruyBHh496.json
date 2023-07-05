@@ -1,0 +1,16 @@
+{
+  "text": "Управление пламенем",
+  "type": 2,
+  "img": "icons/magic/fire/flame-burning-hand-white.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "TyWdamzruyBHh496",
+  "documentId": "f04EgcB97NXBZ6og",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.TyWdamzruyBHh496"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Переоткрытие портала",
+  "type": "spell",
+  "img": "icons/magic/time/arrows-circling-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_dpnqmwag5w"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Переоткрытие портала позволяет найти след существующего портала и временно открыть это соединение. При накладывании этого заклинания вы можете выбрать либо Долговременный портал, который в настоящее время закрыт, либо след Постоянного портала, который был создан в течение последних 30 секунд, и бросить проверку на Сотворение заклинания. Если выбранный портал является Долговременным, Сл для его повторного открытия равен 16. Если выбранный портал является Постоянным порталом, Сл равен 20.",
+    "range": "2м",
+    "duration": "1 раунд",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496637764,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7O4KYmeCLZtCSEDZ",
+  "folder": "cnIlwgnwtzSIOWjW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7O4KYmeCLZtCSEDZ"
+}

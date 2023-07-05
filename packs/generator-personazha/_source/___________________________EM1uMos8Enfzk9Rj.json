@@ -1,0 +1,46 @@
+{
+  "name": "Жизнь в академии - Бан ард",
+  "img": "icons/environment/settlement/city-gate.webp",
+  "description": "Бан ард:",
+  "results": [
+    "mEudktdHR4KC3TXI",
+    "0z5tBuWYsA4uljJk",
+    "Vx3z4WFjiDBTHcUa",
+    "n9ASSo8TCakydhd2",
+    "flOXGRx81lcLsqKp",
+    "5pQiVxIdBObyjpWO",
+    "VhVHZe033E66I30U",
+    "v6E0EhYhnVoH6QhJ",
+    "yQN6RzShObWfYzhy",
+    "WzVg5EOltLV3dAVI",
+    "H95WDuJ5aVcvwJ8D",
+    "A0zLGSs6nKNnA3Mr"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.VUIaaZ8lBPNZF7oc"
+    },
+    "cf": {
+      "id": "temp_dzgvfo2vboe"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926180,
+    "modifiedTime": 1685496652425,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EM1uMos8Enfzk9Rj",
+  "folder": "xccyEiQ9jAncMgNo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!EM1uMos8Enfzk9Rj"
+}

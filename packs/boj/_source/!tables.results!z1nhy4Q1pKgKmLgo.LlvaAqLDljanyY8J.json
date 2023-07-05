@@ -1,0 +1,16 @@
+{
+  "_id": "LlvaAqLDljanyY8J",
+  "type": 0,
+  "text": "Ваш персонаж сбит с ног. Он должен совершить проверку устойчивости.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!z1nhy4Q1pKgKmLgo.LlvaAqLDljanyY8J"
+}

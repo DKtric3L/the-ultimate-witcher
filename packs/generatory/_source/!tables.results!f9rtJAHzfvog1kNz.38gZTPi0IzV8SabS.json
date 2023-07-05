@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Доска для покера на костях",
+  "img": "icons/commodities/stone/paver-tile-purple.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "JxlfcwQ1gI3CLpls",
+  "_id": "38gZTPi0IzV8SabS",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.38gZTPi0IzV8SabS"
+}

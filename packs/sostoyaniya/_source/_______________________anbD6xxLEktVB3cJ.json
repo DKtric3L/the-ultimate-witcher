@@ -1,0 +1,43 @@
+{
+  "name": "Эффект - Облачно/туман",
+  "type": "effect",
+  "img": "icons/magic/air/weather-clouds.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_m0e8p39jzoq"
+    }
+  },
+  "system": {
+    "description": "Видимость ухудшилась, приходится постоянно всматриваться.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_qzwbc8qp9",
+        "skill": "WITCHER.SkIntAwareness",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883177,
+    "modifiedTime": 1685496622153,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "anbD6xxLEktVB3cJ",
+  "folder": "l4TH4PkRbRSfAV7t",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!anbD6xxLEktVB3cJ"
+}

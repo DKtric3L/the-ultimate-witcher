@@ -1,0 +1,44 @@
+{
+  "_id": "vUcOxFXlpsGYYEBi",
+  "name": "Чехол для лука",
+  "type": "valuable",
+  "img": "icons/containers/ammunition/arrows-quiver-black.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 1200000,
+  "flags": {
+    "cf": {
+      "id": "temp_hdwmzt8oxfu",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.Rx4mInmDJfENPja0"
+    }
+  },
+  "system": {
+    "description": "Хорошее вместилище для лука и колчана со стрелами —уж явно удобней, чем постоянно этот чёртов лук в руках таскать.",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 24,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671035589872,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!Z3jIdHe1L7AEi548.vUcOxFXlpsGYYEBi"
+}

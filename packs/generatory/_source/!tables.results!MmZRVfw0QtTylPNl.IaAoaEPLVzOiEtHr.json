@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Накер",
+  "img": "modules/the-ultimate-witcher/assets/monsters/naker.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "uJvJk44T0qDYcwzh",
+  "_id": "IaAoaEPLVzOiEtHr",
+  "flags": {},
+  "_key": "!tables.results!MmZRVfw0QtTylPNl.IaAoaEPLVzOiEtHr"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Краснолюдский Бессмертник",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/beggartick_blossoms_64x64.png.6659.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0a9urvzk7xsh",
+      "color": "#ff0000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 75,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Под землёй",
+    "quantityObtainable": "1d6/2",
+    "forage": "18",
+    "substanceType": "fulgur"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853701,
+    "modifiedTime": 1685496584035,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "oCjQDsE4m2hG9iXe",
+  "folder": "AVygfDrCCjOxih1C",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oCjQDsE4m2hG9iXe"
+}

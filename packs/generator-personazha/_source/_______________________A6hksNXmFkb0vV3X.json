@@ -1,0 +1,43 @@
+{
+  "name": "Что случилось - исслед",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "CcgmLuuYP4M7Tx04",
+    "iMsALFwpUoW9h7Si",
+    "fUVMfGyp7PXvpS1j",
+    "spV1dEDymhGBtAeD",
+    "9xu1PAMmGawJc3T9",
+    "hpDT8puQKUzlCwt8",
+    "IRaRdwpaEfAD4Rf1",
+    "T4u4tuWejlV9hLYy"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.QI6fTKGUPpbIDwVs"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901107,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "A6hksNXmFkb0vV3X",
+  "_key": "!tables!A6hksNXmFkb0vV3X"
+}

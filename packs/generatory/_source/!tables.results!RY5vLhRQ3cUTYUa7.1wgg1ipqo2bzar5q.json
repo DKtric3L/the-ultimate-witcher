@@ -1,0 +1,16 @@
+{
+  "text": "Галлюциногенные грибы",
+  "type": 2,
+  "img": "icons/commodities/flowers/flower-grey-orange.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "1wgg1ipqo2bzar5q",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "L0AKrIroPzQBclZF",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.1wgg1ipqo2bzar5q"
+}

@@ -1,0 +1,76 @@
+{
+  "_id": "JWR6KRcAA9mVlTUv",
+  "name": "Призрачная артиллерия",
+  "type": "weapon",
+  "img": "icons/weapons/ammunition/arrows-barbed-white.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "4d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Зона 10 метров",
+        "percentage": ""
+      },
+      {
+        "id": "_vjlckkwod",
+        "name": "Сбит с ног",
+        "percentage": "50"
+      },
+      {
+        "id": "_f0m7nbi2p",
+        "name": "Горение",
+        "percentage": "25"
+      },
+      {
+        "id": "_1pwo9lawj",
+        "name": "Тратит 7 вын",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!X1Y36RnnvQUsnBMC.JWR6KRcAA9mVlTUv"
+}

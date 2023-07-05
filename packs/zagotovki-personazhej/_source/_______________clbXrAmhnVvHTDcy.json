@@ -1,0 +1,44 @@
+{
+  "name": "Слёзы Тальгара",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/talgars_tears.png",
+  "system": {
+    "description": "",
+    "quantity": "2",
+    "weight": 0.1,
+    "cost": 79,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "Слёзы Тальгара немедленно замораживают всё, на что попадут. Все предметы, облитые этой жидкостью, получают двойной разрушающий урон. \nДля броска склянки требуется провести атаку с проверкой Атлетики (Дис. равна Тел × 2 метров). Жидкость разбрызгивается в 2-метровом конусе от места падения.",
+    "time": "",
+    "toxicity": ""
+  },
+  "sort": 350000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.gzbwqWmRjZYzS9x3"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1671035132226,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "clbXrAmhnVvHTDcy",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.clbXrAmhnVvHTDcy"
+}

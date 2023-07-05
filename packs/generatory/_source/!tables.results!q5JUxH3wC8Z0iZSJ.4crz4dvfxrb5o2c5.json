@@ -1,0 +1,16 @@
+{
+  "text": "Кистень из метеоритной стали",
+  "type": 2,
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "4crz4dvfxrb5o2c5",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "DBFuAbfaxS931Bmb",
+  "_key": "!tables.results!q5JUxH3wC8Z0iZSJ.4crz4dvfxrb5o2c5"
+}

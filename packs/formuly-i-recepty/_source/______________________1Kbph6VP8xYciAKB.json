@@ -1,0 +1,83 @@
+{
+  "name": "Глифово слово: Защита",
+  "type": "diagrams",
+  "img": "icons/magic/defensive/shield-barrier-flaming-pentagon-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.KNsvD3tPtct0wMb7"
+    },
+    "cf": {
+      "id": "temp_9bj7smrdyss"
+    }
+  },
+  "system": {
+    "description": "<p>Ставится на торс.&nbsp;</p>\n<p>+5 к ПЗ, нося этот доспех.</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 2900,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 21,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Глиф земли"
+      },
+      {
+        "id": "_olodjut7w",
+        "name": "Глиф магии",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_ay26bib5h",
+        "name": "Глиф сопротивления",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_anv48jrel",
+        "name": "Занимает 3 ячейки улучшения",
+        "percentage": ""
+      }
+    ],
+    "investment": 1450,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848412,
+    "modifiedTime": 1685496579101,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1Kbph6VP8xYciAKB",
+  "folder": "E2VrBCTEMffcDmWz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1Kbph6VP8xYciAKB"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Последняя надежда",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OlGKVmRDtSU9TZdA"
+    },
+    "cf": {
+      "id": "temp_cc83pensjd5"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.Jeg88o1PNtq2t6IC]{Последняя надежда}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 400,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "master",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 22,
+    "craftingTime": "1 час",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 1,
+      "rebis": 0,
+      "aether": 2,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 3,
+      "sol": 2,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Последняя надежда",
+      "type": "alchemical",
+      "img": "icons/consumables/potions/bottle-conical-corked-purple.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 200,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Poor",
+        "effect": "Неудачная копия исцеляющего лекарства дриад Брокилона, Последняя Надежда может излечить самые тяжелые раны за определенную плату. Его питье лечит 1 критическую рану выпивающего, но эта критическая рана не заживет сама, если только Доктор не совершит проверку Лечащего прикосновения с СЛ:24, чтобы повторно нанести критическую рану, а затем снова вылечит ее Лечащим прикосновением.",
+        "time": "-",
+        "toxicity": "75%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.hqydcNgQf5BFt1ZT"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868986,
+        "modifiedTime": 1668162868986,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848426,
+    "modifiedTime": 1685496578717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AXpxXCSPBzcUPuXC",
+  "folder": "7HVmVrGmTRrNoVTk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AXpxXCSPBzcUPuXC"
+}

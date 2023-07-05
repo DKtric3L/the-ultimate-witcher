@@ -1,0 +1,44 @@
+{
+  "name": "Обеззараживающая жидкость",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/disinfecting_liquid.png",
+  "system": {
+    "description": "",
+    "quantity": "5",
+    "weight": 0.1,
+    "cost": 22,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Everywhere",
+    "effect": "Рану можно обработать обеззараживающей жидкостью, чтобы\nповысить естественную скорость исцеления на 2 и уменьшить\nколичество дней для исцеления критического ранения на 2.\nЭффект от нескольких использований не суммируется.",
+    "time": "",
+    "toxicity": ""
+  },
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.k6K3fEt05GLZcIeU"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1670417129338,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "NBRKENNVWW4hte4J",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!QCJUoRqklmUYaicw.NBRKENNVWW4hte4J"
+}

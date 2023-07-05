@@ -1,0 +1,60 @@
+{
+  "name": "Предвидение погоды",
+  "type": "spell",
+  "img": "icons/magic/water/water-drop-swirl-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.MUJSpAwCljEswbPe"
+    },
+    "cf": {
+      "id": "temp_fxqdiplgtgg"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Позволяет узнать какой будет погода в данном регионе, что позволяет заклинателю быть в курсе любых суровых климатических условий в течение следующих 24 часов.",
+    "range": "",
+    "duration": "мгновенное",
+    "defence": "",
+    "components": "Чаша с землей, Пятая эссенция (x2), Зеленая плесень (x2), Жемчужина (x2), Ртутный раствор (x1), Ласточкина трава (x1)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "12",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496639098,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "b3E5yNekzDUKGU7g",
+  "folder": "frZElF7gtXj0TtZt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!b3E5yNekzDUKGU7g"
+}

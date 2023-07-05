@@ -1,0 +1,60 @@
+{
+  "name": "Зеленый Росток",
+  "type": "spell",
+  "img": "icons/magic/nature/leaf-drip-light-green.webp",
+  "system": {
+    "class": "MagicalGift",
+    "level": "minor gift",
+    "source": "",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "В качестве действия вы можете вырастить маленькое растение от семени до зрелости. Это позволяет вам выращивать травы и алхимические растения, но не более крупные растения, такие как деревья.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "Любая алхимическая смесь, которую вы создаете с веществом растительного происхождения в качестве одного из ее ингредиентов, получается с эффектом отравления, а также ожидаемым эффектом при ее использовании",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.KBuLRG3R10BHeFa5"
+    },
+    "cf": {
+      "id": "temp_rpgkv4xo64q"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670242348376,
+    "modifiedTime": 1685496637371,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Q9L0nlR84L8aYj92",
+  "sort": 0,
+  "_id": "Cw87ZAnfHWvqF1tn",
+  "_key": "!items!Cw87ZAnfHWvqF1tn"
+}

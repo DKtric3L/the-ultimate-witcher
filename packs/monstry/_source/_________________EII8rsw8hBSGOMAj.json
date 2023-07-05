@@ -1,0 +1,46 @@
+{
+  "name": "Яйцо Архигрифона",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/egg_gryphon_64x64.png.6884.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 1,
+    "cost": 250,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Грифоны",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_rcov954udlf",
+      "color": "#3b9b58"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.gqJ1qi3cJgImIgrL"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853710,
+    "modifiedTime": 1669960821849,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "EII8rsw8hBSGOMAj",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!G2iHcber3UTGDIBu.EII8rsw8hBSGOMAj"
+}

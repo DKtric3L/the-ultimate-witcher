@@ -1,0 +1,57 @@
+{
+  "name": "Шторм Ван Аделаиды",
+  "type": "spell",
+  "img": "icons/magic/air/wind-vortex-swirl-blue-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_8d23sz774xs"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Созданный Луизой Ван Аделаидой, шторм\nиспользует мощный ветер, исходящий из цели,\nнаходящейся в пределах 30м. После произнесения\nзаклинания порыв ветра вырывается из цели в радиусе 2\nметров, отталкивая любого на 6 метров назад. Эта атака\nнаносит только 1d6 урона, а если цель сталкивается с чем\nто, он получает урон от таранящего удара. Находясь в\nвоздухе, ветер смягчает ваше падение, а это значит, что вы\nне получите никаких повреждений при приземлении.",
+    "range": "30м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892180,
+    "modifiedTime": 1685496637983,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "w60vQdigzIiONomS",
+  "folder": "qEnUV4TFfXrvClWj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!w60vQdigzIiONomS"
+}

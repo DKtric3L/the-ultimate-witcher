@@ -1,0 +1,16 @@
+{
+  "text": "Велес",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/veles.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "rmTsxgkl542rqZ7i",
+  "documentId": "aOtUaLmiERvIxQ9Q",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.rmTsxgkl542rqZ7i"
+}

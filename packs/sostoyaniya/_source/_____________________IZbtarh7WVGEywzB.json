@@ -1,0 +1,43 @@
+{
+  "name": "Трансмутация: Стрыга",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.FcC7oSLq9aIystD3"
+    },
+    "cf": {
+      "id": "temp_njhvjakxvm"
+    }
+  },
+  "system": {
+    "description": "Ваш ПРЖ становится равен половине вашего БЕГ и вы получаете +3 к проверкам Атлетики.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_xottzw4yq",
+        "skill": "WITCHER.SkDexAthletics",
+        "modifier": "3"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883175,
+    "modifiedTime": 1685496621920,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IZbtarh7WVGEywzB",
+  "folder": "cY1sx3EFSRP3cq5q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IZbtarh7WVGEywzB"
+}

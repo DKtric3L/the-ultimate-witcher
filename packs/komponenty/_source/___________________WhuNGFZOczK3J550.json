@@ -1,0 +1,45 @@
+{
+  "name": "Плавник гиппокампа",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tongue_rotfiend.dds_.6945.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_qvpxq7w0ybj",
+      "color": "#5c65e6"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.rNSrdHMGuHHn1NUt"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 89,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Гиппокампы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "hydragenum"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853703,
+    "modifiedTime": 1685496584231,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WhuNGFZOczK3J550",
+  "folder": "lPSDHF0Dc9gJ8VIq",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WhuNGFZOczK3J550"
+}

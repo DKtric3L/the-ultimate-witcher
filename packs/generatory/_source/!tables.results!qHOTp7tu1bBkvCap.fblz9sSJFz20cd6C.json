@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Сапфировая пыль",
+  "img": "modules/the-ultimate-witcher/assets/gems/dust_sapphire.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "K3u6uNQLoemB7BoF",
+  "_id": "fblz9sSJFz20cd6C",
+  "flags": {},
+  "_key": "!tables.results!qHOTp7tu1bBkvCap.fblz9sSJFz20cd6C"
+}

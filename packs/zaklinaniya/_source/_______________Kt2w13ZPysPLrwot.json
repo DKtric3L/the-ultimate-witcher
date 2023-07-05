@@ -1,0 +1,60 @@
+{
+  "name": "Порицание души",
+  "type": "spell",
+  "img": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_2p80iyngdu1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "7",
+    "staminaIsVar": false,
+    "effect": "Вы выкрикиваете осуждение от имени своего бога разумному существу на ваш выбор. Это ранит его душу, нанося 1d6 некротического урона.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496639258,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Kt2w13ZPysPLrwot",
+  "folder": "7qXEELZDYM9OW2E6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Kt2w13ZPysPLrwot"
+}

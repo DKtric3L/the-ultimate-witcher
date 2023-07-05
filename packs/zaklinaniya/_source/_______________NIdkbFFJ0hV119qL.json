@@ -1,0 +1,60 @@
+{
+  "name": "Большой прыжок",
+  "type": "spell",
+  "img": "icons/skills/movement/arrow-upward-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.51TDuyXGF0rM0kTK"
+    },
+    "cf": {
+      "id": "temp_oydnqndjm3"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Заклинатель может использовать потоки ветра, чтобы совершить ПРЖ равный 3 обычным прыжкам. Заклинание можно так же наложить на любое существо в пределах дистанции.",
+    "range": "на себя/20 м",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496638621,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NIdkbFFJ0hV119qL",
+  "folder": "nbNkLZabfepWFQLK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NIdkbFFJ0hV119qL"
+}

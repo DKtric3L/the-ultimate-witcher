@@ -1,0 +1,66 @@
+{
+  "_id": "JSIkRZ4PHylOO214",
+  "name": "Трифери Геаф",
+  "type": "spell",
+  "img": "icons/magic/water/water-elemental-blue-teeth.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wcrqgntympb"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.AugHogIkguBazzbO"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Позволяет швырнуть несколько 2-метровых ледяных шипов — в количестве, равном половине значения навыка Сотворение заклинаний. Шипы можно метать в любое количество целей в пре делах дистанции. Шипы наносят 5d6 урона, а при пробивании брони замораживают противника, нанося 2 пункта урона каждый раунд, пока не будут сломаны успешной проверкой Силы со СЛ 20 или пока не получат 20 урона. В противном случае шипы остаются на время действия заклинания. Каждая атака проводится отдельно.",
+    "range": "20м",
+    "duration": "1d10 раундов",
+    "defence": "укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Заморозка при пробитии брони",
+        "percentage": ""
+      },
+      {
+        "id": "_gt8ruwyzy",
+        "name": "2 урона в раунд от заморозки",
+        "percentage": ""
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!prC328NUuCzCs2JS.JSIkRZ4PHylOO214"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Особенности 2",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "M3P3TLhAuwtx4TNL",
+  "_id": "0h3jAkRtiol47YcH",
+  "flags": {},
+  "_key": "!tables.results!H6CtJCWGF4v90fEu.0h3jAkRtiol47YcH"
+}

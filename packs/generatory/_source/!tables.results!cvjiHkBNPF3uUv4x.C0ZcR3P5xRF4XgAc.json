@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Ослизг",
+  "img": "modules/the-ultimate-witcher/assets/monsters/oslizg.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "QdpnQpyVmID9dpxE",
+  "_id": "C0ZcR3P5xRF4XgAc",
+  "flags": {},
+  "_key": "!tables.results!cvjiHkBNPF3uUv4x.C0ZcR3P5xRF4XgAc"
+}

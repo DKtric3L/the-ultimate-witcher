@@ -1,0 +1,42 @@
+{
+  "name": "Когти гравейра",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/claw_monstrous.png.6874.png",
+  "system": {
+    "description": "",
+    "quantity": "2",
+    "weight": 1,
+    "cost": 60,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "гравейры",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.world.komponenty.Up4kKSr4Qplm778I"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669965675126,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "oTWpyGdmrIgBR03k",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!HeGDutwhOFVW1wQQ.oTWpyGdmrIgBR03k"
+}

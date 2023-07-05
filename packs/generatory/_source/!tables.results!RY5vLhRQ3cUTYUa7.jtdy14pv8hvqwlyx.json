@@ -1,0 +1,16 @@
+{
+  "text": "Маринованый Орган в банке",
+  "type": 2,
+  "img": "icons/commodities/biological/organ-brain-pink-purple.webp",
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "_id": "jtdy14pv8hvqwlyx",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "1fDw7PAK4D4PHFO1",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.jtdy14pv8hvqwlyx"
+}

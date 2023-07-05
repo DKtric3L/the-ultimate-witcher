@@ -1,0 +1,44 @@
+{
+  "name": "Отвар грифона",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/kraken_potion.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 56,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "avail": "Rare",
+    "effect": "Каждый раз, когда вам наносят больше 5 урона, вы получаете +2 к ПБ.\nЭтот бонус применяется ко всем частям тела и суммируется.",
+    "time": "30 минут",
+    "toxicity": "75%"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_adni0hxf6rb"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.rBMffKMZA8Ywwuye"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887308,
+    "modifiedTime": 1669961887837,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "QMVZ0ghgJRRRNdlt",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!N7nQOFSsbexXyUCv.QMVZ0ghgJRRRNdlt"
+}

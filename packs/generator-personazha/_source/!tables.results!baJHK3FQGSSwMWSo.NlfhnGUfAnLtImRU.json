@@ -1,0 +1,16 @@
+{
+  "_id": "NlfhnGUfAnLtImRU",
+  "flags": {},
+  "type": 0,
+  "text": "Мирная смерть [[1d10]] десятилетий спустя.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!baJHK3FQGSSwMWSo.NlfhnGUfAnLtImRU"
+}

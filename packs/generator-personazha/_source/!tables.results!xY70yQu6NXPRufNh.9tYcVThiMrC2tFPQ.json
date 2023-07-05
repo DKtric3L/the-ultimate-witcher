@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Кто был вашей семьей?",
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "wM4JxT87Cx3Z13PL",
+  "_id": "9tYcVThiMrC2tFPQ",
+  "flags": {},
+  "_key": "!tables.results!xY70yQu6NXPRufNh.9tYcVThiMrC2tFPQ"
+}

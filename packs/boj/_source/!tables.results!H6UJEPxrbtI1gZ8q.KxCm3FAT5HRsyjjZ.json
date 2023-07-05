@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "KxCm3FAT5HRsyjjZ",
+  "text": "Захват и попытка обездвижить на второй ход.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!H6UJEPxrbtI1gZ8q.KxCm3FAT5HRsyjjZ"
+}

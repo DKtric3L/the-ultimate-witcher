@@ -1,0 +1,60 @@
+{
+  "name": "Успокоить животное",
+  "type": "spell",
+  "img": "icons/magic/nature/beam-hand-leaves-green.webp",
+  "system": {
+    "class": "MagicalGift",
+    "level": "minor gift",
+    "source": "",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "В качестве действия вы можете успокоить Зверя, у которого нет Среднего или Высокого рейтинга угрозы. После этого эффекта Зверь считает вас и ваших союзников дружественными и не будет атаковать, если его не спровоцировать.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "Звери со средней или высокой степенью угрозы разъярены вашим присутствием и, если возможно, будут атаковать вас в первую очередь, а не другие цели.",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.SJQfE624ZMI9ciXJ"
+    },
+    "cf": {
+      "id": "temp_rpgkv4xo64q"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670242348376,
+    "modifiedTime": 1685496637371,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Q9L0nlR84L8aYj92",
+  "sort": 0,
+  "_id": "V9gAeYg1DctwesNk",
+  "_key": "!items!V9gAeYg1DctwesNk"
+}

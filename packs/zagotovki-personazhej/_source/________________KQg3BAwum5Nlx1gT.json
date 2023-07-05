@@ -1,0 +1,65 @@
+{
+  "_id": "KQg3BAwum5Nlx1gT",
+  "name": "Короткий кинжал",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-double-black.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 300000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.e2xp0QNidhj2uTqY"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 350,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Poor",
+    "damage": "2d6+2",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": "/",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "25"
+      }
+    ],
+    "conceal": "S",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Small Blades",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671032530452,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!KGltdXgAyNR4yViS.KQg3BAwum5Nlx1gT"
+}

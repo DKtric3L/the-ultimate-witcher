@@ -1,0 +1,44 @@
+{
+  "name": "Наручные ножны",
+  "type": "valuable",
+  "img": "icons/containers/ammunition/bullets-belt.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_r3stwb3cdz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.iSpFQBcDB6ziC8eU"
+    }
+  },
+  "system": {
+    "description": "Такими любят пользоваться наёмники и убийцы. Небольшие ножны для лёгких клинков, прикрепляемые ко внутренней стороне руки (проверка Внимания со СЛ 15 для обнаружения).",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 11,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1685496603596,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DYQ6G8Nbqb1D9xFq",
+  "folder": "mg1jdTvvbWMf4cYK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DYQ6G8Nbqb1D9xFq"
+}

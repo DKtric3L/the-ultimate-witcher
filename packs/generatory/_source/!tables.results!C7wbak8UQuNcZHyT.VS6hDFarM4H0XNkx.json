@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Эрвелюс",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/everlus.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Ksjv2pIRqa2IPhBd",
+  "_id": "VS6hDFarM4H0XNkx",
+  "flags": {},
+  "_key": "!tables.results!C7wbak8UQuNcZHyT.VS6hDFarM4H0XNkx"
+}

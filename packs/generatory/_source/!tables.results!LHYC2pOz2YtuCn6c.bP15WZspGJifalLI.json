@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Оружие - Ведьмачье",
+  "img": "icons/sundries/books/book-symbol-triangle-blue.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "pOpEuHsZd5LNEKrh",
+  "_id": "bP15WZspGJifalLI",
+  "flags": {},
+  "_key": "!tables.results!LHYC2pOz2YtuCn6c.bP15WZspGJifalLI"
+}

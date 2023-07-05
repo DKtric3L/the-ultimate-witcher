@@ -1,0 +1,57 @@
+{
+  "name": "Обострение чувств",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-ringed-glow-angry-large-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_g0hcqrt3scn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Обострение чувств позволяет повысить чувствительность зрения, обоняния и слуха. При накладывании этого заклинания вы немедленно получаете преимущества Ночного видения и Отслеживания запахов и получаете +2 к проверкам Внимания. Однако, если вы подвергаетесь воздействию яркого света или очень громкого шума, вы подвергаетесь эффекту ошеломления",
+    "range": "на себя",
+    "duration": "30 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1685496637801,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0QcJvPcy5PM0cHsC",
+  "folder": "1qvYxGy2tyjjpXzr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0QcJvPcy5PM0cHsC"
+}

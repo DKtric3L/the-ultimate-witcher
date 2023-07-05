@@ -1,0 +1,177 @@
+{
+  "name": "Молот горца",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.eIgnujuVSB62pFaX"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.03P3k3rzN4r5hYCq]{Молот горца}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1440,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "13ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "5",
+        "name": "Темное железо"
+      },
+      {
+        "id": "_ja2c0g7gd",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_b0cigni95",
+        "name": "Укрепленное дерево",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_auxe5oykg",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_b6f6j1e59",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_6t6gtpiww",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_xu1cco0e0",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_t3mc5bbdr",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 772,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Молот горца",
+      "type": "weapon",
+      "img": "icons/weapons/hammers/hammer-double-engraved-gold.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3,
+        "cost": 1100,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Дробящее",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": true,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "6d6+2",
+        "reliable": 20,
+        "maxReliability": 20,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Дезориентирующее(-2)",
+            "percentage": ""
+          },
+          {
+            "id": "_vqfp1ex12",
+            "name": "Метеоритное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Melee",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_2nu7s87th96"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863941,
+        "modifiedTime": 1672564706465,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848422,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eIgnujuVSB62pFaX",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eIgnujuVSB62pFaX"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Руководство собирателя",
+  "type": "valuable",
+  "img": "icons/sundries/books/book-symbol-leaf-gold-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zf5u6w9lv4"
+    }
+  },
+  "system": {
+    "description": "Карманный кожаный журнал с информацией о растениях и минералах континента. При обращении к Руководству собирателя при поиске ингредиента Сл добычи снижается на 2, а количество единиц, найденных при проверке сбора, увеличивается на 2.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868988,
+    "modifiedTime": 1685496603881,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EcETpgsg11XaiFWl",
+  "folder": "q1ZDZnYV2jrmlqwx",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!EcETpgsg11XaiFWl"
+}

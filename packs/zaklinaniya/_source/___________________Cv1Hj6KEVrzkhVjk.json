@@ -1,0 +1,60 @@
+{
+  "name": "Магическая починка",
+  "type": "spell",
+  "img": "icons/tools/smithing/crucible-round.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.IeZzLh7GHhYVZT1L"
+    },
+    "cf": {
+      "id": "temp_m5jdkghug28"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Восстанавливает 1 Н или ПБ за каждые 2 очка, выше СЛ (Минимум 1). Необходимо использовать 1 единицу материала, из которого сделана броня (например, 1 единицу кожи для кожаных доспехов или 1 единицу серебра для серебряного меча)",
+    "range": "",
+    "duration": "мгновенное",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892163,
+    "modifiedTime": 1685496639124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Cv1Hj6KEVrzkhVjk",
+  "folder": "9Po5TIJ5gLDJqbWG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Cv1Hj6KEVrzkhVjk"
+}

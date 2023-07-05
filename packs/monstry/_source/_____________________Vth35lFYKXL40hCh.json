@@ -1,0 +1,60 @@
+{
+  "_id": "Vth35lFYKXL40hCh",
+  "name": "Градобитие Меригольд",
+  "type": "spell",
+  "img": "icons/magic/water/projectile-ice-teardrops-salvo.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_zj30gssz7x"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.v3bPZ3YoDtMAgoJo"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Заклинание названо в честь его создательницы Трисс Меригольд, бывшей советницы короля Фольтеста Темерского. Градобитие создаёт зону мощного града. Любой, кто оказывается в зоне действия заклинания, должен каждый раунд проходить проверку Уклонения/Изворотливости со СЛ, равной вашей проверке Сотворения заклинаний, чтобы не получить 2d6 урона по одной из частей тела.",
+    "range": "радиус 30м",
+    "duration": "Актив(4 вын)",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!hIrfwQkQkN0IlX76.Vth35lFYKXL40hCh"
+}

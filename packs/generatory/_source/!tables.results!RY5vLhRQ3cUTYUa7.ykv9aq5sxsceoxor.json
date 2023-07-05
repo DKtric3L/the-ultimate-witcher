@@ -1,0 +1,16 @@
+{
+  "text": "Татуированная кожа",
+  "type": 2,
+  "img": "icons/commodities/leather/leather-scrap-white.webp",
+  "weight": 1,
+  "range": [
+    29,
+    29
+  ],
+  "drawn": false,
+  "_id": "ykv9aq5sxsceoxor",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "ikQDejRrW3NqRenH",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.ykv9aq5sxsceoxor"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Прочее",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "lDj0Nv9hoeZyWmFS",
+  "_id": "h2GdPhv84jUFZGxg",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!h2GdPhv84jUFZGxg"
+}

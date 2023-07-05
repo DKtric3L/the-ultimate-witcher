@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Великан",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Ledanoy_velikan_Bartlomiej_Gawel.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "foCExXWrV9dRhxht",
+  "_id": "QzRuesoTVcVwl4LH",
+  "flags": {},
+  "_key": "!tables.results!MmZRVfw0QtTylPNl.QzRuesoTVcVwl4LH"
+}

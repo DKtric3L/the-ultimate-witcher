@@ -1,0 +1,184 @@
+{
+  "name": "Взрывные боеприпасы(5х)",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.PHNgQn2Z7Fz9HtYS"
+    },
+    "cf": {
+      "id": "temp_uxjqay5wmkq"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.BprgghiLtOH5Clh2]{Взрывные Боеп-сы}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "Ammunition",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Темная сталь"
+      },
+      {
+        "id": "_i5kdg6e2r",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_umair4gvd",
+        "name": "Укрепленное дерево",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_o2pdoe6jv",
+        "name": "Масло",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_8on49cu37",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_p7f0mkisj",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_rvuzmmrey",
+        "name": "Зерриканская смесь",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 362,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Взрывные боеприпасы",
+      "type": "weapon",
+      "img": "icons/skills/ranged/projectile-explosion-black-orange.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 108,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Стихийное",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": true
+        },
+        "isAmmo": true,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Poor",
+        "damage": "",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "При столкновении с целью наконечник",
+            "percentage": ""
+          },
+          {
+            "id": "_i5w2q67ri",
+            "name": "Взрывается, нанося 4d6 урона по всем",
+            "percentage": ""
+          },
+          {
+            "id": "_ybrpvpq1d",
+            "name": "частям тела всем, кто находится",
+            "percentage": ""
+          },
+          {
+            "id": "_j60w0yody",
+            "name": "в пределах 2 м",
+            "percentage": ""
+          }
+        ],
+        "conceal": "S",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Brawling",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rol4jixhdr"
+        },
+        "core": {
+          "sourceId": "Compendium.world.vedmache-snaryazhenie.BprgghiLtOH5Clh2"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863937,
+        "modifiedTime": 1672564102819,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848410,
+    "modifiedTime": 1685496579423,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PHNgQn2Z7Fz9HtYS",
+  "folder": "i6EyT0d6h9MoqghR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PHNgQn2Z7Fz9HtYS"
+}

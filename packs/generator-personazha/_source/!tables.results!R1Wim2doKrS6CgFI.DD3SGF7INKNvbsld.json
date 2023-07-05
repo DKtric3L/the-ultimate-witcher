@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "DD3SGF7INKNvbsld",
+  "text": "Медальон Школы Грифона",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!R1Wim2doKrS6CgFI.DD3SGF7INKNvbsld"
+}

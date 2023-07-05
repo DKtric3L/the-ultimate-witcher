@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Боеприпасы - Обычные",
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "aAc8Uvks5afFLhXP",
+  "_id": "xs7Vtwk08Rv0bGZz",
+  "flags": {},
+  "_key": "!tables.results!KmkfY7Z2aPq7kdGL.xs7Vtwk08Rv0bGZz"
+}

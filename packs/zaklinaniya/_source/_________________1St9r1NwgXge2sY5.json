@@ -1,0 +1,57 @@
+{
+  "name": "Спорная подвеска",
+  "type": "spell",
+  "img": "icons/magic/unholy/orb-glowing-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Соединив осколок травленого стекла в кулон из волчьего аконита, костей животных и полосок кожи, вы можете создать средоточие темной магии. Этот кулон поглощает хаос, формирующий порчи, и временно хранит его. Пока человек носит его, он освобождается от воздействия всех порч. Если кулон снять в любой момент, все эффекты вернутся. Кроме того, если человек не избавится от всех проклятий к концу длительности этого ритуала, кулон сломается и выпустит поток темной магии. Если это произойдет, человек, носящий кулон, и все, кто находится в пределах 2 м от него, немедленно поражаются рядом порч, выбранных Мастером",
+    "range": "",
+    "duration": "1 недель",
+    "defence": "",
+    "components": "Стекло (x2), Кости жтвотных (x1), Аконит (x2), Кожа (x2), мелок (x2), Травильная кислота (x5), пепел (x2)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "14",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496637440,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1St9r1NwgXge2sY5",
+  "folder": "dsrLHBOICpZhVQvb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1St9r1NwgXge2sY5"
+}

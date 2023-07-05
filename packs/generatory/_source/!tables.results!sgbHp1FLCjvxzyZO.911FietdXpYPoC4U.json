@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Новичок - Воздух",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "rv5uSmnoIpayehL5",
+  "_id": "911FietdXpYPoC4U",
+  "flags": {},
+  "_key": "!tables.results!sgbHp1FLCjvxzyZO.911FietdXpYPoC4U"
+}

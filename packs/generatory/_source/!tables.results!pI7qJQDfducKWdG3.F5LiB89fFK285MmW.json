@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Пятая эссенция",
+  "img": "icons/commodities/materials/powder-teal.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "zt19TqEjhiAS0sbA",
+  "_id": "F5LiB89fFK285MmW",
+  "flags": {},
+  "_key": "!tables.results!pI7qJQDfducKWdG3.F5LiB89fFK285MmW"
+}

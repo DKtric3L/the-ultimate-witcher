@@ -1,0 +1,16 @@
+{
+  "_id": "LEz6AVGxGmTiJS5K",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Однажды вашу семью дочиста ограбила банда разбойников. Всех ваших родных зарезали, но вы выжили.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!eitdqoqbBaHut7oL.LEz6AVGxGmTiJS5K"
+}

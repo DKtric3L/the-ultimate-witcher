@@ -1,0 +1,60 @@
+{
+  "name": "Ночные огни",
+  "type": "spell",
+  "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_fmeqjndlxhr"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "druid",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "Создает рой небольших светлячков вокруг вас. Они излучают свет, который ярко освещает все вокруг вас в радиусе 4 метров. Этот свет не выделяет тепла, а жуки боятся огня.",
+    "range": "на себя",
+    "duration": "1d6/2 часов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496639367,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XLEEsQlk36McMdgA",
+  "folder": "391U4jkdRfKiiMJD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!XLEEsQlk36McMdgA"
+}

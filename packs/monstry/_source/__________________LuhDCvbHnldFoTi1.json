@@ -1,0 +1,44 @@
+{
+  "_id": "LuhDCvbHnldFoTi1",
+  "name": "Мутаген: Гаргулья",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-blue.png",
+  "effects": [],
+  "folder": "za9MQKX6IGJQLkJy",
+  "sort": 1000000,
+  "flags": {
+    "cf": {
+      "id": "temp_loaduoyv3n",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.aYzdkQs80krFDW3a"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "blue",
+    "source": "Гаргульи",
+    "effect": "+1 к энергии",
+    "alchemyDC": "15",
+    "minorMutation": "Похожие на камни выступы на коже"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!V9DTfjEpscLsT6NX.LuhDCvbHnldFoTi1"
+}

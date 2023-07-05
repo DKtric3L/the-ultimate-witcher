@@ -1,0 +1,16 @@
+{
+  "text": "Рьеви",
+  "type": 2,
+  "img": "icons/magic/water/ice-snowman.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "hC6iGEATKBJyOWQD",
+  "documentId": "KXVqOycrI51WOj1E",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.hC6iGEATKBJyOWQD"
+}

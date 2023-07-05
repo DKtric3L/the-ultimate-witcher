@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Корень лопуха",
+  "img": "systems/TheWitcherTRPG/assets/images/vermilion.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "wEzQXtOovexT4ZfI",
+  "_id": "6lZxCrK6s89nHuoH",
+  "flags": {},
+  "_key": "!tables.results!jz9T3xZVD6LiHK1A.6lZxCrK6s89nHuoH"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Орионы(3х)",
+  "type": 2,
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "7HvR4zjYfYNfoioI",
+  "documentId": "lvBovx1ebVHzUiny",
+  "flags": {},
+  "_key": "!tables.results!GEoWOk0rs1JiUSAB.7HvR4zjYfYNfoioI"
+}

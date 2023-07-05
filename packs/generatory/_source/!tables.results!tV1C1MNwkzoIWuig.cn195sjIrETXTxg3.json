@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Носферат",
+  "img": "modules/the-ultimate-witcher/assets/monsters/nosferatu.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "RtOGQFzxqbmEIv1u",
+  "_id": "cn195sjIrETXTxg3",
+  "flags": {},
+  "_key": "!tables.results!tV1C1MNwkzoIWuig.cn195sjIrETXTxg3"
+}

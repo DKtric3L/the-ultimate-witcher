@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Масло",
+  "img": "icons/tools/laboratory/vial-orange.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "IwkQvSbbd8BEsUFf",
+  "_id": "msA6P2408D5J1m6d",
+  "flags": {},
+  "_key": "!tables.results!UsMLn6LlS08K6zwk.msA6P2408D5J1m6d"
+}

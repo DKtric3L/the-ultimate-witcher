@@ -1,0 +1,16 @@
+{
+  "_id": "Gl1XVUlHbuQVyANO",
+  "flags": {},
+  "type": 0,
+  "text": "Союзник жив.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    31,
+    100
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!b9fkS56jJXvOIGgv.Gl1XVUlHbuQVyANO"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    21,
+    21
+  ],
+  "drawn": false,
+  "text": "Компас",
+  "img": "icons/tools/navigation/compass-worn-copper.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "F9KsAkSVsjQP8P2h",
+  "_id": "Z1WycGjJ0yrvuvwl",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.Z1WycGjJ0yrvuvwl"
+}

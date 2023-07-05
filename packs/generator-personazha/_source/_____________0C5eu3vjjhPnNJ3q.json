@@ -1,0 +1,45 @@
+{
+  "name": "Стиль одежды",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "SzzvxMm51tzF7Ktt",
+    "byrDtRtAkCeSvDn6",
+    "0mKIUUQ9DuCb9mdJ",
+    "JUzBTOd3GuFFmMx9",
+    "qi4j89Nvh4IrzWB8",
+    "Zg89Z9BaCJVfxMPZ",
+    "bUFGb8C2s07q9XTQ",
+    "GG5ykEwbVbIDXH0N",
+    "PdAveyDOa677aZTC",
+    "BPB1y7cz7azPMRvr"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.kkRV9Q60PuyBNh9B"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901106,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "0C5eu3vjjhPnNJ3q",
+  "_key": "!tables!0C5eu3vjjhPnNJ3q"
+}

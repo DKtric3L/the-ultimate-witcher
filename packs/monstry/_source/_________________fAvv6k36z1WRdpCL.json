@@ -1,0 +1,46 @@
+{
+  "name": "Желудок Плюмарда",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/liver_cave_troll_64x64.png.6925.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Plumards",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_xvosmbgy3f",
+      "color": "#4ab2bf"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.r0L1eorF2GGIoTxe"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1669889089391,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "fAvv6k36z1WRdpCL",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xm1767DH0mZ5iKmw.fAvv6k36z1WRdpCL"
+}

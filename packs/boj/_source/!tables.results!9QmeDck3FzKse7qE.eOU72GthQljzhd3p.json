@@ -1,0 +1,16 @@
+{
+  "_id": "eOU72GthQljzhd3p",
+  "type": 0,
+  "text": "Скрученный агонией, пациент получает 3 урона и дезориентирован на 1d6/2 раундов.",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!9QmeDck3FzKse7qE.eOU72GthQljzhd3p"
+}

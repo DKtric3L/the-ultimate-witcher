@@ -1,0 +1,16 @@
+{
+  "text": "Божественная мудрость",
+  "type": 2,
+  "img": "icons/magic/perception/third-eye-blue-red.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "5qx0rvxdrqx1nfjt",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "4ks3BQxabcdDmfFT",
+  "_key": "!tables.results!NhqlCImviS9V9dZw.5qx0rvxdrqx1nfjt"
+}

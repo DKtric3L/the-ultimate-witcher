@@ -1,0 +1,40 @@
+{
+  "name": "Чертеж - усиления брони - Новичок",
+  "description": "A random table created from the contents of the Новичок Folder.",
+  "results": [
+    "X9w8TIJtlAXHbHPU",
+    "pDsN1QkMKj4YHYIw"
+  ],
+  "formula": "1d2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "02ecadafcb7d45c2e95d5567187567540363537e",
+      "sourceId": "RollTable.XwRDS87FuFej7ExL"
+    },
+    "core": {
+      "sourceId": "RollTable.XwRDS87FuFej7ExL"
+    },
+    "cf": {
+      "id": "temp_g53kcg75pyg"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672828446333,
+    "modifiedTime": 1685496644447,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "JQC1u6dxvrwQGnjp",
+  "sort": 0,
+  "_id": "KcbXhapBSKFUbDoU",
+  "_key": "!tables!KcbXhapBSKFUbDoU"
+}

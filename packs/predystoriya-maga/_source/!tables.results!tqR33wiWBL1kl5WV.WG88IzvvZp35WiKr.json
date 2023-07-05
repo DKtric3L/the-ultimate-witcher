@@ -1,0 +1,16 @@
+{
+  "_id": "WG88IzvvZp35WiKr",
+  "type": 2,
+  "text": "Обиды",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "t1ZcJYwmbMo1LH4y",
+  "_key": "!tables.results!tqR33wiWBL1kl5WV.WG88IzvvZp35WiKr"
+}

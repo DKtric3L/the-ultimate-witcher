@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Интимные игрушки",
+  "img": "icons/commodities/wood/wood-pole.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "tW1pmAYwbANBjfDV",
+  "_id": "JVOzEzlwuWgJeAIO",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.JVOzEzlwuWgJeAIO"
+}

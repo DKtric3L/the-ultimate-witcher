@@ -1,0 +1,26 @@
+{
+  "_id": "RgPJPWxsm7EbW5ND",
+  "name": "Область изысканий",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Большинство учёных ведут научные изыскания в одной-двух областях. У учёного есть некоторое количество собственоручно написанны х книг, в которых он ищет нужные сведения. Обращение к книгам даёт учёному бонус +3 к любым двум навыкам, связанным с Интеллектом или Ремеслом (на выбор ведущего)."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!daDixyyojo6AnyoP.RgPJPWxsm7EbW5ND"
+}

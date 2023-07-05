@@ -1,0 +1,16 @@
+{
+  "text": "Тёплая одежда",
+  "type": 2,
+  "img": "icons/equipment/back/cloak-heavy-collared-fur-green.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "qta3g4owierrzvi2",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "JMYiW7kBz3vPmVZS",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.qta3g4owierrzvi2"
+}

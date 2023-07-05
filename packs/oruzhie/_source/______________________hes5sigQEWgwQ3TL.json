@@ -1,0 +1,69 @@
+{
+  "name": "Гномий ручной арбалет",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-simple-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.rZWa1uKAcKBRdSfc"
+    },
+    "cf": {
+      "id": "temp_gk3j9cv5efd"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 425,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 3,
+    "avail": "Rare",
+    "damage": "2d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "100",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Медленно перезаряжается",
+        "percentage": ""
+      }
+    ],
+    "conceal": "S",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Crossbow",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863937,
+    "modifiedTime": 1685496598556,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hes5sigQEWgwQ3TL",
+  "folder": "tjuPLNAwPYNFkh1t",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hes5sigQEWgwQ3TL"
+}

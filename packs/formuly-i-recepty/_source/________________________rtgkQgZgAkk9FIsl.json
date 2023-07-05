@@ -1,0 +1,82 @@
+{
+  "name": "Рунное слово: Истощение",
+  "type": "diagrams",
+  "img": "icons/magic/unholy/beams-impact-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.JDoYxYpXRjVPzMG2"
+    },
+    "cf": {
+      "id": "temp_9bj7smrdyss"
+    }
+  },
+  "system": {
+    "description": "<p>Используя с этим оружием в руках заклинание или инвокацию, если жертва не смогла защититься от атаки, она получает урон 1d6 выносливости, помимо эффекта заклинания.</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 3350,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 21,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Стрибог"
+      },
+      {
+        "id": "_s9v3o4mg4",
+        "name": "Триглав",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_thfd7c5wd",
+        "name": "Велес",
+        "percentage": ""
+      },
+      {
+        "id": "_v80tjdgqq",
+        "name": "Занимает 3 слота для улучшений",
+        "percentage": ""
+      }
+    ],
+    "investment": 1675,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848426,
+    "modifiedTime": 1685496579101,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rtgkQgZgAkk9FIsl",
+  "folder": "E2VrBCTEMffcDmWz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rtgkQgZgAkk9FIsl"
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "Qjkadxy43Ox8tEqN",
+  "name": "Шкура Медведя",
+  "type": "component",
+  "img": "icons/commodities/leather/fur-pelt-bear.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_fd6i44q3pyb",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.0rIjvF2znjzCbqGM"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 6,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Common",
+    "location": "Медведи",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!SfCCPw4qmzAvKDLh.Qjkadxy43Ox8tEqN"
+}

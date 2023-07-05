@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Наручные ножны",
+  "img": "icons/containers/ammunition/bullets-belt.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "DYQ6G8Nbqb1D9xFq",
+  "_id": "wFZZLdcO6Vk2mImk",
+  "flags": {},
+  "_key": "!tables.results!wa4c0H22s3mlsxv3.wFZZLdcO6Vk2mImk"
+}

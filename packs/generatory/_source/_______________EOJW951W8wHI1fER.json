@@ -1,0 +1,50 @@
+{
+  "name": "Случайный Эфир",
+  "img": "systems/TheWitcherTRPG/assets/images/aether.png",
+  "description": "",
+  "results": [
+    "tbFBrxg93SUyX4EG",
+    "jvVNJNR7sBVXfsgs",
+    "6Hm7uXBxDlPA94wA",
+    "t9oz7idAsoiYMMBi",
+    "IEiWSew8bPRjY6WL",
+    "6tLDmRzT5HViIMjk",
+    "MDdU6idGPVbFhoeq",
+    "usNKopdHLoQTtsXd",
+    "OLzAqeDfJfTOdwWI",
+    "QocwrqHNIALwm9No",
+    "ibTkE6hVGQqxeVjC",
+    "FGJJr1Z0SDulmZDf",
+    "J2C2QKxiD9AAcqtd",
+    "M0TFsM8YGoLQoJyz",
+    "EyksEddq1C0IIfY6",
+    "vjmyvnnT03mbBsXa"
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_fq4yov25gun"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644845,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vHNpuBWLrSAYE4i",
+  "sort": 0,
+  "_id": "EOJW951W8wHI1fER",
+  "_key": "!tables!EOJW951W8wHI1fER"
+}

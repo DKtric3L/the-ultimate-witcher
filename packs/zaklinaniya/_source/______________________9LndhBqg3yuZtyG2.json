@@ -1,0 +1,57 @@
+{
+  "name": "Прикосновение кузнеца",
+  "type": "spell",
+  "img": "icons/skills/melee/strike-flail-destructive-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rvnwo8w74yf"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Прикосновение Кузнеца фокусирует магию огня в металле, позволяя вам манипулировать им голыми руками. Пока это заклинание активно, вы можете сгибать, придавать форму и манипулировать металлом, как если бы он был глиной. Вдобавок, совершая действием Бойцовскую атаку, вы можете нанести разрушающий урон 3к6 доспехам или урон Надежности оружию. Это заклинание нельзя использовать на двимерите.",
+    "range": "2м",
+    "duration": "Актив(10 вын)",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638009,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9LndhBqg3yuZtyG2",
+  "folder": "D2ZubvkjQZuPCeQt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9LndhBqg3yuZtyG2"
+}

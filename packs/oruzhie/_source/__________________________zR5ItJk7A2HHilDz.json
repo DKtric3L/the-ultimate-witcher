@@ -1,0 +1,81 @@
+{
+  "name": "Сеть охотника на монстров",
+  "type": "weapon",
+  "img": "icons/weapons/thrown/bolas-stone.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_5fd8qju81pt"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 4,
+    "cost": 500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "2",
+    "range": "4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Опутывающее",
+        "percentage": ""
+      },
+      {
+        "id": "_wiknqxbom",
+        "name": "Цель, пораженная этим оружием, опутывается им. Она снижают свою скорость на 5 и получают штраф -2 ко всем физическим действиям. Каждый ход цель может совершать проверку Уклонения/Побега или Акробатики(?) с Сл: 18, чтобы сбежать. В качестве альтернативы другой персонаж может действием убрать оружие.",
+        "percentage": ""
+      },
+      {
+        "id": "_zxd97wvg3",
+        "name": "Магическое связывание",
+        "percentage": ""
+      },
+      {
+        "id": "_u8ssh0lif",
+        "name": "Пока существо прикасается к этому оружию, оно не может стать невидимым или неосязаемым или использовать любую способность, которая позволяет ему телепортироваться. Существа, которые уже являются невидимыми или неосязаемыми, становятся видимыми и осязаемыми при прикосновении к этому оружию.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863943,
+    "modifiedTime": 1685496598744,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "zR5ItJk7A2HHilDz",
+  "folder": "0NR1thozchDVQIHT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zR5ItJk7A2HHilDz"
+}

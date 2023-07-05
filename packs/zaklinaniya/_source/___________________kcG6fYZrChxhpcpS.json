@@ -1,0 +1,70 @@
+{
+  "name": "Некротическая тень",
+  "type": "spell",
+  "img": "icons/magic/unholy/strike-hand-glow-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.CeR98N4RCfkZYoe2"
+    },
+    "cf": {
+      "id": "temp_0t82pqg9kah"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "13",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 3d10.\nТеневая щупальца выходит из вашей тени и соединяется с тенью цели. Она наносит 2d6 некротического урона. Пока связь существует, ваша цель получает 1d6 некротического урона каждый раунд. Вы можете разорвать теневую связь, нанеся ей 15 единиц урона, но она считается бесплотной.",
+    "range": "10м",
+    "duration": "1d10 раундов или пока не уничтожено",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6+3d10+1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "2d6 - Некротический урон цели"
+      },
+      {
+        "id": "_kxpttobui",
+        "name": "3d10 - Некротический урон заклинателю",
+        "percentage": ""
+      },
+      {
+        "id": "_0g4l9ytk4",
+        "name": "1d10 - Длительность заклинания(Раунды)",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496638860,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kcG6fYZrChxhpcpS",
+  "folder": "oUploplKQy7OzcxK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kcG6fYZrChxhpcpS"
+}

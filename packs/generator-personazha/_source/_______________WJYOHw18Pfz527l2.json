@@ -1,0 +1,45 @@
+{
+  "name": "Профессия обид",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "xilDYG7ObZAZmGZv",
+    "3lVhMoj0UfPGrbRL",
+    "6O0BLZJjCPKMC1sy",
+    "fEZQhcjVMEY2TpsG",
+    "n5FHIVNwdEChCGKf",
+    "AyPn9Ub5iU5yTpq4",
+    "T9qKm8ttv3N2IVrP",
+    "y9Gx5Lgcc9GHVs6N",
+    "irNL8p6r4fwLCpms",
+    "gOzsfbdgosIJbWmP"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.cD3qA0R5PUzZqkum"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901103,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "WJYOHw18Pfz527l2",
+  "_key": "!tables!WJYOHw18Pfz527l2"
+}

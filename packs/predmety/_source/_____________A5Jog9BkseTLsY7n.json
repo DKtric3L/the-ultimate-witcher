@@ -1,0 +1,40 @@
+{
+  "name": "Книга сказок",
+  "type": "valuable",
+  "img": "icons/sundries/books/book-embossed-gold-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh"
+    }
+  },
+  "system": {
+    "description": "Книга народных сказок и легенд, которая автоматически раскрывает суеверия простолюдинов любого монстра\nпри упоминании. Кроме того, он дает +1 к любым проверкам знаний о монстрах, сделанным при наличии книги.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 40,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "A5Jog9BkseTLsY7n",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!A5Jog9BkseTLsY7n"
+}

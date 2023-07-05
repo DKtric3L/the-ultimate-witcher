@@ -1,0 +1,16 @@
+{
+  "text": "Безобидное пламя",
+  "type": 2,
+  "img": "icons/magic/fire/projectile-fireball-red-yellow.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "zxpRPgUr2vVTe3oQ",
+  "documentId": "ngFmjxFIjQzKBZmE",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.zxpRPgUr2vVTe3oQ"
+}

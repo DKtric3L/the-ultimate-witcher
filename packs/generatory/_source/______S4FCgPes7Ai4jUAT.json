@@ -1,0 +1,46 @@
+{
+  "name": "Масла",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "oy7lbxn5DhLWIbxu",
+    "MzDKIBak5AD45NEt",
+    "SZ9VZ8n3Y3Z2xp8p",
+    "D1zoJtQRSGdpNrfT",
+    "b39m8hA35IBAshOO",
+    "gnXl37SMH6LoAgt7",
+    "mh6T45SZbrz0btBF",
+    "tuvIeizPm88FpSNb",
+    "H6zkJ0rzbTBPRxBI",
+    "4Dz7eJeXWlzHIy00",
+    "SQHWxn9AcsUAcgT0",
+    "A3vJxJbefnbb5Uy7"
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.jz3wFZCbgEERZHSt"
+    },
+    "cf": {
+      "id": "temp_bpzz1bk4fz"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668329774327,
+    "modifiedTime": 1685496644725,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "7MET9RHL82tHGj41",
+  "sort": 0,
+  "_id": "S4FCgPes7Ai4jUAT",
+  "_key": "!tables!S4FCgPes7Ai4jUAT"
+}

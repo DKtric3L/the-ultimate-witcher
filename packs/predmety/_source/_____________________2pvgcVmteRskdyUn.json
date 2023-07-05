@@ -1,0 +1,43 @@
+{
+  "name": "Коралл великого моря",
+  "type": "valuable",
+  "img": "icons/commodities/stone/geode-raw-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.htfnIMMtUMIQ9vYH"
+    },
+    "cf": {
+      "id": "temp_o9qp5pd3li"
+    }
+  },
+  "system": {
+    "description": "Необходим для снятия дурного сглаза",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496603327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2pvgcVmteRskdyUn",
+  "folder": "Y27EgvFkpvqgYHAE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2pvgcVmteRskdyUn"
+}

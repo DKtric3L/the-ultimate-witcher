@@ -1,0 +1,45 @@
+{
+  "name": "Дикая охота",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "ZAW0p5eeGN0DFu5V",
+    "JXn4G0zJAotUcWJn",
+    "Y8B63NzI7O1GOg1a",
+    "UbRjiXJ6mATitUzc",
+    "rLUideDivDnqwdd2",
+    "r4OThaV0ipOhCXTU",
+    "VtUD4JuUHYRuzr18",
+    "bgPUwLMhoUUcXecZ",
+    "ZmJO51NEt5Id22O5",
+    "wtYeb8ivDIlUoLQr",
+    "YgaUcgj5PPktvGwC"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "5tfGWAzBNqJfO1Gr",
+  "_key": "!tables!5tfGWAzBNqJfO1Gr"
+}

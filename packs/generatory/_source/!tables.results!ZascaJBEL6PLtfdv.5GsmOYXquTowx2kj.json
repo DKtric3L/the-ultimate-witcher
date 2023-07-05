@@ -1,0 +1,16 @@
+{
+  "text": "Дыхание Кората",
+  "type": 2,
+  "img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "5GsmOYXquTowx2kj",
+  "documentId": "S3nDvZKe9o5XSsUG",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.5GsmOYXquTowx2kj"
+}

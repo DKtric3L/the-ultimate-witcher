@@ -1,0 +1,57 @@
+{
+  "name": "Праздник изобилия (Дана Меадбх)",
+  "type": "spell",
+  "img": "icons/magic/nature/cornucopia-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Взывая к силе Королевы Полей, вы благословляете пиршество, собранное исключительно из местной области и достаточно большое, чтобы накормить не менее 20 человек. Поев с этого пира, существо получает 6d6 хитов, немедленно излечивает все критические ранения; и снимает состояния отравления и болезни. Эта инвокация может затронуть столько людей, сколько сможет накормить пир",
+    "range": "2м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VlZGA8VhOUNfRHmw",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VlZGA8VhOUNfRHmw"
+}

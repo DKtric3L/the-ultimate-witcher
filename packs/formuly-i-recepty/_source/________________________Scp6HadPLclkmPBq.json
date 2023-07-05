@@ -1,0 +1,72 @@
+{
+  "name": "Глифово слово: Вращение",
+  "type": "diagrams",
+  "img": "icons/magic/perception/eye-ringed-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.xRIKGcVFwHHxBqXs"
+    },
+    "cf": {
+      "id": "temp_1r5chs154v7"
+    }
+  },
+  "system": {
+    "description": "<p>Ставится на ножную броню.</p>\n<p>Занимает 2 ячейки улучшения</p>\n<p>Нося доспех с этим глифом, враг не получает преимущества в атаке, когда атакует вас с вашей слепой зоны видимости.</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 600,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Глиф связывания"
+      },
+      {
+        "id": "_6rz520ew7",
+        "name": "Глиф укрепления",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 300,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848411,
+    "modifiedTime": 1685496579124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Scp6HadPLclkmPBq",
+  "folder": "7ogE3cPtN4Xw0G1z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Scp6HadPLclkmPBq"
+}

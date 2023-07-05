@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Полностью случайный монстр",
+  "img": "icons/creatures/abilities/mouth-teeth-rows-needles-purple.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "5dw3HPCIpWSZvxDM",
+  "_id": "UOrpR4gGoHUlRH1c",
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.UOrpR4gGoHUlRH1c"
+}

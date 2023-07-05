@@ -1,0 +1,57 @@
+{
+  "name": "Паутина льда",
+  "type": "spell",
+  "img": "icons/creatures/webs/web-clumped-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_lu7t5sx8px8"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "Water",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Паутина льда позволяет вам создавать тонкую структуру льда на поверхности, которая связана с дубликатом, которым вы владеете. В тот момент, когда существо взаимодействует с поверхностью, на которой находится ледяная паутина, она и ее дубликат разрушаются. В качестве альтернативы, разрушение дубликата разрушает исходную структуру. Лед можно обнаружить с помощью проверки Внимания СЛ:18",
+    "range": "2м",
+    "duration": "1 день",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496637883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "xiWffO8rUhyekAZk",
+  "folder": "KwqiK2bUcnubIyHN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!xiWffO8rUhyekAZk"
+}

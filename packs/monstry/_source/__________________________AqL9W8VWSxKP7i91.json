@@ -1,0 +1,46 @@
+{
+  "name": "Голосовые связки Беанн'ши",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/vocal_cords_siren_64x64.png.6958.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 165,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Беанши",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "caelum"
+  },
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_79u2kp2qn4d",
+      "color": "#d2ab1e"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.0cP3HLk4ruzkWtvK"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1669962863635,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "AqL9W8VWSxKP7i91",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!urPib1pQd0azbAk1.AqL9W8VWSxKP7i91"
+}

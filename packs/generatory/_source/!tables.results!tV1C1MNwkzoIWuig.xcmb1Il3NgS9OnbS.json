@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Гаркаин",
+  "img": "modules/the-ultimate-witcher/assets/monsters/garkain.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "DTeCEgbLVpFnGOvl",
+  "_id": "xcmb1Il3NgS9OnbS",
+  "flags": {},
+  "_key": "!tables.results!tV1C1MNwkzoIWuig.xcmb1Il3NgS9OnbS"
+}

@@ -1,0 +1,187 @@
+{
+  "name": "Эльфский зефар",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.RouA7zGKQf0R9oj8"
+    },
+    "cf": {
+      "id": "temp_o6021xqcjz"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.FbQhyRGJfgtbdn9k]{Эльфский зефар}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1660,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "13ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "8",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_lbb1t2fgs",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "8"
+      },
+      {
+        "id": "_2dhyvyrbn",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "8"
+      },
+      {
+        "id": "_pfs79lvry",
+        "name": "Пятая эссенция",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_jfss5i6xk",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_xiijtyqau",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_c74uzgch4",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_radb1xgkp",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_fbjs0c4av",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "9"
+      },
+      {
+        "id": "_gdohitsn7",
+        "name": "component",
+        "percentage": "",
+        "quantity": "6"
+      }
+    ],
+    "investment": 830,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Эльфский зефар",
+      "type": "weapon",
+      "img": "icons/weapons/bows/shortbow-recurve-blue.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2.5,
+        "cost": 1100,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": 2,
+        "avail": "Rare",
+        "damage": "6d6",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "2",
+        "range": "350",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Ул. Пробивающее броню",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Archery",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.NtajR9jAz2c5dUQP"
+        },
+        "cf": {
+          "id": "temp_rpglc34ihvo"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863946,
+        "modifiedTime": 1672564871651,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848433,
+    "modifiedTime": 1685496579684,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RouA7zGKQf0R9oj8",
+  "folder": "CmRwhBGVa7PHSDao",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RouA7zGKQf0R9oj8"
+}

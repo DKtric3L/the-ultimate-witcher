@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Дракониды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Draconids.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "A7jC6BZE7LwV1EeW",
+  "_id": "kqLzX8Bc6lYCvTDX",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.kqLzX8Bc6lYCvTDX"
+}

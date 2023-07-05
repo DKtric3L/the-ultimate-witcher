@@ -1,0 +1,57 @@
+{
+  "name": "Ведьмаки",
+  "type": "race",
+  "img": "%D0%A0%D0%B0%D1%81%D1%8B/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D0%B0%D0%BA.png",
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Обострённые чувства",
+      "description": "+1 к вниманию, возможность выслеживать по запаху."
+    },
+    "perk2": {
+      "name": "Стойкость мутанта",
+      "description": "Вы не болеете и можете использовать мутагены."
+    },
+    "perk3": {
+      "name": "Притупление эмоций",
+      "description": "Иммунитет к запугиванию, но вы теряете -4 эмпатии. Данный штраф не может снизить ваше значение Эмп ниже 1."
+    },
+    "perk4": {
+      "name": "Молниеносная реакция",
+      "description": "+1 к Реакции и Ловкости. Данный бонус позволяет повысить значения Реа и Лвк выше 10."
+    },
+    "socialStanding": {
+      "north": "hatedFeared",
+      "nilfgaard": "hatedFeared",
+      "skellige": "tolerated",
+      "dolBlathanna": "tolerated",
+      "mahakam": "tolerated"
+    },
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.ipNA75Bf9EsQulTa"
+    },
+    "cf": {
+      "id": "temp_rwe5bpoyvsp"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1663610996730,
+    "modifiedTime": 1672538230925,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "sqBCPLrxUr1rlXCT",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!84b1V2oC2ohXF2yr.sqBCPLrxUr1rlXCT"
+}

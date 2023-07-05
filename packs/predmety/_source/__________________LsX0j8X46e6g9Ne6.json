@@ -1,0 +1,40 @@
+{
+  "name": "Магический компас",
+  "type": "valuable",
+  "img": "icons/tools/navigation/compass-chain-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "Зачарованный компас, который может указать пользователю на объект, который обладатель комапаса может ясный и точный представить. Выполнив действие, персонаж, держащий Магический Компас, может пройти проверку Сопротивления Убеждению со Сл, установленной Мастером Игры, чтобы очистить свой разум от любых отвлекающих факторов и визуализировать объект, который он видел раньше. Если персонаж преуспевает, компас указывает направление предмета, о котором он думал. Если они терпят неудачу, это указывает на то, что владелец желает чего-то другого.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868978,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LsX0j8X46e6g9Ne6",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LsX0j8X46e6g9Ne6"
+}

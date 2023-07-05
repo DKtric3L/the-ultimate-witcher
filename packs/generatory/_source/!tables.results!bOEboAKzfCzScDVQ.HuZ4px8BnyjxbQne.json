@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Подмастерье - Смешанная магия",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "vxJn6mXouA44kxge",
+  "_id": "HuZ4px8BnyjxbQne",
+  "flags": {},
+  "_key": "!tables.results!bOEboAKzfCzScDVQ.HuZ4px8BnyjxbQne"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Чистый Аер",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/sub-06.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ws51bo5n4h"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Создается",
+    "quantityObtainable": "",
+    "forage": "14",
+    "substanceType": "caelum"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853707,
+    "modifiedTime": 1685496584023,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YvjvU83YIBfnxidI",
+  "folder": "whUethnWDpiJNIof",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YvjvU83YIBfnxidI"
+}

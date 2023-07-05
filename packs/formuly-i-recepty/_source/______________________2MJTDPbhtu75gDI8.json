@@ -1,0 +1,185 @@
+{
+  "name": "Арбалет школы Грифона",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.7SlSYWSzJhQjFxg6"
+    },
+    "cf": {
+      "id": "temp_it4g7ooaw5k"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.Fy1cgyWdJWS5felA]{Арбалет школы грифона}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "8",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укреплённое дерево"
+      },
+      {
+        "id": "_27wg7j6kx",
+        "name": "Усики археспоры",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_3x611k6g4",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_pos7q1lis",
+        "name": "Тёмная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_sj984iddj",
+        "name": "Тёмное железо",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_8r0v4qf7e",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ttkaomy2e",
+        "name": "Укреплённая кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_0zqr8cz8k",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_93e09p0rc",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 342,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Арбалет школы грифона",
+      "type": "weapon",
+      "img": "icons/weapons/crossbows/crossbow-loaded-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": 1,
+        "avail": "Everywhere",
+        "damage": "2d6+2",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "1",
+        "range": "50м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Медленная перезарядка",
+            "percentage": ""
+          },
+          {
+            "id": "_hpir8721x",
+            "name": "Улучшенное пробивающее броню",
+            "percentage": ""
+          }
+        ],
+        "conceal": "L",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Crossbow",
+        "rollOnlyDmg": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.tTt1f6OWXMOF7JnT"
+        },
+        "cf": {
+          "id": "temp_bej0ldlpz"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887304,
+        "modifiedTime": 1668162887304,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848408,
+    "modifiedTime": 1685496579062,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2MJTDPbhtu75gDI8",
+  "folder": "ZfwsDbS2qqWb4jdv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2MJTDPbhtu75gDI8"
+}

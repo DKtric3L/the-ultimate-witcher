@@ -1,0 +1,60 @@
+{
+  "name": "Кодлизия",
+  "type": "spell",
+  "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.PFkpiXzf85q9zm7s"
+    },
+    "cf": {
+      "id": "temp_at52habk62o"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Кодлизия заставляет покрытые шипами лозы прорастать из земли в зоне радиусом 20 м. СКОР любого существа, проходящего через эту зону, снижается на половину и существо получает 2d6 колющего урона по ногам за каждые 4 пройденных метра. При падении в этой зоне, существо немедленно получает 2d6 колющего урона по каждой части тела.",
+    "range": "20м",
+    "duration": "1d10 раундов",
+    "defence": "Изм поз",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496638599,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rpNYiixGplkuHDpB",
+  "folder": "nYT3efNYTuYhxJaX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rpNYiixGplkuHDpB"
+}

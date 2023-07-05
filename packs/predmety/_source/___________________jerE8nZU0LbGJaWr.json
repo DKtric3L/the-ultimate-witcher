@@ -1,0 +1,43 @@
+{
+  "name": "Трофей полуденницы",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/midday.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.k6V7pZOSq6w7vWob"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "system": {
+    "description": "Вы становитесь невосприимчивы к страху.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1685496603299,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jerE8nZU0LbGJaWr",
+  "folder": "aNWkZufhkhuFhdgA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jerE8nZU0LbGJaWr"
+}

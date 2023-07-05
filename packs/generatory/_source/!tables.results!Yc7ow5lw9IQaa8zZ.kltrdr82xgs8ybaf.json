@@ -1,0 +1,16 @@
+{
+  "text": "Сотворение голема",
+  "type": 2,
+  "img": "icons/magic/earth/strike-fist-stone-gray.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "kltrdr82xgs8ybaf",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "crRpdFnZFavt5NUJ",
+  "_key": "!tables.results!Yc7ow5lw9IQaa8zZ.kltrdr82xgs8ybaf"
+}

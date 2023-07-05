@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "RyhslO5hEn4KHOTY",
+  "text": "Сразился с ведьмаком - Этот вампир уже сражался с ведьмаками и знает их приёмы. За годы тренировок он постепенно выработал у себя невосприимчивость к эликсиру «Чёрная кровь» — это зелье на него больше не действует.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!82Gl6NYRFaEl274h.RyhslO5hEn4KHOTY"
+}

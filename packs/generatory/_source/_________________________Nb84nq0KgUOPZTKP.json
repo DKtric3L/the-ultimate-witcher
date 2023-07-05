@@ -1,0 +1,38 @@
+{
+  "name": "Компоненты - Подмастерье",
+  "img": "icons/sundries/documents/blueprint-recipe-alchemical.webp",
+  "results": [
+    "he73p5v51fz7gpri",
+    "tpsn0jmz6idjils5",
+    "5tcu3z8zbbpkeiwp",
+    "o082vjlo0ajnpwpa"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Seln2x33My16aHTE"
+    },
+    "cf": {
+      "id": "temp_fuglrnkv21v"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932903,
+    "modifiedTime": 1685496644503,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Nb84nq0KgUOPZTKP",
+  "folder": "uaLngIyIaMEzpjcP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!Nb84nq0KgUOPZTKP"
+}

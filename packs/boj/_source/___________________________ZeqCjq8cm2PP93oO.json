@@ -1,0 +1,41 @@
+{
+  "name": "Лёгкие критические ранения",
+  "img": "icons/commodities/biological/hand-clawed-tan.webp",
+  "results": [
+    "md13gU5GXWqdSo3b",
+    "Kg6cLOw7bcrhf9zi",
+    "Aupjx9gqdL7IdDsG",
+    "dcTrmwGr6QqbwArw",
+    "8BDa9D8PpydHDt9F",
+    "H0XA02QcwUBIRRWa"
+  ],
+  "formula": "2d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.5EKdejFOJhsl5Q6D"
+    },
+    "cf": {
+      "id": "temp_k8hwciyvpw"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897069,
+    "modifiedTime": 1685496658120,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ZeqCjq8cm2PP93oO",
+  "folder": "DL7m2vy4NZZYLWYk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!ZeqCjq8cm2PP93oO"
+}

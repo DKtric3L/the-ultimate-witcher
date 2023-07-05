@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Вишневая наливка на спирту",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/cherry_liqueur.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "yfb2WoLvjrXDsCy8",
+  "_id": "3mOHvxQBt5EsjTfV",
+  "flags": {},
+  "_key": "!tables.results!PxlPbDEdRSbXlClO.3mOHvxQBt5EsjTfV"
+}

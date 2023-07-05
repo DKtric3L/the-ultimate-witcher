@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "7NfTV6bFSq76jwnT",
+  "text": "За дверью - Трубадур ищет тему для своей следующей баллады.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!tE7h56YemQZCGi7V.7NfTV6bFSq76jwnT"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Солдаты",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "NCAvceKBvE75Da50",
+  "_id": "tqUPu1lbz3Hdx2Sp",
+  "flags": {},
+  "_key": "!tables.results!QsHfkPdgm5B4nY5r.tqUPu1lbz3Hdx2Sp"
+}

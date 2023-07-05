@@ -1,0 +1,218 @@
+{
+  "name": "Рецепт: Истинный посох связывания",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-red-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.eqlLFm11dGx57UiJ"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "<p>От свитка идёт лёгкий шепот...</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": 2320,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "23ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Посох связывания"
+      },
+      {
+        "id": "_7bavaiebc",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_dpbwgabp6",
+        "name": "Optima Matter",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ak3r16k15",
+        "name": "ИЛИ",
+        "percentage": "",
+        "quantity": ""
+      },
+      {
+        "id": "_7lkahxdit",
+        "name": "Ореховая древесина",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_ofna61g5m",
+        "name": "Пятая эссенция",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_w50zrcbtl",
+        "name": "Прах",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_7yqaescpe",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_1zl6lulds",
+        "name": "Масло из Дрейка",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_p93c5f6c1",
+        "name": "Огров Воск",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_edkrq826p",
+        "name": "Самоцвет",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_kxyv5byda",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_vad9a230n",
+        "name": "Optima Matter",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 1160,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Истинный посох связывания",
+      "type": "weapon",
+      "img": "icons/weapons/staves/staff-animal-skull-bull.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Дробящее",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": true,
+          "elemental": false
+        },
+        "avail": "Poor",
+        "effect": "",
+        "conceal": "NA",
+        "quality": "",
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "damage": "2d6",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Длинное",
+            "percentage": ""
+          },
+          {
+            "id": "_ewtjvupsx",
+            "name": "Фокусирующее (3)",
+            "percentage": ""
+          },
+          {
+            "id": "_yfuf3an3s",
+            "name": "Улучшенное фокусирующее",
+            "percentage": ""
+          }
+        ],
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Staff/Spear",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.PzB4xOPh2ThxP5dq"
+        },
+        "cf": {
+          "id": "temp_8uwkh0np5cd"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162868975,
+        "modifiedTime": 1672540775165,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      },
+      "id": ""
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868975,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2my8TktfuGZCSBsr",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2my8TktfuGZCSBsr"
+}

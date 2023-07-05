@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Эндриага-Трутень",
+  "img": "modules/the-ultimate-witcher/assets/monsters/edriaga_drone.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "pg97zZOfg7F0DkfP",
+  "_id": "BjDCHjem2P57XS6C",
+  "flags": {},
+  "_key": "!tables.results!FVXhj1zx5hYIWm2G.BjDCHjem2P57XS6C"
+}

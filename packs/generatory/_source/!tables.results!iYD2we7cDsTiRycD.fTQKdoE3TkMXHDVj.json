@@ -1,0 +1,16 @@
+{
+  "text": "Сейриф Хайль",
+  "type": 2,
+  "img": "icons/magic/fire/beam-strike-whip-red.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "fTQKdoE3TkMXHDVj",
+  "documentId": "x6lLrGBfVvwavtmC",
+  "flags": {},
+  "_key": "!tables.results!iYD2we7cDsTiRycD.fTQKdoE3TkMXHDVj"
+}

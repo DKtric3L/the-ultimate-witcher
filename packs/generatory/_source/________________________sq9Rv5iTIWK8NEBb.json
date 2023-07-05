@@ -1,0 +1,49 @@
+{
+  "name": "Оружие - Старшие народы",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "results": [
+    "cqy8zqex59st1l4m",
+    "e6cpdvpr4gan0p4j",
+    "58drjgnocckeljsz",
+    "knix70vlefzfagxu",
+    "e0f3j60ers47cuqv",
+    "sg2z95a5my9w26gb",
+    "8net7qa4fy4pilit",
+    "mphszjt4gzp8wtbd",
+    "m1tbqrrd8zl64ya2",
+    "u6umgb5ufv9ohjtr",
+    "o1fjzohbq8cuvmev",
+    "grhgjar6sr5nms6f",
+    "5g9rw2oyj5gbp505",
+    "i69vrgo5zrbglc01",
+    "hdsuaa434nmrxmmo"
+  ],
+  "formula": "1d15",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.xZcceDFI8quytInf"
+    },
+    "cf": {
+      "id": "temp_w8j8kxtvyk"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932915,
+    "modifiedTime": 1685496644485,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sq9Rv5iTIWK8NEBb",
+  "folder": "YQvs7SSKK7I1szPG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!sq9Rv5iTIWK8NEBb"
+}

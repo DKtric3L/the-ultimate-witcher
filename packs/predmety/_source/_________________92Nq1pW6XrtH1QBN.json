@@ -1,0 +1,47 @@
+{
+  "name": "Чертеж - Новичок",
+  "type": "valuable",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2e3f4bb6d07a7f4a6e592c1a5bb867b1a6ee7112",
+      "sourceId": "Item.cuHYBx9OVRGNk4WV"
+    },
+    "core": {
+      "sourceId": "Item.TDTWPb7sjejNJ0Sy"
+    },
+    "cf": {
+      "id": "temp_bn6m75vziea"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672657970466,
+    "modifiedTime": 1685496603456,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ln2LymRau6cDlTfF",
+  "sort": 0,
+  "_id": "92Nq1pW6XrtH1QBN",
+  "_key": "!items!92Nq1pW6XrtH1QBN"
+}

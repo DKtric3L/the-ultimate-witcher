@@ -1,0 +1,53 @@
+{
+  "_id": "uZ43iGP0tnq6brSo",
+  "name": "Краснолюды",
+  "type": "race",
+  "img": "%D0%A0%D0%B0%D1%81%D1%8B/%D0%B7%D0%BE%D0%BB%D1%82%D0%B0%D0%BD.jpg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.qQt5VEGy931KfJQG"
+    }
+  },
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Закалённый",
+      "description": "Кожа имеет постоянный бонус 2 ПБ, который нельзя снизить разрушающим уроном."
+    },
+    "perk2": {
+      "name": "Силач",
+      "description": "+1 к силе и +25 кг к переносимому весу."
+    },
+    "perk3": {
+      "name": "Намётанный глаз",
+      "description": "+1 к торговле."
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "",
+      "nilfgaard": "",
+      "skellige": "",
+      "dolBlathanna": "",
+      "mahakam": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!1vDqhyNaFcTqTS7f.uZ43iGP0tnq6brSo"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "text": "Самоцветы",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "1brZCcoQRKToMzrz",
+  "_id": "k0TucG1LQmcR2xG8",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.k0TucG1LQmcR2xG8"
+}

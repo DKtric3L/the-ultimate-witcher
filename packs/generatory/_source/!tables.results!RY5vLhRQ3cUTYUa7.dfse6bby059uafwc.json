@@ -1,0 +1,16 @@
+{
+  "text": "Человеческий череп",
+  "type": 2,
+  "img": "icons/commodities/bones/skull-hollow-white.webp",
+  "weight": 1,
+  "range": [
+    39,
+    39
+  ],
+  "drawn": false,
+  "_id": "dfse6bby059uafwc",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "rXnucQBbdsjzsQig",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.dfse6bby059uafwc"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "IbPJbXkLADvyruPR",
+  "type": 2,
+  "text": "Опасность - исслед",
+  "weight": 1,
+  "range": [
+    51,
+    100
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "EbZGcKJTWjjriqg4",
+  "_key": "!tables.results!ROc6YpeCPEz8XtOS.IbPJbXkLADvyruPR"
+}

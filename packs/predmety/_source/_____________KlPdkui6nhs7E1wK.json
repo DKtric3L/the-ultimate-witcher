@@ -1,0 +1,43 @@
+{
+  "name": "Земная лента",
+  "type": "valuable",
+  "img": "icons/commodities/cloth/ribbon-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.151OfzubxcfPMWnb"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "Длинная красивая шелковая лента, вышитая рунами из нити, пропитанной пятой сущностью. Когда практикующий гоэтик вызывает мари львид, он может преподнести эти ленты среди даров демону. Мари Львид с радостью примет великолепный подарок и позволит практикующему завязать вокруг себя ленточки. Однажды связанная Земными Лентами, мари львид не способна принимать другие формы. После завязывания земные ленты остаются активными в течение 1 года. После этого года ленты теряют свою магию. Однако до окончания этого года ленты может снять любой, кроме мари львид.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868974,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "KlPdkui6nhs7E1wK",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!KlPdkui6nhs7E1wK"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Притупление эмоций",
+  "type": "effect",
+  "img": "icons/skills/social/diplomacy-handshake-gray.webp",
+  "system": {
+    "description": "Иммунитет к запугиванию, но вы теряете -4 эмпатии. Данный штраф не может снизить ваше значение Эмп ниже 1.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "-4"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cee1a51303c1778dd2bcc5a550a636ab4084a2fd",
+      "sourceId": "Item.mVKRUTqNDQazZgfY"
+    },
+    "core": {
+      "sourceId": "Item.mVKRUTqNDQazZgfY"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672537569241,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "ZKuqFI2W78qLGSov",
+  "_key": "!items!ZKuqFI2W78qLGSov"
+}

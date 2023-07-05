@@ -1,0 +1,47 @@
+{
+  "name": "Генератор: Человек",
+  "img": "icons/svg/house.svg",
+  "results": [
+    "rGAJedctF1vHUm0t",
+    "0dQ3NR8YsZjPzHul",
+    "bgm46MMbKjQdbD6L",
+    "CqIZCaJZUj1KOpiU",
+    "IaiOuyj71oLzU7JG",
+    "obUPNuwQ20fRhtom",
+    "NQvQKUljwbGcZKIk",
+    "L1KBkf196CGL9GXv",
+    "NUQQD2rE4MFniN0C"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {
+      "table-type": "none",
+      "loot-amount-key": ""
+    },
+    "core": {
+      "sourceId": "RollTable.o9e4HY1pBQhIkEr5"
+    },
+    "cf": {
+      "id": "temp_viybqj0tbyk"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926178,
+    "modifiedTime": 1685496652558,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "g9I3DpPOi5CfOFBz",
+  "folder": "8Q5kbNQc52bcIHVJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!g9I3DpPOi5CfOFBz"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "P2Khma7ekFZjjePF",
+  "type": 2,
+  "text": "Инвокации Иерофанта",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "lezfYVfaJHFGTx7D",
+  "_key": "!tables.results!rmvosulV4aDuq0Ni.P2Khma7ekFZjjePF"
+}

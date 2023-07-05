@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Келайно",
+  "img": "modules/the-ultimate-witcher/assets/monsters/kelayno.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "K0I47PFyMbr1p3Ws",
+  "_id": "gQzSrHZHfichQ75E",
+  "flags": {},
+  "_key": "!tables.results!CaWvkFJhEL5QWzb5.gQzSrHZHfichQ75E"
+}

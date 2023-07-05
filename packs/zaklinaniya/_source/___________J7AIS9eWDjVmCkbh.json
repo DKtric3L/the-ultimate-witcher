@@ -1,0 +1,60 @@
+{
+  "name": "Укрепление",
+  "type": "spell",
+  "img": "icons/magic/fire/dagger-rune-enchant-blue-gray.webp",
+  "system": {
+    "class": "MagicalGift",
+    "level": "major gift",
+    "source": "",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "СЛ Сотворения - 9.\nВ качестве действия полного раунда вы можете увеличить Надежность или ПБ предмета, к которому можно прикоснуться, на 1. Предмет может получить выгоду от Укрепления только один раз.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "если вы подходите ближе чем на 4 м к любому количеству двимерита, вы теряете весь порог энергии и должны сделать бросок Стойкости со штрафом -3 против таблицы эффектов двимерита.",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.Rulfxobueau8p8dC"
+    },
+    "cf": {
+      "id": "temp_h4pziq0sh2"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670242348376,
+    "modifiedTime": 1685496637397,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ziXFqvNA5XL61w7E",
+  "sort": 0,
+  "_id": "J7AIS9eWDjVmCkbh",
+  "_key": "!items!J7AIS9eWDjVmCkbh"
+}

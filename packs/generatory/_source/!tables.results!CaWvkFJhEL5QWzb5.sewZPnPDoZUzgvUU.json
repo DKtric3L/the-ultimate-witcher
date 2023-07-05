@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Келайно не один",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "eh9DliVlq7aU2XBp",
+  "_id": "sewZPnPDoZUzgvUU",
+  "flags": {},
+  "_key": "!tables.results!CaWvkFJhEL5QWzb5.sewZPnPDoZUzgvUU"
+}

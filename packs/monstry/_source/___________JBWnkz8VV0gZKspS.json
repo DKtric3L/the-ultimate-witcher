@@ -1,0 +1,60 @@
+{
+  "_id": "JBWnkz8VV0gZKspS",
+  "name": "Дым Вахилы",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-gray.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.zJ0QGkV8PSh9KQhJ"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Это заклинание, созданное внушающей страх Этолианской убийцей Вахилой, превращает струйку дыма в удушающую пелену. При использовании этого заклинания вы можете окутать голову одной цели густым дымом. Если эта цель не может защититься, она погружается в дым и считается Ослепленной и Задыхающейся. Каждый ход цель может потратить свое действие, чтобы предпринять еще одну проверку защиты против новой проверки Сотворения заклинаний, чтобы закончить эффект",
+    "range": "10м",
+    "duration": "актив(2 вын)",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!BfM8p2v3sSdb52E1.JBWnkz8VV0gZKspS"
+}

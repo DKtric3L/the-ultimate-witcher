@@ -1,0 +1,38 @@
+{
+  "name": "Удушье",
+  "type": "effect",
+  "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.oN5uH28XWE6CBmAi"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонажу нечем дышать, он задыхается. Каждый раунд персонаж получает 3 урона, не снижаемые бронёй. Способы избавиться от удушья разные, в зависимости от ситуации. Восстановление доступа к воздуху (персонаж выныривает, выворачивается из удушающего захвата и т. д.) прекращает этот эффект.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883175,
+    "modifiedTime": 1688508915130,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "oN5uH28XWE6CBmAi",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oN5uH28XWE6CBmAi"
+}

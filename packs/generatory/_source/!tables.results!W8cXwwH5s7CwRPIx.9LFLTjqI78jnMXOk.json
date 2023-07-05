@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    35,
+    35
+  ],
+  "drawn": false,
+  "text": "Эликсир Пантаграна",
+  "img": "modules/the-ultimate-witcher/assets/props/pantagran_potion.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "lY7CojlPVytj5s9Q",
+  "_id": "9LFLTjqI78jnMXOk",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.9LFLTjqI78jnMXOk"
+}

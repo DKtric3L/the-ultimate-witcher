@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "Fmm7S4TaX93vdGps",
+  "text": "Причуды - У каждого стола есть колокольчики для вызова персонала.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!B5CpQsRPt505wapy.Fmm7S4TaX93vdGps"
+}

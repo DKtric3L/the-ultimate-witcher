@@ -1,0 +1,16 @@
+{
+  "_id": "X4C3zlEyKnAX96jL",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Ваших родных убили, посчитав их скоя'таэлями. Возможно, их просто повесили или зарезали без суда и следствия.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XAJuTLzLB4Tvx03x.X4C3zlEyKnAX96jL"
+}

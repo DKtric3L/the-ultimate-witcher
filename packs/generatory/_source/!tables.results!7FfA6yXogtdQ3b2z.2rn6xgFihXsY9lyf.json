@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Сколопендроморф",
+  "img": "modules/the-ultimate-witcher/assets/monsters/skolopendromorph.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "0QkiT1Z2IqOEt0ym",
+  "_id": "2rn6xgFihXsY9lyf",
+  "flags": {},
+  "_key": "!tables.results!7FfA6yXogtdQ3b2z.2rn6xgFihXsY9lyf"
+}

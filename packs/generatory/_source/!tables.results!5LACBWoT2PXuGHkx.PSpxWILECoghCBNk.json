@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Торги с нанимателем",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "HIgQWDxBiLavbVSJ",
+  "_id": "PSpxWILECoghCBNk",
+  "flags": {},
+  "_key": "!tables.results!5LACBWoT2PXuGHkx.PSpxWILECoghCBNk"
+}

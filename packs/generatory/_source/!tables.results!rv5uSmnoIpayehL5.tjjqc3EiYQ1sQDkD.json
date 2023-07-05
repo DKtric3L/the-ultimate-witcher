@@ -1,0 +1,16 @@
+{
+  "text": "Воздушный пузырь",
+  "type": 2,
+  "img": "icons/magic/air/air-pressure-shield-blue.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "tjjqc3EiYQ1sQDkD",
+  "documentId": "V1RSnsizkLHlk9gP",
+  "flags": {},
+  "_key": "!tables.results!rv5uSmnoIpayehL5.tjjqc3EiYQ1sQDkD"
+}

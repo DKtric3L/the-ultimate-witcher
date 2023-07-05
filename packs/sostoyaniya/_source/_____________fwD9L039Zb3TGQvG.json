@@ -1,0 +1,38 @@
+{
+  "name": "Без сознания",
+  "type": "effect",
+  "img": "icons/magic/control/sleep-bubble-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.qmGCrstO3WV9f7pR"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонаж может совершать только действие отдыха. Прекращение эффекта зависит от причин потери сознания.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883164,
+    "modifiedTime": 1688508845302,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "fwD9L039Zb3TGQvG",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!fwD9L039Zb3TGQvG"
+}

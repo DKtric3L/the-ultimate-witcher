@@ -1,0 +1,16 @@
+{
+  "text": "Творог",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/tvorog.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "rXArXlTrpb78ZcyT",
+  "documentId": "wh8Yqep6nz8Kzrr8",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.rXArXlTrpb78ZcyT"
+}

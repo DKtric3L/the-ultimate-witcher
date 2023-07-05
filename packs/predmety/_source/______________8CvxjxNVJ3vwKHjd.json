@@ -1,0 +1,108 @@
+{
+  "name": "Жезл изгнания",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-old-bound-brown-gray.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.f76peJikYcMiZw8T"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": null,
+    "cost": 800,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Древесина"
+      },
+      {
+        "id": "_z1j2yd5k1",
+        "name": "Пятая ээсенция",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_d6qxqgno6",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_pj2u22312",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_pdyefdrqn",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_7e04o0800",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_alv0qj51p",
+        "name": "Optima Matter",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_fo7oxuejt",
+        "name": "От свитка идёт лёгкий шепот...",
+        "percentage": "",
+        "quantity": "666"
+      }
+    ],
+    "investment": 405,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868973,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "8CvxjxNVJ3vwKHjd",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8CvxjxNVJ3vwKHjd"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    28,
+    28
+  ],
+  "drawn": false,
+  "text": "Слёзы жён",
+  "img": "modules/the-ultimate-witcher/assets/props/wives_tears.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "5wQ5xavgJakHJgjU",
+  "_id": "nhp9xWorziK2v77y",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.nhp9xWorziK2v77y"
+}

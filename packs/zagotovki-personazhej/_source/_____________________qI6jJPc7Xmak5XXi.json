@@ -1,0 +1,44 @@
+{
+  "name": "Обезболивающие травы",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/painkiller_herbs.png",
+  "system": {
+    "description": "",
+    "quantity": "5",
+    "weight": 0.1,
+    "cost": 12,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Everywhere",
+    "effect": "Прикладывание к ране обезболивающих трав притупляет боль,\nснижая штраф от критических ранений и состояния «при смерти»\nна 2. Эффект действует 2d10 раундов.",
+    "time": "2d10 раундов",
+    "toxicity": ""
+  },
+  "sort": 350000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.pRvBXPRxd9LmRqgr"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1670417130302,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "qI6jJPc7Xmak5XXi",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!QCJUoRqklmUYaicw.qI6jJPc7Xmak5XXi"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Формула: Галлюциноген",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "8ldrtIWJ3LPBSyoy",
+  "_id": "P3lP93dCM1PmC211",
+  "flags": {},
+  "_key": "!tables.results!H2gvCHvewCoWFqxs.P3lP93dCM1PmC211"
+}

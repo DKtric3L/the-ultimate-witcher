@@ -1,0 +1,38 @@
+{
+  "name": "Горение",
+  "type": "effect",
+  "img": "icons/magic/fire/flame-burning-creature-skeleton.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.zo0BZcEgVIz0ssZL"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонаж объят пламенем. Каждый ход он получает 5 пунктов урона по каждой\nчасти тела. Броня поглощает урон, но при этом огонь наносит 1 урон броне и ору\nжию каждый ход. Чтобы погасить огонь, персонаж должен потратить ход либо на\nобливание водой, либо на то, чтобы упасть на землю, покататься и сбить пламя",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883167,
+    "modifiedTime": 1688508856244,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "zo0BZcEgVIz0ssZL",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zo0BZcEgVIz0ssZL"
+}

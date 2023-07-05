@@ -1,0 +1,50 @@
+{
+  "name": "Глифовые и рунные слова",
+  "img": "icons/commodities/metal/ingot-stamped-spiral.webp",
+  "results": [
+    "75cf58rhvm927wpq",
+    "h2skij3bftda6pih",
+    "4xmp27s6x3q60tfd",
+    "6mn8nycf9bomej7g",
+    "1pzh5ib1k5d99dig",
+    "zl6a2f7zqscy82va",
+    "tomjj3c91av0cg25",
+    "dh2bw8piscpkr9qn",
+    "0zhr2eazg86611m6",
+    "2sd3r4enxn2w1meg",
+    "1s6c06nnvxpuf7mc",
+    "jbbafkwi3ltw3o2m",
+    "owvze4gph1svsp4x",
+    "e1w5x0f1web8mpzy",
+    "auvi72g7pxiswnvp",
+    "pxxdzqkhonf944vk"
+  ],
+  "formula": "1d16",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Cf8oW53EGrNTI89Y"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932894,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rEKb2IOfF0Xfuv4K",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!rEKb2IOfF0Xfuv4K"
+}

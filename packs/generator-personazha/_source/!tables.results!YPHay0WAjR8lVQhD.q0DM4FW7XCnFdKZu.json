@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 2,
+  "text": "Enemies: Gender",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "toFPUFfO2jQgH2gw",
+  "_key": "!tables.results!YPHay0WAjR8lVQhD.q0DM4FW7XCnFdKZu"
+}

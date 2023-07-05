@@ -1,0 +1,48 @@
+{
+  "name": "Обостренные чувства",
+  "type": "effect",
+  "img": "icons/magic/perception/third-eye-blue-red.webp",
+  "system": {
+    "description": "+1 к вниманию. возможность выслеживать по запаху.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkIntAwareness",
+        "modifier": "1"
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3ea7c5f33ea30534f3eaccf24f1d943580faf2c6",
+      "sourceId": "Item.m0SSPb8uqYuYZCvX"
+    },
+    "core": {
+      "sourceId": "Item.m0SSPb8uqYuYZCvX"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1672537416420,
+    "modifiedTime": 1672538180523,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "hiULdLGIDPXkWj7X",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!84b1V2oC2ohXF2yr.hiULdLGIDPXkWj7X"
+}

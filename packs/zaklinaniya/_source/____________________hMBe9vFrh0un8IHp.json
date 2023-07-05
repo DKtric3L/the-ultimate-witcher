@@ -1,0 +1,57 @@
+{
+  "name": "Благословение удачи",
+  "type": "spell",
+  "img": "icons/magic/control/buff-luck-fortune-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_so5hsxssqwc"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "Благословение удачи даёт цели очки Удачи в количестве, равном половине очков, которые вы набрали свыше СЛ 12 (максимум 5).",
+    "range": "10м",
+    "duration": "до траты",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892153,
+    "modifiedTime": 1685496638375,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hMBe9vFrh0un8IHp",
+  "folder": "1A4gsGOBCXBnvFaS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hMBe9vFrh0un8IHp"
+}

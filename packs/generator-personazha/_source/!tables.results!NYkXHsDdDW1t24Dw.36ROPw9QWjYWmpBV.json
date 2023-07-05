@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Профессия врага - Торговец",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NYkXHsDdDW1t24Dw.36ROPw9QWjYWmpBV"
+}

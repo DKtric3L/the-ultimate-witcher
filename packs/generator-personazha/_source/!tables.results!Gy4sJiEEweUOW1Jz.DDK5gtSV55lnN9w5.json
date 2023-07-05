@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "DDK5gtSV55lnN9w5",
+  "text": "Этот дракон провёл счастливое детство в любящей семье, что видно по его гладкой чешуе.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Gy4sJiEEweUOW1Jz.DDK5gtSV55lnN9w5"
+}

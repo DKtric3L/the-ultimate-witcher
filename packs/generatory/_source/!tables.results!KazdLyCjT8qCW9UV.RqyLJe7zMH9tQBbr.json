@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Случайный Гидраген",
+  "img": "systems/TheWitcherTRPG/assets/images/hydragenum.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "cs1VG8mi4Kqh4ALO",
+  "_id": "RqyLJe7zMH9tQBbr",
+  "flags": {},
+  "_key": "!tables.results!KazdLyCjT8qCW9UV.RqyLJe7zMH9tQBbr"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "#6b6b6b",
+  "name": "Шкуры и части животных",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "ixpKQ9InD67XjpUY",
+  "_id": "EoqHKbAG9zsUPO5U",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!EoqHKbAG9zsUPO5U"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Маги",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "PwkSg3BxS9FxVkyI",
+  "_id": "QcYhlIQtjckvHUY5",
+  "flags": {},
+  "_key": "!tables.results!QsHfkPdgm5B4nY5r.QcYhlIQtjckvHUY5"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Эффект напитка: Алкагест",
+  "type": "effect",
+  "img": "icons/consumables/drinks/alcohol-spirits-bottle-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xq906tikww"
+    }
+  },
+  "system": {
+    "description": "До следующего отдыха. Пройди проверку со сл. 16, при провале становишься зависим от алкоголя(не только алкагеста).\nЯдрёная, однако, хрень, но хорошо пошла.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_gzzfruaop",
+        "stat": "WITCHER.Actor.Stat.Cra",
+        "modifier": "1"
+      },
+      {
+        "id": "_2hg89p92r",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "1"
+      }
+    ],
+    "derived": [
+      {
+        "id": "_jzv8axky6",
+        "derivedStat": "WITCHER.Actor.CoreStat.Rec",
+        "modifier": "3"
+      },
+      {
+        "id": "_3z575y0nl",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "10"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883179,
+    "modifiedTime": 1685496621661,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "KbbtuijqXilY4LSD",
+  "folder": "1H4Dkaei03yMUCuF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!KbbtuijqXilY4LSD"
+}

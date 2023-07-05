@@ -1,0 +1,16 @@
+{
+  "text": "Стандартный болт Скорпио (x5)",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "YWoHjQgbLzFnUs7h",
+  "documentId": "aG7SrBHUJDmei4TQ",
+  "flags": {},
+  "_key": "!tables.results!NreQJ2AseIdpbtJT.YWoHjQgbLzFnUs7h"
+}

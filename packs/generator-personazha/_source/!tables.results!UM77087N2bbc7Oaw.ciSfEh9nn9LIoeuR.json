@@ -1,0 +1,16 @@
+{
+  "_id": "ciSfEh9nn9LIoeuR",
+  "flags": {},
+  "type": 0,
+  "text": "Кто из вас потерпевшая сторона - Вы",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UM77087N2bbc7Oaw.ciSfEh9nn9LIoeuR"
+}

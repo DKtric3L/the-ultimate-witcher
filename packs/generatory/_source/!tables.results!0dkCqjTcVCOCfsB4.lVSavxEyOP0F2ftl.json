@@ -1,0 +1,16 @@
+{
+  "_id": "lVSavxEyOP0F2ftl",
+  "type": 2,
+  "text": "Оккультные предметы",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "RY5vLhRQ3cUTYUa7",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.lVSavxEyOP0F2ftl"
+}

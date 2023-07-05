@@ -1,0 +1,60 @@
+{
+  "name": "Ядовитый туман",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_hdxdzcj6mq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "druid",
+    "domain": "",
+    "stamina": "11",
+    "staminaIsVar": false,
+    "effect": "Ядовитое облако желто-зеленого газа образуется в радиусе 10м от вас. Любое существо, заканчивающее свой ход в этом тумане, кроме вас, отравляется и начинает задыхаться на следующем ходу.",
+    "range": "на себя",
+    "duration": "2d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность заклинания(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892180,
+    "modifiedTime": 1685496639423,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Mglqk4PfWghxkuAt",
+  "folder": "QnbITPjEnnlusNC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Mglqk4PfWghxkuAt"
+}

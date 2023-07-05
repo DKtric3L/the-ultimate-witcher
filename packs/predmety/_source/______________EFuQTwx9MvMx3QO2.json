@@ -1,0 +1,51 @@
+{
+  "name": "Сопротивление",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/glyph_resist.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.pTgSzzOyUbRSSR0c"
+    },
+    "cf": {
+      "id": "temp_jkla6pjucb"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 300,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "glyph",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пока вы носите эту броню, вы получаете сопротивление урону, наносимому стихийным источником, таким как огонь или молния."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603411,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EFuQTwx9MvMx3QO2",
+  "folder": "IwHMGFCqloImUMb0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!EFuQTwx9MvMx3QO2"
+}

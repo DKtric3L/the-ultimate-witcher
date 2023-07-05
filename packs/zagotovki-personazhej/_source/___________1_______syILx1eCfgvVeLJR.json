@@ -1,0 +1,44 @@
+{
+  "_id": "syILx1eCfgvVeLJR",
+  "name": "Сухой паек(1 день)",
+  "type": "valuable",
+  "img": "icons/consumables/food/berries-ration-round-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 700000,
+  "flags": {
+    "cf": {
+      "id": "temp_hdwmzt8oxfu",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.tGpkyLiUuhbwalNU"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 5,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671035589871,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!Z3jIdHe1L7AEi548.syILx1eCfgvVeLJR"
+}

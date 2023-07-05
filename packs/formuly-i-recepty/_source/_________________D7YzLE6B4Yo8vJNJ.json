@@ -1,0 +1,142 @@
+{
+  "name": "Двуслойные штаны",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.D7YzLE6B4Yo8vJNJ"
+    },
+    "cf": {
+      "id": "temp_w9ryybl3f2"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.3F5QHDQQCTRMsg8k]{Двуслойные штаны}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 336,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "8ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "6",
+        "name": "Двойное полотно"
+      },
+      {
+        "id": "_4g03ob9e0",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_gi278cjqd",
+        "name": "Хлопок",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_od216a936",
+        "name": "Полотно",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 165,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Двуслойные штаны",
+      "type": "armor",
+      "img": "icons/equipment/leg/pants-cloth-tasset-green-grey.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1.5,
+        "cost": 225,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 8,
+        "leftLegMaxStopping": 8,
+        "rightLegStopping": 8,
+        "rightLegMaxStopping": 8,
+        "type": "Light",
+        "avail": "Poor",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Leg",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_4zb4x6lgt3c"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837865,
+        "modifiedTime": 1668162837865,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848413,
+    "modifiedTime": 1685496579488,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "D7YzLE6B4Yo8vJNJ",
+  "folder": "WNB0CsVL08oI0Bfi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!D7YzLE6B4Yo8vJNJ"
+}

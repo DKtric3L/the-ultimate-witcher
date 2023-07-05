@@ -1,0 +1,163 @@
+{
+  "name": "Клинок бригады врихедд",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.cn1LVz6CXGtdwnvq"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.JSKgnJRMcsyQf4Do]{Клинок Бригады \"Врихедд\"}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1117,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 24,
+    "alchemyDC": 0,
+    "craftingTime": "12ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_wpy4prday",
+        "name": "Шелк",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_zr6kbclak",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_dzafrjgj8",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_7w4qup0uz",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_yne0vofa1",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 558,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Клинок Бригады \"Врихедд\"",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-hooked-worn.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2.5,
+        "cost": 745,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 3,
+        "avail": "Rare",
+        "damage": "4d6+4",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Кровопускающее",
+            "percentage": "25"
+          }
+        ],
+        "conceal": "L",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.l9TVvrQ6hQZmrqqa"
+        },
+        "cf": {
+          "id": "temp_2ps351j34un"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863939,
+        "modifiedTime": 1672565124598,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848416,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cn1LVz6CXGtdwnvq",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cn1LVz6CXGtdwnvq"
+}

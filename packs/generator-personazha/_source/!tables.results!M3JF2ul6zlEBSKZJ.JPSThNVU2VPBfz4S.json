@@ -1,0 +1,16 @@
+{
+  "_id": "JPSThNVU2VPBfz4S",
+  "type": 2,
+  "text": "Что случилось - полит",
+  "weight": 1,
+  "range": [
+    1,
+    50
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "4J6EtH4Pqn6wuDXh",
+  "_key": "!tables.results!M3JF2ul6zlEBSKZJ.JPSThNVU2VPBfz4S"
+}

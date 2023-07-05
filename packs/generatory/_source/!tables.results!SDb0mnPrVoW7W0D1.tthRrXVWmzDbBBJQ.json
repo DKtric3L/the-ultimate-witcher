@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Элита синих полосок",
+  "img": "modules/the-ultimate-witcher/assets/monsters/blue_stripe_2.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "mwFK7pry8AUPpsSu",
+  "_id": "tthRrXVWmzDbBBJQ",
+  "flags": {},
+  "_key": "!tables.results!SDb0mnPrVoW7W0D1.tthRrXVWmzDbBBJQ"
+}

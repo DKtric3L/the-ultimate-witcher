@@ -1,0 +1,82 @@
+{
+  "_id": "1XHFGlDngLC3mwfj",
+  "name": "Доспехи дикой охоты",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-dospehov.xAwmCJqpLvrJw2cM"
+    },
+    "cf": {
+      "id": "temp_uj8iaif803"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 15,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 20,
+    "headMaxStopping": 20,
+    "torsoStopping": 20,
+    "torsoMaxStopping": 20,
+    "leftArmStopping": 20,
+    "leftArmMaxStopping": 20,
+    "rightArmStopping": 20,
+    "rightArmMaxStopping": 20,
+    "leftLegStopping": 20,
+    "leftLegMaxStopping": 20,
+    "rightLegStopping": 20,
+    "rightLegMaxStopping": 20,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [
+      {},
+      {},
+      {}
+    ],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сопротивление яду"
+      },
+      {
+        "id": "_4dh36h781",
+        "name": "+2 сопротивление магии",
+        "percentage": ""
+      },
+      {
+        "id": "_45wln8kjm",
+        "name": "+2 сотворение заклинаний",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": true,
+    "piercing": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!cCRto1hBKRKVdGqu.1XHFGlDngLC3mwfj"
+}

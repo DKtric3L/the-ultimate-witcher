@@ -1,0 +1,44 @@
+{
+  "name": "Мешок",
+  "type": "valuable",
+  "img": "icons/containers/bags/sack-simple-brown.webp",
+  "system": {
+    "description": "Самый обыкновенный большой холщовый мешок, в который поместится 20 кг маленьких предметов.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 3,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_r3stwb3cdz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.Qf8SlTJsD5PzAtNU"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663424896799,
+    "modifiedTime": 1663424896799,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "YHD3NH9fDqRtOpsC",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dGYJGK7TFYppq74h.YHD3NH9fDqRtOpsC"
+}

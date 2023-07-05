@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Золото",
+  "img": "icons/commodities/metal/ingot-gold.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "fNdPPMA8z536CsEE",
+  "_id": "fnUtWdFON7OYXP5k",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.fnUtWdFON7OYXP5k"
+}

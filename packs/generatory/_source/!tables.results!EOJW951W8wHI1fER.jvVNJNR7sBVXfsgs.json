@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Жемчуг",
+  "img": "systems/TheWitcherTRPG/assets/images/aether.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "6aqwGQUP9xHP791q",
+  "_id": "jvVNJNR7sBVXfsgs",
+  "flags": {},
+  "_key": "!tables.results!EOJW951W8wHI1fER.jvVNJNR7sBVXfsgs"
+}

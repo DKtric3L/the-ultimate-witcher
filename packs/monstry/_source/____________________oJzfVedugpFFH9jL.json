@@ -1,0 +1,26 @@
+{
+  "_id": "oJzfVedugpFFH9jL",
+  "name": "Непреодолимая кровь",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Гернихоры могут в качестве действия призвать всех трупоедов и вампиров, находящихся в радиусе 20 м, но чтобы призвать кого-то дальше 5м, гернихоре необходимо потратить 1 ход."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!BbAJA9EIBfnBzcEE.oJzfVedugpFFH9jL"
+}

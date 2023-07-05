@@ -1,0 +1,65 @@
+{
+  "name": "Уродующий шрам (стаб)",
+  "type": "effect",
+  "img": "icons/skills/wounds/injury-stapled-flesh-tan.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_n2afsx7fi5j"
+    }
+  },
+  "system": {
+    "description": "После ранения лицо персонажа изуродовано. Смотреть на него неприятно.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "-1"
+      },
+      {
+        "id": "_0mrsoz9hm",
+        "skill": "WITCHER.SkEmpPersuasion",
+        "modifier": "-1"
+      },
+      {
+        "id": "_hh756c8td",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "-1"
+      },
+      {
+        "id": "_qndlaxtea",
+        "skill": "WITCHER.SkEmpDeceit",
+        "modifier": "-1"
+      },
+      {
+        "id": "_i6lbopvm5",
+        "skill": "WITCHER.SkIntSocialEt",
+        "modifier": "-1"
+      },
+      {
+        "id": "_yi10v60d2",
+        "skill": "WITCHER.SkEmpLeadership",
+        "modifier": "-1"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883176,
+    "modifiedTime": 1685496621796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "UmnY1fla5F69jYXn",
+  "folder": "i9IWaFNhx9E6aUgp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!UmnY1fla5F69jYXn"
+}

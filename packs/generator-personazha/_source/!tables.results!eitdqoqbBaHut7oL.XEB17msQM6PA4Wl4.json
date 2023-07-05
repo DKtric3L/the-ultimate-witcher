@@ -1,0 +1,16 @@
+{
+  "_id": "XEB17msQM6PA4Wl4",
+  "flags": {},
+  "type": 0,
+  "text": "Члены вашей семьи презирают друг друга. Все, кто был рядом, пока вы росли, не говорят друг с другом, и вы можете считать себя везунчиком, если брат или сестра с вами поздороваются.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!eitdqoqbBaHut7oL.XEB17msQM6PA4Wl4"
+}

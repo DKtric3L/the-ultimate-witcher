@@ -1,0 +1,44 @@
+{
+  "_id": "85nkGAUDe6ERNHOG",
+  "name": "Мутаген: Ослизг",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-red.png",
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "flags": {
+    "cf": {
+      "id": "temp_loaduoyv3n",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.bqdmCD1RpoQfmbQl"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "red",
+    "source": "Ослизги",
+    "effect": "+1 к запугиванию",
+    "alchemyDC": "18",
+    "minorMutation": "Облысение, серая кожа"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!QdpnQpyVmID9dpxE.85nkGAUDe6ERNHOG"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Бумажка с отпечатками губной помады",
+  "type": "valuable",
+  "img": "icons/sundries/documents/paper-plain-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_pcz898xpa9",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.MsoCCB5RVBMkkRz4"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868971,
+    "modifiedTime": 1685496603482,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "xd03KIV2P7qP93vH",
+  "folder": "o0EbRg1af2HA22Nh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!xd03KIV2P7qP93vH"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Магический ритуал",
+  "type": 2,
+  "img": "icons/magic/symbols/star-inverted-yellow.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "_id": "71m8mn0denahrc29",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "IkfDDR68CtKuHIhK",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.71m8mn0denahrc29"
+}

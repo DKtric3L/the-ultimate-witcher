@@ -1,0 +1,70 @@
+{
+  "_id": "BVRwk8xtV4TYU92A",
+  "name": "Взрыв стручка",
+  "type": "weapon",
+  "img": "icons/magic/acid/projectile-bolts-salvo-green.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 5,
+    "avail": "Everywhere",
+    "damage": "1d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "2",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Совершите Атлетики со СЛ 14, чтобы изменить позицию",
+        "percentage": ""
+      },
+      {
+        "id": "_qlj9drefj",
+        "name": "Отравление",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TBu2A8TZxtXhskMV.BVRwk8xtV4TYU92A"
+}

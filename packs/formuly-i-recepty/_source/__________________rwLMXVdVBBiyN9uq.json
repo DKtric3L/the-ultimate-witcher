@@ -1,0 +1,165 @@
+{
+  "name": "Доспех школы Змеи",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.bvD7SWkU9dY6H3YG"
+    },
+    "cf": {
+      "id": "temp_0ylg8syt1xv"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.7RbQyZ7N9JuXL9Sz]{Доспехи школы змеи}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "20",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Полотно"
+      },
+      {
+        "id": "_oscl3r3hj",
+        "name": "Укреплённая кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_7ulwvjuzg",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_5frcd0g31",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_vqew8bq6d",
+        "name": "Кожа драконида",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_yuetuijis",
+        "name": "Тёмная сталь",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_o699mlyuy",
+        "name": "Чернящее масло",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 842,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Доспехи школы змеи",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-gold.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 5,
+        "cost": null,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 8,
+        "torsoMaxStopping": 8,
+        "leftArmStopping": 8,
+        "leftArmMaxStopping": 8,
+        "rightArmStopping": 8,
+        "rightArmMaxStopping": 8,
+        "leftLegStopping": 8,
+        "leftLegMaxStopping": 8,
+        "rightLegStopping": 8,
+        "rightLegMaxStopping": 8,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Критический ответный удар: всякий раз, когда вы выбрасываете более чем на 4 очка больше, чем атакующий, при попытке парирования одним из ваших ведьмачьих оружий, вы можете немедленно попытаться нанести одиночный удар удерживаемым оружием без дополнительных штрафов и без дополнительной траты выносливости."
+          }
+        ],
+        "encumb": 0,
+        "location": "FullCover",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_0w1zqqbn8lrf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668162887305,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848414,
+    "modifiedTime": 1685496579037,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rwLMXVdVBBiyN9uq",
+  "folder": "lSH7Jx2pMpEU4iyV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rwLMXVdVBBiyN9uq"
+}

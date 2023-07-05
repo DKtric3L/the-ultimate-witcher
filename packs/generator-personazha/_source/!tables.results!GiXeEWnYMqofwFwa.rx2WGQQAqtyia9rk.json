@@ -1,0 +1,16 @@
+{
+  "_id": "rx2WGQQAqtyia9rk",
+  "type": 0,
+  "text": "Вы родились в Северных королевствах (Редания или Каэдвен)",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GiXeEWnYMqofwFwa.rx2WGQQAqtyia9rk"
+}

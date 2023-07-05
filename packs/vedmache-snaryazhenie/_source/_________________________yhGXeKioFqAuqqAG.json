@@ -1,0 +1,43 @@
+{
+  "name": "Мутаген: Скальный тролль",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_jbzez30vaw"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.u5XwuesomKRThfA6"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Скальные тролли",
+    "effect": "+1 к пб и борьба",
+    "alchemyDC": "20",
+    "minorMutation": "Сгорбленность"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868982,
+    "modifiedTime": 1685496626970,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "folder": "FKGCmtsjpGZZhMGV",
+  "sort": 0,
+  "_id": "yhGXeKioFqAuqqAG",
+  "_key": "!items!yhGXeKioFqAuqqAG"
+}

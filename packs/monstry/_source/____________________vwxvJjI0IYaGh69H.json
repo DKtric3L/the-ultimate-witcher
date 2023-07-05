@@ -1,0 +1,80 @@
+{
+  "_id": "vwxvJjI0IYaGh69H",
+  "name": "Психический импульс",
+  "type": "weapon",
+  "img": "icons/magic/air/wind-tornado-spiral-pink-purple.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "6м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "В качестве действия полного хода гаркаин может испу стить Психический импульс. Все в пределах 6 метров от него должны совершить проверку Сопротивления магии со СЛ 16.",
+        "percentage": ""
+      },
+      {
+        "id": "_9i603nfjp",
+        "name": "-2 к вниманию на 1d6 раундов",
+        "percentage": ""
+      },
+      {
+        "id": "_sh5vxbp6m",
+        "name": "Ошеломление",
+        "percentage": ""
+      },
+      {
+        "id": "_06bqcpmnd",
+        "name": "Если цель, уже ошеломлённая Психическим импульсом гаркаина, не сумеет защититься от следующего Психиче ского импульса, она должна пройти испытание Устойчиво сти.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!DTeCEgbLVpFnGOvl.vwxvJjI0IYaGh69H"
+}

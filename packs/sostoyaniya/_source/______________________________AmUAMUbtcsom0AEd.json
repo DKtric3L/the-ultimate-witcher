@@ -1,0 +1,48 @@
+{
+  "name": "Эффект - Благословление любви",
+  "type": "effect",
+  "img": "icons/magic/life/heart-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "1d10 раундов. Конечный раунд -  .",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_btkhpenbb",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "3"
+      },
+      {
+        "id": "_pjgfotm16",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "3"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883176,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AmUAMUbtcsom0AEd",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AmUAMUbtcsom0AEd"
+}

@@ -1,0 +1,181 @@
+{
+  "name": "Махакамский мартель",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.ZOplboA6qMw7DsWH"
+    },
+    "cf": {
+      "id": "temp_o6021xqcjz"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.qk4AjCt82lPMNlad]{Махакамский мартель}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1350,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "11ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Махакамская сталь"
+      },
+      {
+        "id": "_agupjwvu4",
+        "name": "Укрепленное дерево",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_jwawozqvz",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_tuatcm6mq",
+        "name": "Волчья шкура",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_vu3tn4b6p",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_qylyh4oyt",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_rngr7x5qi",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ykaxy21tq",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_en0tfmdul",
+        "name": "Полотно",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 675,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Махакамский мартель",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-round-spiked-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3.5,
+        "cost": 750,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Дробящее",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": true,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "5d6",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Пробивающее броню",
+            "percentage": ""
+          }
+        ],
+        "conceal": "L",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Melee",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.xXCmxhmxMqJKWkrU"
+        },
+        "cf": {
+          "id": "temp_2nu7s87th96"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863940,
+        "modifiedTime": 1672542412038,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848421,
+    "modifiedTime": 1685496579684,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ZOplboA6qMw7DsWH",
+  "folder": "CmRwhBGVa7PHSDao",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ZOplboA6qMw7DsWH"
+}

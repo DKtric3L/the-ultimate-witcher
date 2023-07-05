@@ -1,0 +1,16 @@
+{
+  "_id": "MWl2EoIWD33CT3oV",
+  "flags": {},
+  "type": 2,
+  "text": "Family Status: Northern",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "gYToKKwOpEYSEMIy",
+  "_key": "!tables.results!3dkzpZf8N1lyCpNf.MWl2EoIWD33CT3oV"
+}

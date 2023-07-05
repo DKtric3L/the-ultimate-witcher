@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Женщина нпс",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "wmCRZoV93R7NCO5t",
+  "_id": "4xxvztgJX1whMjpc",
+  "flags": {},
+  "_key": "!tables.results!cg0dD3HZpygzqSx1.4xxvztgJX1whMjpc"
+}

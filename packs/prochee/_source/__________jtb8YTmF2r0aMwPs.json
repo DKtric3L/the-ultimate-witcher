@@ -1,0 +1,66 @@
+{
+  "name": "Заморозка",
+  "type": "weapon",
+  "_id": "jtb8YTmF2r0aMwPs",
+  "img": "icons/magic/water/ice-snowman.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Заморозка",
+        "percentage": "100"
+      },
+      {
+        "id": "_jvxu50op3",
+        "name": "Любой, попавший в зону взрыва, замораживается на месте на 8 раундов или до тех пор, пока не совершит проверку Силы, СЛ 18, либо пока по нему не нанесут удар. Атака по замороженной цели наносит ей дополнительно 2d6 урона.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668183028240,
+    "modifiedTime": 1668183276307,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_key": "!actors.items!GLbrSgE9y8CmdNvl.jtb8YTmF2r0aMwPs"
+}

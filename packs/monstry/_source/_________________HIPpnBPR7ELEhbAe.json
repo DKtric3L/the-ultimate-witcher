@@ -1,0 +1,46 @@
+{
+  "name": "Перо Архигрифона",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/feathers_harpy_64x64.dds_.6907.png",
+  "system": {
+    "description": "",
+    "quantity": "1d10",
+    "weight": 0.1,
+    "cost": 248,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Архигрифоны",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_rcov954udlf",
+      "color": "#3b9b58"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.xMNtsOc8lEkeScaW"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853703,
+    "modifiedTime": 1669960791645,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "HIPpnBPR7ELEhbAe",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!G2iHcber3UTGDIBu.HIPpnBPR7ELEhbAe"
+}

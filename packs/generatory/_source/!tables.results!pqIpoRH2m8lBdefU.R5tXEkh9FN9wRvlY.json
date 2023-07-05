@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "text": "Кукла для чёрной магии",
+  "img": "icons/commodities/treasure/doll-mummy.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "vnHPxWX217SjiYPy",
+  "_id": "R5tXEkh9FN9wRvlY",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.R5tXEkh9FN9wRvlY"
+}

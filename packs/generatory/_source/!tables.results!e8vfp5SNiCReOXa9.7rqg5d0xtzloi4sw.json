@@ -1,0 +1,16 @@
+{
+  "text": "Фляга с крепким алкоголем",
+  "type": 2,
+  "img": "icons/containers/kitchenware/jug-wrapped-red.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "7rqg5d0xtzloi4sw",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "0OuYRNVF7r9QvN25",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.7rqg5d0xtzloi4sw"
+}

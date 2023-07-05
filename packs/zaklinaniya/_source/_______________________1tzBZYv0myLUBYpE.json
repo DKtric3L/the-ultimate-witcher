@@ -1,0 +1,70 @@
+{
+  "name": "Мистическая артиллерия",
+  "type": "spell",
+  "img": "icons/magic/fire/projectile-beams-salvo-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GpEpXtFh2nJIOET9"
+    },
+    "cf": {
+      "id": "temp_rfqt1jg26l"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "27",
+    "staminaIsVar": false,
+    "effect": "Мистическая артиллерия швыряет горящие снаряды в область радиусом 10 м с центром в любой точке в пределах дистанции, которые наносят 8d6 колющего урона, имеют 50%, шанс сбить цель с ног, и 25%, шанс поджечь ее.",
+    "range": "20м",
+    "duration": "Мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "8d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Колющий урон"
+      },
+      {
+        "id": "_paubvxbzu",
+        "name": "Сбивает с ног",
+        "percentage": "50"
+      },
+      {
+        "id": "_qcmb7ev2r",
+        "name": "Горение",
+        "percentage": "25"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1685496638991,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1tzBZYv0myLUBYpE",
+  "folder": "cWM5V9rg32KY6LB7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1tzBZYv0myLUBYpE"
+}

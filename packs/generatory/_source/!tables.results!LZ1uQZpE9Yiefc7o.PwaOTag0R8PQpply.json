@@ -1,0 +1,16 @@
+{
+  "text": "Формула: Опиат Киновари",
+  "type": 2,
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "PwaOTag0R8PQpply",
+  "documentId": "poM2Yps4kxAdjqHq",
+  "flags": {},
+  "_key": "!tables.results!LZ1uQZpE9Yiefc7o.PwaOTag0R8PQpply"
+}

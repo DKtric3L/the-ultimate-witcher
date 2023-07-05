@@ -1,0 +1,26 @@
+{
+  "_id": "8GkEMJWPanRlVB3Z",
+  "name": "Вихрь",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Драуг может превратиться в вихрь из оружия, доспехов и пылающих обломков. В этом состоянии его радиус поражения становится 20 м, и есть 50% шанс сбить с ног всех в этой зоне. Использование этой способности стоит 5 Вын"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!X1Y36RnnvQUsnBMC.8GkEMJWPanRlVB3Z"
+}

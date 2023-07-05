@@ -1,0 +1,124 @@
+{
+  "name": "Метательные ножи(3х)",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.pMuRrtmcBHVZ60E0"
+    },
+    "cf": {
+      "id": "temp_nzpzo831og"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.r4VW6dYBn1a5wQLp]{Метательный нож}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 74,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 8,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Сталь"
+      }
+    ],
+    "investment": 48,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Метательный нож",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-bone-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 50,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Everywhere",
+        "damage": "1d6",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "1",
+        "range": "Тел*4м",
+        "equiped": false,
+        "effects": [],
+        "conceal": "T",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Athletics",
+        "rollOnlyDmg": false,
+        "isThrowable": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_5fd8qju81pt"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863940,
+        "modifiedTime": 1672542471614,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848421,
+    "modifiedTime": 1685496579341,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pMuRrtmcBHVZ60E0",
+  "folder": "8Avv3LftRJoVMnHv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pMuRrtmcBHVZ60E0"
+}

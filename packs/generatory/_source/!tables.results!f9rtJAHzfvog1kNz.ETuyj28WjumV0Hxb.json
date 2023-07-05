@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    27,
+    27
+  ],
+  "drawn": false,
+  "text": "Мешочек с шариками",
+  "img": "icons/containers/bags/duffel-simple-leather.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "3lFCmq4lm1rTUTEO",
+  "_id": "ETuyj28WjumV0Hxb",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.ETuyj28WjumV0Hxb"
+}

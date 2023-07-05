@@ -1,0 +1,60 @@
+{
+  "_id": "xLYovSSsUrtxd72E",
+  "name": "Магическое сообщение",
+  "type": "spell",
+  "img": "icons/magic/symbols/rune-sigil-white-pink.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.Ey7X9s7SUomdrIqA"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Записывает сообщение длиной не более 5 минут в самоцвет или кусок стекла с начертанным на нём магическим символом. Заклинатель может установить не более 3 элементов, которые запускают воспроизведение сообщения. После воспроизведения сообщение исчезает, пока не будет активирован следующий запускающий элемент. При активации появляется призрачная фигура заклинателя, которая и произносит сообщение. При записи на совершенный самоцвет сообщение воспроизводится так чётко, словно заклинатель действительно находится рядом.",
+    "range": "",
+    "duration": "постоянный",
+    "defence": "",
+    "components": "пятая эссенция(xl), стекло(xl), ртутный раствор(xl)\nЛибо можно заменить - совершенный самоцветом(х 1)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "12",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!PGlZYpPXbooaZXbD.xLYovSSsUrtxd72E"
+}

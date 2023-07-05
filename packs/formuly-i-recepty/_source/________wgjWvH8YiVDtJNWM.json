@@ -1,0 +1,202 @@
+{
+  "name": "Кистень",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.wgjWvH8YiVDtJNWM"
+    },
+    "cf": {
+      "id": "temp_ddwqxocukpf"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.EQPU2vmVIXiFBFYN]{Кистень}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 843,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "8ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Смола"
+      },
+      {
+        "id": "_iugjmkn3o",
+        "name": "Древесина",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_dna8lioiz",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_pw95z6or1",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_bcgajy7tf",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_co9e9oy85",
+        "name": "Железо",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_e3y7z091o",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 421,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Кистень",
+      "type": "diagrams",
+      "img": "icons/sundries/documents/blueprint-axe.webp",
+      "system": {
+        "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.EQPU2vmVIXiFBFYN]{Кистень}</p>",
+        "quantity": 1,
+        "weight": 0,
+        "cost": 843,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "weapon",
+        "level": "journeyman",
+        "isFormulae": false,
+        "craftingDC": 16,
+        "alchemyDC": 0,
+        "craftingTime": "8ч",
+        "components": "",
+        "craftingComponents": [
+          {
+            "id": "first",
+            "quantity": "1",
+            "name": "Смола"
+          },
+          {
+            "id": "_iugjmkn3o",
+            "name": "Древесина",
+            "percentage": "",
+            "quantity": "1"
+          },
+          {
+            "id": "_dna8lioiz",
+            "name": "Масло из дрейка",
+            "percentage": "",
+            "quantity": "2"
+          },
+          {
+            "id": "_pw95z6or1",
+            "name": "Огров воск",
+            "percentage": "",
+            "quantity": "1"
+          },
+          {
+            "id": "_bcgajy7tf",
+            "name": "Точильный порошок",
+            "percentage": "",
+            "quantity": "2"
+          },
+          {
+            "id": "_co9e9oy85",
+            "name": "Железо",
+            "percentage": "",
+            "quantity": "2"
+          },
+          {
+            "id": "_e3y7z091o",
+            "name": "Сталь",
+            "percentage": "",
+            "quantity": "4"
+          }
+        ],
+        "investment": 421,
+        "learned": false,
+        "alchemyComponents": {
+          "vitriol": 0,
+          "rebis": 0,
+          "aether": 0,
+          "quebrith": 0,
+          "hydragenum": 0,
+          "vermilion": 0,
+          "sol": 0,
+          "caelum": 0,
+          "fulgur": 0
+        },
+        "associatedItem": {}
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.recepty.wgjWvH8YiVDtJNWM"
+        },
+        "cf": {
+          "id": "temp_ddwqxocukpf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162848416,
+        "modifiedTime": 1668162848416,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848416,
+    "modifiedTime": 1685496579717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wgjWvH8YiVDtJNWM",
+  "folder": "b2anqQiTRYL0jSkN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!wgjWvH8YiVDtJNWM"
+}

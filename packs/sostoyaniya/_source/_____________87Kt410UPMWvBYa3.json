@@ -1,0 +1,37 @@
+{
+  "name": "Рана в живот",
+  "type": "effect",
+  "img": "icons/skills/melee/strike-sword-stabbed-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.87Kt410UPMWvBYa3"
+    },
+    "cf": {
+      "id": "temp_ks31k8lzmi"
+    }
+  },
+  "system": {
+    "description": "От удара желудок персонажа порвался, и его содержимое выплеснулось в брюшную полость. Персонаж получает -2 ко всем действиям и 4 пункта урона кислотой в раунд.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "87Kt410UPMWvBYa3",
+  "folder": "mfpZq5Y96MD9CzKb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!87Kt410UPMWvBYa3"
+}

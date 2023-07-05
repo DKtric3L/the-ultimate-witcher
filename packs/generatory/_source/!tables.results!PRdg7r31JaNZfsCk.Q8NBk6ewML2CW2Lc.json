@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Доспехи - Подмастерье",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "y4812hCEgD5hikg4",
+  "_id": "Q8NBk6ewML2CW2Lc",
+  "flags": {},
+  "_key": "!tables.results!PRdg7r31JaNZfsCk.Q8NBk6ewML2CW2Lc"
+}

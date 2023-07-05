@@ -1,0 +1,16 @@
+{
+  "_id": "9kVdEtFeX4a3nAoe",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли начальные тренировки - Негативные последствия магии(-1 Энергии). Неправильно сотворённый знак немного повредил ваше тело. Было ужасно больно, и даже после излечения ваше значение энергии было снижено.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!tbGhshdAJ74oK3Ow.9kVdEtFeX4a3nAoe"
+}

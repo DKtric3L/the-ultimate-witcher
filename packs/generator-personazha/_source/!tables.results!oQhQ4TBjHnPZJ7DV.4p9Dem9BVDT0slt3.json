@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Мужчина - одежда ноги",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "TQLFEozmNTXc62Lj",
+  "_id": "4p9Dem9BVDT0slt3",
+  "flags": {},
+  "_key": "!tables.results!oQhQ4TBjHnPZJ7DV.4p9Dem9BVDT0slt3"
+}

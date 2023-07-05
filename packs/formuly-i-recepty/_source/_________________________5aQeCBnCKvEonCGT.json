@@ -1,0 +1,136 @@
+{
+  "name": "Стальной каплевидный щит",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.orzkI7ctZW3KKpiE"
+    },
+    "cf": {
+      "id": "temp_ixu4y0oihop"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.sV7AqvH0h6G1PjpH]{Стальной каплевидный щит}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 600,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "5ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Сталь"
+      },
+      {
+        "id": "_pn7tcg2ol",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_o6eqg3lwu",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 302,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Стальной каплевидный щит",
+      "type": "armor",
+      "img": "icons/equipment/shield/kite-wooden-sigil-purple.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3,
+        "cost": 400,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 16,
+        "reliabilityMax": 16,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Medium",
+        "avail": "Common",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Shield",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_yulv4k2lkie"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837869,
+        "modifiedTime": 1668162837869,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848429,
+    "modifiedTime": 1685496579461,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5aQeCBnCKvEonCGT",
+  "folder": "xCYuH6Lu3RuqOi5r",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5aQeCBnCKvEonCGT"
+}

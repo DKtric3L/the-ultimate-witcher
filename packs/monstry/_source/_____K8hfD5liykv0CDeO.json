@@ -1,0 +1,46 @@
+{
+  "name": "Сера",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/other/sulfur.webp",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 14,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Горы и под землёй",
+    "quantityObtainable": "1d10",
+    "forage": "12",
+    "substanceType": "quebrith"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_pzkgrhat4qp",
+      "color": "#e7c61d"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.ClVzyGkXItX0PH34"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1669966051966,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "K8hfD5liykv0CDeO",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!gwtn96X2s18xdNp7.K8hfD5liykv0CDeO"
+}

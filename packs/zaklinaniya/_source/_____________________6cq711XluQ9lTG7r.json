@@ -1,0 +1,57 @@
+{
+  "name": "Магическое исцеление",
+  "type": "spell",
+  "img": "icons/skills/wounds/blood-cells-vessel-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_g0hcqrt3scn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Магическое исцеление стимулирует естественный процесс регенерации, восстанавливая 3 ПЗ за ход во время действия заклинания. Также это заклинание можно использовать несколько раз для исцеления критического ранения — в таком случае оно не восстанавливает ПЗ.",
+    "range": "2м",
+    "duration": "1d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Реген 3 пз 1d10 раундов"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1685496637801,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6cq711XluQ9lTG7r",
+  "folder": "1qvYxGy2tyjjpXzr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!6cq711XluQ9lTG7r"
+}

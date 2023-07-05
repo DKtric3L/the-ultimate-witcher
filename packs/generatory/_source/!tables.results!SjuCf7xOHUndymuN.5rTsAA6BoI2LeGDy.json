@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Нильфгаардский мечник",
+  "img": "modules/the-ultimate-witcher/assets/monsters/nilfgaardian_swordsman.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "nHICIVrz4sMC9mPH",
+  "_id": "5rTsAA6BoI2LeGDy",
+  "flags": {},
+  "_key": "!tables.results!SjuCf7xOHUndymuN.5rTsAA6BoI2LeGDy"
+}

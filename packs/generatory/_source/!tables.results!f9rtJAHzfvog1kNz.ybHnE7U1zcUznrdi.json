@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Барабан",
+  "img": "icons/tools/instruments/drum-brown-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "3Q41151KIvDLhHUc",
+  "_id": "ybHnE7U1zcUznrdi",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.ybHnE7U1zcUznrdi"
+}

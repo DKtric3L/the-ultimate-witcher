@@ -1,0 +1,16 @@
+{
+  "text": "Глифово слово: Возмездие",
+  "type": 2,
+  "img": "icons/magic/light/beam-deflect-path-yellow.webp",
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "_id": "e1w5x0f1web8mpzy",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "kWah2bOfEje53ZUD",
+  "_key": "!tables.results!rEKb2IOfF0Xfuv4K.e1w5x0f1web8mpzy"
+}

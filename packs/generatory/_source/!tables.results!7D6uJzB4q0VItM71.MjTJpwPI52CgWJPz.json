@@ -1,0 +1,16 @@
+{
+  "text": "Трансмутация",
+  "type": 2,
+  "img": "icons/commodities/metal/ingot-hammered-gold.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "MjTJpwPI52CgWJPz",
+  "documentId": "LnbNK2h71ottALDv",
+  "flags": {},
+  "_key": "!tables.results!7D6uJzB4q0VItM71.MjTJpwPI52CgWJPz"
+}

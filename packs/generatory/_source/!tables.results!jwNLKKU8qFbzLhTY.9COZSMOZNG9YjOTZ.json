@@ -1,0 +1,16 @@
+{
+  "text": "Удушение",
+  "type": 2,
+  "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "9COZSMOZNG9YjOTZ",
+  "documentId": "yMRTom5PVMZpUbWu",
+  "flags": {},
+  "_key": "!tables.results!jwNLKKU8qFbzLhTY.9COZSMOZNG9YjOTZ"
+}

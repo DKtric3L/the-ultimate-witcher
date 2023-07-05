@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Перья",
+  "img": "icons/commodities/materials/feather-blue.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "SvaU6Zfo1IKQKF2K",
+  "_id": "yS4BQVcDuL2DRwqT",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.yS4BQVcDuL2DRwqT"
+}

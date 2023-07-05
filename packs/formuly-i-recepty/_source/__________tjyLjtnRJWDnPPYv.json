@@ -1,0 +1,128 @@
+{
+  "name": "Бешенство",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-formal-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.tjyLjtnRJWDnPPYv"
+    },
+    "cf": {
+      "id": "temp_qcbrs1shnce"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.wvGkWWsaDAf4bCS5]{Бешенство}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "traps",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": ""
+      },
+      {
+        "id": "_79vt6igmp",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_20y2vwc7g",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_6iq9q5egw",
+        "name": "Масло",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_1gsresd6l",
+        "name": "Сердце накера",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 76,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Бешенство",
+      "type": "valuable",
+      "img": "modules/the-ultimate-witcher/assets/bombs/rage.png",
+      "system": {
+        "description": "Радиус - 8 метров, вид - стихийная ловушка.\nЛюбой, попавший в зону взрыва, должен пройти проверку Стойкости,СЛ 18. При провале он начинает сражаться с ближайшим к нему существом, пока не совершит успешную проверку.",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 114,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "toolkit",
+        "avail": "Poor",
+        "effect": "",
+        "conceal": "S",
+        "quality": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_5rbvvy0nejs"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887304,
+        "modifiedTime": 1668182821954,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848409,
+    "modifiedTime": 1685496579796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tjyLjtnRJWDnPPYv",
+  "folder": "vIuywOMpy1LOwsfX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tjyLjtnRJWDnPPYv"
+}

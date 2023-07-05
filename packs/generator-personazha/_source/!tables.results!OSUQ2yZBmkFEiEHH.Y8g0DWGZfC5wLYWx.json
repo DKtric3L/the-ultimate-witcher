@@ -1,0 +1,16 @@
+{
+  "_id": "Y8g0DWGZfC5wLYWx",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Высокорождённый. Наибольшее влияние на вас оказал высокорождённый, научивший вас гордости и правилам этикета. Снаряжение - Кольцо-печатка.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!OSUQ2yZBmkFEiEHH.Y8g0DWGZfC5wLYWx"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Туман прошлого",
+  "type": 2,
+  "img": "icons/magic/unholy/orb-swirling-teal.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "_id": "qys14gh22ioxtu4z",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "UK3BBW2Qy9yvOygM",
+  "_key": "!tables.results!7kW39E9A500MUXsS.qys14gh22ioxtu4z"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "Z1VbixcIGfzp9uS4",
+  "type": 0,
+  "text": "Персонаж спотыкается и падает, ударившись головой. Пройдите проверку устойчивости, чтобы избежать дезориентации.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZkJPLpOcg5KIqbps.Z1VbixcIGfzp9uS4"
+}

@@ -1,0 +1,130 @@
+{
+  "name": "Кинжал",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.AaAdyIbTOClQ6Kf2"
+    },
+    "cf": {
+      "id": "temp_698q1rns3gh"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.1fUhiy800Sua8OJ7]{Кинжал}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 74,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 8,
+    "alchemyDC": 0,
+    "craftingTime": "2ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Древесина"
+      },
+      {
+        "id": "_f1j14d78f",
+        "name": "Железо",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 33,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Кинжал",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 50,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Everywhere",
+        "damage": "1d6+2",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [],
+        "conceal": "S",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Small Blades",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_1jlhu26b32w"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863938,
+        "modifiedTime": 1672564784515,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848416,
+    "modifiedTime": 1685496579636,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AaAdyIbTOClQ6Kf2",
+  "folder": "Evqg8WLTqPSee5Jc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AaAdyIbTOClQ6Kf2"
+}

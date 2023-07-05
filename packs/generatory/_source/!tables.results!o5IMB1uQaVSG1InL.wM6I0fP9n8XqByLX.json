@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    32,
+    32
+  ],
+  "drawn": false,
+  "text": "Счастливый талисман",
+  "img": "icons/commodities/materials/hair-tuft-white.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "nwXDkZpDwxE5mSmZ",
+  "_id": "wM6I0fP9n8XqByLX",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.wM6I0fP9n8XqByLX"
+}

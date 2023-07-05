@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Праздник изобилия (Дана Меадбх)",
+  "img": "icons/magic/nature/cornucopia-orange.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "VlZGA8VhOUNfRHmw",
+  "_id": "rR5Vo8i2G407NLn1",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.rR5Vo8i2G407NLn1"
+}

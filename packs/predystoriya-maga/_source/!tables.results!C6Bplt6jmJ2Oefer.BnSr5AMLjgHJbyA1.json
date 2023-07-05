@@ -1,0 +1,16 @@
+{
+  "_id": "BnSr5AMLjgHJbyA1",
+  "type": 0,
+  "text": "Произошло что-то опасное в этой декаде.",
+  "weight": 1,
+  "range": [
+    81,
+    100
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!C6Bplt6jmJ2Oefer.BnSr5AMLjgHJbyA1"
+}

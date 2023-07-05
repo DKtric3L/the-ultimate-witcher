@@ -1,0 +1,66 @@
+{
+  "name": "Герцогский меч",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-guard-gem-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2ps351j34un"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 800,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "5d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пробивающее броню",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863937,
+    "modifiedTime": 1685496598616,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qjNk1nboTEKY68J1",
+  "folder": "OTwHAIoGyBjQBAVX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qjNk1nboTEKY68J1"
+}

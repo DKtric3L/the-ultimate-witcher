@@ -1,0 +1,55 @@
+{
+  "name": "Разброс снаряда",
+  "img": "icons/weapons/thrown/bomb-fuse-cloth-pink.webp",
+  "results": [
+    "oaXOa9sNFv1XKvlO",
+    "D2jQzy2v4xFnfEzK",
+    "jEZthC8lFGqZgpxp",
+    "baUWh1qwipLYsMtW",
+    "yh0SvOI9XeJw7hb1",
+    "3QX2p5zI7RuJozPR",
+    "H6G8BiJPzEM1RzDl",
+    "zX3JPffwplIPWSai",
+    "aHb3gspMwCd06K2Q",
+    "sNrNYR2lN63k7Zrs",
+    "ItuZh5aYjDOrfwsE",
+    "xaZS6gh1o1asCi1G",
+    "gGyGd8k62w7OJv7T",
+    "c6C7cuF2bh4tEtHP",
+    "3TNw9W62U9Dt2Kkm",
+    "t9blCxiFoRg3jA7R",
+    "pHQiACiGbNncd35G",
+    "CJpVrq8SSyeqNkiQ",
+    "bcXTi6dg4mVthgZU",
+    "pJ6thqwte0MWwYxX"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.afnaP1bb57e3mEpt"
+    },
+    "cf": {
+      "id": "temp_fwm9l8vsfd"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897083,
+    "modifiedTime": 1685496658067,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XzhVNbs2LhDWFBH1",
+  "folder": "Wb6CKRNqRjBQl5Uy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!XzhVNbs2LhDWFBH1"
+}

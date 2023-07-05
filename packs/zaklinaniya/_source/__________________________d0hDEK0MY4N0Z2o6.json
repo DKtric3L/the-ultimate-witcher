@@ -1,0 +1,60 @@
+{
+  "name": "Магическое предупреждение",
+  "type": "spell",
+  "img": "icons/magic/control/debuff-chains-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.tToQQvIAF7tm86IE"
+    },
+    "cf": {
+      "id": "temp_m5jdkghug28"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Соединяет разум заклинателя с дверью или окном, чтобы тот мог почувствовать, когда кто-то проходит через них. Заклинатель может выбрать существ, которые не будут вызывать эту магическую тревогу.",
+    "range": "",
+    "duration": "2d10 часов",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Часы)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1685496639124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "d0hDEK0MY4N0Z2o6",
+  "folder": "9Po5TIJ5gLDJqbWG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!d0hDEK0MY4N0Z2o6"
+}

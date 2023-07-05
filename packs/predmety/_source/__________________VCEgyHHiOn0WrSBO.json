@@ -1,0 +1,43 @@
+{
+  "name": "Эликсир живучести",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/vitality_potion.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.VCEgyHHiOn0WrSBO"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 85,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Позволяет выпившему игнорировать штрафы за\nнахождение на пороге ранения на время действия\nэликсира.",
+    "time": "2d6 раундов",
+    "toxicity": "50%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VCEgyHHiOn0WrSBO",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VCEgyHHiOn0WrSBO"
+}

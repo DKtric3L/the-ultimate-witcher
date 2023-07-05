@@ -1,0 +1,16 @@
+{
+  "_id": "VSc9ry4JowYa3Rgz",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Крестьянин с низин. Наибольшее влияние на вас оказал крестьянин с низин, Научивший вас как жить счастливо. Снаряжение - Крестьянская лопата.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!OSUQ2yZBmkFEiEHH.VSc9ry4JowYa3Rgz"
+}

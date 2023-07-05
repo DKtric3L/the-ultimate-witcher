@@ -1,0 +1,44 @@
+{
+  "name": "Трофей катакана",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/katakan.webp",
+  "system": {
+    "description": "Ваши атаки по существам могут вызвать кровотечение с вероятностью 25% .",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.EZLkurLkrSdHDtgx"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1669889171419,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "ZLDMrAg7GsEO34GR",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!BwzFiQgQv7tG3Kvb.ZLDMrAg7GsEO34GR"
+}

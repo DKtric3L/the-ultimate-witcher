@@ -1,0 +1,16 @@
+{
+  "_id": "stqYpfeWRkQbQuce",
+  "type": 2,
+  "text": "Опасность - экспе",
+  "weight": 1,
+  "range": [
+    31,
+    100
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "EGDlOAHwGoZArDxf",
+  "_key": "!tables.results!PO08F83GvQhjYB2b.stqYpfeWRkQbQuce"
+}

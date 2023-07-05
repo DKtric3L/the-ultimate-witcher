@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "qo4hmJLDQDDJiVF5",
+  "text": "Бег",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Wlkm7eNQxzlm5Zlf.qo4hmJLDQDDJiVF5"
+}

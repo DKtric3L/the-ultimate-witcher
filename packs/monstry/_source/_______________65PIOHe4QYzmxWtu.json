@@ -1,0 +1,42 @@
+{
+  "name": "Сердце Вендиго",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/heart_monstrous_64x64.png.6915.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 167,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Vendigo",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.mfhTPNJB55tHtmYP"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1669964867609,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "65PIOHe4QYzmxWtu",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!h36v8BTXKysKCWgP.65PIOHe4QYzmxWtu"
+}

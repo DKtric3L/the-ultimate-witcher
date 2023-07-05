@@ -1,0 +1,43 @@
+{
+  "name": "Хлороформ",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/chlorophorm.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.SURHBOwFjaTXKNJC"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 36,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Common",
+    "effect": "Любой, кто вдохнёт хлороформ, должен успешно пройти испытание Устойчивости со штрафом -2, или же он потеряет сознание до тех пор, пока испытание не будет пройдено. Обычно для применения требуется провести атаку Ближнего боя тряпицей, смоченной хлороформом. В каждой склянке содержится 25 порций.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SURHBOwFjaTXKNJC",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SURHBOwFjaTXKNJC"
+}

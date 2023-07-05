@@ -1,0 +1,45 @@
+{
+  "name": "Генератор: Ведьмак",
+  "img": "icons/sundries/scrolls/scroll-worn-beige.webp",
+  "results": [
+    "q0DM4FW7XCnFdKZu",
+    "qajkRaccfhCw3FmJ",
+    "nZaULCfUDcjTijGv",
+    "oKZeEBIq2FLMNk2e",
+    "I2WgdMaqvCOO86Cd",
+    "d9NGvIh79ha1B9mq",
+    "kQX7ZeIIWKy5yTPF",
+    "q8LCtgshNjOjac5P",
+    "VaBMiBo9HQjCGHT1",
+    "HKn6Sh2521vsqaiE"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.ub0OgKJtPKbMpWUS"
+    },
+    "cf": {
+      "id": "temp_vvet5jvsxzm"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926176,
+    "modifiedTime": 1685496652320,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "C5d6zkIMvS9gDWEN",
+  "folder": "iuGDUnyJfBDpmaqJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!C5d6zkIMvS9gDWEN"
+}

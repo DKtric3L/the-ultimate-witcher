@@ -1,0 +1,16 @@
+{
+  "_id": "9kVdEtFeX4a3nAoe",
+  "flags": {},
+  "type": 0,
+  "text": "В какой школе вы обучались - Школа Медведя(-2 к СД). Вы проходили обучение на заснеженных вершинах гор Амелл, в Хэрн Кадух. Ваше тело способно выдерживать всевозможные повреждения, и вы можете быстро и ловко передвигаться в тяжёлой стальной броне.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!bkDiVzVjlz19GNBx.9kVdEtFeX4a3nAoe"
+}

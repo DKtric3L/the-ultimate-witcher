@@ -1,0 +1,60 @@
+{
+  "name": "Латные поножи",
+  "type": "armor",
+  "img": "icons/equipment/leg/tasset-steel-grey.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4zb4x6lgt3c"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 7.5,
+    "cost": 625,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 20,
+    "leftLegMaxStopping": 20,
+    "rightLegStopping": 20,
+    "rightLegMaxStopping": 20,
+    "type": "Heavy",
+    "avail": "Rare",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 1,
+    "location": "Leg",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837867,
+    "modifiedTime": 1685496574805,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lDcakxNRzk6xSsKA",
+  "folder": "K1UIQAUt5QlrdJLB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lDcakxNRzk6xSsKA"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Животная сила",
+  "type": 2,
+  "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "9nw7nwkvt6fdd9k0",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "7hXowVcKEQQ3iYYC",
+  "_key": "!tables.results!GRliin48ziIIG4vs.9nw7nwkvt6fdd9k0"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Желудок Куролиска",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/liver_cave_troll_64x64.png.6925.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 92,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Cockatrice",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_rcov954udlf",
+      "color": "#3b9b58"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.mi0hOVOJt1Mp3xl4"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1669962649811,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "yZgCh4qFapkZwNIY",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!sZSAlupbRzYM6g34.yZgCh4qFapkZwNIY"
+}

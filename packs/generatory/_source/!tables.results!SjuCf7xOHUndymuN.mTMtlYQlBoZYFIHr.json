@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Нильфгаардский Арбалетчик",
+  "img": "modules/the-ultimate-witcher/assets/monsters/nilfgaardian_warrior.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "rwPgZyQ3bzS0vkQy",
+  "_id": "mTMtlYQlBoZYFIHr",
+  "flags": {},
+  "_key": "!tables.results!SjuCf7xOHUndymuN.mTMtlYQlBoZYFIHr"
+}

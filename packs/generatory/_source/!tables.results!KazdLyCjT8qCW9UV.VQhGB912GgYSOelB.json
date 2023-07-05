@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Случайный Эфир",
+  "img": "systems/TheWitcherTRPG/assets/images/aether.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "EOJW951W8wHI1fER",
+  "_id": "VQhGB912GgYSOelB",
+  "flags": {},
+  "_key": "!tables.results!KazdLyCjT8qCW9UV.VQhGB912GgYSOelB"
+}

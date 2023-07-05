@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Селестин",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/selestin.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    }
+  },
+  "system": {
+    "description": "2d10 минут.\nПосле употребления, вам начнут мерещиться цветные огни и приятные звуки. Это мешает сосредоточиться и даёт штраф -2 к Вниманию и к любой деятельности, требующей сосредоточения. Действие можно прекратить раньше успешной проверкой Стойкости со СЛ 14.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_k56y9arhb",
+        "skill": "WITCHER.SkIntAwareness",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "C7XaZXV3FXkDnTq6",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!C7XaZXV3FXkDnTq6"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "ИС дракон - увлечения",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "SjeY52LfELijx1F5",
+    "VNjMigLyHbn7D5Ou",
+    "K1yCQvruPdLuFsd9",
+    "kJIg5dez1TxrNbnk",
+    "VDF9PpAdA1LJqhrL",
+    "mSz3Sbs5I6Ikgw9G",
+    "qaAIUlvlrFT1Z719",
+    "jnc4QSkLQDYqdlSJ",
+    "uAs6rTLpvPido4RT",
+    "8y2KrAwBw50Z85UZ"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "msr3MeH2IrProUDM",
+  "_key": "!tables!msr3MeH2IrProUDM"
+}

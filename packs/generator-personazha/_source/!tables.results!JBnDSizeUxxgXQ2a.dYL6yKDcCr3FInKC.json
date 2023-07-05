@@ -1,0 +1,16 @@
+{
+  "_id": "dYL6yKDcCr3FInKC",
+  "type": 0,
+  "text": "Социальные оплошности. Вы совершили ужасную социальную оплошность на собрании магов, и теперь другие маги относятся к вам как к Терпимому, а не как к Равному.",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!JBnDSizeUxxgXQ2a.dYL6yKDcCr3FInKC"
+}

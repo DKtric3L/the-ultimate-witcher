@@ -1,0 +1,70 @@
+{
+  "name": "Звери",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Beasts.png",
+  "description": "",
+  "results": [
+    "gpSdIws3GmQOD8ct",
+    "uSzTzWENedsM7MRD",
+    "d0FB96Y8guBgJzLy",
+    "z3km8jGqYi79wlfn",
+    "x6Cxgv8xXuTC2QWZ",
+    "YoBT1VFQxIJRHgcT",
+    "6G9LTIV8sZSNgrbb",
+    "1niQSXzyfzmEFtME",
+    "J0dTETIHYwMTLvx2",
+    "T8GDibbwTG8Yb4tz",
+    "xnb0ylFhaa2ey0pF",
+    "TWC0HkMxAsuP8smB",
+    "X32Id3k2RHKZWnan",
+    "h9Ia8R5xEaPzliZM",
+    "Sw91GueH6eTF9w3o",
+    "UScXGCSytXmGRtIy",
+    "BQSfMcbIcgQ5kpcq",
+    "G8tVdYKRNR3EQC46",
+    "Tk0ovSROd9NekG2q",
+    "ElhOoF8jC5oPJUSJ",
+    "tXmLHD84ua3pCZIY",
+    "rKovHb94x6orsrQM",
+    "GTHN1BBXicZtxDth",
+    "hkx4Od6HcItFy8gJ",
+    "XIUrvYS7gmt8mtM1",
+    "rD8WXHAEbk5ZornV",
+    "xmKQ4olm8ZR3Cv4H",
+    "kiRjOb6iqMJqn1Q8",
+    "f5ZZ3w1BUYu54jwB",
+    "pCMKb2WrhNi0gdB9",
+    "6XGoaZk7SCTWJe0a",
+    "3vUahgIzWQY9PHjf",
+    "ZJMIIea0Ke2ZJ0g7",
+    "y0PcKFuWQ4erdesk",
+    "nBh8YHnNtSsyF3Lu",
+    "nvaXghO2iwjXGnIJ"
+  ],
+  "formula": "1d18",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "qr89GMdoYcqhp02G",
+  "_key": "!tables!qr89GMdoYcqhp02G"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "VgZylS4pJWSlcJfl",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Ремесленник. Вдохновением вам служил ремесленник, научивший ценить искусство старших народов. Снаряжение - изготовленный вами небольшой сувенир.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!OSUQ2yZBmkFEiEHH.VgZylS4pJWSlcJfl"
+}

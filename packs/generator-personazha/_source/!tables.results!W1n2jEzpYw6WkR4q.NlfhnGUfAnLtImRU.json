@@ -1,0 +1,16 @@
+{
+  "_id": "NlfhnGUfAnLtImRU",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли начальные тренировки - Глубокое изучение(+1 к подготовке ведьмака). Обучение владению мечом важно, но большую часть свободного времени вы проводите в библиотеках крепости, изучая книги о чудовищах и делая записи.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!W1n2jEzpYw6WkR4q.NlfhnGUfAnLtImRU"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Походная постель",
+  "type": "valuable",
+  "img": "icons/commodities/cloth/cloth-bolt-grey.webp",
+  "system": {
+    "description": "Мне часто приходилось спать на земле, и походная постель в таких ситуациях — вещь незаменимая. А ведь как всё просто: подстилка да одеялко.",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 16,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_qtp9pduhxta",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.O3VyBLuSuGP73JsH"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663425381142,
+    "modifiedTime": 1663425381142,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "UF4WUUvYsT56Mipo",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dOeQYcWPrnQjn0mK.UF4WUUvYsT56Mipo"
+}

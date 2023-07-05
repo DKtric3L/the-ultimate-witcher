@@ -1,0 +1,88 @@
+{
+  "name": "Треснувшая челюсть (Стаб)",
+  "type": "effect",
+  "img": "icons/commodities/bones/skull-hollow-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.IS9A8IX18GF7LTvl"
+    },
+    "cf": {
+      "id": "temp_n2afsx7fi5j"
+    }
+  },
+  "system": {
+    "description": "От удара челюсть персонажа треснула, из-за чего ему тяжело говорить.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkWillSpellcastLable",
+        "modifier": "-1"
+      },
+      {
+        "id": "_tro5648fv",
+        "skill": "WITCHER.SkWillHexLable",
+        "modifier": "-1"
+      },
+      {
+        "id": "_k19do1jwl",
+        "skill": "WITCHER.SkWillRitCraftLable",
+        "modifier": "-1"
+      },
+      {
+        "id": "_6sny4b603",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "-1"
+      },
+      {
+        "id": "_xgmz4apvm",
+        "skill": "WITCHER.SkEmpPersuasion",
+        "modifier": "-1"
+      },
+      {
+        "id": "_v8vr2ovrp",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "-1"
+      },
+      {
+        "id": "_umfammm7r",
+        "skill": "WITCHER.SkEmpLeadership",
+        "modifier": "-1"
+      },
+      {
+        "id": "_d7c3vscoc",
+        "skill": "WITCHER.SkEmpDeceit",
+        "modifier": "-1"
+      },
+      {
+        "id": "_k010hrl35",
+        "skill": "WITCHER.SkIntSocialEt",
+        "modifier": "-1"
+      },
+      {
+        "id": "_2u0tvwk7q",
+        "skill": "WITCHER.SkWillIntim",
+        "modifier": "-1"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883175,
+    "modifiedTime": 1685496621796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IS9A8IX18GF7LTvl",
+  "folder": "i9IWaFNhx9E6aUgp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IS9A8IX18GF7LTvl"
+}

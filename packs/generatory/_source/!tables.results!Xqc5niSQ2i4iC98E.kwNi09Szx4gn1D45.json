@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Призрак",
+  "img": "modules/the-ultimate-witcher/assets/monsters/ghost.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "CdZZ5bikZdJU0lQx",
+  "_id": "kwNi09Szx4gn1D45",
+  "flags": {},
+  "_key": "!tables.results!Xqc5niSQ2i4iC98E.kwNi09Szx4gn1D45"
+}

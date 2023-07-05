@@ -1,0 +1,16 @@
+{
+  "_id": "XFy2l49tSxFMwvUu",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли начальные тренировки - Травма на маятнике(-1 Реа). Вы получили травму во время тренировки на маятнике. Вы упали со столбов и сломали несколько костей, ударившись о камни внизу. Даже после исцеления вы не столь гибки, как раньше.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!RkpitlJX32gc9k3O.XFy2l49tSxFMwvUu"
+}

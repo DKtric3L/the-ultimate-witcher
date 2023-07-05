@@ -1,0 +1,26 @@
+{
+  "_id": "sbFZKNVDYiWPPXDd",
+  "name": "Демон",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Благодетельницы могут потратить ход,чтобы призывать демона, который подчиняется их указаниям. Они могут призвать только одного демона за бой, и все трое должны пожертвовать ходом."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!dqokOq0i1ReX4mhA.sbFZKNVDYiWPPXDd"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Берсерк",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Vildkaarl_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "SfCCPw4qmzAvKDLh",
+  "_id": "Kqy3xS4BbdPFZkI8",
+  "flags": {},
+  "_key": "!tables.results!faEhx9OFhWYrUiUw.Kqy3xS4BbdPFZkI8"
+}

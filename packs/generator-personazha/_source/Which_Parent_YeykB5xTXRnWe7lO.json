@@ -1,0 +1,39 @@
+{
+  "name": "Which Parent",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "FSiN9Lz0KFhVSqtl",
+    "NHxsyIUmt1tGSp3v",
+    "XEDYdsBspEf428n1"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.gT3TsAgTNme2wzAy"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917384,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "YeykB5xTXRnWe7lO",
+  "_key": "!tables!YeykB5xTXRnWe7lO"
+}

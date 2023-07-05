@@ -1,0 +1,71 @@
+{
+  "name": "Утяжеленная сеть",
+  "type": "weapon",
+  "img": "icons/weapons/thrown/bolas-steel.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_5fd8qju81pt"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 4,
+    "cost": 125,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "2",
+    "range": "4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Опутывающее",
+        "percentage": ""
+      },
+      {
+        "id": "_mdsnh0c45",
+        "name": "Цель, пораженная этим оружием, опутывается им. Она снижают свою скорость на 5 и получают штраф -2 ко всем физическим действиям. Каждый ход цель может совершать проверку Уклонения/Побега или Акробатики(?) с Сл: 18, чтобы сбежать. В качестве альтернативы другой персонаж может действием убрать оружие.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863944,
+    "modifiedTime": 1685496598744,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kate5bdn9SXwDcoU",
+  "folder": "0NR1thozchDVQIHT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kate5bdn9SXwDcoU"
+}

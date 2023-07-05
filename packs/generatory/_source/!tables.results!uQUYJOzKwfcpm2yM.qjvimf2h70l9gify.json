@@ -1,0 +1,16 @@
+{
+  "text": "Бесконечная потребность",
+  "type": 2,
+  "img": "icons/consumables/meat/shank-glowing-purple-blue.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "qjvimf2h70l9gify",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "CJOJzfJ8wPk9ebYi",
+  "_key": "!tables.results!uQUYJOzKwfcpm2yM.qjvimf2h70l9gify"
+}

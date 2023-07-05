@@ -1,0 +1,122 @@
+{
+  "name": "Кусач",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-formal-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.caGtx5PigJMfECXL"
+    },
+    "cf": {
+      "id": "temp_qcbrs1shnce"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.0hhV4HI8DsxuHNkH]{Кусач}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "traps",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "7",
+        "name": "Древесина"
+      },
+      {
+        "id": "_sfswst37w",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_ccqpwtt2u",
+        "name": "Железо",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_ko78txxqb",
+        "name": "Зерриканская смесь",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 96,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Кусач",
+      "type": "valuable",
+      "img": "modules/the-ultimate-witcher/assets/bombs/bite.png",
+      "system": {
+        "description": "Радиус - 4 метра, тип - колющая ловушка. \nУрон 7d6.",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 144,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "toolkit",
+        "avail": "Poor",
+        "effect": "",
+        "conceal": "S",
+        "quality": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_5rbvvy0nejs"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668182804307,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848419,
+    "modifiedTime": 1685496579796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "caGtx5PigJMfECXL",
+  "folder": "vIuywOMpy1LOwsfX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!caGtx5PigJMfECXL"
+}

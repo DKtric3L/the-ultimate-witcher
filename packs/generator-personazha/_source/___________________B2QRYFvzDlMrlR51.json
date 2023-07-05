@@ -1,0 +1,45 @@
+{
+  "name": "Как вы встретились",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "ZpdUBhIsB1LC4aPE",
+    "ZijAgS0veoGz6k3A",
+    "GP5xI77Odp0JWNPR",
+    "Zt00u0Ks1zm6ZKcF",
+    "kpu8TmWFROJOZosU",
+    "B6hDjOWyOK4cXtcb",
+    "Ddwo3HvrRsa6h9ep",
+    "E4Bmuj5Uj6qJzFUs",
+    "57n4Szt2tgXoF5Mq",
+    "aIo3roj37XZ6jqS9"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.7B5JAtn05M3RzGS4"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901090,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "B2QRYFvzDlMrlR51",
+  "_key": "!tables!B2QRYFvzDlMrlR51"
+}

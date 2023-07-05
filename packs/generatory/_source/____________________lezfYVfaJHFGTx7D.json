@@ -1,0 +1,39 @@
+{
+  "name": "Инвокации Иерофанта",
+  "img": "icons/magic/nature/leaf-glow-maple-orange-purple.webp",
+  "description": "",
+  "results": [
+    "otju3xlssepira6t",
+    "npzv178e0uh8pk5j",
+    "16w1m724s7om4sj0",
+    "c7crrqcbd5rxy0sp",
+    "byija9ukcf8nrzkt"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.SOPN7X5JsIJ01TP7"
+    },
+    "cf": {
+      "id": "temp_cboveqoq8kl"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932902,
+    "modifiedTime": 1685496644235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lezfYVfaJHFGTx7D",
+  "folder": "hu5je5cICYkkCemz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!lezfYVfaJHFGTx7D"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Записанные предсказания",
+  "img": "icons/sundries/documents/document-symbol-circle-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "KUPU2Qapzumizv4V",
+  "_id": "f3VCOpcdQwlwgT9q",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.f3VCOpcdQwlwgT9q"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "1mg48zXKyLuuTuCi",
+  "type": 0,
+  "text": "Выгода",
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4J6EtH4Pqn6wuDXh.1mg48zXKyLuuTuCi"
+}

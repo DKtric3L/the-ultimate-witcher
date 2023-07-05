@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Ароматное зелье",
+  "img": "modules/the-ultimate-witcher/assets/props/fragrant_potion.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "CsGmPXCVLP5uEo6n",
+  "_id": "tChfDBcGyVEP1mDa",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.tChfDBcGyVEP1mDa"
+}

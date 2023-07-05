@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Волчья шкура",
+  "img": "icons/commodities/leather/fur-pelt-white.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "k3jFHmEVFgfvgbET",
+  "_id": "jQYgLf7SdJ6AMGl0",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.jQYgLf7SdJ6AMGl0"
+}

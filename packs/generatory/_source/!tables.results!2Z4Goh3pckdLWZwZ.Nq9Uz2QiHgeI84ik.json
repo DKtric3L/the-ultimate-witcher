@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Оружие - Новичок",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "nLFXPW04rBbZ5DaP",
+  "_id": "Nq9Uz2QiHgeI84ik",
+  "flags": {},
+  "_key": "!tables.results!2Z4Goh3pckdLWZwZ.Nq9Uz2QiHgeI84ik"
+}

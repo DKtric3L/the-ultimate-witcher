@@ -1,0 +1,40 @@
+{
+  "name": "Чертёж доспех",
+  "img": "icons/sundries/books/book-rounded-red.webp",
+  "description": "Если нужно, поставь замок на том, что не хочешь разыгрывать.",
+  "results": [
+    "wPi7IuZ9nbZ5xtGB",
+    "Q8NBk6ewML2CW2Lc",
+    "7DRDDdsfnnh0w7cL",
+    "5WIuYwJDZbSSQ4tn",
+    "uyrpkIL3Z6sY17SF",
+    "waSIjNC1veps4YXP"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.p1kuDtFfXojA47KB"
+    },
+    "cf": {
+      "id": "temp_c7t3jk2q5hm"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668330989854,
+    "modifiedTime": 1685496644377,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "6P29UjutkIAiKpOL",
+  "sort": 0,
+  "_id": "PRdg7r31JaNZfsCk",
+  "_key": "!tables!PRdg7r31JaNZfsCk"
+}

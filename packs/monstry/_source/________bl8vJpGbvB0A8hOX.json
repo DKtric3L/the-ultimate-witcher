@@ -1,0 +1,26 @@
+{
+  "_id": "bl8vJpGbvB0A8hOX",
+  "name": "Иллюзия",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Альпы способны моментально принять облик красивой девы (с чертами по своему выбору), волка или кошки. Такую иллюзию можно развеять проверкой сотворения заклинаний со СЛ:15"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!OCFTKPm3wTOGWxot.bl8vJpGbvB0A8hOX"
+}

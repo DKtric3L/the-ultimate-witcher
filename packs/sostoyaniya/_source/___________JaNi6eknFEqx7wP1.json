@@ -1,0 +1,47 @@
+{
+  "name": "Проворство",
+  "type": "effect",
+  "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
+  "system": {
+    "description": "+1 к Атлетике",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkDexAthletics",
+        "modifier": "1"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0fb746e034be6276160a365d55a9b9cc8b7408ae",
+      "sourceId": "Item.WYgNF0NKxICEmPmx"
+    },
+    "core": {
+      "sourceId": "Item.WYgNF0NKxICEmPmx"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672535491872,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "JaNi6eknFEqx7wP1",
+  "_key": "!items!JaNi6eknFEqx7wP1"
+}

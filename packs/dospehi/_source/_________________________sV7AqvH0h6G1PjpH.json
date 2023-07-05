@@ -1,0 +1,60 @@
+{
+  "name": "Стальной каплевидный щит",
+  "type": "armor",
+  "img": "icons/equipment/shield/kite-wooden-sigil-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_yulv4k2lkie"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 400,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 16,
+    "reliabilityMax": 16,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Common",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837869,
+    "modifiedTime": 1685496574821,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sV7AqvH0h6G1PjpH",
+  "folder": "iuazO6H6PxafTAcT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!sV7AqvH0h6G1PjpH"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    91,
+    99
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "FppPoRRgGojgGQj2",
+  "text": "Граф, Барон, Феодал или кто-то в этом духе. 3000 крон. Такая цель получает поддержку от Короля - Либо отряд обученных солдат, либо неограниченная помощь армии.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!eYyUhISKZSs5c0sx.FppPoRRgGojgGQj2"
+}

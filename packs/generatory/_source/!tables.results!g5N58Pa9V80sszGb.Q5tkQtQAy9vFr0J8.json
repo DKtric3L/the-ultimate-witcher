@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Активный Щит",
+  "img": "modules/the-ultimate-witcher/assets/signs/magic_shield.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "vk72fOtfHbNvAdeQ",
+  "_id": "Q5tkQtQAy9vFr0J8",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.Q5tkQtQAy9vFr0J8"
+}

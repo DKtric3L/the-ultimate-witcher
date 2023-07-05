@@ -1,0 +1,70 @@
+{
+  "name": "Кулак",
+  "type": "weapon",
+  "img": "icons/skills/melee/unarmed-punch-fist.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "5d6",
+    "reliable": 10,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сокрушающая сила",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 2,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.e0wrNpghNfUHFVi6"
+    },
+    "cf": {
+      "id": "temp_2jbgazraiwc"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1668162863940,
+    "modifiedTime": 1680488105825,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_id": "2doAmLBhiL1byCC5",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!oCbHun9dgPjg8pCX.2doAmLBhiL1byCC5"
+}

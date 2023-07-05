@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    37,
+    37
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "7v1BueJd9aRgRHhL",
+  "text": "Прицельная атака + перемещение на СКОР",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!TSiizjCPrhyprZeQ.7v1BueJd9aRgRHhL"
+}

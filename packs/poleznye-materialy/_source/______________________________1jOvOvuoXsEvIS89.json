@@ -1,0 +1,39 @@
+{
+  "name": "Расширенная Ведьмачья Алхимия",
+  "pages": [
+    "5xJsgDo6YRgYN3Kx",
+    "KzvxagGFBGrnH8Fg",
+    "X67LxyYROXdyFu1R",
+    "R0ppj0MrbnU9oIl1",
+    "CaIV9DtJnf6o1ydf",
+    "J0dExKRHBPxW4oW1",
+    "qA65332sHohRtXku"
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.euo00v5Kt43DO4Sc"
+    },
+    "exportSource": {
+      "world": "test",
+      "system": "TheWitcherTRPG",
+      "coreVersion": "10.290",
+      "systemVersion": "0.94"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1670249398997,
+    "modifiedTime": 1670414938513,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "_id": "1jOvOvuoXsEvIS89",
+  "_key": "!journal!1jOvOvuoXsEvIS89"
+}

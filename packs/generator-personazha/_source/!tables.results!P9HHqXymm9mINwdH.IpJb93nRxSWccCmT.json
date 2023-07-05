@@ -1,0 +1,16 @@
+{
+  "_id": "IpJb93nRxSWccCmT",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Мехт (+1 Харизма)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!P9HHqXymm9mINwdH.IpJb93nRxSWccCmT"
+}

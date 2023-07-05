@@ -1,0 +1,171 @@
+{
+  "name": "Пробивающий болт Скорпио (x5)",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.DEZAFV2mKAiOPaNP"
+    },
+    "cf": {
+      "id": "temp_iwmumackzfq"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.WEePVdfgpj1seAKS]{Пробивающий болт}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 550,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "Ammunition",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "3ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Cталь"
+      },
+      {
+        "id": "_l5w4r0q0e",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_zqf23ctk4",
+        "name": "Укрепленная древесина",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_740qjy5a9",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_z7p86g0fe",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_7hb9d3nsw",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_s5nf0ozgu",
+        "name": "Уголь",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 275,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Пробивающий болт скорпио",
+      "type": "weapon",
+      "img": "icons/weapons/ammunition/arrow-simple-grey.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 75,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": true,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Болт для скорпио",
+            "percentage": ""
+          },
+          {
+            "id": "_eefef6spw",
+            "name": "Пробивающее броню",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Brawling",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_1wc74o93668"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863941,
+        "modifiedTime": 1672542412028,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848426,
+    "modifiedTime": 1685496579364,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "inhPb93EclDEr9me",
+  "folder": "asfgjTPJnG0Koif9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!inhPb93EclDEr9me"
+}

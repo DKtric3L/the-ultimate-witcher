@@ -1,0 +1,61 @@
+{
+  "_id": "V7aaXw2G6uGRL0ui",
+  "name": "Плевок кислотой",
+  "type": "weapon",
+  "img": "icons/magic/acid/projectile-smoke-glowing.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "2d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "3",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "1d6/2 разрушающего урона",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!qgHEp7OCGL7kqAqg.V7aaXw2G6uGRL0ui"
+}

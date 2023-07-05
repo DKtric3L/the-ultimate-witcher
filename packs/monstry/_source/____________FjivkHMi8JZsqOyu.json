@@ -1,0 +1,26 @@
+{
+  "_id": "FjivkHMi8JZsqOyu",
+  "name": "Зов мертвых",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Беанн’ши может призвать 6 скелетов, чтобы атаковать своих противников. Пока скелеты живы, банши восстанавливает 5 ПЗ за ход."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!urPib1pQd0azbAk1.FjivkHMi8JZsqOyu"
+}

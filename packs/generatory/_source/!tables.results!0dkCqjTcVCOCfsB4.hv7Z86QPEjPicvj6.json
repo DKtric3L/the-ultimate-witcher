@@ -1,0 +1,16 @@
+{
+  "_id": "hv7Z86QPEjPicvj6",
+  "type": 2,
+  "text": "Одежда",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "qzagy1uhKevTpTWP",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.hv7Z86QPEjPicvj6"
+}

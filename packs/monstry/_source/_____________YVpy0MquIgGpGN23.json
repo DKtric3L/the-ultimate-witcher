@@ -1,0 +1,44 @@
+{
+  "_id": "YVpy0MquIgGpGN23",
+  "name": "Дешевое вино",
+  "type": "valuable",
+  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wjo7lfo9hia",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.DrnK8blFxUmW7SbO"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 4,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!46l6VflnM18Zu3Hy.YVpy0MquIgGpGN23"
+}

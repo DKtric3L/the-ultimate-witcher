@@ -1,0 +1,65 @@
+{
+  "name": "Исцеление нежити",
+  "type": "spell",
+  "img": "icons/magic/unholy/hand-light-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.FEW4m1OsokrhoGXt"
+    },
+    "cf": {
+      "id": "temp_yt9b8cjci6m"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 3d10.\nВы можете передать какое-то количество своей жизненной силы дружественной нежити, поднятой заклинаниями Поднятие трупа или Призыв призрака. Они восстанавливают ПЗ в размере Затрат ПЗ, которые вы потратили на произнесение этого заклинания.",
+    "range": "20м",
+    "duration": "Мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "3d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон заклинателю"
+      },
+      {
+        "id": "_ro2ofhxic",
+        "name": "Лечение нежити",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496639054,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9N6Wt8FvlZbdUUo6",
+  "folder": "61JxKnK4vxszNzbe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9N6Wt8FvlZbdUUo6"
+}

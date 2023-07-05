@@ -1,0 +1,71 @@
+{
+  "name": "Двимеритовая бомба",
+  "type": "weapon",
+  "img": "modules/the-ultimate-witcher/assets/bombs/dvimerit_bomb.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rads4wdft3r"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 264,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "Тел*4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Радиус - 8 метров",
+        "percentage": ""
+      },
+      {
+        "id": "_h2x82w5jc",
+        "name": "Запрет магии на 20 раундов",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887304,
+    "modifiedTime": 1685496626866,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "L5FvRYyhSqOh0eQo",
+  "folder": "92jV2rxgfvQuubjZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!L5FvRYyhSqOh0eQo"
+}

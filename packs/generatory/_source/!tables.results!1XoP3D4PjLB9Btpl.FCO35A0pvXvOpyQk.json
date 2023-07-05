@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Третогорская сталь",
+  "img": "icons/commodities/metal/ingot-teal.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "VCHs4tE16SZc3TRh",
+  "_id": "FCO35A0pvXvOpyQk",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.FCO35A0pvXvOpyQk"
+}

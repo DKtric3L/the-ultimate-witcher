@@ -1,0 +1,16 @@
+{
+  "_id": "EhpmbY9Ps49kKcgo",
+  "type": 0,
+  "text": "Разгневанные горожане. Это может быть что-то, что вы сделали (или что- то, что вы не сделали), но вы разозлили жителей крупного города. Если вы вернетесь в этот город, горожане сразу увидят в вас угрозу или цель.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BqWiXzs6w2pmN2Ra.EhpmbY9Ps49kKcgo"
+}

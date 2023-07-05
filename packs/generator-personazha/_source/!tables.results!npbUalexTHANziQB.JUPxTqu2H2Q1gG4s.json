@@ -1,0 +1,16 @@
+{
+  "_id": "JUPxTqu2H2Q1gG4s",
+  "type": 0,
+  "text": "Законник. Вы помогли властям с преступлением, связанным с магией. Получите +2 к репутации у властей Нильфгаарда",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!npbUalexTHANziQB.JUPxTqu2H2Q1gG4s"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Косатка",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/killer_whale.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 28,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Увеличивает способность задерживать дыхание в\nполтора раза, а также отменяет штрафы к зрению\nпод водой.",
+    "time": "1/2 часа",
+    "toxicity": "25%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1685496626799,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "klXv52h1B1jGhozd",
+  "folder": "QxSFI02IPk07KY7Y",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!klXv52h1B1jGhozd"
+}

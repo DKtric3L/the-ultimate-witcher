@@ -1,0 +1,60 @@
+{
+  "name": "Эффект допплера",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-mask-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.AynndEjsSbBpAZvc"
+    },
+    "cf": {
+      "id": "temp_ox1dmapord"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Эффект допплера позволяет вам маскировать свою внешность и снаряжение. Это визуальная иллюзия, поэтому, если кто-нибудь попытается прикоснуться, например, к мечу, который вы создали, его рука ничего не почувствует.",
+    "range": "на себя",
+    "duration": "2d10 часов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Часов)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892180,
+    "modifiedTime": 1685496638904,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AqgAXKxIWHdvMBrV",
+  "folder": "FompVpMZkGLpN1Nf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AqgAXKxIWHdvMBrV"
+}

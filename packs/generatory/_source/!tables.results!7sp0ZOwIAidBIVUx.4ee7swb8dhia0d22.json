@@ -1,0 +1,16 @@
+{
+  "text": "Символ скрытого",
+  "type": 2,
+  "img": "icons/magic/nature/leaf-armor-scale-green.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "_id": "4ee7swb8dhia0d22",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "Xhk2WnBdzUcY25vv",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.4ee7swb8dhia0d22"
+}

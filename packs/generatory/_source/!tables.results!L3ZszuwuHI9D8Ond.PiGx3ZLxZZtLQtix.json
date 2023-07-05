@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "drawn": false,
+  "text": "Локон волос",
+  "img": "icons/commodities/materials/hair-tuft-grey.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Qmm1eePUs7mDZrfv",
+  "_id": "PiGx3ZLxZZtLQtix",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.PiGx3ZLxZZtLQtix"
+}

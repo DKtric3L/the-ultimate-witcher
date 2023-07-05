@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Ласточкина трава",
+  "img": "systems/TheWitcherTRPG/assets/images/rebis.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "wRVuVg8Ym0cCUaCW",
+  "_id": "oWWkyAREnj0tkTLF",
+  "flags": {},
+  "_key": "!tables.results!dOaoWvEwWPOSoPpQ.oWWkyAREnj0tkTLF"
+}

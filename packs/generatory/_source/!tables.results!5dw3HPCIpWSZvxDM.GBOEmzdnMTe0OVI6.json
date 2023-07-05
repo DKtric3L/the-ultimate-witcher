@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Духи Стихий",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Elementa.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "cAmaEjjM3LddHHTP",
+  "_id": "GBOEmzdnMTe0OVI6",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.GBOEmzdnMTe0OVI6"
+}

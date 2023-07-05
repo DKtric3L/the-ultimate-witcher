@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Вызимский Чемпион",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/vyzim_champion.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "cSUwqOsHg5GQSu8c",
+  "_id": "qCFv8PVaIS4grd0u",
+  "flags": {},
+  "_key": "!tables.results!FG86RJYCQc9nALr7.qCFv8PVaIS4grd0u"
+}

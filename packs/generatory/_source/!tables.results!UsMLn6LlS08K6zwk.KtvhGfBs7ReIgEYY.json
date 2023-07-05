@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "KtvhGfBs7ReIgEYY",
+  "text": "[[1d10]] Единиц",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!UsMLn6LlS08K6zwk.KtvhGfBs7ReIgEYY"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "BPTQOqaS1Ccdyifj",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Мастера. Вы выросли в ремесленной мастерской, где каждый день стучали молотки или издавались другие звуки творчества. Начальное снаряжение - 3 обычных чертежа/формулы.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gYToKKwOpEYSEMIy.BPTQOqaS1Ccdyifj"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Кулак",
+  "type": "weapon",
+  "img": "icons/skills/melee/unarmed-punch-fist.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.e0wrNpghNfUHFVi6"
+    },
+    "cf": {
+      "id": "temp_2jbgazraiwc"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": null,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "1d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Несмертельное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863940,
+    "modifiedTime": 1685496598603,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "HUK4elixrZeWeIuR",
+  "folder": "3BjANa0nnKl5rxLI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!HUK4elixrZeWeIuR"
+}

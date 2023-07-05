@@ -1,0 +1,60 @@
+{
+  "name": "Булава",
+  "type": "weapon",
+  "img": "icons/weapons/maces/mace-flanged-steel.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 525,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Common",
+    "damage": "5d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_2nu7s87th96"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1663423718793,
+    "modifiedTime": 1672566205844,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "C52v9IIFZZ7UG3Xm",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!uwoc5G9Eyjzo0fxU.C52v9IIFZZ7UG3Xm"
+}

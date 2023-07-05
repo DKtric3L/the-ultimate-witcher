@@ -1,0 +1,57 @@
+{
+  "name": "Магический портал",
+  "type": "spell",
+  "img": "icons/magic/air/wind-vortex-swirl-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_e8hxoxvji0v"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Создаёт в пределах 10 метров от заклинателя висящий в воздухе портал размером 1 на 2 метра. Через этот портал заклинатель перемещается в любое место, какое может вспомнить. Через портал можно пронести всё, что в него проходит по размеру. Если прекратить поддерживать портал в тот момент, когда сквозь него что-то проходит, портал разрежет этот предмет (или существо) надвое. Это считается потерей конечности, аналогично критическому ранению. Заклинатель может открыть портал и в неизвестное ему место, как при Телепортации.",
+    "range": "Неогр",
+    "duration": "Актив(6 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1685496638078,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2PRwYC27qS3dW2kT",
+  "folder": "Zv5jElL7a6RPe9Ks",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2PRwYC27qS3dW2kT"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "V3iyl0Nr8i0MKUy2",
+  "name": "Потоп Ис",
+  "type": "spell",
+  "img": "icons/magic/nature/root-vines-silhouette-teal.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wcrqgntympb"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.vNcVkkFXkbIvwD5v"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "24",
+    "staminaIsVar": false,
+    "effect": "Потоп Испозволяет вам призвать 20-метровый куб\nводы, который разливается во всех направлениях. Любой,\nпопавший в эту область, получает 5к6 повреждений\nтуловища и должен пройти проверку Силы с Сл:24, иначе\nбудет сбит с ног, когда вода ударит их. Если использовать\nзаклинание на открытой местности, вода будет выливаться\nнаружу в течение того же хода, в котором оно было\nприменено. При применении в замкнутом пространстве вода\nзаполняет пространство, разрушая любые неукрепленные\nбарьеры, и оставляет область полностью затопленной.",
+    "range": "40м",
+    "duration": "мгновенная",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "20",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сбит с ног"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.V3iyl0Nr8i0MKUy2"
+}

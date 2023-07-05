@@ -1,0 +1,42 @@
+{
+  "name": "Перья гарпии",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/feathers_harpy_64x64.dds_.6907.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rcov954udlf",
+      "color": "#3b9b58"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 28,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Гарпии",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853703,
+    "modifiedTime": 1685496584251,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RojQiA4deo5DPXV2",
+  "folder": "k0WBGxAKzk1zxRGK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RojQiA4deo5DPXV2"
+}

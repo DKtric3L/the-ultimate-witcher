@@ -1,0 +1,70 @@
+{
+  "name": "Хлад смерти",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/vintir3.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_a5r1vpsvopg"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d6 за очко вын.\nВинтир теперь испускает постоянный поток холодного воздуха и льда из руки заклинателя, наносящий 1d6 некротического урона за каждое потраченное очко Вын и замораживает противника. Хлад смерти необходимо поддерживать, каждый раунд затрачивая количество Вын, равное 1/2 изначальной стоимости в Вын. В свой ход заклинатель может сменить цель. Струю можно прицельно направить на часть тела.",
+    "range": "3м",
+    "duration": "актив(1/2 затрат вын)",
+    "defence": "Уклонение/Блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1d6 некротического урона заклинателю за 1 вын"
+      },
+      {
+        "id": "_yky1ajgke",
+        "name": "1d6 - некротический урон жертве, +1d6 за единицу вын",
+        "percentage": ""
+      },
+      {
+        "id": "_mkiw8n082",
+        "name": "Замораживание",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496638518,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EtOcoruYZx5BxRhp",
+  "folder": "bwtndOBz5Q00m7So",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!EtOcoruYZx5BxRhp"
+}

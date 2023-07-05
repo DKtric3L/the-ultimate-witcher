@@ -1,0 +1,44 @@
+{
+  "name": "Внезапный поворот заказа",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "CH7J7YSblE4rBONj",
+    "udrKCnF0W99vimTK",
+    "ScNPJHK1SilZR7AZ",
+    "0VQDYXG9kMhLow83",
+    "nq9kBferIyAZOEec",
+    "bSzR2C3L5NDCsoMb",
+    "BrX8M1ucVvie9nO7",
+    "IMfooxl0Ypd0Jc2C",
+    "GgPIa7hRG8DHAPHJ",
+    "2nQppe7CXq63dL5a"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "P10CatHPQPUgk5bO",
+  "_key": "!tables!P10CatHPQPUgk5bO"
+}

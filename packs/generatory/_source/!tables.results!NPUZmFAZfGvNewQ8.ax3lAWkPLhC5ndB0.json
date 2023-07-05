@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Реданский Лучник",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Redanian_archer_Bryan_Sola.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "uywOEhVCMHFe7TAn",
+  "_id": "ax3lAWkPLhC5ndB0",
+  "flags": {},
+  "_key": "!tables.results!NPUZmFAZfGvNewQ8.ax3lAWkPLhC5ndB0"
+}

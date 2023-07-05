@@ -1,0 +1,181 @@
+{
+  "name": "Махакамские латы",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-tree-silver-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.kKEusPnN4XYnroUe"
+    },
+    "cf": {
+      "id": "temp_qyydi88el9s"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.ak17rPeFPaloMMBA]{Махакамские латы}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 5286,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-armor",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": 28,
+    "alchemyDC": 0,
+    "craftingTime": "28ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "12",
+        "name": "Махакамская сталь"
+      },
+      {
+        "id": "_m6wj9bc01",
+        "name": "Махакамский двимерит",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_d5szum0tw",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "8"
+      },
+      {
+        "id": "_4u5vct7v2",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "12"
+      },
+      {
+        "id": "_r3w0mufno",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_mhrdcie1m",
+        "name": "Чернящее масло",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_1a9t3s3lb",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_545q4omoy",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_bdudktswz",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_gzymj53ur",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "10"
+      }
+    ],
+    "investment": 2645,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Махакамские латы",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-steel-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 30,
+        "cost": 3525,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 30,
+        "headMaxStopping": 30,
+        "torsoStopping": 30,
+        "torsoMaxStopping": 30,
+        "leftArmStopping": 30,
+        "leftArmMaxStopping": 30,
+        "rightArmStopping": 30,
+        "rightArmMaxStopping": 30,
+        "leftLegStopping": 30,
+        "leftLegMaxStopping": 30,
+        "rightLegStopping": 30,
+        "rightLegMaxStopping": 30,
+        "type": "Light",
+        "avail": "Rare",
+        "enhancements": 3,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 2,
+        "location": "FullCover",
+        "equiped": false,
+        "bludgeoning": true,
+        "slashing": true,
+        "piercing": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.dospehi-starshego-naroda.TAAv9uXc7GrlfGuV"
+        },
+        "cf": {
+          "id": "temp_njuve1krma"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837867,
+        "modifiedTime": 1668162837867,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848421,
+    "modifiedTime": 1685496579540,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kKEusPnN4XYnroUe",
+  "folder": "1rLi9NNO3m4tNUPN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kKEusPnN4XYnroUe"
+}

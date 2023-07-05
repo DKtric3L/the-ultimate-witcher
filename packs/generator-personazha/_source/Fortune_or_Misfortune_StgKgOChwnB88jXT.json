@@ -1,0 +1,37 @@
+{
+  "name": "Fortune or Misfortune",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "JQmqgYHhLo9rqERr",
+    "cUNRbBflCqmrkzp7"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.eYZyRmHnDVd9Lrty"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668288155747,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "StgKgOChwnB88jXT",
+  "_key": "!tables!StgKgOChwnB88jXT"
+}

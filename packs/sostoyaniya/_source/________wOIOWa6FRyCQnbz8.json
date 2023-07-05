@@ -1,0 +1,47 @@
+{
+  "name": "Стрелок",
+  "type": "effect",
+  "img": "icons/skills/ranged/person-archery-bow-attack-gray.webp",
+  "system": {
+    "description": "Благодаря давним традициям и постоянным тренировкам эльфы - одни из лучших лучников в мире. Эльфы получают врожденный бонус +2 к Стрельбе из лука и способны выхватывать и натягивать лук, не тратя на это действие.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkDexArchery",
+        "modifier": "2"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d17d2b84b62d54ae37f950ba42d5fbc9b9e68af0",
+      "sourceId": "Item.sKQR9rk3EwpO2Ktl"
+    },
+    "core": {
+      "sourceId": "Item.sKQR9rk3EwpO2Ktl"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672503240693,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "wOIOWa6FRyCQnbz8",
+  "_key": "!items!wOIOWa6FRyCQnbz8"
+}

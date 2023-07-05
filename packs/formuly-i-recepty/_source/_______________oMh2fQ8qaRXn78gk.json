@@ -1,0 +1,112 @@
+{
+  "name": "Кожа драконида",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.oMh2fQ8qaRXn78gk"
+    },
+    "cf": {
+      "id": "temp_ceg4eiua7p"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.komponenty.N0RYutO47twyckl7]{Кожа Драконида}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 78,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Чешуя драконида"
+      },
+      {
+        "id": "_c1s3nmn9e",
+        "name": "Дубильные травы",
+        "percentage": "",
+        "quantity": "3"
+      }
+    ],
+    "investment": 39,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Кожа Драконида",
+      "type": "component",
+      "img": "icons/commodities/leather/scales-blue.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 5,
+        "cost": 58,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "animal-parts",
+        "rarity": "Rare",
+        "location": "Покупается или создается",
+        "quantityObtainable": "N/A",
+        "forage": "N/A",
+        "substanceType": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_fd6i44q3pyb",
+          "color": "#000000"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162853700,
+        "modifiedTime": 1668162853700,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848417,
+    "modifiedTime": 1685496579289,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "oMh2fQ8qaRXn78gk",
+  "folder": "dkAnRzLxnKAUHXkR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oMh2fQ8qaRXn78gk"
+}

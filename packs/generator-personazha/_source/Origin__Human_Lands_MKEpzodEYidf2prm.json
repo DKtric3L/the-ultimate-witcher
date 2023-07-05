@@ -1,0 +1,38 @@
+{
+  "name": "Origin: Human Lands",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "nX4mbx8F2ITxvBNF",
+    "yWqJljl7QFD5RvAg"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.GEHVAT1ngGLGO5Hc"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917376,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "MKEpzodEYidf2prm",
+  "_key": "!tables!MKEpzodEYidf2prm"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Нпс - Голос",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "dM54QUqSdwhZTKlL",
+  "_id": "kkO0gZjGGgihKHUt",
+  "flags": {},
+  "_key": "!tables.results!oQhQ4TBjHnPZJ7DV.kkO0gZjGGgihKHUt"
+}

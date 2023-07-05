@@ -1,0 +1,51 @@
+{
+  "name": "Эффект напитка: Крепкий алкоголь",
+  "type": "effect",
+  "img": "icons/consumables/drinks/alcohol-jar-spirits-gray.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xq906tikww"
+    }
+  },
+  "system": {
+    "description": "До следующего отдыха. Пройди проверку со сл. 14, при провале становишься зависим от алкоголя(не только крепкого).\nСтопочка горячительного, и этот день не так и ужасен.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_3pzf99snw",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "1"
+      }
+    ],
+    "derived": [
+      {
+        "id": "_jzv8axky6",
+        "derivedStat": "WITCHER.Actor.CoreStat.Rec",
+        "modifier": "2"
+      },
+      {
+        "id": "_3z575y0nl",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "5"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883179,
+    "modifiedTime": 1685496621661,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lqZNEgYk02xNcs8J",
+  "folder": "1H4Dkaei03yMUCuF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lqZNEgYk02xNcs8J"
+}

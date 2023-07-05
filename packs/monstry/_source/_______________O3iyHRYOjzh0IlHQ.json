@@ -1,0 +1,46 @@
+{
+  "name": "Слюна Гаркаина",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_monstrous_64x64.png.6939.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.1,
+    "cost": 70,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Гаркаины",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_245p1o8sc5y",
+      "color": "#e7c61d"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.0AJfRG3ZXrM6VbWo"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853705,
+    "modifiedTime": 1669888857330,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "O3iyHRYOjzh0IlHQ",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!DTeCEgbLVpFnGOvl.O3iyHRYOjzh0IlHQ"
+}

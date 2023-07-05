@@ -1,0 +1,37 @@
+{
+  "name": "Огнеупорный (щит)",
+  "type": "effect",
+  "img": "icons/equipment/shield/heater-stone-orange.webp",
+  "system": {
+    "description": "Если атака, заблокированная этим щитом, состояла из огня, Щит не получает урона от его блокировки.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.ga77hd9ZsUBhPouT"
+    },
+    "cf": {
+      "id": "temp_00lmohvs9pjjb"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670457703772,
+    "modifiedTime": 1685496622115,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "1OzZrXYcwi6ijefN",
+  "sort": 0,
+  "_id": "zyIkaf6MuxaZe2VX",
+  "_key": "!items!zyIkaf6MuxaZe2VX"
+}

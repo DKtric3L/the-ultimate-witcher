@@ -1,0 +1,40 @@
+{
+  "name": "Цвет волос",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "nZxWOI8hXTppXK2i",
+    "DyUXz6Nl0cIA581M",
+    "9FOuBVTN5sYye1Ki",
+    "8ZVSyt9C7n5TrNOD",
+    "jUZNWqTgFaIfi1IN",
+    "5tdTGVfg4bbTdVEJ"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "5pmjr4LNaEjbI7P7",
+  "_key": "!tables!5pmjr4LNaEjbI7P7"
+}

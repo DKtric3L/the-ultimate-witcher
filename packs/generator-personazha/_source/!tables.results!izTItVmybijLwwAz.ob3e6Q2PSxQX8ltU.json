@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "ИС дракона - Возраст",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "l8RIVaoAazPAKOTN",
+  "_id": "ob3e6Q2PSxQX8ltU",
+  "flags": {},
+  "_key": "!tables.results!izTItVmybijLwwAz.ob3e6Q2PSxQX8ltU"
+}

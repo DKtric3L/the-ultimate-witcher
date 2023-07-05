@@ -1,0 +1,63 @@
+{
+  "name": "Хватка Кадфана",
+  "type": "spell",
+  "img": "icons/skills/melee/strike-blade-knife-orange-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_p8nj0svlvn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Заклинание названо в честь чародея-кузнеца Кадфана из Эббинга. Позволяет раскалить металлический предмет настоль ко, что держащий его в руках роняет его или получает 2d6 урона держащей этот предмет конечности. Заклинанием также можно нагреть оружие — раскалённое оружие наносит +2d6 урона с 50%-ным шансом горения.",
+    "range": "8м",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6+1d6",
+    "effects": [
+      {
+        "id": "_lm7584y6x",
+        "name": "2d6 - Урон от ожога",
+        "percentage": ""
+      },
+      {
+        "id": "_d4lstp9ab",
+        "name": "1d6 - Длительность эффекта(раунды)",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496637857,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "95RR94lD3uNwIlVN",
+  "folder": "FdN7jfCUOYKOAJAb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!95RR94lD3uNwIlVN"
+}

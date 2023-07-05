@@ -1,0 +1,45 @@
+{
+  "name": "Эст-Эст",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/est_est.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_qd7ib7juyz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.n9TRb26Lo2uYsHPb"
+    }
+  },
+  "system": {
+    "description": "Знаменитый туссентский Эст-Эст – белое вино невероятных качества и вкуса, повсеместно признаваемое лучшим в мире. Слава об этом вине пошла по миру во времена правления княгини Аделии Марты, которая любила Эст-Эст более любого другого вина[1]. Оно производится в солнечной Долине Сансретура на винодельне Кастель Ровелло. За бочонок Эст-Эста платят столько, сколько за десяток бочонков Цидариского или из нильфгаардских винных погребов под Альбой.\n\nПройди проверку со сл. 10, при провале становишься зависим от алкоголя(не только вина).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 24,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868971,
+    "modifiedTime": 1685496603837,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "mgrcuZ7Tjm0VXbc7",
+  "sort": 0,
+  "_id": "FeyioY9LY0HhvleJ",
+  "_key": "!items!FeyioY9LY0HhvleJ"
+}

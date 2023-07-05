@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Новичок - Огонь",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "1UpkqubVx4wvUefg",
+  "_id": "XUJBxW3AnpyBEPH5",
+  "flags": {},
+  "_key": "!tables.results!sgbHp1FLCjvxzyZO.XUJBxW3AnpyBEPH5"
+}

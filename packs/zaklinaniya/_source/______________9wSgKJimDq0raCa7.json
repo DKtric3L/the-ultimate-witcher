@@ -1,0 +1,57 @@
+{
+  "name": "Метод Саволлы",
+  "type": "spell",
+  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_dpnqmwag5w"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Являясь эволюцией древних техник, метод Саволлы разрушает ткани и слизистые оболочки трупа и упрощает поиск и извлечение мутагенных соединений. После применения этого заклинания мутаген внутри трупа отделяется и излучает легкое свечение, что позволяет извлечь его с помощью проверки алхимии с СЛ:14 или проверки Ведьмовского обучения.",
+    "range": "2м",
+    "duration": "мгновенная",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1685496637764,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9wSgKJimDq0raCa7",
+  "folder": "cnIlwgnwtzSIOWjW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9wSgKJimDq0raCa7"
+}

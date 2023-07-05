@@ -1,0 +1,42 @@
+{
+  "name": "Проклятые",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/CursedOnes.png",
+  "description": "",
+  "results": [
+    "nZImg9S8By7GqTTs",
+    "KF4RKuZ8j3evLkrL",
+    "6suzfjnoReazkIQL",
+    "y8yiT2EyG9uK0uYK",
+    "oaiUrGY7GAqp0DrS",
+    "w7eb1Xef66eUoR67",
+    "biPGwER9adk4nf48",
+    "zkw3gA9wH6tX3aVg"
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "QlHGUejHno6ftM4n",
+  "_key": "!tables!QlHGUejHno6ftM4n"
+}

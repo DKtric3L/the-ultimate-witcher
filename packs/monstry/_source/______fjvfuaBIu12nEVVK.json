@@ -1,0 +1,78 @@
+{
+  "name": "Самум",
+  "type": "weapon",
+  "img": "modules/the-ultimate-witcher/assets/bombs/samum.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 147,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "Тел*4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Радиус поражения - 4 метра",
+        "percentage": ""
+      },
+      {
+        "id": "_9ihrodhub",
+        "name": "Все, кто оказался в зоне действия этой бомбы должны пройти испытание Устойчивости со штрафом -2 И слепнут на 6 раундов.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_rads4wdft3r"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.l5tu9V3Hk2npgxEd"
+    },
+    "scene-packer": {
+      "hash": "18bf9a05b2198deb49c134deeaf79d64652beaf7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1668162887309,
+    "modifiedTime": 1672740308217,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "fjvfuaBIu12nEVVK",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!CS4CydjSrkQZ1agY.fjvfuaBIu12nEVVK"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Поддельные документы",
+  "type": "valuable",
+  "img": "icons/sundries/documents/document-sealed-red-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NNICP6ojGong77KQ"
+    },
+    "cf": {
+      "id": "temp_o9qp5pd3li"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "K7jCAaJc5KxlufeV",
+  "folder": "Y27EgvFkpvqgYHAE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!K7jCAaJc5KxlufeV"
+}

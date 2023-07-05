@@ -1,0 +1,16 @@
+{
+  "text": "Инструменты рунописца",
+  "type": 2,
+  "img": "icons/commodities/treasure/token-engraved-purple-glowing.webp",
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "_id": "m7wvtz8nn9mkk9bo",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "7y0AeL5P0vqV4mMN",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.m7wvtz8nn9mkk9bo"
+}

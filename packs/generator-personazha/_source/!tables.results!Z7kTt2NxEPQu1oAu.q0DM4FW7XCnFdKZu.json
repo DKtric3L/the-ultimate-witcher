@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Плохо гнётся колено(-1 к скор). После ужасного ранения ваша нога была практически в невосстановимом состоянии. Даже после хирургического вмешательства и литров ведьмачьих эликсиров ваше колено не то, что раньше.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Z7kTt2NxEPQu1oAu.q0DM4FW7XCnFdKZu"
+}

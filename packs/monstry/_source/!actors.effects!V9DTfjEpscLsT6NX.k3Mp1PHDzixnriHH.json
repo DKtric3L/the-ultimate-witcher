@@ -1,0 +1,29 @@
+{
+  "_id": "k3Mp1PHDzixnriHH",
+  "changes": [],
+  "disabled": false,
+  "duration": {
+    "startTime": 100058419,
+    "startRound": 0,
+    "startTurn": 0,
+    "seconds": null,
+    "combat": null,
+    "rounds": null,
+    "turns": null
+  },
+  "icon": "icons/svg/daze.svg",
+  "label": "Дезориентация",
+  "transfer": false,
+  "flags": {
+    "core": {
+      "statusId": "combat-utility-belt.stun"
+    },
+    "combat-utility-belt": {
+      "conditionId": "stun",
+      "overlay": false
+    }
+  },
+  "origin": null,
+  "tint": null,
+  "_key": "!actors.effects!V9DTfjEpscLsT6NX.k3Mp1PHDzixnriHH"
+}

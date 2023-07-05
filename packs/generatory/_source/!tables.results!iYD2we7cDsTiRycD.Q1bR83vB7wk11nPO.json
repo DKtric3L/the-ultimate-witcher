@@ -1,0 +1,16 @@
+{
+  "text": "Прикосновение кузнеца",
+  "type": 2,
+  "img": "icons/skills/melee/strike-flail-destructive-yellow.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "Q1bR83vB7wk11nPO",
+  "documentId": "9LndhBqg3yuZtyG2",
+  "flags": {},
+  "_key": "!tables.results!iYD2we7cDsTiRycD.Q1bR83vB7wk11nPO"
+}

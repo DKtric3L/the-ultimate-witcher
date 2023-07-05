@@ -1,0 +1,63 @@
+{
+  "_id": "7dOZdJW6rBsdr8CD",
+  "name": "Доспех дикой охоты",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-collared-steel.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 200000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi.Wwm3VseFbhwi1jXT"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 12,
+    "cost": 1500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 35,
+    "torsoMaxStopping": 35,
+    "leftArmStopping": 35,
+    "leftArmMaxStopping": 35,
+    "rightArmStopping": 35,
+    "rightArmMaxStopping": 35,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Heavy",
+    "avail": "Rare",
+    "enhancements": 2,
+    "enhancementItems": [
+      {},
+      {}
+    ],
+    "effects": [],
+    "encumb": 2,
+    "location": "Torso",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!nSkcaGKGWSQHnMoS.7dOZdJW6rBsdr8CD"
+}

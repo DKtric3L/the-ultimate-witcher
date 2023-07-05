@@ -1,0 +1,16 @@
+{
+  "_id": "4l59MR8cRrCnlxXV",
+  "type": 2,
+  "text": "Размер семьи",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "xgpWXhCCIwSwX62S",
+  "_key": "!tables.results!wM4JxT87Cx3Z13PL.4l59MR8cRrCnlxXV"
+}

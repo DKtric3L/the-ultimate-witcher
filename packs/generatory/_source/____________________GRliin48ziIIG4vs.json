@@ -1,0 +1,40 @@
+{
+  "name": "Друид - Подмастерье",
+  "img": "icons/magic/nature/leaf-glow-triple-teal.webp",
+  "description": "",
+  "results": [
+    "wa0rbajpww9b80zv",
+    "54iu0xc9xschudw7",
+    "a2exz3qjg6dvne9n",
+    "bndu7t897nlpvvtr",
+    "9nw7nwkvt6fdd9k0",
+    "gdrzky1rrb87bq7b"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.AS3YnNfCZdzbVFvU"
+    },
+    "cf": {
+      "id": "temp_cboveqoq8kl"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932898,
+    "modifiedTime": 1685496644235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "GRliin48ziIIG4vs",
+  "folder": "hu5je5cICYkkCemz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!GRliin48ziIIG4vs"
+}

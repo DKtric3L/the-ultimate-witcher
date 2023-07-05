@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Нашествие Быдла",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "DU4VuDlgT5vQFOWs",
+  "_id": "Kv9SlNXJlbfZUixx",
+  "flags": {},
+  "_key": "!tables.results!1k8ULtKIur5o7ske.Kv9SlNXJlbfZUixx"
+}

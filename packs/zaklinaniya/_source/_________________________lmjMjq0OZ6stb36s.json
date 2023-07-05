@@ -1,0 +1,60 @@
+{
+  "name": "Душа Берсерка(Свальблод)",
+  "type": "spell",
+  "img": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.j3J6JTYJKQ7YohRq"
+    },
+    "cf": {
+      "id": "temp_y5c320rzgq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Заклинатель молит Свальблода о помощи, и он отвечает. Заклинатель мгновенно становится берсерком и получает все его показатели с максимальными ПЗ и ВЫН персонажа. Если ПЗ берсерка падает до 0, заклинатель возвращается к своей первоначальной форме и остается при смерти с 0 ПЗ",
+    "range": "на себя",
+    "duration": "до конца боя",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496639313,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lmjMjq0OZ6stb36s",
+  "folder": "MrlJwKcG9EWlHZie",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lmjMjq0OZ6stb36s"
+}

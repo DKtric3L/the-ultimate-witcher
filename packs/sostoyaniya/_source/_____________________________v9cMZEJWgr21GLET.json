@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Зелье Раффара Белого",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/potions/raffars_white_potion.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_d24zge9h815"
+    }
+  },
+  "system": {
+    "description": "Позволяет выпившему восстанавливать 1 ПЗ за раунд на протяжении действия эликсира. Эффект исцеления от нескольких зелий не суммируется.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496622135,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "v9cMZEJWgr21GLET",
+  "folder": "LzDekdlbqkuddQPT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!v9cMZEJWgr21GLET"
+}

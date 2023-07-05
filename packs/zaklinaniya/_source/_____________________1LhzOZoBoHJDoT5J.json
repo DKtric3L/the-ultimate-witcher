@@ -1,0 +1,55 @@
+{
+  "name": "Небольшое извержение",
+  "type": "spell",
+  "img": "icons/magic/fire/blast-jet-stream-embers-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.TLgkINxiSehJRtGo"
+    },
+    "cf": {
+      "id": "temp_0288mkv1c3j7"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Небольшое извержение швыряет в противника маленькие раскалённые вулканические камни. За каждый пункт, который вы выбросите свыше защиты противника (максимум 10), вы наносите 1d6 дробящего урона + 1d6 урона от горения. Каждый бросок считается отдельной атакой.",
+    "range": "10м",
+    "duration": "мгновенное",
+    "defence": "укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+1d6",
+    "effects": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496638644,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1LhzOZoBoHJDoT5J",
+  "folder": "mo6HZjuF4DlXvMQS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1LhzOZoBoHJDoT5J"
+}

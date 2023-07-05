@@ -1,0 +1,67 @@
+{
+  "name": "Ирден",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/irden.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_fwhvepus7l5"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "basic",
+    "stamina": "Мен",
+    "staminaIsVar": true,
+    "effect": "Ирден создаёт на земле вокруг заклинателя большой магический круг. Любой вошедший в этот круг (кроме самого заклинателя) получает штраф к Скор и Реа равный 1 плюс 1 за каждые 2 потраченных очка Вын помимо первого. Максимальный штраф равен 4. Штрафы действуют до тех пор, пока вошедшие находятся в круге. Любое бесплотное существо, вошедшее в круг, становится материальным.",
+    "range": "радиус 3м",
+    "duration": "5 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "0",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Штраф скорости(Затраты вын)"
+      },
+      {
+        "id": "_cxbvaw6j3",
+        "name": "Штраф реакции(Затраты вын)",
+        "percentage": ""
+      },
+      {
+        "id": "_9eyodf1ye",
+        "name": "Материализация",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496637306,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Y85kaZdMQ0CEsXXx",
+  "folder": "nkexNShDkR1WAFsc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Y85kaZdMQ0CEsXXx"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Травяной чай",
+  "type": "alchemical",
+  "img": "icons/consumables/drinks/coconut-fruit-milk.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.s8bWiqaA52vAXVEB"
+    },
+    "cf": {
+      "id": "temp_6q0b5iuuekf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 27,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Everywhere",
+    "effect": "Этот травяной настой одновременно успокаивает и восстанавливает утраченную энергию. Травяной чай снимает БОЛИ В ЖЕЛУДКЕ и УСТАЛОСТЬ на весь оставшийся день.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1685496603978,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aM2dwJ3SI36TfH31",
+  "folder": "hZqzoFHjJGUaINA2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!aM2dwJ3SI36TfH31"
+}

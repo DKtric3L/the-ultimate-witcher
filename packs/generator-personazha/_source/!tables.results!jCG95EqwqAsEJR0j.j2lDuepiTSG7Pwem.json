@@ -1,0 +1,16 @@
+{
+  "_id": "j2lDuepiTSG7Pwem",
+  "flags": {},
+  "type": 0,
+  "text": "Близнецы",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!jCG95EqwqAsEJR0j.j2lDuepiTSG7Pwem"
+}

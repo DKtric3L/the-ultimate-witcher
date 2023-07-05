@@ -1,0 +1,16 @@
+{
+  "_id": "5k0jxtIvzmH6UNl5",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Non-Neutral Outcome",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    50
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "InEtrkZJxueL1i4a",
+  "_key": "!tables.results!obLsbuoNixBUbeAy.5k0jxtIvzmH6UNl5"
+}

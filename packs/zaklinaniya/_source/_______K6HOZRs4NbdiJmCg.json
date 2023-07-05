@@ -1,0 +1,61 @@
+{
+  "name": "Барьер",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/vorg2.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_7aea2ggiqyw"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "earth",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Ворг теперь создает на земле прямую линию длиной 2 м, которая отбрасывает на 2 м назад любого, кто попытается ее пересечь, и за каждое потраченное очко Вын, добавляется 10% шанс сбить цель с ног.",
+    "range": "2 метра",
+    "duration": "5 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сбит с ног +10% за каждую вын",
+        "percentage": "10"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496638489,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "K6HOZRs4NbdiJmCg",
+  "folder": "QhyjillGyHuKzXly",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!K6HOZRs4NbdiJmCg"
+}

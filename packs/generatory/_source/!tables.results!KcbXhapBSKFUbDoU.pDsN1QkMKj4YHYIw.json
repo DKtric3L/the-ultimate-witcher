@@ -1,0 +1,16 @@
+{
+  "text": "Усиление из клепаной кожи",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-shield.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "pDsN1QkMKj4YHYIw",
+  "documentId": "mzVmfaAXg2wA9cwG",
+  "flags": {},
+  "_key": "!tables.results!KcbXhapBSKFUbDoU.pDsN1QkMKj4YHYIw"
+}

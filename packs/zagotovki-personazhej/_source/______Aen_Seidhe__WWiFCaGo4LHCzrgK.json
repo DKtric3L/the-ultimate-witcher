@@ -1,0 +1,53 @@
+{
+  "_id": "WWiFCaGo4LHCzrgK",
+  "name": "Эльфы(Aen Seidhe)",
+  "type": "race",
+  "img": "%D0%A0%D0%B0%D1%81%D1%8B/%D0%AD%D0%BB%D1%8C%D1%84.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.eWaMyHGhCiLXAfVk"
+    }
+  },
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Чувство прекрасного",
+      "description": "+1 к искусству"
+    },
+    "perk2": {
+      "name": "Стрелок",
+      "description": "+2 к стрельбе, вы способны выхватывать и натягивать лук, не тратя на это действие."
+    },
+    "perk3": {
+      "name": "Единение с природой",
+      "description": "Дикие животные не нападут без причины и будут относиться дружелюбно. Также вы автоматически находите субстанции-растения, если им свойственно расти на выбранной территории."
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "",
+      "nilfgaard": "",
+      "skellige": "",
+      "dolBlathanna": "",
+      "mahakam": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!G1doZB2bJ60m4vPD.WWiFCaGo4LHCzrgK"
+}

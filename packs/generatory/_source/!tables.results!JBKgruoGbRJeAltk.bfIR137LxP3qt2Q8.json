@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Чертёж доспех",
+  "img": "icons/sundries/books/book-rounded-red.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "PRdg7r31JaNZfsCk",
+  "_id": "bfIR137LxP3qt2Q8",
+  "flags": {},
+  "_key": "!tables.results!JBKgruoGbRJeAltk.bfIR137LxP3qt2Q8"
+}

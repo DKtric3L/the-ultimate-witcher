@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    100
+  ],
+  "drawn": false,
+  "text": "Детали заказа",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "5LACBWoT2PXuGHkx",
+  "_id": "b5JmbMY4t642UBeY",
+  "flags": {},
+  "_key": "!tables.results!E0Ta7aleLnhEvNKG.b5JmbMY4t642UBeY"
+}

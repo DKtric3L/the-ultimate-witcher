@@ -1,0 +1,43 @@
+{
+  "name": "Скаковое седло",
+  "type": "valuable",
+  "img": "icons/equipment/shoulder/shoulderpad-cloth-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.rxLMdGhaueZvYBvj"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "+1 к проверкам управления верховой езды,+1 скор скакуна.",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 200,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "mount-accessories",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rxLMdGhaueZvYBvj",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rxLMdGhaueZvYBvj"
+}

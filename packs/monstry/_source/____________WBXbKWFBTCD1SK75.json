@@ -1,0 +1,80 @@
+{
+  "name": "Чёртов гриб",
+  "type": "weapon",
+  "img": "modules/the-ultimate-witcher/assets/bombs/devils_mushroom.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "Тел*4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Отравление",
+        "percentage": "100"
+      },
+      {
+        "id": "_h0bv03haz",
+        "name": "Наносит 2х урон от яда",
+        "percentage": ""
+      },
+      {
+        "id": "_h9t9fr0mo",
+        "name": "Радиус поражения - 4 метра",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_rads4wdft3r"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.BLZA8wuOWMulac1I"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1668162887311,
+    "modifiedTime": 1672740195010,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "WBXbKWFBTCD1SK75",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dxyWHzqdwqA0HCFh.WBXbKWFBTCD1SK75"
+}

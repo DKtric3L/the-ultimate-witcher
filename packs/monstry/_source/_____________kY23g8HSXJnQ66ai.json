@@ -1,0 +1,42 @@
+{
+  "name": "Собачье сало",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/salo2.webp",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Common",
+    "location": "Собаки и волки",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.Q2uiUCHBGPKXx7rG"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853705,
+    "modifiedTime": 1669963356972,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "kY23g8HSXJnQ66ai",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!ro6NNIDUUbBloeCq.kY23g8HSXJnQ66ai"
+}

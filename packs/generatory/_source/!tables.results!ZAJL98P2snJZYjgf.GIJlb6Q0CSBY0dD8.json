@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "text": "Яга",
+  "img": "modules/the-ultimate-witcher/assets/monsters/water_woman.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "gwtn96X2s18xdNp7",
+  "_id": "GIJlb6Q0CSBY0dD8",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.GIJlb6Q0CSBY0dD8"
+}

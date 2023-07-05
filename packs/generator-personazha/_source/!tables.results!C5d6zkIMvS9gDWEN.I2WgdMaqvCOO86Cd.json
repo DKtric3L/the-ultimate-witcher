@@ -1,0 +1,16 @@
+{
+  "_id": "I2WgdMaqvCOO86Cd",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Background: What School Did You Train In?",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    3,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "bkDiVzVjlz19GNBx",
+  "_key": "!tables.results!C5d6zkIMvS9gDWEN.I2WgdMaqvCOO86Cd"
+}

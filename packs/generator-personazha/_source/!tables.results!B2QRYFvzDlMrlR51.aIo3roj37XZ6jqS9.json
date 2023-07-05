@@ -1,0 +1,16 @@
+{
+  "_id": "aIo3roj37XZ6jqS9",
+  "type": 0,
+  "text": "Как вы встретились - Вы встретились во время какого-то наказания",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!B2QRYFvzDlMrlR51.aIo3roj37XZ6jqS9"
+}

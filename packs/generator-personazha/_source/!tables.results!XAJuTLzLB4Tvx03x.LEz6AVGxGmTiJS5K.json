@@ -1,0 +1,16 @@
+{
+  "_id": "LEz6AVGxGmTiJS5K",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Ваша семья разделилась из-за человека, состоявшего в браке с вашим братом, сестрой или другим родственником. Часть семьи принимает этого человека, остальные - ненавидят.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XAJuTLzLB4Tvx03x.LEz6AVGxGmTiJS5K"
+}

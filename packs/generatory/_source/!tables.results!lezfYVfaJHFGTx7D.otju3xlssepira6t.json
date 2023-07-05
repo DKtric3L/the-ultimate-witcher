@@ -1,0 +1,16 @@
+{
+  "text": "Тень Блеобхериса (Блеобхерис )",
+  "type": 2,
+  "img": "icons/magic/nature/tree-elm-roots-brown.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "otju3xlssepira6t",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "rGdhXixINyNhoAzZ",
+  "_key": "!tables.results!lezfYVfaJHFGTx7D.otju3xlssepira6t"
+}

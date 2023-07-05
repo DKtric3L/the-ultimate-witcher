@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Неудача - Любимый, друг или родственник убит. Бросьте 1d10: 1-5 это был несчастный случай, 6-8 убит чудовищами, 9-10 убит разбойниками.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!9o6mv4oWPX8BCCTQ.36ROPw9QWjYWmpBV"
+}

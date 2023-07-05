@@ -1,0 +1,60 @@
+{
+  "_id": "5I5HeQ1bn2li3s4q",
+  "name": "Ритуал жизни",
+  "type": "spell",
+  "img": "icons/magic/life/heart-cross-strong-flame-green.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.NkKZ9bFfF6rM8a7H"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Этот ритуал создаёт магический круг, влияющий на восстановление здоровья находящейся внутри него цели. Круг восстанавливает 3 ПЗ в ход. Регенерация длится 10 раундов и только пока цель находится в круге. Если цель покидает круг, он исчезает.",
+    "range": "",
+    "duration": "одно использование",
+    "defence": "",
+    "components": "мелок(х2), пепел(х2), воск(х2), корень мандрагоры(х2)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "15",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.5I5HeQ1bn2li3s4q"
+}

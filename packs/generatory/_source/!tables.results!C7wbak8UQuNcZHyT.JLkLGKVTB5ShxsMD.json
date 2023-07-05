@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Фьорано",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/fiorano.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "VLzxOqIDKnEbMXJr",
+  "_id": "JLkLGKVTB5ShxsMD",
+  "flags": {},
+  "_key": "!tables.results!C7wbak8UQuNcZHyT.JLkLGKVTB5ShxsMD"
+}

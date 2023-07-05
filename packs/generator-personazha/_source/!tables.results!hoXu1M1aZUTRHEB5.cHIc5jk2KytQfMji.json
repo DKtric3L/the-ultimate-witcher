@@ -1,0 +1,16 @@
+{
+  "_id": "cHIc5jk2KytQfMji",
+  "flags": {},
+  "type": 0,
+  "text": "У вас 2 брата или/и сестры.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!hoXu1M1aZUTRHEB5.cHIc5jk2KytQfMji"
+}

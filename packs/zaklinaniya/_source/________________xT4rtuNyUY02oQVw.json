@@ -1,0 +1,19 @@
+{
+  "color": "#4f4f4f",
+  "name": "Магические Дары",
+  "sorting": "m",
+  "type": "Item",
+  "folder": null,
+  "_id": "xT4rtuNyUY02oQVw",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!xT4rtuNyUY02oQVw"
+}

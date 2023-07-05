@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Высшие дары",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "xT4rtuNyUY02oQVw",
+  "_id": "ziXFqvNA5XL61w7E",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!ziXFqvNA5XL61w7E"
+}

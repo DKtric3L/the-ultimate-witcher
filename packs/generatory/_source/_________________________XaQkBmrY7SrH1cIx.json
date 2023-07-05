@@ -1,0 +1,39 @@
+{
+  "name": "Доспехи - Старшие народы",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "results": [
+    "ov3eybyjyapqqa59",
+    "qvj47mrinb8eo5o3",
+    "4qm26kk5evuutsuq",
+    "lb7gxmp9l8e445yj",
+    "wwbk6cec8pap9zw0"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Ry37gIkcwbomvn7U"
+    },
+    "cf": {
+      "id": "temp_xhd9ad4pt09"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932897,
+    "modifiedTime": 1685496644464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XaQkBmrY7SrH1cIx",
+  "folder": "Nb1YtBTsoOm2aQtL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!XaQkBmrY7SrH1cIx"
+}

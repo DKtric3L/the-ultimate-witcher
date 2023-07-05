@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Игни",
+  "img": "modules/the-ultimate-witcher/assets/signs/igni.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "HfdpXr3V9U459yPi",
+  "_id": "2WNcHuBBHjn0DBsh",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.2WNcHuBBHjn0DBsh"
+}

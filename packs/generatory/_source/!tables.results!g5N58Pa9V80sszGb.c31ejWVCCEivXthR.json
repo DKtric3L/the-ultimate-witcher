@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Сомна",
+  "img": "modules/the-ultimate-witcher/assets/signs/somna.png",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "rhfztb85Q95btTdZ",
+  "_id": "c31ejWVCCEivXthR",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.c31ejWVCCEivXthR"
+}

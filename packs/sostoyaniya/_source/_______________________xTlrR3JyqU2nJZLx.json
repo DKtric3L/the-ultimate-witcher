@@ -1,0 +1,45 @@
+{
+  "name": "Сломанные рёбра (Стаб)",
+  "type": "effect",
+  "img": "icons/commodities/bones/bones-rib-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0okd4sumrx3o"
+    }
+  },
+  "system": {
+    "description": "От удара у персонажа сломаны рёбра, ему очень тяжело дышать, сгибаться и прилагать какие-либо усилия.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "-1"
+      },
+      {
+        "id": "_vp9y0n6yc",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1685496621814,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "xTlrR3JyqU2nJZLx",
+  "folder": "popcTSR0VPsBTxwV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!xTlrR3JyqU2nJZLx"
+}

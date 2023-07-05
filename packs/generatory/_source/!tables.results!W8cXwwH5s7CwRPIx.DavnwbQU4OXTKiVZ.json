@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    37,
+    37
+  ],
+  "drawn": false,
+  "text": "Эликсир живучести",
+  "img": "modules/the-ultimate-witcher/assets/props/vitality_potion.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "VCEgyHHiOn0WrSBO",
+  "_id": "DavnwbQU4OXTKiVZ",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.DavnwbQU4OXTKiVZ"
+}

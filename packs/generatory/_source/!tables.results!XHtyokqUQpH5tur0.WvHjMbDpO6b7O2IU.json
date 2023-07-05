@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Количество улик",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "MifzjjIZ1yHSoPLo",
+  "_id": "WvHjMbDpO6b7O2IU",
+  "flags": {},
+  "_key": "!tables.results!XHtyokqUQpH5tur0.WvHjMbDpO6b7O2IU"
+}

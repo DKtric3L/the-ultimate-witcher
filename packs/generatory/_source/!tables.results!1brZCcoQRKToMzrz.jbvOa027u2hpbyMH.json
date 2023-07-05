@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Совершенные Самоцветы",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "eJlqDM4NanRI3WJe",
+  "_id": "jbvOa027u2hpbyMH",
+  "flags": {},
+  "_key": "!tables.results!1brZCcoQRKToMzrz.jbvOa027u2hpbyMH"
+}

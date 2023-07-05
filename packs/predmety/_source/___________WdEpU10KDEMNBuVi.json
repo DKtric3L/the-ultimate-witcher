@@ -1,0 +1,43 @@
+{
+  "name": "Эфир + Аер",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-corked-empty.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OzNGTd8g7yLr0vnG"
+    },
+    "cf": {
+      "id": "temp_eux3i6hppej"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Отменяет штрафы за слабое освещение на 1 час, но в 2 раза увеличивает штра фы за яркий свет. \nСрок годности - трое суток.",
+    "time": "1 час",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868996,
+    "modifiedTime": 1685496603958,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WdEpU10KDEMNBuVi",
+  "folder": "CBt5ySUeOvzVkJGY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WdEpU10KDEMNBuVi"
+}

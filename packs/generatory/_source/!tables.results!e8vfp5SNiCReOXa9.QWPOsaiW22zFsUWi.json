@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    17,
+    17
+  ],
+  "drawn": false,
+  "text": "Вино",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "C7wbak8UQuNcZHyT",
+  "_id": "QWPOsaiW22zFsUWi",
+  "flags": {},
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.QWPOsaiW22zFsUWi"
+}

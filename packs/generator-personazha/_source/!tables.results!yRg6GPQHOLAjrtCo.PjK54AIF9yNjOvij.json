@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Мужчина - Одежда торс",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "961v0kwWMYYy8GyS",
+  "_id": "PjK54AIF9yNjOvij",
+  "flags": {},
+  "_key": "!tables.results!yRg6GPQHOLAjrtCo.PjK54AIF9yNjOvij"
+}

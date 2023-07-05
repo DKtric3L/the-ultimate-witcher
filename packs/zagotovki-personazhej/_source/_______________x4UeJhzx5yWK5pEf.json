@@ -1,0 +1,46 @@
+{
+  "name": "Пятая эссенция",
+  "type": "component",
+  "img": "icons/commodities/materials/powder-teal.webp",
+  "system": {
+    "description": "",
+    "quantity": "4",
+    "weight": 0.1,
+    "cost": 82,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "rarity": "Rare",
+    "location": "Места силы, маги и бесы",
+    "quantityObtainable": "Variable",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_6wiprjs4cn6",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.zt19TqEjhiAS0sbA"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1671035393796,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "x4UeJhzx5yWK5pEf",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.x4UeJhzx5yWK5pEf"
+}

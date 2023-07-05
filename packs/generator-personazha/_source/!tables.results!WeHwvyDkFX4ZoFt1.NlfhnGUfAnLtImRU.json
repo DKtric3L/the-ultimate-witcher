@@ -1,0 +1,16 @@
+{
+  "_id": "NlfhnGUfAnLtImRU",
+  "flags": {},
+  "type": 0,
+  "text": "Итог вражды - Жажда крови",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!WeHwvyDkFX4ZoFt1.NlfhnGUfAnLtImRU"
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Укреплённая кожа",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.czLlJ4bgCKScuFzT"
+    },
+    "cf": {
+      "id": "temp_p3g8oxyx8m"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.komponenty.zn0EeLUJYOhgefka]{Укрепленная кожа}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 64,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 14,
+    "alchemyDC": 0,
+    "craftingTime": "1/2ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Кожа"
+      },
+      {
+        "id": "_fa5hks7l2",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 32,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Укрепленная кожа",
+      "type": "component",
+      "img": "icons/commodities/leather/leather-worn-tan.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3,
+        "cost": 48,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "animal-parts",
+        "rarity": "Poor",
+        "location": "Покупается и создается",
+        "quantityObtainable": "N/A",
+        "forage": "N/A",
+        "substanceType": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_fd6i44q3pyb",
+          "color": "#000000"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162853706,
+        "modifiedTime": 1668162853706,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496579242,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "czLlJ4bgCKScuFzT",
+  "folder": "CtSK1cB3wahTviNy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!czLlJ4bgCKScuFzT"
+}

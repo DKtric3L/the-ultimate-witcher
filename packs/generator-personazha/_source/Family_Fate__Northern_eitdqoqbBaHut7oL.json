@@ -1,0 +1,55 @@
+{
+  "name": "Family Fate: Northern",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "WLL4GH2QBfngXygQ",
+    "k0AliUujlhUKLN0G",
+    "4h4Sw8Y1i17AihjX",
+    "B0JK9mSkUpWrjcOB",
+    "5VXUJzVqGqVahzfy",
+    "hMZ7vrUqgV5iYDPW",
+    "oQQUBuaPK1pTABqq",
+    "9kRFTeQ6eDlOgwZb",
+    "SdTrfAZtLN9cLgew",
+    "Q8sLmAt8bKK8BWRp",
+    "7yYGp4SSAi9ymCGL",
+    "trQNJUPaqmlb4D1o",
+    "ts84cRjou8LMlLD4",
+    "tg5VZvn8eAUQnoSe",
+    "LEz6AVGxGmTiJS5K",
+    "zElZkUwk38v4bhFL",
+    "X4C3zlEyKnAX96jL",
+    "pRe4GfbvORQ8CTW5",
+    "XEB17msQM6PA4Wl4"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.zqS5It6nVWTHqhqo"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917370,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "eitdqoqbBaHut7oL",
+  "_key": "!tables!eitdqoqbBaHut7oL"
+}

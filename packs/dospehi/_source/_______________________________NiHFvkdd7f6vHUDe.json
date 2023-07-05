@@ -1,0 +1,60 @@
+{
+  "name": "Хиндарсфьяльские тяжелые шоссы",
+  "type": "armor",
+  "img": "icons/equipment/leg/pants-tasset-leather-steel-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4zb4x6lgt3c"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 5,
+    "cost": 650,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 25,
+    "leftLegMaxStopping": 25,
+    "rightLegStopping": 25,
+    "rightLegMaxStopping": 25,
+    "type": "Heavy",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 1,
+    "location": "Leg",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837869,
+    "modifiedTime": 1685496574805,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NiHFvkdd7f6vHUDe",
+  "folder": "K1UIQAUt5QlrdJLB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NiHFvkdd7f6vHUDe"
+}

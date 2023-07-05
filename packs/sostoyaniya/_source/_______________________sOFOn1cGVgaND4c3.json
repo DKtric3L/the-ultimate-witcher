@@ -1,0 +1,43 @@
+{
+  "name": "Трансмутация: Гаргулья",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Y0cPydcZkQd7VNiP"
+    },
+    "cf": {
+      "id": "temp_njhvjakxvm"
+    }
+  },
+  "system": {
+    "description": "ы получаете +5 к ТЕЛ и вы невосприимчивы к яду.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_mb0gcopzt",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "5"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883174,
+    "modifiedTime": 1685496621920,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sOFOn1cGVgaND4c3",
+  "folder": "cY1sx3EFSRP3cq5q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!sOFOn1cGVgaND4c3"
+}

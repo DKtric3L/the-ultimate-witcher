@@ -1,0 +1,65 @@
+{
+  "name": "Буря душ",
+  "type": "spell",
+  "img": "icons/magic/death/undead-ghosts-trio-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.nBP4eP1lr4NLwjdP"
+    },
+    "cf": {
+      "id": "temp_eontwkxile6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ. Если не знаешь, что делать из-за этого предупреждения, не лезь сюда.\n\n«Буря душ» впервые появилась во время\nНазаирского бунта после того, как нильфгаардские\nзахватчики захватили местную академию магии и отправили\nее учеников в Гвейсон Хайль. Это чрезвычайно изменчивое\nзаклинание затягивает в мир беспокойные души, чтобы сеять\nхаос. Сразу после наложения этого заклинания вызывается\n1d6+4 призрака. Эти визжащие призраки ослеплены\nяростью и атакуют любую цель, включая заклинателя или его\nсоюзников.",
+    "range": "10м",
+    "duration": "2d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6+(1d6+4)",
+    "effects": [
+      {
+        "id": "first",
+        "name": "2d6 - Длительность эффекта(раунды"
+      },
+      {
+        "id": "_fdz0wvlli",
+        "name": "1d6+4 - количество призраков",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496637650,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LzSQlbpTjIoknJKw",
+  "folder": "2jBCQAnyinSCQVWJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LzSQlbpTjIoknJKw"
+}

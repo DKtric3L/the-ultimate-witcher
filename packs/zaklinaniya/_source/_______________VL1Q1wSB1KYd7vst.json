@@ -1,0 +1,52 @@
+{
+  "name": "Шквал Бронвина",
+  "type": "spell",
+  "img": "icons/magic/air/air-wave-gust-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_cilmpkpuxju"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Заклинание названо в честь чародея-налётчика со Скеллиге по имени Бронвин Мёртвый Глаз. Заклинание отталкивает цель назад на количество метров, равное числу, на которое бросок заклинателя превысил защиту цели. Атака наносит ld6 урона, а если цель с чем-то столкнётся, то получит урон от таранящего удара.",
+    "range": "2м",
+    "duration": "Мгновенное",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892179,
+    "modifiedTime": 1685496637828,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VL1Q1wSB1KYd7vst",
+  "folder": "wsj51D7oIARoDcDr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VL1Q1wSB1KYd7vst"
+}

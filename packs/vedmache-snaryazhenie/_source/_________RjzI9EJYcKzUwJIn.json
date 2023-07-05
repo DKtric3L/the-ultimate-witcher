@@ -1,0 +1,40 @@
+{
+  "name": "Пожарище",
+  "type": "valuable",
+  "img": "icons/magic/fire/projectile-arrow-fire-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_5rbvvy0nejs"
+    }
+  },
+  "system": {
+    "description": "Радиус - 4 метра, урон 5d6, тип - Стихийная ловушка.\nГорение(75% шанс)",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 121,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887309,
+    "modifiedTime": 1685496626910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RjzI9EJYcKzUwJIn",
+  "folder": "VDu2hM2Irbb4cMQW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RjzI9EJYcKzUwJIn"
+}

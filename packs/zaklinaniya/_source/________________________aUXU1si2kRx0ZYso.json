@@ -1,0 +1,60 @@
+{
+  "name": "Руническая Надпись(Бог)",
+  "type": "spell",
+  "img": "icons/commodities/stone/ore-chunk-black.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.sodkvHCWCvRGtqwT"
+    },
+    "cf": {
+      "id": "temp_y5c320rzgq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Заклинатель получает видение с Божьим Знанием. Он можете пользоваться забытыми знаниями о создании рун и глифов. Для создания рун требуется камень и драгоценный камень, а для глифов камень и метеорит",
+    "range": "на себя",
+    "duration": "мгновенная",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496639313,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aUXU1si2kRx0ZYso",
+  "folder": "MrlJwKcG9EWlHZie",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!aUXU1si2kRx0ZYso"
+}

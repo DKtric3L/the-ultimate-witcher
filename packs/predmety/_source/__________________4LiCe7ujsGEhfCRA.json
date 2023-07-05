@@ -1,0 +1,51 @@
+{
+  "name": "Эльфское усиление",
+  "type": "enhancement",
+  "img": "icons/equipment/shoulder/pauldron-segmented-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.4LiCe7ujsGEhfCRA"
+    },
+    "cf": {
+      "id": "temp_58lmmpxrkto"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 200,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "applied": "",
+    "avail": "Rare",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1 к скрытности"
+      }
+    ],
+    "stopping": 3,
+    "bludgeoning": true,
+    "slashing": false,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1685496603235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4LiCe7ujsGEhfCRA",
+  "folder": "tRUr0kPpmp01LWJ6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4LiCe7ujsGEhfCRA"
+}

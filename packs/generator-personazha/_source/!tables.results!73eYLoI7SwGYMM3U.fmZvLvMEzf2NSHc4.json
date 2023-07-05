@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Высший вампир - Взросление",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "V13T3gYVhMU5gOK0",
+  "_id": "fmZvLvMEzf2NSHc4",
+  "flags": {},
+  "_key": "!tables.results!73eYLoI7SwGYMM3U.fmZvLvMEzf2NSHc4"
+}

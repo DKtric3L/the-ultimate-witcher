@@ -1,0 +1,16 @@
+{
+  "text": "Тиромантия",
+  "type": 2,
+  "img": "icons/consumables/food/cheese-wedge-swiss-yellow.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "_id": "xenghn4mur9q598d",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "cCuabL0ttkiaK5eq",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.xenghn4mur9q598d"
+}

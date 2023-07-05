@@ -1,0 +1,80 @@
+{
+  "_id": "6C17ZKeVeArcZ83C",
+  "name": "Взрывные Боеп-сы",
+  "type": "weapon",
+  "img": "icons/skills/ranged/projectile-explosion-black-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 700000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.BprgghiLtOH5Clh2"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "5",
+    "weight": 0.1,
+    "cost": 108,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Poor",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "При столкновении с целью наконечник",
+        "percentage": ""
+      },
+      {
+        "id": "_i5w2q67ri",
+        "name": "Взрывается, нанося 4d6 урона по всем",
+        "percentage": ""
+      },
+      {
+        "id": "_ybrpvpq1d",
+        "name": "частям тела всем, кто находится",
+        "percentage": ""
+      },
+      {
+        "id": "_j60w0yody",
+        "name": "в пределах 2 м",
+        "percentage": ""
+      }
+    ],
+    "conceal": "S",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671032530452,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!KGltdXgAyNR4yViS.6C17ZKeVeArcZ83C"
+}

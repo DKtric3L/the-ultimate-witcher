@@ -1,0 +1,44 @@
+{
+  "name": "Духи",
+  "type": "valuable",
+  "img": "icons/consumables/drinks/alcohol-jar-spirits-gray.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.hhmGBHEy7ZNvj3iL"
+    }
+  },
+  "system": {
+    "description": "Не стоит ими злоупотреблять. По сути, это просто приятно пахнущая жидкость, которой прикрывают неприятные ароматы.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868973,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QUtMZnSC4h6m0zBC",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QUtMZnSC4h6m0zBC"
+}

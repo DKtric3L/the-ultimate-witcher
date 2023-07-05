@@ -1,0 +1,46 @@
+{
+  "name": "Летательные перепонки",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/hide_ekimma_64x64.png.6919.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/3",
+    "weight": 0.5,
+    "cost": 36,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Гаркаины и плюмарды",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "rebis"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_pz6tj2yixz8",
+      "color": "#f57600"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.itRQzs35HzEiimaI"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1669888919393,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "gR8D5aAQpX10yJ3K",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!38OyYWRLT60Xc1xF.gR8D5aAQpX10yJ3K"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Процедура Приса",
+  "type": "spell",
+  "img": "icons/magic/control/encase-creature-monster-hold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uo04sybp4yb"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Разработанная Кэтрин Прис для навигации в\nопасных водах высшего общества, процедура Приса\nпозволяет вам временно блокировать эмоции одной из\nцелей. Когда заклинание произнесено, вы можете\nвыбрать одну из следующих Эмоций для блокировки:\nНенависть, Любовь, Депрессия или Эйфория.\nНа время действия этого заклинания цель неспособна\nиспытывать эту эмоцию и не знает, что на нее\nвоздействовала магия. В конце действия заклинания\nзаблокированные эмоции цели возвращаются. Каждый\nраз, когда заклинание накладывается на одну цель, на\nкоторую в данный момент действует это заклинание,\nстоимость выносливости для выполнения увеличивается на 2.",
+    "range": "3м",
+    "duration": "8 часов",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496637929,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "UluWH1H1mjRohSN9",
+  "folder": "Kq5EsZjuyQjP2c1F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!UluWH1H1mjRohSN9"
+}

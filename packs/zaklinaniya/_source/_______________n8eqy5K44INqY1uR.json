@@ -1,0 +1,73 @@
+{
+  "name": "Огонь Мельгара",
+  "type": "spell",
+  "img": "icons/magic/fire/projectile-fireball-sparks-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zmoyhau5d6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Это заклинание посеяло немало хаоса на полях Долины Понтара. Оно позволяет низвергнуть с небес на большую зону огненные шары. Любой, кроме заклинателя, кто находится в зоне действия заклинания, может попасть под удар огненного шара с шансом 75%. При попадании огненного шара цель должна защищаться со СЛ, равной результату проверки Сотворения заклинаний заклинателя, чтобы не получить 4d6 урона в случайную часть тела с 75%-ным шансом горения.",
+    "range": "Радиус 40м",
+    "duration": "2d6 раундов",
+    "defence": "Укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6+2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "4d6 - урон",
+        "percentage": "75"
+      },
+      {
+        "id": "_hv1j6o4rv",
+        "name": "2d6 - длительность эффекта(раунды)",
+        "percentage": "75"
+      },
+      {
+        "id": "_xz360cmjj",
+        "name": "75 шанс попасть под удар",
+        "percentage": "75"
+      },
+      {
+        "id": "_3ocjn0kuk",
+        "name": "Горение",
+        "percentage": "75"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1685496638148,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "n8eqy5K44INqY1uR",
+  "folder": "KvNCwn8aUT5WpFgB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!n8eqy5K44INqY1uR"
+}

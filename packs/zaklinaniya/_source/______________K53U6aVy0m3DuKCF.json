@@ -1,0 +1,57 @@
+{
+  "name": "Святая защита",
+  "type": "spell",
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a9snocl3pol"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Укрепляет волю цели, позволяя ей совершить новую проверку против эффектов любого действующего на неё заклинания.",
+    "range": "10м",
+    "duration": "мгновенная",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892173,
+    "modifiedTime": 1685496638327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "K53U6aVy0m3DuKCF",
+  "folder": "vseZIvovion73VUQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!K53U6aVy0m3DuKCF"
+}

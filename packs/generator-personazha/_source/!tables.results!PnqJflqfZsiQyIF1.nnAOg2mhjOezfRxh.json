@@ -1,0 +1,16 @@
+{
+  "_id": "nnAOg2mhjOezfRxh",
+  "type": 2,
+  "text": "Профессия союзника",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "RmLH8rUMBCLEpG9C",
+  "_key": "!tables.results!PnqJflqfZsiQyIF1.nnAOg2mhjOezfRxh"
+}

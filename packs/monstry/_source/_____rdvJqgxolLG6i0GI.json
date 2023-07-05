@@ -1,0 +1,62 @@
+{
+  "name": "Удар",
+  "type": "weapon",
+  "_id": "rdvJqgxolLG6i0GI",
+  "img": "icons/skills/melee/strike-axe-red.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящий",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "4d6+4",
+    "reliable": 15,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Ошеломление",
+        "percentage": "50"
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680484641317,
+    "modifiedTime": 1680484856622,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!oUDoU5on0nbVcv4Z.rdvJqgxolLG6i0GI"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "9kVdEtFeX4a3nAoe",
+  "flags": {},
+  "type": 0,
+  "text": "Самое важное событие - Работал на дворянина. Какое-то время вы служили дворянину. Платили хорошо, но вам было странно и неприятно скрывать большинство своих действий, чтобы не опозорить нанявшую вас семью, вытащив на свет божий их секреты.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gjFbuG4CHkmj5k9y.9kVdEtFeX4a3nAoe"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Создание места силы",
+  "type": "spell",
+  "img": "icons/magic/symbols/runes-carved-stone-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_jng7v7c6yv"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "18",
+    "staminaIsVar": false,
+    "effect": "Высекая сложные символы на стоячем камне, возведенном в месте слияния двух силовых линий одного и того же элемента, вы создаете Место Силы. Это Место Силы остается на неопределенный срок. Если вы совершаете критический провал при выполнении этого ритуала, ваш результат критического провала всегда равен к 10, и весь камень, используемый для ритуала, взрывается, как если бы он был бомбой (нанося урон 7d6) с радиусом 6 м.",
+    "range": "",
+    "duration": "постоянное",
+    "defence": "",
+    "components": "Камень (x40), Инструменты Рунописца",
+    "alternateComponents": "",
+    "preparationTime": "20 раундов",
+    "dificultyCheck": "20",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "6",
+    "templateType": "circle",
+    "causeDamages": true,
+    "damage": "7d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Взрывается при провале"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496637493,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qYT7SNRKj7gAhagU",
+  "folder": "LEQUCMjLSMjWdmGB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qYT7SNRKj7gAhagU"
+}

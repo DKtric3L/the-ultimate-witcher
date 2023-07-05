@@ -1,0 +1,44 @@
+{
+  "name": "Пять железных гвоздей",
+  "type": "valuable",
+  "img": "icons/tools/fasteners/nails-steel-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_pcz898xpa9",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.97OKV3wwQuX8D37f"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868987,
+    "modifiedTime": 1685496603482,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "iRIZyY8VHD8KU18X",
+  "folder": "o0EbRg1af2HA22Nh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!iRIZyY8VHD8KU18X"
+}

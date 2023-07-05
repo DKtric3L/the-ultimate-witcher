@@ -1,0 +1,68 @@
+{
+  "_id": "XE2J5061CRMFeV18",
+  "name": "Броня скоя'таэлей",
+  "type": "armor",
+  "img": "icons/equipment/chest/shirt-collared-grey.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi-starshego-naroda.3UKGH6681XfqUPMa"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 12,
+    "cost": 2325,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 20,
+    "headMaxStopping": 20,
+    "torsoStopping": 20,
+    "torsoMaxStopping": 20,
+    "leftArmStopping": 20,
+    "leftArmMaxStopping": 20,
+    "rightArmStopping": 20,
+    "rightArmMaxStopping": 20,
+    "leftLegStopping": 20,
+    "leftLegMaxStopping": 20,
+    "rightLegStopping": 20,
+    "rightLegMaxStopping": 20,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 2,
+    "enhancementItems": [
+      {},
+      {}
+    ],
+    "effects": [
+      {
+        "id": "first",
+        "name": "+2 к скрытности в дикой местности"
+      }
+    ],
+    "encumb": 1,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!znpE9GqPqIghjyKI.XE2J5061CRMFeV18"
+}

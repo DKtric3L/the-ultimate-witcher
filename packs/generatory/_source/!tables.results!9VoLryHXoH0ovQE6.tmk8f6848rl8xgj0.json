@@ -1,0 +1,16 @@
+{
+  "text": "Улучшенный ворот",
+  "type": 2,
+  "img": "icons/tools/fasteners/pin-round.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "tmk8f6848rl8xgj0",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "oyKsqGxVfwarEqMu",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.tmk8f6848rl8xgj0"
+}

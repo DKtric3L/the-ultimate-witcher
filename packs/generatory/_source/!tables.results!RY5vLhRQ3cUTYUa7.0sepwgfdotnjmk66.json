@@ -1,0 +1,16 @@
+{
+  "text": "Нечитаемый свиток",
+  "type": 2,
+  "img": "icons/sundries/scrolls/scroll-runed-worn-tan.webp",
+  "weight": 1,
+  "range": [
+    17,
+    17
+  ],
+  "drawn": false,
+  "_id": "0sepwgfdotnjmk66",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "NiU9WXOknyTheZ3Z",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.0sepwgfdotnjmk66"
+}

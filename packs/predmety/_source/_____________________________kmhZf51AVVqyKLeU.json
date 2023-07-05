@@ -1,0 +1,43 @@
+{
+  "name": "Волшебная эльфийская верёвка",
+  "type": "valuable",
+  "img": "icons/sundries/survival/rope-wrapped-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.evaDuF8VsCfshNa5"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "Изготовленные эльфами и разносимые по всему континенту эльфийскими разведывательными отрядами, эти туго сплетенные белые веревки пропитаны магией, которая позволяет им двигаться по воле их владельца. Веревка может скручиваться и цепляться за тянущихся к ней людей, обвязываться вокруг предметов, на которые она наложена, и притягиваться обратно к владельцу. Хотя веревка способна обвязать себя вокруг людей, она никогда не делает этого достаточно быстро, чтобы схватить сопротивляющееся существо. Поднимаясь по этой веревке, вы получаете бонус +5 к проверкам Атлетики, сделанным для лазания. Наконец, веревка, несмотря на свою хрупкую природу, практически не ломается, способна выдержать 300 кг веса и выдержать 50 единиц урона.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 350,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868971,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kmhZf51AVVqyKLeU",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kmhZf51AVVqyKLeU"
+}

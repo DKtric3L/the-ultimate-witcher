@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Компоненты - Мастер",
+  "img": "icons/sundries/documents/document-letter-blue.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "m8M2pXd9zeOz7Lz6",
+  "_id": "VMvlpZLCVx6fyg6G",
+  "flags": {},
+  "_key": "!tables.results!p1EoxQanD9meQxjs.VMvlpZLCVx6fyg6G"
+}

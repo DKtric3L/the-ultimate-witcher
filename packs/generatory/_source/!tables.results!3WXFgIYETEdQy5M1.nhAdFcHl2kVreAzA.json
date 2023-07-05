@@ -1,0 +1,16 @@
+{
+  "text": "Чернобог",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/chernobog.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "nhAdFcHl2kVreAzA",
+  "documentId": "hSG4zY45TSxEqau2",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.nhAdFcHl2kVreAzA"
+}

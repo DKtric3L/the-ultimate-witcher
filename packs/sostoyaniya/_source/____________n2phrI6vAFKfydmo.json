@@ -1,0 +1,34 @@
+{
+  "name": "Потеря руки",
+  "type": "effect",
+  "img": "icons/commodities/bones/bones-hand-grey.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_maooi46ln8"
+    }
+  },
+  "system": {
+    "description": "Удар начисто отрубает руку или повреждает до такой степени, что вылечить её невозможно. Рукой нельзя пользоваться, персонаж истекает кровью.\nСтабилизация уберёт кровотечение, лечение позволит рассмотрение протеза на место утраченной руки.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883171,
+    "modifiedTime": 1685496621852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "n2phrI6vAFKfydmo",
+  "folder": "PLkbl9b4zJv5jmUU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!n2phrI6vAFKfydmo"
+}

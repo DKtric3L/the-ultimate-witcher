@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Жизнь мага - политиканство",
+  "img": "icons/skills/social/diplomacy-handshake.webp",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "M3JF2ul6zlEBSKZJ",
+  "_id": "eFF7yqBTIQ2KSq51",
+  "flags": {},
+  "_key": "!tables.results!T2XeZDKHfHH0QG4w.eFF7yqBTIQ2KSq51"
+}

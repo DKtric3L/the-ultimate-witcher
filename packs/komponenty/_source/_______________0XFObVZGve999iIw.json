@@ -1,0 +1,42 @@
+{
+  "name": "Лирийская кожа",
+  "type": "component",
+  "img": "icons/commodities/leather/leather-patch-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_fd6i44q3pyb",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 60,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Poor",
+    "location": "Покупается или создается",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1685496584075,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0XFObVZGve999iIw",
+  "folder": "EoqHKbAG9zsUPO5U",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0XFObVZGve999iIw"
+}

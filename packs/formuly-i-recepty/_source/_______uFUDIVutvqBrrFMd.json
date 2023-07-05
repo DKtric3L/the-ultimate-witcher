@@ -1,0 +1,166 @@
+{
+  "name": "Стилет",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.uFUDIVutvqBrrFMd"
+    },
+    "cf": {
+      "id": "temp_ddwqxocukpf"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.kGpGKDSOMbhlS9hj]{Стилет}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 412,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "4ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Древесина"
+      },
+      {
+        "id": "_c81vl5syw",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_ts3do2arr",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_xalrben2m",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_3fofm5nv8",
+        "name": "Чернящее масло",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_kwf8wwevx",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ipcnnxlcj",
+        "name": "Уголь",
+        "percentage": "",
+        "quantity": "5"
+      }
+    ],
+    "investment": 184,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Стилет",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-double-engraved-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 275,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 2,
+        "avail": "Common",
+        "damage": "1d6",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Незаметное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "T",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Small Blades",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_1jlhu26b32w"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863944,
+        "modifiedTime": 1672564831767,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848429,
+    "modifiedTime": 1685496579717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "uFUDIVutvqBrrFMd",
+  "folder": "b2anqQiTRYL0jSkN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!uFUDIVutvqBrrFMd"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Галлюцинации",
+  "type": "effect",
+  "img": "icons/magic/control/silhouette-hold-change-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.OLnOyMnjgvibyV3N"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонаж видит образы и вещи, которых на самом деле нет. Ведущий может свободно выбирать, какой ложный сенсорный эффект почувствует на себе ваш персонаж. Для того чтобы отличить одну иллюзию от реальности, тре буется проверка Дедукции со СЛ 15.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883167,
+    "modifiedTime": 1688508852910,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "OLnOyMnjgvibyV3N",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OLnOyMnjgvibyV3N"
+}

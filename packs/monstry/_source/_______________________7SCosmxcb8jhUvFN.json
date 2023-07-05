@@ -1,0 +1,44 @@
+{
+  "name": "Масло против трупоедов",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/oils/oil_corpse_eater.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 46,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "oil",
+    "avail": "Rare",
+    "effect": "+5 урона против трупоедов",
+    "time": "30 минут",
+    "toxicity": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_hacq9m5y7oq"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.6nTEjJhZNA92um5S"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887306,
+    "modifiedTime": 1669962062180,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "7SCosmxcb8jhUvFN",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!CS4CydjSrkQZ1agY.7SCosmxcb8jhUvFN"
+}

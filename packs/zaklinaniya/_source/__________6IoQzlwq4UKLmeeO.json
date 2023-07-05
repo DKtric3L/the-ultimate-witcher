@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Архидруид",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "u7cQGtMsbyG4pGTt",
+  "_id": "6IoQzlwq4UKLmeeO",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!6IoQzlwq4UKLmeeO"
+}

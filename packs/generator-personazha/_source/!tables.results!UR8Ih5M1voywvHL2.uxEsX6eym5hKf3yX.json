@@ -1,0 +1,16 @@
+{
+  "_id": "uxEsX6eym5hKf3yX",
+  "flags": {},
+  "type": 2,
+  "text": "Which Parent",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "YeykB5xTXRnWe7lO",
+  "_key": "!tables.results!UR8Ih5M1voywvHL2.uxEsX6eym5hKf3yX"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Рог Мантикоры",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tooth_hag_64x64.png.6948.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/3",
+    "weight": 1,
+    "cost": 120,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Мантикоры",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "hydragenum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_qvpxq7w0ybj",
+      "color": "#5c65e6"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.8j6gKKGgd35A8wgb"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1669961016973,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "2oykFo2MMqtYeoYf",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!D3bajktqlbQz0p0d.2oykFo2MMqtYeoYf"
+}

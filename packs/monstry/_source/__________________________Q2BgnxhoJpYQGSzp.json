@@ -1,0 +1,46 @@
+{
+  "name": "Хвостовые перья Куролиска",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/feathers_monstrous_64x64.png.6908.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.1,
+    "cost": 135,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Cockatrice",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_xvosmbgy3f",
+      "color": "#4ab2bf"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.Eo1iy4qLfMOLSZDM"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853706,
+    "modifiedTime": 1669962639810,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "Q2BgnxhoJpYQGSzp",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!sZSAlupbRzYM6g34.Q2BgnxhoJpYQGSzp"
+}

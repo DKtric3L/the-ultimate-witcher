@@ -1,0 +1,60 @@
+{
+  "_id": "4h1auoPJwa5tRr5I",
+  "name": "Восстановление трупа",
+  "type": "spell",
+  "img": "icons/magic/death/hand-dirt-undead-zombie.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.T0bfr0egIzCnu91A"
+    },
+    "cf": {
+      "id": "temp_2xb521l7ywx"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "7",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ. Если не знаешь, что делать из-за этого предупреждения, не лезь сюда.\n\nВосстановление трупа использует магию для\nвосстановления мышц, плоти, кожи и волос целевого трупа в\nпризрачной форме. Восстановленный труп кажется слегка\nполупрозрачной версией человека, которым он был в\nмомент смерти. Любые раны, которые целевое тело получило\nперед смертью, присутствуют в этой иллюзорной форме, и к\nэтой форме можно прикоснуться и изучить, как если бы они\nбыли реальными. Вы можете призвать «плоть и кровь»\nтолько тех частей тела, которые у вас есть, но их не нужно\nсоединять, пока они находятся в пределах 4 м",
+    "range": "4м",
+    "duration": "1 час",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!KAhtipbo9AjyZASy.4h1auoPJwa5tRr5I"
+}

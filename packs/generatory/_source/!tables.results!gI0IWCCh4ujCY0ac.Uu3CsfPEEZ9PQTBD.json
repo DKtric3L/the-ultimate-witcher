@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    14,
+    15
+  ],
+  "drawn": false,
+  "text": "Вихт",
+  "img": "modules/the-ultimate-witcher/assets/monsters/viht.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "amWZdGnX81A1GrtC",
+  "_id": "Uu3CsfPEEZ9PQTBD",
+  "flags": {},
+  "_key": "!tables.results!gI0IWCCh4ujCY0ac.Uu3CsfPEEZ9PQTBD"
+}

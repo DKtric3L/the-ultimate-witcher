@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "text": "Утковол",
+  "img": "modules/the-ultimate-witcher/assets/monsters/utkovol.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "GyTbTuPSLT9hameg",
+  "_id": "AfJtCZMNSOPa1yZO",
+  "flags": {},
+  "_key": "!tables.results!gI0IWCCh4ujCY0ac.AfJtCZMNSOPa1yZO"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Нильфгаардская павеза",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "_id": "fdcspsqzehe22guv",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "FLyUPnzzGaI1xocG",
+  "_key": "!tables.results!iVdkzHObzqQ4015l.fdcspsqzehe22guv"
+}

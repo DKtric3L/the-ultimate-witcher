@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Бордель - Услуги",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "vh42zXfBARRD8pX4",
+  "_id": "PqK1WLEPAjkRUHjS",
+  "flags": {},
+  "_key": "!tables.results!aWowh4i4QMPO10vA.PqK1WLEPAjkRUHjS"
+}

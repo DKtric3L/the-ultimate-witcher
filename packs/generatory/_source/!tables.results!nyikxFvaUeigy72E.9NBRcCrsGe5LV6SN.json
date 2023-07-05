@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Лучник скоя’таэлей",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Elfskii_lovchii.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "tq2lcsOVT29Lxgup",
+  "_id": "9NBRcCrsGe5LV6SN",
+  "flags": {},
+  "_key": "!tables.results!nyikxFvaUeigy72E.9NBRcCrsGe5LV6SN"
+}

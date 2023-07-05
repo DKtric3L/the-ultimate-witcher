@@ -1,0 +1,45 @@
+{
+  "name": "Сырое мясо",
+  "type": "valuable",
+  "img": "icons/consumables/meat/shank-bone-red.webp",
+  "system": {
+    "description": "В богатых домах мясо раскладывают по тарелочкам в зависимости от того, какая это животинка приготовлена. Но для нас мясо — это просто мясо. Курятина, свинина, рыба, волчатина — всё одно.",
+    "quantity": "1d10",
+    "weight": 1,
+    "cost": 8,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_9bempw9mh8g",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.HVwQ4qq1gOaxHm4y"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868990,
+    "modifiedTime": 1669963441364,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "ucDvMqF876Sy8WGG",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!F9Yyqq6SB226PuC7.ucDvMqF876Sy8WGG"
+}

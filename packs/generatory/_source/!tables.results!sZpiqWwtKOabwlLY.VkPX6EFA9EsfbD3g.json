@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Серебряный свет (Лилвани)",
+  "img": "icons/magic/light/beam-rays-yellow-blue-small.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "Hyrgl2TDMj78CFs6",
+  "_id": "VkPX6EFA9EsfbD3g",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.VkPX6EFA9EsfbD3g"
+}

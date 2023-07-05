@@ -1,0 +1,39 @@
+{
+  "name": "Siblings: Age",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "ciSfEh9nn9LIoeuR",
+    "yMqVK3tiav0L8fQk",
+    "j2lDuepiTSG7Pwem"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.uGmjGxzhFDSpuxI4"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917381,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "jCG95EqwqAsEJR0j",
+  "_key": "!tables!jCG95EqwqAsEJR0j"
+}

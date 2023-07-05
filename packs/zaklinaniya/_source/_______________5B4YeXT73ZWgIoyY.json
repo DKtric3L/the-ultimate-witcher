@@ -1,0 +1,60 @@
+{
+  "name": "Запах мертвеца",
+  "type": "spell",
+  "img": "icons/commodities/biological/suckers-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_zddgrx43hr"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Жертва начинает пахнуть как гниющий труп. Сколько бы ванн она ни приняла или какими бы средствами ни пользовалась, она все равно ужасно пахнет. Это дает ей штраф -5 ко всем социальным проверкам и может привлекать трупоедов.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "High",
+    "liftRequirement": "Необходимо измельчить два корня мандрагоры и принять ванну, втирая эти кусочки в тело и растворяя в воде. После ванны запах исчезнет.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496639550,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5B4YeXT73ZWgIoyY",
+  "folder": "lW53bm1IAmX8PNXP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5B4YeXT73ZWgIoyY"
+}

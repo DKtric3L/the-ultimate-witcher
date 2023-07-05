@@ -1,0 +1,16 @@
+{
+  "_id": "tfUjaxwfTwqW98vG",
+  "flags": {},
+  "type": 0,
+  "text": "Вне закона в королевстве - В какой-то стране вы оказались вне закона за преступление, либо по ложному обвинению. В этом королевстве вас разыскивает стража.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!T6UvpRgRnhXp4gV7.tfUjaxwfTwqW98vG"
+}

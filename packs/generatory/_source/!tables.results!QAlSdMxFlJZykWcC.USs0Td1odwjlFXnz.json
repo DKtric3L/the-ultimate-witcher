@@ -1,0 +1,16 @@
+{
+  "text": "Паутина льда",
+  "type": 2,
+  "img": "icons/creatures/webs/web-clumped-blue.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "USs0Td1odwjlFXnz",
+  "documentId": "xiWffO8rUhyekAZk",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.USs0Td1odwjlFXnz"
+}

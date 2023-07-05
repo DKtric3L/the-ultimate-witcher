@@ -1,0 +1,60 @@
+{
+  "name": "Душа леса",
+  "type": "spell",
+  "img": "icons/magic/nature/leaf-glow-triple-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_fmeqjndlxhr"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "druid",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Душа леса выращивает маленькое растение из семени до полного размера за один ход. Это позволяет вам выращивать травы и алхимические растения, но не крупные растения, такие как деревья.",
+    "range": "4м",
+    "duration": "Мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496639367,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "uf4e7drexwG76Lr9",
+  "folder": "391U4jkdRfKiiMJD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!uf4e7drexwG76Lr9"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Бригантина",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_1fv367gt0a6"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 7,
+    "cost": 300,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 12,
+    "torsoMaxStopping": 12,
+    "leftArmStopping": 12,
+    "leftArmMaxStopping": 12,
+    "rightArmStopping": 12,
+    "rightArmMaxStopping": 12,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Common",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 1,
+    "location": "Torso",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837865,
+    "modifiedTime": 1685496574773,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QUqQ2SqtkNLHefuH",
+  "folder": "rlORb2Xgea9R19aj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QUqQ2SqtkNLHefuH"
+}

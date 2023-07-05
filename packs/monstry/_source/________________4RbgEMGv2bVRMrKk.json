@@ -1,0 +1,60 @@
+{
+  "_id": "4RbgEMGv2bVRMrKk",
+  "name": "Метательный нож",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-bone-black.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.r4VW6dYBn1a5wQLp"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 10,
+    "weight": 0.5,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "1d6",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "Тел*4м",
+    "equiped": false,
+    "effects": [],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": null,
+    "modifiedTime": 1672761708284,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_key": "!actors.items!znpE9GqPqIghjyKI.4RbgEMGv2bVRMrKk"
+}

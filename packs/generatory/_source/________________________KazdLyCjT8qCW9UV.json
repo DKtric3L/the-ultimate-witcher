@@ -1,0 +1,43 @@
+{
+  "name": "Растительные субстанции",
+  "img": "icons/commodities/flowers/buds-red.webp",
+  "description": "",
+  "results": [
+    "43b493OcqNXOBg8f",
+    "bvMzZ6O7nzxN3jFR",
+    "VQhGB912GgYSOelB",
+    "maQ4vG9sBvdNcLmm",
+    "RqyLJe7zMH9tQBbr",
+    "KVqBeyivhm4KJIzg",
+    "2PolAR7CvP4EgZLX",
+    "n76m0LNO4ulhopxA",
+    "W4Otx0yIqvPthAhS"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_gm7qf9vf4j"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644818,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "fp4Eoc9EiA3JJPL5",
+  "sort": 0,
+  "_id": "KazdLyCjT8qCW9UV",
+  "_key": "!tables!KazdLyCjT8qCW9UV"
+}

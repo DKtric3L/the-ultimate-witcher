@@ -1,0 +1,75 @@
+{
+  "name": "Черная молния",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/volan3.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_a5r1vpsvopg"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d6 за очко вын.\nВолан теперь стреляет в цель заряженным разрядом черной молнии, который наносит цели 1d6 некротического урона за каждое затраченное очко Вын и дезориентирует противника. Молния проходит по прямой через несколько целей. За каждую пройденную цель урон следующей цели уменьшается на 1d6. Если урон исходит на 0, молния не попадает в цель.",
+    "range": "3 метра(первая цель)",
+    "duration": "мгновенне",
+    "defence": "Уклонение(Только первая цель)",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1d6 некротического урона заклинателю за 1 вын"
+      },
+      {
+        "id": "_iijmgl4f5",
+        "name": "+1d6 некротического урона жертве",
+        "percentage": ""
+      },
+      {
+        "id": "_ocu56cwun",
+        "name": "Дезориентация",
+        "percentage": ""
+      },
+      {
+        "id": "_55ejtgmks",
+        "name": "-1d6 за каждую следующую жертву молнии",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496638518,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "OEHEHyT5q7d5ZQ1Z",
+  "folder": "bwtndOBz5Q00m7So",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OEHEHyT5q7d5ZQ1Z"
+}

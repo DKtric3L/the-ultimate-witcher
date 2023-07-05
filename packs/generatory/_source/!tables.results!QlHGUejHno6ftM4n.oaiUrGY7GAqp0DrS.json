@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Игоша",
+  "img": "modules/the-ultimate-witcher/assets/monsters/igosha.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "OmrIQIs2mhUrp60K",
+  "_id": "oaiUrGY7GAqp0DrS",
+  "flags": {},
+  "_key": "!tables.results!QlHGUejHno6ftM4n.oaiUrGY7GAqp0DrS"
+}

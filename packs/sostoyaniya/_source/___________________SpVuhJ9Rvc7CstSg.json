@@ -1,0 +1,74 @@
+{
+  "name": "Эффект: Черный щит",
+  "type": "armor",
+  "img": "modules/the-ultimate-witcher/assets/signs/quen2.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.W7kkbJEmaTdUVau8"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 10,
+    "reliabilityMax": 10,
+    "headStopping": 5,
+    "headMaxStopping": 5,
+    "torsoStopping": 5,
+    "torsoMaxStopping": 5,
+    "leftArmStopping": 5,
+    "leftArmMaxStopping": 5,
+    "rightArmStopping": 5,
+    "rightArmMaxStopping": 5,
+    "leftLegStopping": 5,
+    "leftLegMaxStopping": 5,
+    "rightLegStopping": 5,
+    "rightLegMaxStopping": 5,
+    "type": "Light",
+    "avail": "Rare",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "_js73j4858",
+        "name": "За каждую 1 вын +10 пб щита",
+        "percentage": ""
+      },
+      {
+        "id": "_l1jvln782",
+        "name": "Для поддержания каждый раунд нужно тратить изначальную стоимость в вын и пз",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883187,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SpVuhJ9Rvc7CstSg",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SpVuhJ9Rvc7CstSg"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Камень Флеглеорнос",
+  "type": "spell",
+  "img": "icons/magic/earth/projectile-boulder-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.d5LdtyWXQTP9TUsN"
+    },
+    "cf": {
+      "id": "temp_if9101fumkf"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "earth",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Флеглеорнос - древняя краснолюдская чародейка. Она выросла в горах Махакама, где и создала это заклинание. \nКамень Флеглеорнос бросает в противника гигантский камень. Цель должна совершить проверку Изменения позиции или получит 10d6 урона по туловищу.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "10d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Урон по туловищу"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496638930,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ByX7MvLyBU5Ap2lb",
+  "folder": "uqEc3vi7bmpL3P86",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ByX7MvLyBU5Ap2lb"
+}

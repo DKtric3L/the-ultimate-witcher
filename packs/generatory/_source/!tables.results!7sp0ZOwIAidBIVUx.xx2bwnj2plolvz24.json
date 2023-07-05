@@ -1,0 +1,16 @@
+{
+  "text": "Проклятая болезнь",
+  "type": 2,
+  "img": "icons/magic/acid/dissolve-vomit-green-brown.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "_id": "xx2bwnj2plolvz24",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "K3aiTYJaEUd1Y84n",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.xx2bwnj2plolvz24"
+}

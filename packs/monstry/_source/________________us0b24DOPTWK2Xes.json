@@ -1,0 +1,46 @@
+{
+  "name": "Безоар из черта",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/heart_gargoyle_64x64.png.6913.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 1,
+    "cost": 325,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Черти",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "caelum"
+  },
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_qvpxq7w0ybj",
+      "color": "#5c65e6"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.rNSrdHMGuHHn1NUt"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1669965359520,
+    "modifiedTime": 1669965410888,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "us0b24DOPTWK2Xes",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!yelCsVVeLxe8FuaQ.us0b24DOPTWK2Xes"
+}

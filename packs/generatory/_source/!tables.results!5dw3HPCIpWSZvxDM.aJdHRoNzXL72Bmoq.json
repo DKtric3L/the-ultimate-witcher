@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Вампиры",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Vampires.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "tV1C1MNwkzoIWuig",
+  "_id": "aJdHRoNzXL72Bmoq",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.aJdHRoNzXL72Bmoq"
+}

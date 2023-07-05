@@ -1,0 +1,73 @@
+{
+  "name": "Серебряный меч школы змеи",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.cYVq89udFg3yVZDI"
+    },
+    "cf": {
+      "id": "temp_ub4c5p36xla"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 2,
+    "avail": "Rare",
+    "damage": "1d6+2",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Отравление",
+        "percentage": "30"
+      },
+      {
+        "id": "_3mnjr3eq5",
+        "name": "Серебряное(3d6)",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887310,
+    "modifiedTime": 1685496626852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "G4byI73cHdPUgAwe",
+  "folder": "Lk96M8TXGicgbRqb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!G4byI73cHdPUgAwe"
+}

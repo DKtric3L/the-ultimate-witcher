@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Ведьмак школы Волка",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Ivo_iz_Belhavena_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "4AIajYIPFFjscffC",
+  "_id": "uOvsYp6BMm1WPgzn",
+  "flags": {},
+  "_key": "!tables.results!P6j1eECkRdy3xzoB.uOvsYp6BMm1WPgzn"
+}

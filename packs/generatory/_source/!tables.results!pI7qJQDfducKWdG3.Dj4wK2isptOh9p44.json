@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Эфирная смазка",
+  "img": "icons/commodities/materials/slime-thick-green.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "cN08irOgrMinnRLJ",
+  "_id": "Dj4wK2isptOh9p44",
+  "flags": {},
+  "_key": "!tables.results!pI7qJQDfducKWdG3.Dj4wK2isptOh9p44"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "IdclrucuE5eCHpqt",
+  "name": "Устойчивость",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Яги устойчивы к попыткам сбить их с ног. Они получают +3 к защите против таких атак и эффекты опрокидывания на 25% менее эффектны против них."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!gwtn96X2s18xdNp7.IdclrucuE5eCHpqt"
+}

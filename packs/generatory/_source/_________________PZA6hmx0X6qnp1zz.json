@@ -1,0 +1,46 @@
+{
+  "name": "Формула - Мастер",
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "results": [
+    "EkGLvgDEIM9oYhxX",
+    "fRKbKsqarZSBfMGr",
+    "qQjKLWrSoKo4Ucoy",
+    "EXdRZAq4GgL7Ph4t",
+    "70yQ72aVVdc4OH52",
+    "LceMAEWK2Xu6Auv8",
+    "cJMRdcBx2QpHaA8C",
+    "YGHBdYNTNLBks7LO",
+    "tOrySKsfl6WOLBwF",
+    "mXvHcN3RTKAT3zJN",
+    "6qCj7m2r3d9HdJFY",
+    "IG3fWWfatPrQqc9f"
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.xiODoMOukwdK1EBQ"
+    },
+    "cf": {
+      "id": "temp_h8ar7bbwcna"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932926,
+    "modifiedTime": 1685496644704,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PZA6hmx0X6qnp1zz",
+  "folder": "NFuWEKLLkn1jFLUK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!PZA6hmx0X6qnp1zz"
+}

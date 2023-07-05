@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Помощник инквизиции",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Uchitel_iz_Ban_Arda_Bogna_Gawronska.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "gnLYnsfPsOkowslW",
+  "_id": "h1yLIYMCIBlq3tCY",
+  "flags": {},
+  "_key": "!tables.results!Qz8miDhG9hWzD1cg.h1yLIYMCIBlq3tCY"
+}

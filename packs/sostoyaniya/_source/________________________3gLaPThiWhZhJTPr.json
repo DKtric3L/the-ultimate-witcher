@@ -1,0 +1,40 @@
+{
+  "name": "Уродующий шрам (Лечено)",
+  "type": "effect",
+  "img": "icons/skills/wounds/injury-stapled-flesh-tan.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_n2afsx7fi5j"
+    }
+  },
+  "system": {
+    "description": "После ранения лицо персонажа изуродовано. Смотреть на него неприятно.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_hh756c8td",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "-1"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883176,
+    "modifiedTime": 1685496621796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3gLaPThiWhZhJTPr",
+  "folder": "i9IWaFNhx9E6aUgp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3gLaPThiWhZhJTPr"
+}

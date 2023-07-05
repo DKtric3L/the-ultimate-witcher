@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "HUs1E8XWCUX7w0kP",
+  "text": "Название - Оружие",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!IjHfOXIVAWtPYIxj.HUs1E8XWCUX7w0kP"
+}

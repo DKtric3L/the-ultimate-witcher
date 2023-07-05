@@ -1,0 +1,48 @@
+{
+  "name": "Формула - Подмастерье",
+  "img": "icons/sundries/documents/document-brown.webp",
+  "results": [
+    "FDHwCjgd6W2TszLq",
+    "TgHQaO7kzWowiLUb",
+    "FJ4qQNoRFw97v9Ne",
+    "9bbYvic5giVc0Tqp",
+    "gtSHMmQXhbkpOJ4J",
+    "ujEPmYQHPUnpa3WI",
+    "eBl4giYVYviUxzAW",
+    "ZhtT3sWUPeJnQrp6",
+    "7C4XcvJuS6ZHbCEd",
+    "59HLcm2F1A3J1NAe",
+    "1cKhybflZxmGOvm3",
+    "zvQYApRZ0f5gNKXd",
+    "Z6zXXFM2EZlGCtVf",
+    "5onrsV7J6HgLvdHr"
+  ],
+  "formula": "1d14",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.A0aLxLifz5OMpSj9"
+    },
+    "cf": {
+      "id": "temp_h8ar7bbwcna"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932927,
+    "modifiedTime": 1685496644704,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "O70tYsSzo61jZJ44",
+  "folder": "NFuWEKLLkn1jFLUK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!O70tYsSzo61jZJ44"
+}

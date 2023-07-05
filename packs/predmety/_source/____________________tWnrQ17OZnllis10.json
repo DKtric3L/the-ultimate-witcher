@@ -1,0 +1,44 @@
+{
+  "name": "Качественный протез",
+  "type": "valuable",
+  "img": "icons/commodities/tech/claw-mechanical.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.wrgxlT4pTwebTQHb"
+    }
+  },
+  "system": {
+    "description": "Потеряв конечность, некоторые действуют иначе. Достаточно найти хорошего плотника, и вот у тебя уже деревянная нога со стопой или рука с пальцами, пусть и неподвижными. До настоящей конечности таким протезам далеко, но уж лучше так, чем с крюком ходить.",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tWnrQ17OZnllis10",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tWnrQ17OZnllis10"
+}

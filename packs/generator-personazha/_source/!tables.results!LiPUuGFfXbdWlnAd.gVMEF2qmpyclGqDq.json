@@ -1,0 +1,16 @@
+{
+  "_id": "gVMEF2qmpyclGqDq",
+  "type": 0,
+  "text": "Эксперт по предсказаниям Вы углубились в изучение гадания и ясновидения. Вы начинаете игру, зная Гидромантию, Пиромантию, Тиромантию или Ритуал Онейромантии.",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!LiPUuGFfXbdWlnAd.gVMEF2qmpyclGqDq"
+}

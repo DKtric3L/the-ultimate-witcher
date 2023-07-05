@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    23,
+    23
+  ],
+  "drawn": false,
+  "text": "Связующая пара",
+  "img": "icons/equipment/finger/ring-horned-gold-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "cZCbHmPNNIaI5Ocm",
+  "_id": "mQEtca5EPXqkz5j9",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.mQEtca5EPXqkz5j9"
+}

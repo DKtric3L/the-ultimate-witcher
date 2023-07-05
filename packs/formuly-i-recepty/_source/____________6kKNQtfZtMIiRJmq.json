@@ -1,0 +1,177 @@
+{
+  "name": "Ловец мечей",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.DEZAFV2mKAiOPaNP"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.UyfZmIGpy31A3U7c]{Ловец мечей}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 750,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "6ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Масло из дрейка"
+      },
+      {
+        "id": "_l5w4r0q0e",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_zqf23ctk4",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_7bis1gkwg",
+        "name": "Укрепленная древесина",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_o4zw3pxvy",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_b7nlspnv5",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_1ci1a4047",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_0vglu5zvx",
+        "name": "Третогорская сталь",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 375,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Ловец мечей",
+      "type": "weapon",
+      "img": "icons/weapons/daggers/dagger-crooked-red.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 500,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Poor",
+        "damage": "2d6",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Ловец лезвий",
+            "percentage": ""
+          },
+          {
+            "id": "_7gyxbf4nu",
+            "name": "Когда владелец блокирует рукопашную атаку врага этим оружием, часть его оружия оказывается в ловушке. Оба оружия становятся бесполезными и не могут быть разделены до тех пор, пока их противник не сможет пройти проверку Телосложения или Ловкости рук, которая превзойдет его проверку Владение легкими клинками, или владелец не выпустит свое оружие.",
+            "percentage": ""
+          }
+        ],
+        "conceal": "S",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Small Blades",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_1jlhu26b32w"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863940,
+        "modifiedTime": 1672564812011,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848420,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6kKNQtfZtMIiRJmq",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!6kKNQtfZtMIiRJmq"
+}

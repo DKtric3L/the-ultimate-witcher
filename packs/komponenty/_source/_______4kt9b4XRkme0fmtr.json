@@ -1,0 +1,42 @@
+{
+  "name": "Железо",
+  "type": "component",
+  "img": "icons/commodities/metal/ingot-iron.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_sg5oias8hq",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Poor",
+    "location": "Горы и под землёй",
+    "quantityObtainable": "1d6",
+    "forage": "16",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1685496584092,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4kt9b4XRkme0fmtr",
+  "folder": "Yvm2f45VU7Uinqch",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4kt9b4XRkme0fmtr"
+}

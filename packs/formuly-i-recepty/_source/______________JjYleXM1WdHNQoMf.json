@@ -1,0 +1,142 @@
+{
+  "name": "Рыцарский меч",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.JjYleXM1WdHNQoMf"
+    },
+    "cf": {
+      "id": "temp_698q1rns3gh"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.VB9Ujd5SXdMar3mT]{Рыцарский меч}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 404,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 13,
+    "alchemyDC": 0,
+    "craftingTime": "7ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Древесина"
+      },
+      {
+        "id": "_zx6hnspu1",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_o0usi5n3x",
+        "name": "Укпреплённая кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_qkfvft3bs",
+        "name": "Cталь",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 201,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Рыцарский меч",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-hilt-steel-green.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2.5,
+        "cost": 270,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Common",
+        "damage": "2d6+4",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [],
+        "conceal": "L",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_2ps351j34un"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863942,
+        "modifiedTime": 1672565120621,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848427,
+    "modifiedTime": 1685496579636,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JjYleXM1WdHNQoMf",
+  "folder": "Evqg8WLTqPSee5Jc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!JjYleXM1WdHNQoMf"
+}

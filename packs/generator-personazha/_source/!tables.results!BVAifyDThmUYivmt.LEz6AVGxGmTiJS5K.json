@@ -1,0 +1,16 @@
+{
+  "_id": "LEz6AVGxGmTiJS5K",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей умерли от чумы. Болезнь была неизлечима, оставалось лишь облегчить страдания.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BVAifyDThmUYivmt.LEz6AVGxGmTiJS5K"
+}

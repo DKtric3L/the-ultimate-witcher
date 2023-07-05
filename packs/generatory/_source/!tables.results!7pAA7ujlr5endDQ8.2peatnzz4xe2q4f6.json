@@ -1,0 +1,16 @@
+{
+  "text": "Спорная подвеска",
+  "type": 2,
+  "img": "icons/magic/unholy/orb-glowing-purple.webp",
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "_id": "2peatnzz4xe2q4f6",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "1St9r1NwgXge2sY5",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.2peatnzz4xe2q4f6"
+}

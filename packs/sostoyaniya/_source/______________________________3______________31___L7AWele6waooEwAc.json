@@ -1,0 +1,37 @@
+{
+  "name": "Болезнь: Новиградский поцелуй(3 стадия, день 31+)",
+  "type": "effect",
+  "img": "icons/commodities/biological/pustules-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.FFssnUqkGL7V7w6S"
+    },
+    "cf": {
+      "id": "temp_7y1wsf4jzmn"
+    }
+  },
+  "system": {
+    "description": "Опасность - высокая, риск заражения - 35%\nЕсли болезнь прогрессирует до этой стадии без лечения, то она становится \"третичным сифилисом\" и начинает поражать мозг и разрушать нервную систему. Раз в 5 дней больной бросает 1d10 чтобы определить постоянный эффект: 1-6 – НЕТ ЭФФЕКТА. Состояние больного не ухудшается. 8-9 - ПОВРЕЖДЕННЫЕ НЕРВНЫЕ ОКОНЧАНИЯ: Максимум УСТ больного падает на 1. 10 - БЕЗУМИЕ: Больной переходит в стадию психотического безумия.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883165,
+    "modifiedTime": 1685496621758,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "L7AWele6waooEwAc",
+  "folder": "aql65wChKZ3qmDGb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!L7AWele6waooEwAc"
+}

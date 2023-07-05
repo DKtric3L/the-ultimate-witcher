@@ -1,0 +1,42 @@
+{
+  "name": "Лепестки гинации",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/ginatia_petals_64x64.png.6671.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4o2s0rjm0j",
+      "color": "#4ab2bf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 17,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Поля",
+    "quantityObtainable": "1d6",
+    "forage": "15",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1685496583962,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ILECqB2wG0HccExp",
+  "folder": "7pzVeEMkxc9TrnPt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ILECqB2wG0HccExp"
+}

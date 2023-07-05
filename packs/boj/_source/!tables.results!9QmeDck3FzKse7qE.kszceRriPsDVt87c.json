@@ -1,0 +1,16 @@
+{
+  "_id": "kszceRriPsDVt87c",
+  "type": 0,
+  "text": "Пациент получает 2 урона и должен пройти проверку Устойчивости со штрафом -1, при провале пациент дезориентирован.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!9QmeDck3FzKse7qE.kszceRriPsDVt87c"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "6h050JbHdeDyIIvk",
+  "type": 0,
+  "text": "Вы родились в Нильфгаарде (Цинтра, Ангрен или Назаир)",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GiXeEWnYMqofwFwa.6h050JbHdeDyIIvk"
+}

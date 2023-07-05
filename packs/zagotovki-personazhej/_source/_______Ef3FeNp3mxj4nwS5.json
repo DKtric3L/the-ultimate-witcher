@@ -1,0 +1,67 @@
+{
+  "name": "Кастет",
+  "type": "weapon",
+  "img": "icons/weapons/fist/fist-knuckles-spiked-blue.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Everywhere",
+    "damage": "1d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Рукопашное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_2nu7s87th96"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663423498347,
+    "modifiedTime": 1663423498364,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "Ef3FeNp3mxj4nwS5",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dRi7TozFkjt92Kui.Ef3FeNp3mxj4nwS5"
+}

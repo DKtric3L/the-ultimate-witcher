@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    25,
+    25
+  ],
+  "drawn": false,
+  "text": "Пять железных гвоздей",
+  "img": "icons/tools/fasteners/nails-steel-blue.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "iRIZyY8VHD8KU18X",
+  "_id": "Lh8ypPgCDFTgaRIt",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.Lh8ypPgCDFTgaRIt"
+}

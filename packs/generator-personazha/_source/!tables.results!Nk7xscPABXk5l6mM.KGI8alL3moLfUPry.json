@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "KGI8alL3moLfUPry",
+  "text": "Заработал добрую или дурную славу - Своими поступками этот дракон прославился на весь Континент. Возможно, он помог в осаде крепости или сжёг дотла город. Он получает +5 к репутации.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Nk7xscPABXk5l6mM.KGI8alL3moLfUPry"
+}

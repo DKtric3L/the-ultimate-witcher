@@ -1,0 +1,16 @@
+{
+  "_id": "OjgXqx7OFkIDIrtF",
+  "flags": {},
+  "type": 0,
+  "text": "Ваша раса - Краснолюд",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.OjgXqx7OFkIDIrtF"
+}

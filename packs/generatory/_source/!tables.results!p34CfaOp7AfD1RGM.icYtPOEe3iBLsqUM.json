@@ -1,0 +1,16 @@
+{
+  "text": "Очарование",
+  "type": 2,
+  "img": "icons/magic/control/mouth-smile-deception-purple.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "icYtPOEe3iBLsqUM",
+  "documentId": "Zpk8lAgOZd7zKr1s",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.icYtPOEe3iBLsqUM"
+}

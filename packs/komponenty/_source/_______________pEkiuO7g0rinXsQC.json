@@ -1,0 +1,42 @@
+{
+  "name": "Глаза утковола",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/eye_monstrous_64x64.png.6901.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_fg9eec92znn",
+      "color": "#af76b7"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 87,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Bullvores",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853698,
+    "modifiedTime": 1685496584148,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pEkiuO7g0rinXsQC",
+  "folder": "7TZIuuDLQ1YmQET3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pEkiuO7g0rinXsQC"
+}

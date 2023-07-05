@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "text": "Комок глины",
+  "img": "icons/commodities/stone/boulder-tan.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "8Qo2SxI6vuzfQcHR",
+  "_id": "2fZZBgvegONgqSdw",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.2fZZBgvegONgqSdw"
+}

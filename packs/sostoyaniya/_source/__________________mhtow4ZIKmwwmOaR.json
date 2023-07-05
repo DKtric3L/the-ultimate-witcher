@@ -1,0 +1,41 @@
+{
+  "name": "Невосприимчивость",
+  "type": "effect",
+  "img": "icons/svg/mage-shield.svg",
+  "system": {
+    "description": "Из-за невосприимчивости к магии. вы не получаете пользы от зелий и эликсиров, сколько бы не выпили. Однако на вас все еще действует их токсичность.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7cb652f6b7a846b401760a42ec17130c7bd2551a",
+      "sourceId": "Item.tW1gEpnKMVgPVBRE"
+    },
+    "core": {
+      "sourceId": "Item.tW1gEpnKMVgPVBRE"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672535781958,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "mhtow4ZIKmwwmOaR",
+  "_key": "!items!mhtow4ZIKmwwmOaR"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "xkgiMULOgDQXNpgd",
+  "text": "У исполнителя есть конкурент. Придётся либо его опередить, либо устранить.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!R2OmAsKlA9mJNf8D.xkgiMULOgDQXNpgd"
+}

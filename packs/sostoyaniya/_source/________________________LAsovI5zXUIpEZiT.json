@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Дыхание суккуба",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/succubus_breath.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    }
+  },
+  "system": {
+    "description": "24 часа.\nВтерев в кожу, вы получаете +2 к Соблазнению.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_cyrwy2zyr",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LAsovI5zXUIpEZiT",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LAsovI5zXUIpEZiT"
+}

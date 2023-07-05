@@ -1,0 +1,41 @@
+{
+  "name": "Необычный заказ - цена живьем",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "5jp5LTcERblPAUne",
+    "4IfLJPS3Ysc8aptR",
+    "nzuOEXdX7j79RBSy",
+    "4GI7QyYINYur5JTT",
+    "PaC2tM3KrjTKeYoP",
+    "Wgpg3HimkVpPQnTe",
+    "4f4ljLVfp7qSR0Gd"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "NNzGcBvEtf8ylxqr",
+  "_key": "!tables!NNzGcBvEtf8ylxqr"
+}

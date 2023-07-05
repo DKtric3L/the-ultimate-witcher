@@ -1,0 +1,34 @@
+{
+  "name": "Открытый перелом руки",
+  "type": "effect",
+  "img": "icons/skills/wounds/bone-broken-marrow-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ks31k8lzmi"
+    }
+  },
+  "system": {
+    "description": "От удара рука раздроблена. Из раны торчит кость. Рукой невозможно двигать, персонаж истекает кровью.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883170,
+    "modifiedTime": 1685496621834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AVnsoBIJnMs0gm7K",
+  "folder": "mfpZq5Y96MD9CzKb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AVnsoBIJnMs0gm7K"
+}

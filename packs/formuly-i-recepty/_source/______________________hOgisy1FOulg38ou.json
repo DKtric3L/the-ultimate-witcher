@@ -1,0 +1,166 @@
+{
+  "name": "Нильфгаардские поножи",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.hOgisy1FOulg38ou"
+    },
+    "cf": {
+      "id": "temp_3txx1gexsa4"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.OnZRfOE8joO8S8Sb]{Нильфгаардские поножи}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1274,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 24,
+    "alchemyDC": 0,
+    "craftingTime": "12ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "5",
+        "name": "Темная сталь"
+      },
+      {
+        "id": "_qessv8s27",
+        "name": "Пепел",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_711t89itb",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_b6e45455a",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_jefxq5znm",
+        "name": "Чернящее масло",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_t6zhv2o0c",
+        "name": "Масло",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_6tkpnnyve",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_kh74vbds9",
+        "name": "Полотно",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 631,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Нильфгаардские поножи",
+      "type": "armor",
+      "img": "icons/equipment/leg/tasset-reticulated-steel-gold.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 6,
+        "cost": 850,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 30,
+        "leftLegMaxStopping": 30,
+        "rightLegStopping": 30,
+        "rightLegMaxStopping": 30,
+        "type": "Heavy",
+        "avail": "Rare",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 1,
+        "location": "Leg",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_4zb4x6lgt3c"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837868,
+        "modifiedTime": 1668162837868,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848422,
+    "modifiedTime": 1685496579515,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hOgisy1FOulg38ou",
+  "folder": "oTSsG7E8jPWX0U0p",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hOgisy1FOulg38ou"
+}

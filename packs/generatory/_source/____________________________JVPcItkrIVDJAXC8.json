@@ -1,0 +1,35 @@
+{
+  "name": "Боеприпасы - Старшие народы",
+  "img": "icons/sundries/documents/document-symbol-rune-tan.webp",
+  "description": "",
+  "results": [
+    "IDKNe3mAFW8D8jyD"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.0IFzbpjFyrPiCcjQ"
+    },
+    "cf": {
+      "id": "temp_cdl3vwuxc69"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932891,
+    "modifiedTime": 1685496644432,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JVPcItkrIVDJAXC8",
+  "folder": "0AbuyKzqZg8gmn41",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!JVPcItkrIVDJAXC8"
+}

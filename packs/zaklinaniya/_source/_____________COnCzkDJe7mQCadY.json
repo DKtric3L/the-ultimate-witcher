@@ -1,0 +1,57 @@
+{
+  "name": "Онейромантия",
+  "type": "spell",
+  "img": "icons/magic/control/debuff-energy-hold-levitate-blue-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_z7p1hjwewoi"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Ритуал Онейромантии позволяет заклинателю увидеть сон, раскрывающий тайны и со бытия как прошлого, так и на стоящего. Заклинатель может провести ритуал самостоятельно, как и в случае с Гидромантией. Для того чтобы увидеть со бытия, происходящие в данный момент, потребуется проверка с большей СЛ(18), чем для событий прошлого. Онейромантию можно обнаружить тем же способом, что и Гидромантию. Онейромант может разделить своё провидческое сновидение с количеством персонажей, равным его значению навыка Проведение ритуалов. Для этого онейромант должен установить контакт с теми, с кем собирается делиться сном: участники ритуала должны правдиво и искренне ответить на несколько личных вопросов. Сон длится до окончания действия ритуала",
+    "range": "",
+    "duration": "1d10 раундов",
+    "defence": "",
+    "components": "Место, где можно поспать",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "15(18)",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1685496637468,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "COnCzkDJe7mQCadY",
+  "folder": "AhK4dA3YiQyQforR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!COnCzkDJe7mQCadY"
+}

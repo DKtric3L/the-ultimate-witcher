@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Природный камуфляж",
+  "type": "effect",
+  "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.yIeAFRJAnqGVqLjr"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "+5 к атаке и защите, +10 к скрытности. Длится 2d6 раундов.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_c09ajj48t",
+        "skill": "WITCHER.SkDexStealth",
+        "modifier": "10"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XopC7aC4WflZZm3K",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!XopC7aC4WflZZm3K"
+}

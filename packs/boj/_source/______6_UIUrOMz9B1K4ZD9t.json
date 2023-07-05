@@ -1,0 +1,40 @@
+{
+  "name": "Износ 6",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "8KA9twIpLhCq3RDY",
+    "cg88l0t1l0EP80UB",
+    "RNHbZABAuUrRB9EU",
+    "lrEVQK0qnImzTSPV",
+    "FHqXEFmik3QsH9eC",
+    "Z3Q1ilfUzXqmFwT8"
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.TzZeEPtWitYmYTLv"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "formula": "1d6",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897068,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "UIUrOMz9B1K4ZD9t",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!UIUrOMz9B1K4ZD9t"
+}

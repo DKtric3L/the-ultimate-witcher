@@ -1,0 +1,16 @@
+{
+  "_id": "T3HEHdpiNaumCSLC",
+  "type": 2,
+  "text": "Как люди реагировали на вашу магию?Старшие -3",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "eE4hJNnk6t4Olain",
+  "_key": "!tables.results!GnqOsNmSprHb5K7d.T3HEHdpiNaumCSLC"
+}

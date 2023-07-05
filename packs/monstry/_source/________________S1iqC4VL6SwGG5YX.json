@@ -1,0 +1,77 @@
+{
+  "_id": "S1iqC4VL6SwGG5YX",
+  "name": "Атака с разбега",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-runed-glowing.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_158empsijjm"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.OTYs7TCEArXIRnDs"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": -4,
+    "avail": "Rare",
+    "damage": "11d6",
+    "reliable": 20,
+    "maxReliability": 20,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "_2ptt0vbhb",
+        "name": "Отбрасывает на 4 метра",
+        "percentage": ""
+      },
+      {
+        "id": "_prt6i0msn",
+        "name": "Урон тарана 2х",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 3,
+    "enhancementItems": [
+      {},
+      {},
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!0ydabPZvDV0woWj7.S1iqC4VL6SwGG5YX"
+}

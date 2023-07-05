@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "5JxjMsC0cqd0W1Gu",
+  "text": "Особый признак - [[1d2]] 1-Отсутствие глаза, 2-уха",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!qLkYfaLWMyANz8k4.5JxjMsC0cqd0W1Gu"
+}

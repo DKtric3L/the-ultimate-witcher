@@ -1,0 +1,42 @@
+{
+  "name": "Тёмная сталь",
+  "type": "component",
+  "img": "icons/commodities/metal/ingot-worn-iron.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_sg5oias8hq",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 82,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Rare",
+    "location": "Покупается и создается",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853705,
+    "modifiedTime": 1685496584092,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BMmXJ0M8pSyMq5Sh",
+  "folder": "Yvm2f45VU7Uinqch",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!BMmXJ0M8pSyMq5Sh"
+}

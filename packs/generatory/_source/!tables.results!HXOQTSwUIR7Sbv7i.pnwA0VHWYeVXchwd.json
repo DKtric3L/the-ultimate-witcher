@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "pnwA0VHWYeVXchwd",
+  "text": "Есть азартные игры",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!HXOQTSwUIR7Sbv7i.pnwA0VHWYeVXchwd"
+}

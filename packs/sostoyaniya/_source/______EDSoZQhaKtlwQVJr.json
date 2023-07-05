@@ -1,0 +1,84 @@
+{
+  "name": "Голод",
+  "type": "effect",
+  "img": "icons/consumables/food/plate-fish-bowl-bones-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.EDSoZQhaKtlwQVJr"
+    },
+    "cf": {
+      "id": "temp_xq906tikww"
+    }
+  },
+  "system": {
+    "description": "В животе неприятно урчит, очень хочется есть. Тело слабеет, тяжело сосредоточиться.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "-1"
+      },
+      {
+        "id": "_u8alrrb87",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-1"
+      },
+      {
+        "id": "_6285dibul",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-1"
+      },
+      {
+        "id": "_m26kye6w4",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "-1"
+      },
+      {
+        "id": "_vq4z5vqup",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-1"
+      },
+      {
+        "id": "_t4q1hkjiv",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "-1"
+      },
+      {
+        "id": "_yahhnm5e7",
+        "stat": "WITCHER.Actor.Stat.Cra",
+        "modifier": "-1"
+      },
+      {
+        "id": "_8uf6uj2ps",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [
+      {
+        "id": "first",
+        "derivedStat": "WITCHER.Actor.CoreStat.woundTreshold",
+        "modifier": "-1"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883167,
+    "modifiedTime": 1685496621661,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EDSoZQhaKtlwQVJr",
+  "folder": "1H4Dkaei03yMUCuF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!EDSoZQhaKtlwQVJr"
+}

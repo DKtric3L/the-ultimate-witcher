@@ -1,0 +1,16 @@
+{
+  "_id": "XObJWkbk3Q5PzG1h",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Ведьма. Наибольшее влияние на вас оказала деревенская ведьма, показавшая ценность знаний. Снаряжение - кукла для чёрной магии.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!pEnsTvMCEOoLB7Xi.XObJWkbk3Q5PzG1h"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Крюк-кошка",
+  "type": "valuable",
+  "img": "icons/sundries/survival/climbing-anchor-steel-grey.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.efWarEBR2PYlrsfw"
+    }
+  },
+  "system": {
+    "description": "Простой крюк, только с четырьмя хвостами да с кольцом на конце, к которому крепят верёвку. Помогает в лазании (+2 к Лазанию).",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 13,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AJn3vJLQ7SkUUHHo",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AJn3vJLQ7SkUUHHo"
+}

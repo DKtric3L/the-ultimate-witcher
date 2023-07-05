@@ -1,0 +1,40 @@
+{
+  "name": "Путь ведьмака: Рискованный",
+  "img": "icons/environment/settlement/graveyard-tombstone-night.webp",
+  "description": "For each decade after age 29, choose how much risk you took on as a witcher and roll for your decade.",
+  "results": [
+    "UdHUplxRtBUmcUsy",
+    "5k0jxtIvzmH6UNl5",
+    "gnrDCDMdILjGyQdl",
+    "YVCSNqm0kMcDxKF3",
+    "OAW3DJizEEzA919s"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.dn1Viin0ml5tQ1Hx"
+    },
+    "cf": {
+      "id": "temp_vvet5jvsxzm"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926186,
+    "modifiedTime": 1685496652320,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6zn78Gj7lZtJfS90",
+  "folder": "iuGDUnyJfBDpmaqJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!6zn78Gj7lZtJfS90"
+}

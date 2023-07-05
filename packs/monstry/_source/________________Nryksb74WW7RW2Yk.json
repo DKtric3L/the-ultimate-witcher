@@ -1,0 +1,43 @@
+{
+  "_id": "Nryksb74WW7RW2Yk",
+  "name": "Мутаген Риггера",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.FQe4Ke3f0pHAWXb4"
+    },
+    "cf": {
+      "id": "temp_loaduoyv3n"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Риггеры",
+    "effect": "Вероятность отравления снижается на 25%. Урон от яда уменьшается на 1.",
+    "alchemyDC": "22",
+    "minorMutation": "Два новых ряда зубов"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!wEgOfrhMmIYiFlrn.Nryksb74WW7RW2Yk"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "bKpR1FiYKElMobHG",
+  "type": 2,
+  "text": "Износ",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "ZZ0sPBUMJ2VQdh2y",
+  "_key": "!tables.results!sv1j1pIEXP9ImQxB.bKpR1FiYKElMobHG"
+}

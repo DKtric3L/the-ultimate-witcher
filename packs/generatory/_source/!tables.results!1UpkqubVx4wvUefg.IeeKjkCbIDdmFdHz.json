@@ -1,0 +1,16 @@
+{
+  "text": "Танио Ильхар",
+  "type": 2,
+  "img": "icons/magic/fire/flame-burning-skeleton-explosion.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "IeeKjkCbIDdmFdHz",
+  "documentId": "uyZtr8OuSpAur2Uy",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.IeeKjkCbIDdmFdHz"
+}

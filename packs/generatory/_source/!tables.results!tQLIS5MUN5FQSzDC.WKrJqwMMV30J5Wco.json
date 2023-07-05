@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Чёрт",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Chert_Bartlomiej_Gawel.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "yelCsVVeLxe8FuaQ",
+  "_id": "WKrJqwMMV30J5Wco",
+  "flags": {},
+  "_key": "!tables.results!tQLIS5MUN5FQSzDC.WKrJqwMMV30J5Wco"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Заказ - Огры",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Ogroids.png",
+  "description": "",
+  "results": [
+    "QzRuesoTVcVwl4LH",
+    "0YHmH0xFOheULWrs",
+    "Q4kVe4XxXuQuaRyy",
+    "IaAoaEPLVzOiEtHr",
+    "OVYJOmBYbM2VVoj1",
+    "vhBx9tSMYbFajkjQ",
+    "134uTJBmG9DsOkuw",
+    "2VUE52IsabVXczJr"
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_fs1p2hgxhmu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644753,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ZZd02IQkbh9qxG3G",
+  "sort": 0,
+  "_id": "MmZRVfw0QtTylPNl",
+  "_key": "!tables!MmZRVfw0QtTylPNl"
+}

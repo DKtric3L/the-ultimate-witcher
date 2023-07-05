@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Лучница скоя’таэлей",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Dol_Blatanna_archer_by_Bryan_Sola.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "NwkbfoGHnZLrbZs4",
+  "_id": "2jIhBW4XNmli9WK2",
+  "flags": {},
+  "_key": "!tables.results!nyikxFvaUeigy72E.2jIhBW4XNmli9WK2"
+}

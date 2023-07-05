@@ -1,0 +1,16 @@
+{
+  "_id": "Ehw78dzefggFvtXN",
+  "type": 0,
+  "text": "Полиморфный. Вы провели десятилетие, превратившись в другого мага. Потребовалось много времени, чтобы найти способ обратить его вспять. До сих пор вы сохранили некоторые манеры этого существа. Вы получаете -2 к вашему Этикету",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!R027h7L0gVt00e3b.Ehw78dzefggFvtXN"
+}

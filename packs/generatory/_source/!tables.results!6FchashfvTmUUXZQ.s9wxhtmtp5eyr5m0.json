@@ -1,0 +1,16 @@
+{
+  "text": "Темерский щит",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "s9wxhtmtp5eyr5m0",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "ydId1hzA78ow6wYQ",
+  "_key": "!tables.results!6FchashfvTmUUXZQ.s9wxhtmtp5eyr5m0"
+}

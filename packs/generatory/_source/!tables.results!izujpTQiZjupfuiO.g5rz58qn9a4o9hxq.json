@@ -1,0 +1,16 @@
+{
+  "text": "Вечный зуд",
+  "type": 2,
+  "img": "icons/skills/wounds/illness-disease-glowing-green.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "g5rz58qn9a4o9hxq",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "C1LZN3u1eGOBMZ5d",
+  "_key": "!tables.results!izujpTQiZjupfuiO.g5rz58qn9a4o9hxq"
+}

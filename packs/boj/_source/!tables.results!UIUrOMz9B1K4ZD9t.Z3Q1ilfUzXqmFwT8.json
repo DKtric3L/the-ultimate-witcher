@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "Z3Q1ilfUzXqmFwT8",
+  "text": "+6 урона по надежности.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!UIUrOMz9B1K4ZD9t.Z3Q1ilfUzXqmFwT8"
+}

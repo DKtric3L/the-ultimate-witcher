@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Элементаль огня",
+  "img": "modules/the-ultimate-witcher/assets/monsters/elemental_fire.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "hTcTCWMsqHdGmI3M",
+  "_id": "k65t7uQSY3qJ5tCN",
+  "flags": {},
+  "_key": "!tables.results!cAmaEjjM3LddHHTP.k65t7uQSY3qJ5tCN"
+}

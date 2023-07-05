@@ -1,0 +1,16 @@
+{
+  "_id": "AvyV1RxSjBFrzpUx",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Крестьянская семья. Вы выросли на ферме в сельской глуши. За душой у вас почти ничего нет, а жизнь ваша была простой, но опасной. Начальное снаряжение - Счастливый талисман(+1 к удаче)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gYToKKwOpEYSEMIy.AvyV1RxSjBFrzpUx"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Поцелуй Песты",
+  "type": 2,
+  "img": "icons/magic/acid/dissolve-bone-skull.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "j7rrvv4cgvoswlgu",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "etXpGfRfUoxpHaDr",
+  "_key": "!tables.results!eLlAYKRcZxS71ruF.j7rrvv4cgvoswlgu"
+}

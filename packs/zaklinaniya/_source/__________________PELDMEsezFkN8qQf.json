@@ -1,0 +1,60 @@
+{
+  "name": "Рассказы мертвеца",
+  "type": "spell",
+  "img": "icons/magic/unholy/orb-stone-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_m5jdkghug28"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d10.\nВозвращает душу мертвого существа в его гниющее тело. Заклинатель может допросить существо, но оно испытывает мучительную боль на протяжении всего процесса.",
+    "range": "",
+    "duration": "пока душа не будет отпущена",
+    "defence": "",
+    "components": "Тело допрашиваемого существа, Пятая эссенция (x5), Дымная пыль (x5), Кладбищенская пыль (x4), Серебро (x3), Вороний глаз (x3)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон заклинателю"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496639124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PELDMEsezFkN8qQf",
+  "folder": "9Po5TIJ5gLDJqbWG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PELDMEsezFkN8qQf"
+}

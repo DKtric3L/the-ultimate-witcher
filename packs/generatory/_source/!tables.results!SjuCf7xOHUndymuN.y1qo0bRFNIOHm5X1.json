@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Солдат Нильфгаарда",
+  "img": "modules/the-ultimate-witcher/assets/monsters/nilfgaardian_swordsman.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "y143WDQBazqHNKKN",
+  "_id": "y1qo0bRFNIOHm5X1",
+  "flags": {},
+  "_key": "!tables.results!SjuCf7xOHUndymuN.y1qo0bRFNIOHm5X1"
+}

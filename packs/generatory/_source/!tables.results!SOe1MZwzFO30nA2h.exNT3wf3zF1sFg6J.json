@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Главарь разбойников",
+  "img": "modules/the-ultimate-witcher/assets/monsters/bandit.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "3qQ8IbQrTw668exj",
+  "_id": "exNT3wf3zF1sFg6J",
+  "flags": {},
+  "_key": "!tables.results!SOe1MZwzFO30nA2h.exNT3wf3zF1sFg6J"
+}

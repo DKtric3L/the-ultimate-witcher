@@ -1,0 +1,16 @@
+{
+  "text": "Локон Светлых волос",
+  "type": 2,
+  "img": "icons/commodities/materials/hair-tuft-grey.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "_id": "dkwowrqoyqoq97i4",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "6mlxscceNWXUS79J",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.dkwowrqoyqoq97i4"
+}

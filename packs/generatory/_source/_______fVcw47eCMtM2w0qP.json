@@ -1,0 +1,70 @@
+{
+  "name": "Отвары",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "JCspgpHVHdSP3RzR",
+    "K3VPLMtJr4WVqMsY",
+    "Ikypk8RUhzOhyvfv",
+    "55OK23jPa5LA4Ggt",
+    "GCduKRv9pKK1F4d5",
+    "qeWtTVx2g8jtq8fi",
+    "3X5s5YwcPKgHIsOi",
+    "OKNdXLH05TcxojAq",
+    "62CeKEDtrP2iBmTd",
+    "r4xh6um1yaD89RoH",
+    "nl3J2drFZDpTPoLu",
+    "wLjBcig8nrwEaSl0",
+    "h9CfwAbA0JNXQTrh",
+    "jEm3BQmNhNMRaTPn",
+    "blNNUPIat3aM0lYU",
+    "lyxZnB8clViEmcq7",
+    "2OUJad1I1C4PwGzI",
+    "OcpqsgZ4w4fNaeKi",
+    "Oe78FSQs1HrT7fiK",
+    "S8cZWVnwS0BKtzin",
+    "ivK0A3jMiqUahFfq",
+    "Muf3YCwPuG6GgWqO",
+    "s7wirjPBYJixZwlP",
+    "o72CH9kbbnNRG1Tj",
+    "Q5BRopghx7uaCcHc",
+    "RqbTz7D153iMCTVA",
+    "m9Kd56wS68trDaYr",
+    "9VShRKcOZJI7dktG",
+    "oZCP85VnPg1xdm6M",
+    "bmUyMSrB5QrCTKTX",
+    "xHivtTNw9nYBvgan",
+    "L6ZpfkuRnKPd698a",
+    "qbDOxuurf0UMbjjw",
+    "Itv40OByCnm9PZIY",
+    "pWHBI8y8WxZ8izKQ",
+    "f5eqSJAv1JjXjN1i"
+  ],
+  "formula": "1d36",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.jz3wFZCbgEERZHSt"
+    },
+    "cf": {
+      "id": "temp_bpzz1bk4fz"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668329774327,
+    "modifiedTime": 1685496644725,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "7MET9RHL82tHGj41",
+  "sort": 0,
+  "_id": "fVcw47eCMtM2w0qP",
+  "_key": "!tables!fVcw47eCMtM2w0qP"
+}

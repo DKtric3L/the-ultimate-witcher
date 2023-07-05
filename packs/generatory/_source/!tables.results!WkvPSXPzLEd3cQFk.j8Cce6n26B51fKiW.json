@@ -1,0 +1,16 @@
+{
+  "text": "Глиф огня",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/fire.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "j8Cce6n26B51fKiW",
+  "documentId": "4viSPd0GoQXXVTx4",
+  "flags": {},
+  "_key": "!tables.results!WkvPSXPzLEd3cQFk.j8Cce6n26B51fKiW"
+}

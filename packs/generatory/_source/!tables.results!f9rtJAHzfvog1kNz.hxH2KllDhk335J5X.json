@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Замок-ловушка",
+  "img": "icons/commodities/bones/skull-bat-grey.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "x0i5Y4PwhGj5JKB0",
+  "_id": "hxH2KllDhk335J5X",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.hxH2KllDhk335J5X"
+}

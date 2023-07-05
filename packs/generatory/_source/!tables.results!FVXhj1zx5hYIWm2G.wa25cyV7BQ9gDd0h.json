@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Эндриага-Воин",
+  "img": "modules/the-ultimate-witcher/assets/monsters/edriaga_warrior.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "9fwNteVf9zLEX9Tq",
+  "_id": "wa25cyV7BQ9gDd0h",
+  "flags": {},
+  "_key": "!tables.results!FVXhj1zx5hYIWm2G.wa25cyV7BQ9gDd0h"
+}

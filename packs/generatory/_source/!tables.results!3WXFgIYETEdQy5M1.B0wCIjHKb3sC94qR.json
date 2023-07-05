@@ -1,0 +1,16 @@
+{
+  "text": "Девана",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/devana.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "B0wCIjHKb3sC94qR",
+  "documentId": "LSclWdvtM3NwZNxx",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.B0wCIjHKb3sC94qR"
+}

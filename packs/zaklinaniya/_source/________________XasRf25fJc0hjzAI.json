@@ -1,0 +1,60 @@
+{
+  "name": "Солнечная порча",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_kp5e8xlen2o"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Жертва начинает до смерти бояться солнца. Она не может добровольно выйти на солнечный свет, а если ее заставляют, она теряет сознание.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "В полнолуние жертва должна на очень высоком месте мелом нарисовать солнце, затем раздеться догола и лечь спать. С первыми лучами солнца порча будет снята. Но жертва должна проснуться именно от солнечного света, иначе порча не уйдет",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496639494,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XasRf25fJc0hjzAI",
+  "folder": "Syi8vTbZZBjwpqCl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!XasRf25fJc0hjzAI"
+}

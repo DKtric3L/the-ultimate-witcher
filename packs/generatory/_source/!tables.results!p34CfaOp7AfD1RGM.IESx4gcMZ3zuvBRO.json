@@ -1,0 +1,16 @@
+{
+  "text": "Зеркало Афана",
+  "type": 2,
+  "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "IESx4gcMZ3zuvBRO",
+  "documentId": "OVXedIsPIDQADxtz",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.IESx4gcMZ3zuvBRO"
+}

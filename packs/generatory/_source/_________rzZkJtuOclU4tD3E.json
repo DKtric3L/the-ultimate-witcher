@@ -1,0 +1,47 @@
+{
+  "name": "Эликсиры",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "YxZjmkD7fC7cWYu5",
+    "CYTglILY5ok1J9Yv",
+    "dqj2tbTCixB3S988",
+    "t9OAg6Gf93tgKLdk",
+    "cLJBYvDGtOYc0zl4",
+    "vPwSg59pwfcUfNOL",
+    "s8sHHEj95HDkxCD1",
+    "HW8ZEEFZh4VHTltH",
+    "uCFxnn6ugMX1cG3H",
+    "P8Q1e26HrvEa5mQd",
+    "zzAWDwu9zSNOYhp2",
+    "KbzbhZXmw24lNR9L",
+    "sDdmdLOwWy0X9KhI"
+  ],
+  "formula": "1d13",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.jz3wFZCbgEERZHSt"
+    },
+    "cf": {
+      "id": "temp_bpzz1bk4fz"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668329774327,
+    "modifiedTime": 1685496644725,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "7MET9RHL82tHGj41",
+  "sort": 0,
+  "_id": "rzZkJtuOclU4tD3E",
+  "_key": "!tables!rzZkJtuOclU4tD3E"
+}

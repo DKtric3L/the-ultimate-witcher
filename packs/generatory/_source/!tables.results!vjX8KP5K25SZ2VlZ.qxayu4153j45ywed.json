@@ -1,0 +1,16 @@
+{
+  "text": "Сеть охотника на монстров",
+  "type": 2,
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "qxayu4153j45ywed",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "hBsrUGzKV7A2quTM",
+  "_key": "!tables.results!vjX8KP5K25SZ2VlZ.qxayu4153j45ywed"
+}

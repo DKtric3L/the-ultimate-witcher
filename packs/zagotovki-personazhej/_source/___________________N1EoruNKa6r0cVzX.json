@@ -1,0 +1,67 @@
+{
+  "name": "Магическая ловушка",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/magic_trap.webp",
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Ирден создаёт магическую ловушку, на подготовку которой уходит 1 раунд. Для атаки ловушка использует навык Сотворение заклинаний и Волю заклинателя, нанося 3d6 урона. Ловушка каждый раунд атакует ближайшую цель. Целью не могут быть союзники, только враги.",
+    "range": "радиус 3м",
+    "duration": "1 раунд за 1 вын",
+    "defence": "укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "3d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Урон ловушки"
+      },
+      {
+        "id": "_fnouq2xlx",
+        "name": "+1 раунд за 1 вын",
+        "percentage": ""
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_by6qvwohmig"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.V15q3338CLvDxoN3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892163,
+    "modifiedTime": 1671035670699,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "N1EoruNKa6r0cVzX",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!k7OKybGxBGmKX5AY.N1EoruNKa6r0cVzX"
+}

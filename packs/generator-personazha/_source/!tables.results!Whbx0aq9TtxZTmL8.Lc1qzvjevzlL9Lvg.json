@@ -1,0 +1,16 @@
+{
+  "_id": "Lc1qzvjevzlL9Lvg",
+  "flags": {},
+  "type": 0,
+  "text": "Инфантильный",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Whbx0aq9TtxZTmL8.Lc1qzvjevzlL9Lvg"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Когти накера",
+  "type": 2,
+  "img": "systems/TheWitcherTRPG/assets/images/hydragenum.png",
+  "weight": 1,
+  "range": [
+    36,
+    36
+  ],
+  "drawn": false,
+  "_id": "cplamw5gd6ktpnbd",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "FxXeHAfD8IsPcwcE",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.cplamw5gd6ktpnbd"
+}

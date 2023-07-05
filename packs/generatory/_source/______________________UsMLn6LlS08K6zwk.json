@@ -1,0 +1,59 @@
+{
+  "name": "Ремесленные материалы",
+  "img": "icons/commodities/materials/bowl-powder-yellow.webp",
+  "description": "",
+  "results": [
+    "uUOedd1mgr1u77Ae",
+    "Z3pgvwlBlTS3WGHI",
+    "1DI4nojAl8RP0nWP",
+    "VRUOEehAYHVDpgtT",
+    "msA6P2408D5J1m6d",
+    "fLvUVNOfHQaE8zxI",
+    "xCSsEDSVmgziFzi8",
+    "Ljj3ew3wMLcaZDMt",
+    "mBYh3m3GvYsNlfUR",
+    "QCtS81nD79Fi9gP1",
+    "3HdNdZjTCdYpCWNh",
+    "MZvckRWNbM5WlAop",
+    "kb8Aknl9dhKTJUIk",
+    "SEQ8XPbxSoG7LdC9",
+    "jhD85MQZEoELARzr",
+    "xhDCHbBW26Naw0et",
+    "lJAtU7lIZGkEc7Nt",
+    "av9YVJ9VM3PNKPdT",
+    "KtvhGfBs7ReIgEYY",
+    "bppz8oCFdIacEIXa",
+    "DEIJdWxlL1ZLXM7Q",
+    "TPyAdX4DhdLsNwUs",
+    "bME3hVCgAC96uQLi",
+    "cLd8Rg8iyMlNnKsZ",
+    "cMszcSHwR5JABzMN"
+  ],
+  "formula": "1d16",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_gm7qf9vf4j"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644818,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "fp4Eoc9EiA3JJPL5",
+  "sort": 0,
+  "_id": "UsMLn6LlS08K6zwk",
+  "_key": "!tables!UsMLn6LlS08K6zwk"
+}

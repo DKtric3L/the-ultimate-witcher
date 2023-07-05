@@ -1,0 +1,16 @@
+{
+  "text": "Дым Вахилы",
+  "type": 2,
+  "img": "icons/magic/air/fog-gas-smoke-gray.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "JqppJQKMPHHJxyHq",
+  "documentId": "zJ0QGkV8PSh9KQhJ",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.JqppJQKMPHHJxyHq"
+}

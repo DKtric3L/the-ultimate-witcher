@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    4
+  ],
+  "drawn": false,
+  "text": "Постоялый Двор - Услуги",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "Uh01MqsAP1O2argZ",
+  "_id": "6PuCRRQCTIjm0aiE",
+  "flags": {},
+  "_key": "!tables.results!aWowh4i4QMPO10vA.6PuCRRQCTIjm0aiE"
+}

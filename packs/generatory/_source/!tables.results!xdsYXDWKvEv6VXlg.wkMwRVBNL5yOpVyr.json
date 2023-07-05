@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Джинн - Ифрит",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Poslednee_Zhelanie_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "ctnZdItFrR5kV9N2",
+  "_id": "wkMwRVBNL5yOpVyr",
+  "flags": {},
+  "_key": "!tables.results!xdsYXDWKvEv6VXlg.wkMwRVBNL5yOpVyr"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    81,
+    90
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "9s9hN7scHcC612Wj",
+  "text": "Сильный Маг, Ведьмак или другой могущественный соперник - 1000 крон.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!eYyUhISKZSs5c0sx.9s9hN7scHcC612Wj"
+}

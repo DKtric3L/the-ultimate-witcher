@@ -1,0 +1,26 @@
+{
+  "_id": "tpOFcOBCXSae7yBY",
+  "name": "Щупальца",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Статистика как у риггера, за исключением: ПЗ 20, БЕГ 5 и ВЫН 20. Каждая щупальца имеет СА 1. Они достигают 15 метров в длину."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!wEgOfrhMmIYiFlrn.tpOFcOBCXSae7yBY"
+}

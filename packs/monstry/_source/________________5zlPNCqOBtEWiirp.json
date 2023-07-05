@@ -1,0 +1,85 @@
+{
+  "_id": "5zlPNCqOBtEWiirp",
+  "name": "Пикирующий удар",
+  "type": "weapon",
+  "img": "icons/skills/melee/strike-flail-destructive-yellow.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее",
+      "slashing": true,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 2,
+    "avail": "Everywhere",
+    "damage": "2d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "10м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "_jy6sgfdsi",
+        "name": "2d6 урона за каждые 2 метра пикирования",
+        "percentage": ""
+      },
+      {
+        "id": "_mq4ntgq7s",
+        "name": "Сбивает с ног",
+        "percentage": ""
+      },
+      {
+        "id": "_fk6eha7r7",
+        "name": "Обездвиживает",
+        "percentage": ""
+      },
+      {
+        "id": "_ti9myyh1c",
+        "name": "При успехе защиты нужно пройти проверку силы против силы мантикоры, чтобы не сбиться с ног и не получить обездвиживание",
+        "percentage": ""
+      },
+      {
+        "id": "_dlso4gvnw",
+        "name": "Уклонившись от атаки, мантикора получает 4d6 урона от падения и проходит проверку устойчивости",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!D3bajktqlbQz0p0d.5zlPNCqOBtEWiirp"
+}

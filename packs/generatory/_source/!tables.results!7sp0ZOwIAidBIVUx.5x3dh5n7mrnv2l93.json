@@ -1,0 +1,16 @@
+{
+  "text": "Голос советника",
+  "type": 2,
+  "img": "icons/magic/control/control-influence-crown-yellow.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "5x3dh5n7mrnv2l93",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "2hkLm2ceeSCRprS7",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.5x3dh5n7mrnv2l93"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Среднее 525",
+  "type": "valuable",
+  "_id": "ggoqhjCtQE2jUkZV",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "",
+    "avail": "",
+    "effect": "",
+    "conceal": "",
+    "quality": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663425022152,
+    "modifiedTime": 1670417129338,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!QCJUoRqklmUYaicw.ggoqhjCtQE2jUkZV"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Болезнь: Чахотка(1 Стадия)",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6K3flPTOgRFGughK"
+    },
+    "cf": {
+      "id": "temp_7y1wsf4jzmn"
+    }
+  },
+  "system": {
+    "description": "Опасность - высокая, риск заражения - 65%. Диагноз: Первая помощь СЛ18 | Лечащее прикосновение СЛ15.\nГМ незаметно бросает 1d10. 1-8 - чахотка становится скрытой, безвредной на данный момент и ее невозможно обнаружить. 9-10 – чахотка переходит на вторую стадию. Без лечения скрытая чахотка не покидает тело человека, если только больной не заболевает каким-либо другим недугом. Если это происходит, то ГМ повторно бросает 1d10 (как указано выше)",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883166,
+    "modifiedTime": 1685496621758,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "GRnuF1uKbSD7IZNh",
+  "folder": "aql65wChKZ3qmDGb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!GRnuF1uKbSD7IZNh"
+}

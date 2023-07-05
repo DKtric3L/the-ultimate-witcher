@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Хлороформ",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.Ib1B2zezXOl3DbCy"
+    },
+    "cf": {
+      "id": "temp_uu87z6q9p5a"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.SURHBOwFjaTXKNJC]{Хлороформ}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 54,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "journeyman",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 16,
+    "craftingTime": "15 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 1,
+      "rebis": null,
+      "aether": 1,
+      "quebrith": 2,
+      "hydragenum": null,
+      "vermilion": 2,
+      "sol": null,
+      "caelum": null,
+      "fulgur": null
+    },
+    "associatedItem": {
+      "name": "Хлороформ",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/props/chlorophorm.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 36,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Common",
+        "effect": "Любой, кто вдохнёт хлороформ, должен успешно пройти испытание Устойчивости со штрафом -2, или же он потеряет сознание до тех пор, пока испытание не будет пройдено. Обычно для применения требуется провести атаку Ближнего боя тряпицей, смоченной хлороформом. В каждой склянке содержится 25 порций.",
+        "time": "",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.SURHBOwFjaTXKNJC"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868995,
+        "modifiedTime": 1668171503508,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848431,
+    "modifiedTime": 1685496578745,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Ib1B2zezXOl3DbCy",
+  "folder": "TXoqSw4OOX255Z4E",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Ib1B2zezXOl3DbCy"
+}

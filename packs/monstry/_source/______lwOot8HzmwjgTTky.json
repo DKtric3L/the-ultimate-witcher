@@ -1,0 +1,26 @@
+{
+  "_id": "lwOot8HzmwjgTTky",
+  "name": "Полёт",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "В качестве перемещения птица может взлететь. Птицу можно сбить, только дезориентировав или нанеся ей урон. Если птица сбита, она должна совершить проверку Атлетики со СЛ 16, или получит урон от падения, соответствующий высоте в метрах, с которой она упала. Во время полёта Скорость птицы равна 7"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!vccofcnKJnc30ikA.lwOot8HzmwjgTTky"
+}

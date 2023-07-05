@@ -1,0 +1,44 @@
+{
+  "name": "Корзина",
+  "type": "valuable",
+  "img": "icons/containers/misc/basket-handle-woven-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_r3stwb3cdz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.BkcWwLwoUs7Eq8lS"
+    }
+  },
+  "system": {
+    "description": "Больше подходит для сбора цветов, ягод и других даров природы. Но может вместо них вместить 15 кг небольших предметов.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496603596,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5JPFDbG8VsnzQPk7",
+  "folder": "mg1jdTvvbWMf4cYK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5JPFDbG8VsnzQPk7"
+}

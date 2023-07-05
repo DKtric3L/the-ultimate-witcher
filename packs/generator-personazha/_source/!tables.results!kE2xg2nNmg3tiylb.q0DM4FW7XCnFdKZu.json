@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 2,
+  "text": "Allies: Gender",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "tUbc2QGNj3HF7bx2",
+  "_key": "!tables.results!kE2xg2nNmg3tiylb.q0DM4FW7XCnFdKZu"
+}

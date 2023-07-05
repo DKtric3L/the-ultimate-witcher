@@ -1,0 +1,40 @@
+{
+  "name": "Прицельная атака",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "A0AsYcrbfzIGuP3P",
+    "tLghZLDkS13YuMjN",
+    "VZ1VCwycH3fIsW00",
+    "lsea8XHSHCQc8lIg",
+    "whSy0fNOd3ZjAbtK",
+    "tRLSHAVbJMUyEnar"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_q4dkjwznxcf"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496658107,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "SlEiSknrdbvfUjco",
+  "sort": 0,
+  "_id": "CRzkFzGgCYfqFjaW",
+  "_key": "!tables!CRzkFzGgCYfqFjaW"
+}

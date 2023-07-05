@@ -1,0 +1,16 @@
+{
+  "_id": "CNt88DZPNEOuNB9X",
+  "type": 0,
+  "text": "Приютил мага-отступника. Вы помогли приютить мага- изгоя. Вы получаете союзника-мага. Сделайте бросок по таблице союзников, чтобы увидеть, насколько вы близки и какова их ценность.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!tqR33wiWBL1kl5WV.CNt88DZPNEOuNB9X"
+}

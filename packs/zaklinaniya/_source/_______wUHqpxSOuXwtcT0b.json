@@ -1,0 +1,60 @@
+{
+  "name": "Винтир",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/hz2.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OGdJz94k5oyo1pHN"
+    },
+    "cf": {
+      "id": "temp_o2pfhdxk2ma"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "Water",
+    "domain": "basic",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Винтир испускает волну холодного воздуха и льда, которая наносит 1d6 урона холодом за каждое потраченное очко Вын и имеет 50% шанс заморозить все, на что попадет. Винтир всегда наносит урон по туловищу, если только не применяется на минимальном расстоянии (в упор). При использовании в упор Винтир можно направить на определенную часть тела.",
+    "range": "2м конус",
+    "duration": "мгновенное",
+    "defence": "Изменение позиции или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496638464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wUHqpxSOuXwtcT0b",
+  "folder": "7aDTE4Bqwe5aou9p",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!wUHqpxSOuXwtcT0b"
+}

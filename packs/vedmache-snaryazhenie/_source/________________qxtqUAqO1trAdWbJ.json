@@ -1,0 +1,60 @@
+{
+  "name": "Доспех охотника",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-grey.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0w1zqqbn8lrf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 10,
+    "torsoMaxStopping": 10,
+    "leftArmStopping": 10,
+    "leftArmMaxStopping": 10,
+    "rightArmStopping": 10,
+    "rightArmMaxStopping": 10,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 1,
+    "location": "Torso",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887304,
+    "modifiedTime": 1685496626987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qxtqUAqO1trAdWbJ",
+  "folder": "XIWiaRMuiNt3vpFW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qxtqUAqO1trAdWbJ"
+}

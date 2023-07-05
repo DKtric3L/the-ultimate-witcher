@@ -1,0 +1,130 @@
+{
+  "name": "Гамбезон",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.v4TYucUZgfRtkprU"
+    },
+    "cf": {
+      "id": "temp_w9ryybl3f2"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.w19ubs5145x7bqZw]{Гамбезон}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 150,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 10,
+    "alchemyDC": 0,
+    "craftingTime": "5ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "6",
+        "name": "Полотно"
+      },
+      {
+        "id": "_4l8cu6703",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "7"
+      }
+    ],
+    "investment": 75,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Гамбезон",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-leather-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 100,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 3,
+        "headMaxStopping": 3,
+        "torsoStopping": 3,
+        "torsoMaxStopping": 3,
+        "leftArmStopping": 3,
+        "leftArmMaxStopping": 3,
+        "rightArmStopping": 3,
+        "rightArmMaxStopping": 3,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Light",
+        "avail": "Everywhere",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Torso",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_1fv367gt0a6"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837865,
+        "modifiedTime": 1668162837865,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848411,
+    "modifiedTime": 1685496579488,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "v4TYucUZgfRtkprU",
+  "folder": "WNB0CsVL08oI0Bfi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!v4TYucUZgfRtkprU"
+}

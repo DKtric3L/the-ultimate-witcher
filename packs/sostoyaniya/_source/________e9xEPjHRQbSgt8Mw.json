@@ -1,0 +1,38 @@
+{
+  "name": "Болезнь",
+  "type": "effect",
+  "img": "icons/magic/acid/dissolve-bone-ribs-skull.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.csVITFIvqJmN511Q"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "В состоянии болезни персонаж получает штраф -2 ко всем действиям , а его максимальная Выносливость снижается на четверть. Так же он должен совершать проверки Стойкости со СЛ 14 по требованию ведущего и при провале получает состояние тошнота. Болезнь можно вылечить, только если медик успешно пройдёт проверку лечащего прикосновения со СЛ 15 для этого больного и после этого больной полноценно отдохнёт всю ночь.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883164,
+    "modifiedTime": 1688508849478,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "e9xEPjHRQbSgt8Mw",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!e9xEPjHRQbSgt8Mw"
+}

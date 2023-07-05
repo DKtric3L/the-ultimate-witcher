@@ -1,0 +1,16 @@
+{
+  "_id": "Ul4o2Z6V39ujXoFQ",
+  "flags": {},
+  "type": 0,
+  "text": "Персонаж вылетел из седла. 1d6 метров пролетел персонаж. Если упал ни с чем не столкнувшись, получает 1d6 урона по случайному месту. Если влетел во что-то, за каждый пролетевший метр добавьте кость урона 1d6.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!aLBBrVnSsL3wqQUx.Ul4o2Z6V39ujXoFQ"
+}

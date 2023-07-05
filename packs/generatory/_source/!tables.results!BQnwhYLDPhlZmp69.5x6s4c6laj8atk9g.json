@@ -1,0 +1,16 @@
+{
+  "text": "Очищающее пламя",
+  "type": 2,
+  "img": "icons/magic/fire/flame-burning-skull-orange.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "5x6s4c6laj8atk9g",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "oODVKwkWKMnixu6b",
+  "_key": "!tables.results!BQnwhYLDPhlZmp69.5x6s4c6laj8atk9g"
+}

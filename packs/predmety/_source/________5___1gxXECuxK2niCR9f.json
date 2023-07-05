@@ -1,0 +1,43 @@
+{
+  "name": "Колышки(5х)",
+  "type": "valuable",
+  "img": "icons/tools/scribal/pen-stylus-pencil.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.1gxXECuxK2niCR9f"
+    },
+    "cf": {
+      "id": "temp_witw8a9x5dh"
+    }
+  },
+  "system": {
+    "description": "Стальные стержни с плоским навершием с одной стороны и остриём с другой. Их используют для закрепления верёвок, но при необходимости ими можно и пырнуть кого-нибудь (оружие ближнего боя, ld6урона).",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1gxXECuxK2niCR9f",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1gxXECuxK2niCR9f"
+}

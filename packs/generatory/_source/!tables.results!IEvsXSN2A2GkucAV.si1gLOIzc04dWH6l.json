@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "text": "Гуль",
+  "img": "modules/the-ultimate-witcher/assets/monsters/ghoul.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "GLmK2MpqzHVoA7n9",
+  "_id": "si1gLOIzc04dWH6l",
+  "flags": {},
+  "_key": "!tables.results!IEvsXSN2A2GkucAV.si1gLOIzc04dWH6l"
+}

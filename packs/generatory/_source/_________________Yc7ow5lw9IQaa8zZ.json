@@ -1,0 +1,39 @@
+{
+  "name": "Ритуалы - Мастер",
+  "img": "icons/magic/symbols/runes-star-pentagon-blue.webp",
+  "results": [
+    "fi93w1rs6ymu89oa",
+    "kltrdr82xgs8ybaf",
+    "qgd2iceuvz9frv9u",
+    "gfc8f0v2t8t1r8gn",
+    "hrktfxyug311x3dd"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.npRROQWGDJbbnb51"
+    },
+    "cf": {
+      "id": "temp_ajkic29f266"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932917,
+    "modifiedTime": 1685496644591,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Yc7ow5lw9IQaa8zZ",
+  "folder": "o3sEoxIBdvOUItmm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!Yc7ow5lw9IQaa8zZ"
+}

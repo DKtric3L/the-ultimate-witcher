@@ -1,0 +1,42 @@
+{
+  "name": "Драконьи слезы",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_monstrous_64x64.png.6939.png",
+  "system": {
+    "description": "",
+    "quantity": "2d10",
+    "weight": 0.1,
+    "cost": 276,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Истинные драконы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "sol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.gpZQ01F817qCuat2"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1669964406912,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "y14zTsbLvGtBxu9m",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!WpoCsCHlFqTBkLcK.y14zTsbLvGtBxu9m"
+}

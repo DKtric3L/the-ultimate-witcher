@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    66,
+    70
+  ],
+  "drawn": false,
+  "text": "Заказ - Духи Стихий",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "uwlvXPDMxRwC1EJ5",
+  "_id": "1q8rlBX8ReVvLAnx",
+  "flags": {},
+  "_key": "!tables.results!8agTRt5Fn18mmyex.1q8rlBX8ReVvLAnx"
+}

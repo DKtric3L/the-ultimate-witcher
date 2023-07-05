@@ -1,0 +1,47 @@
+{
+  "name": "Чувство прекрасного",
+  "type": "effect",
+  "img": "icons/magic/life/heart-hand-gold-green.webp",
+  "system": {
+    "description": "У эльфов есть врожденная творческая жилка и развитое чувство прекрасного. Эльфы получают врожденный бонус +1 к искусству.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkEmpArts",
+        "modifier": "1"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e31a0b6e4ff879e61dd32d075eb53c2fd657f61f",
+      "sourceId": "Item.yyUR3S8fiiggieXZ"
+    },
+    "core": {
+      "sourceId": "Item.yyUR3S8fiiggieXZ"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672502808784,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "PQc54g1s0gnfJQoA",
+  "_key": "!items!PQc54g1s0gnfJQoA"
+}

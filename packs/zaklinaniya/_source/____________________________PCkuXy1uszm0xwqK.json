@@ -1,0 +1,68 @@
+{
+  "name": "Готовая Некротическая бомба",
+  "type": "weapon",
+  "img": "icons/magic/unholy/orb-glowing-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ZQtfFyyySLigBG3P"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": true,
+    "usingAmmo": true,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "4d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "Тел*4",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892157,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PCkuXy1uszm0xwqK",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PCkuXy1uszm0xwqK"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Укрепленная кожа",
+  "img": "icons/commodities/leather/leather-worn-tan.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "zn0EeLUJYOhgefka",
+  "_id": "hKgQXxHfvHTEogu0",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.hKgQXxHfvHTEogu0"
+}

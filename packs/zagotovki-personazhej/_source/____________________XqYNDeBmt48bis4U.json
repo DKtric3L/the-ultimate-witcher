@@ -1,0 +1,61 @@
+{
+  "_id": "XqYNDeBmt48bis4U",
+  "name": "Краснолюдский топор",
+  "type": "weapon",
+  "img": "icons/weapons/axes/axe-tomahawk-jagged.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.32RqCsg1pEteL3a8"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 4,
+    "cost": 740,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее",
+      "slashing": true,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 3,
+    "avail": "Rare",
+    "damage": "5d6+3",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": "/",
+    "effects": [],
+    "conceal": "L",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!1vDqhyNaFcTqTS7f.XqYNDeBmt48bis4U"
+}

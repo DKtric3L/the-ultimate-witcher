@@ -1,0 +1,16 @@
+{
+  "_id": "NlfhnGUfAnLtImRU",
+  "flags": {},
+  "type": 0,
+  "text": "Нашёл учителя - Вы нашли себе наставника. Вы много недель учились, практиковались и задавали учителю вопросы. Это был необычный опыт. Вы можете получить +1 к любому своему навыку от Инт, либо открыть новый и добавить ему +2.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Fh8VJ3C7tUE27Cc9.NlfhnGUfAnLtImRU"
+}

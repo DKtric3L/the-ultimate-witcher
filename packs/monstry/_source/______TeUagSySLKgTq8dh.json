@@ -1,0 +1,26 @@
+{
+  "_id": "TeUagSySLKgTq8dh",
+  "name": "Вожак",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Гули подчиняются альгулю. Пока он жив, все\nгули в его стае получают +4 к Храбрости.\nАльгуль способен отдавать приказы остальным\nчленам стаи. Приказ может быть достаточно\nсложным."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!flelUO6fj7eLVAJc.TeUagSySLKgTq8dh"
+}

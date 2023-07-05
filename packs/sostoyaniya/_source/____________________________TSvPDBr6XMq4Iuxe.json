@@ -1,0 +1,53 @@
+{
+  "name": "Треснувшая челюсть (Лечено)",
+  "type": "effect",
+  "img": "icons/commodities/bones/skull-hollow-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.TSvPDBr6XMq4Iuxe"
+    },
+    "cf": {
+      "id": "temp_n2afsx7fi5j"
+    }
+  },
+  "system": {
+    "description": "От удара челюсть персонажа треснула, из-за чего ему тяжело говорить.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkWillSpellcastLable",
+        "modifier": "-1"
+      },
+      {
+        "id": "_tro5648fv",
+        "skill": "WITCHER.SkWillHexLable",
+        "modifier": "-1"
+      },
+      {
+        "id": "_k19do1jwl",
+        "skill": "WITCHER.SkWillRitCraftLable",
+        "modifier": "-1"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883175,
+    "modifiedTime": 1685496621796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TSvPDBr6XMq4Iuxe",
+  "folder": "i9IWaFNhx9E6aUgp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TSvPDBr6XMq4Iuxe"
+}

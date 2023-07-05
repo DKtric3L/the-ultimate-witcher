@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "lsea8XHSHCQc8lIg",
+  "text": "Левая рука, Штраф -3, урон 1/2х",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!CRzkFzGgCYfqFjaW.lsea8XHSHCQc8lIg"
+}

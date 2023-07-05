@@ -1,0 +1,16 @@
+{
+  "_id": "4h4Sw8Y1i17AihjX",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Родители бросили вас в лесу. Возможно, семья не могла прокормить ещё один рот, а может, это была случайность.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BVAifyDThmUYivmt.4h4Sw8Y1i17AihjX"
+}

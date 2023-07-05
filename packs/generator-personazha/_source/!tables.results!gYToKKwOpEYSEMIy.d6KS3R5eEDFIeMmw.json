@@ -1,0 +1,16 @@
+{
+  "_id": "d6KS3R5eEDFIeMmw",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Торговцы. Вы выросли в купеческой среде, среди криков продавцов и звона монет. Начальное снаряжение - 2 знакомых.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gYToKKwOpEYSEMIy.d6KS3R5eEDFIeMmw"
+}

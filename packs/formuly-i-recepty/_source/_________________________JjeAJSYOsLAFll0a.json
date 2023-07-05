@@ -1,0 +1,101 @@
+{
+  "name": "Формула: Отвар цеметавра",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-person-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a45doihc8"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.LeU415YY8D1ifBvO]{Отвар цеметавра} требуется мутаген монстра и крепкий алкоголь для изготовления.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "level": "witcher",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 16,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 1,
+      "rebis": null,
+      "aether": null,
+      "quebrith": null,
+      "hydragenum": null,
+      "vermilion": 1,
+      "sol": 1,
+      "caelum": 1,
+      "fulgur": null
+    },
+    "associatedItem": {
+      "name": "Отвар цеметавра",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/potions/cotolak_potion.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 73,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "decoction",
+        "avail": "Rare",
+        "effect": "Вы получаете +5 к каждому броску против трупоедов.",
+        "time": "30 минут",
+        "toxicity": "75%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_adni0hxf6rb"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887309,
+        "modifiedTime": 1668182742278,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848425,
+    "modifiedTime": 1685496578680,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JjeAJSYOsLAFll0a",
+  "folder": "Fb6VoHyNCjiAun2V",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!JjeAJSYOsLAFll0a"
+}

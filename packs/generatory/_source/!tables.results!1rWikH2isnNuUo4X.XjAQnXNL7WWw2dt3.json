@@ -1,0 +1,16 @@
+{
+  "_id": "XjAQnXNL7WWw2dt3",
+  "type": 2,
+  "text": "Маг - Мастер",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "qXzcIUTDktfT2ZTb",
+  "_key": "!tables.results!1rWikH2isnNuUo4X.XjAQnXNL7WWw2dt3"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "uZEDUG0b1QS3X7aE",
+  "flags": {},
+  "type": 0,
+  "text": "У вас 1 брат или сестра.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!hoXu1M1aZUTRHEB5.uZEDUG0b1QS3X7aE"
+}

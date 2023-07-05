@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Пепел",
+  "img": "icons/commodities/materials/bowl-powder-grey.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "F2pqpYwb1Vef845n",
+  "_id": "Ljj3ew3wMLcaZDMt",
+  "flags": {},
+  "_key": "!tables.results!UsMLn6LlS08K6zwk.Ljj3ew3wMLcaZDMt"
+}

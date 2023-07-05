@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Рубин",
+  "img": "modules/the-ultimate-witcher/assets/gems/ruby.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "ogqvFXc8A3vRKZK3",
+  "_id": "6ciUbntnBPE4glT0",
+  "flags": {},
+  "_key": "!tables.results!1brZCcoQRKToMzrz.6ciUbntnBPE4glT0"
+}

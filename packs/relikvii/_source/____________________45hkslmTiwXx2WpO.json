@@ -1,0 +1,78 @@
+{
+  "name": "Доспехи дикой охоты",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-dospehov.xAwmCJqpLvrJw2cM"
+    },
+    "cf": {
+      "id": "temp_uj8iaif803"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 15,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 20,
+    "headMaxStopping": 20,
+    "torsoStopping": 20,
+    "torsoMaxStopping": 20,
+    "leftArmStopping": 20,
+    "leftArmMaxStopping": 20,
+    "rightArmStopping": 20,
+    "rightArmMaxStopping": 20,
+    "leftLegStopping": 20,
+    "leftLegMaxStopping": 20,
+    "rightLegStopping": 20,
+    "rightLegMaxStopping": 20,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сопротивление яду"
+      },
+      {
+        "id": "_4dh36h781",
+        "name": "+2 сопротивление магии",
+        "percentage": ""
+      },
+      {
+        "id": "_45wln8kjm",
+        "name": "+2 сотворение заклинаний",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": true,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877955,
+    "modifiedTime": 1685496616922,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "45hkslmTiwXx2WpO",
+  "folder": "PRppF7wbRYRReD1k",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!45hkslmTiwXx2WpO"
+}

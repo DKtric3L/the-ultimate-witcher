@@ -1,0 +1,44 @@
+{
+  "name": "Нпс - речь",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "oz0gNfKJtKFDknV2",
+    "HsUCKex246lvw2Hz",
+    "4fSoTBZRsRcnSY4S",
+    "LaFsextSzN6FYf5R",
+    "g9xyeFWoWiHuB5C9",
+    "w88Al08AgYqYm6ue",
+    "TeMDMlxBBM2H3D8Y",
+    "eLNPCcyTL38skABu",
+    "1WOdjKbESQBTXHpF",
+    "De4mHHTC8abLyA0M"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "j6Kz6lZJLr3YC52C",
+  "_key": "!tables!j6Kz6lZJLr3YC52C"
+}

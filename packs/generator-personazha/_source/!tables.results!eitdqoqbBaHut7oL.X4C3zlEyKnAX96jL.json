@@ -1,0 +1,16 @@
+{
+  "_id": "X4C3zlEyKnAX96jL",
+  "flags": {},
+  "type": 0,
+  "text": "У вашей семьи есть зловещая тайна. Если о ней кто-то узнает, вам конец. Вы можете придумать тайну сами или дать это сделать вашему мастеру.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!eitdqoqbBaHut7oL.X4C3zlEyKnAX96jL"
+}

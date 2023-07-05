@@ -1,0 +1,49 @@
+{
+  "name": "Разбойники",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "jWJsA4f5UYDv9d6f",
+    "XRa0GCN1yb5dqa42",
+    "S7NbA8rIKwfN1BuQ",
+    "Hw66Jmcz3vhpXFIe",
+    "GrNFIphPe7JlLSIS",
+    "L0fIop0KFVMm6ImV",
+    "WFnpoPObxNFi3Z2O",
+    "sqrkMVqvaA5d0gd6",
+    "81SDXc0LHKutPC4u",
+    "5n6DUNvm3PqX0HtT",
+    "wi0QIbiRX9cvQe3B",
+    "dACwll2TBUjMnOQo",
+    "CUjkntzpZiipUdha",
+    "gMc9BcFyfq2BKDKI",
+    "P5qb0roxedxrLp0S"
+  ],
+  "formula": "1d13",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "SWeee5GD01wxOXAy",
+  "_key": "!tables!SWeee5GD01wxOXAy"
+}

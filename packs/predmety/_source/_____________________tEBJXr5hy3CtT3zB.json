@@ -1,0 +1,43 @@
+{
+  "name": "Развлечения (за час)",
+  "type": "valuable",
+  "img": "icons/sundries/scrolls/scroll-writing-beige.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.fbJ87kH65ZjqvURN"
+    },
+    "cf": {
+      "id": "temp_yd58wf1pts8"
+    }
+  },
+  "system": {
+    "description": "Как-то раз я потратил 100 оренов на барда во время лютой азартной игры. В тот вечер я, кажись, всех в той треклятой таверне в кости обыграл. Есть у меня примета такая: хорошая музыка приносит удачу.",
+    "quantity": 1,
+    "weight": null,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "service",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868987,
+    "modifiedTime": 1685496603173,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tEBJXr5hy3CtT3zB",
+  "folder": "QEpLVR9XgY47bXqF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tEBJXr5hy3CtT3zB"
+}

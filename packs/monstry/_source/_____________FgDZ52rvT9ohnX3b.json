@@ -1,0 +1,46 @@
+{
+  "name": "Когти гарпии",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/claws_harpy.dds_.6876.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/3",
+    "weight": 0.1,
+    "cost": 40,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Harpies",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "caelum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_tzqg8ehy1le",
+      "color": "#b7f35e"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.uhz2xpRjR3nObUZm"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669960973578,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "FgDZ52rvT9ohnX3b",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!K0I47PFyMbr1p3Ws.FgDZ52rvT9ohnX3b"
+}

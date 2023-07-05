@@ -1,0 +1,43 @@
+{
+  "_id": "bU5NXHdgU2jbg2v5",
+  "name": "Мутаген: Допплер",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-blue.png",
+  "effects": [],
+  "folder": "za9MQKX6IGJQLkJy",
+  "sort": 2300000,
+  "flags": {
+    "core": {
+      "sourceId": "Item.JNbrCrFXPyCNzbpX"
+    },
+    "cf": {
+      "id": "temp_loaduoyv3n"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "blue",
+    "source": "Допплеры",
+    "effect": "+1 ВОЛЯ",
+    "alchemyDC": "22",
+    "minorMutation": "Меняющиеся глаза"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!nXyidmw2GSqIbnTX.bU5NXHdgU2jbg2v5"
+}

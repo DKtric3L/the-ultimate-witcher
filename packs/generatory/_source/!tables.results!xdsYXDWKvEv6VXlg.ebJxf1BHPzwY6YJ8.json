@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Джинн - Д'ао",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Poslednee_Zhelanie_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "j8ksX28JMdRAUPyZ",
+  "_id": "ebJxf1BHPzwY6YJ8",
+  "flags": {},
+  "_key": "!tables.results!xdsYXDWKvEv6VXlg.ebJxf1BHPzwY6YJ8"
+}

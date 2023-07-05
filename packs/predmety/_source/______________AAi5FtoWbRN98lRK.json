@@ -1,0 +1,43 @@
+{
+  "name": "Трофей голема",
+  "type": "valuable",
+  "img": "icons/commodities/biological/shell-ribbed-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.D5fKXMdbbWI1TsmT"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "system": {
+    "description": "Вы невосприимчивы к кровотечению.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1685496603299,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AAi5FtoWbRN98lRK",
+  "folder": "aNWkZufhkhuFhdgA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AAi5FtoWbRN98lRK"
+}

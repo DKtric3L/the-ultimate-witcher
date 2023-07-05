@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Большая кошка",
+  "img": "modules/the-ultimate-witcher/assets/monsters/big_cat.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "UT072LWYFd3muzYu",
+  "_id": "z3km8jGqYi79wlfn",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.z3km8jGqYi79wlfn"
+}

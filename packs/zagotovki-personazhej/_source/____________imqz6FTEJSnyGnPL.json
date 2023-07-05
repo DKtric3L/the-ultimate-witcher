@@ -1,0 +1,57 @@
+{
+  "_id": "imqz6FTEJSnyGnPL",
+  "name": "Рассеивание",
+  "type": "spell",
+  "img": "icons/magic/air/air-smoke-casting.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.YiMRMW8pw67qsAuE"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "Меняются",
+    "staminaIsVar": false,
+    "effect": "Рассеивание позволяет прекратить действие заклинания/ритуала/порчи в пределах своей дистанции. Это заклинание можно сотворить как действие защиты, чтобы блокировать магические атаки вне зависимости от наличия или отсутствия физических компонентов либо прекратить им дли тельное заклинание. Для отмены магического эффекта нужно затратить половину Выносливости, потребовавшейся для создания отменяемого магического эффекта, а также совершить проверку Сотворения заклинаний. Проверка считается успешной, если её результат больше проверки заклинателя, сотворившего отменяемый эффект.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Сотв-е заклинаний",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!3v0292IhRWNohwqu.imqz6FTEJSnyGnPL"
+}

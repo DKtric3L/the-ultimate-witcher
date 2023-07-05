@@ -1,0 +1,16 @@
+{
+  "_id": "Gl1XVUlHbuQVyANO",
+  "flags": {},
+  "type": 0,
+  "text": "Сестра",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!x4yEh1l0N9GqXSZ9.Gl1XVUlHbuQVyANO"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Проломленный череп (Стаб)",
+  "type": "effect",
+  "img": "icons/skills/wounds/injury-eyes-blood-red-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ks31k8lzmi"
+    }
+  },
+  "system": {
+    "description": "От удара череп персонажа проломлен, что делает его голову уязвимее. Последующие ранения в голову наносят в четыре раза больше урона, вместо 3х.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "-1"
+      },
+      {
+        "id": "_41t4o9uc6",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DTwwpn8UQMYNMN74",
+  "folder": "mfpZq5Y96MD9CzKb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DTwwpn8UQMYNMN74"
+}

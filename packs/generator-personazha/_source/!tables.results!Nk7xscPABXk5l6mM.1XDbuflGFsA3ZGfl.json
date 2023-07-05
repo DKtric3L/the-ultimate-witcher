@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "1XDbuflGFsA3ZGfl",
+  "text": "У него украли сокровища - Сокровища этого дракона кто-то украл, и теперь он их ищет. Возможно, вором был другой дракон, а может, наёмники или кто-то ещё. Так или иначе, дракон хочет вернуть потерянное имущество.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Nk7xscPABXk5l6mM.1XDbuflGFsA3ZGfl"
+}

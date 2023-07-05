@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    40,
+    40
+  ],
+  "drawn": false,
+  "text": "Ярость бредана",
+  "img": "modules/the-ultimate-witcher/assets/props/bredans_wrath.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "A5AZCyaC94k42CU8",
+  "_id": "SPwvSEMB0fFApKhy",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.SPwvSEMB0fFApKhy"
+}

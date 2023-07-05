@@ -1,0 +1,60 @@
+{
+  "name": "Черты животного",
+  "type": "spell",
+  "img": "icons/magic/nature/wolf-paw-glow-large-teal-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_hdxdzcj6mq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "druid",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Вы можете создать черту животного по вашему выбору: \nВы можете отрастить жабры на шее и дышать под водой до конца действия заклинания; \nВы можете отрастить большие крылья и летать, используя свое перемещение. Получив 10 единиц урона или дезориентацию, вы падаете и должны совершить проверку Атлетики СЛ 16 или получить урон от падения; \nВы можете отрастить длинные когти, которые наносят дополнительно 3d6 режущего урона при ударе рукой и становятся смертельно опасным оружием; Любое из этих изменений болезненно и наносит 1d6 урона, не поглощаемого броней.",
+    "range": "на себя",
+    "duration": "2d10 часов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(часы)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892179,
+    "modifiedTime": 1685496639423,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SxnfJvmsIRTnlwGD",
+  "folder": "QnbITPjEnnlusNC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SxnfJvmsIRTnlwGD"
+}

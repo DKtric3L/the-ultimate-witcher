@@ -1,0 +1,16 @@
+{
+  "_id": "cDa0CLnwaqFixJQz",
+  "type": 0,
+  "text": "Ваше оружие сильно повреждено и получает 1d10 урона надёжности",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!sv1j1pIEXP9ImQxB.cDa0CLnwaqFixJQz"
+}

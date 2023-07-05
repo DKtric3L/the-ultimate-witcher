@@ -1,0 +1,16 @@
+{
+  "text": "Хирургические инструменты",
+  "type": 2,
+  "img": "icons/tools/hand/lockpicks-steel-grey.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "ddwac9fivs4wsh2w",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "xfZYrGM35886d7k3",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.ddwac9fivs4wsh2w"
+}

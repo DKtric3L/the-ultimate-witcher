@@ -1,0 +1,42 @@
+{
+  "name": "Зеленая плесень",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/greenmold.dds_.6672.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ws51bo5n4h",
+      "color": "#b7f35e"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 8,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Common",
+    "location": "Пещеры",
+    "quantityObtainable": "1d10",
+    "forage": "12",
+    "substanceType": "caelum"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1685496584023,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "F4HzuRhCJOS1qzWk",
+  "folder": "whUethnWDpiJNIof",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!F4HzuRhCJOS1qzWk"
+}

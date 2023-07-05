@@ -1,0 +1,19 @@
+{
+  "color": "#4f4f4f",
+  "name": "Мечи",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "IxQaqvRIh1xkDc2H",
+  "_id": "OTwHAIoGyBjQBAVX",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!OTwHAIoGyBjQBAVX"
+}

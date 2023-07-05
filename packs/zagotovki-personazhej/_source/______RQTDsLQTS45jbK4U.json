@@ -1,0 +1,44 @@
+{
+  "name": "Замок",
+  "type": "valuable",
+  "img": "icons/commodities/metal/clasp-steel-green.webp",
+  "system": {
+    "description": "Простейший замок. Позволяет запереть всё, у чего есть две петли. У меня на каждом сундуке такой висит (проверка Взлома замков со СЛ 15).",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 34,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.FnD1MnS6Ga6qzgj4"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663423743388,
+    "modifiedTime": 1663423743388,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "RQTDsLQTS45jbK4U",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!uwoc5G9Eyjzo0fxU.RQTDsLQTS45jbK4U"
+}

@@ -1,0 +1,65 @@
+{
+  "_id": "krGdDYE21pflXBY2",
+  "name": "Зарывание",
+  "type": "weapon",
+  "img": "icons/magic/nature/plant-undersea-glow-green.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "18",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "В качестве перемещения археспора может зарыться и про ползти под землёй до 6 метров. Потратив полный ход, она переместится таким образом на расстояние до 18 метров. Археспора может зарываться в песок, землю и твёрдый грунт, но не в сплошной камень.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TBu2A8TZxtXhskMV.krGdDYE21pflXBY2"
+}

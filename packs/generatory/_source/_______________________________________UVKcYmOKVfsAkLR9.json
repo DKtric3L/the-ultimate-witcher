@@ -1,0 +1,39 @@
+{
+  "name": "Чертеж - модификации арбалета - Мастер",
+  "description": "A random table created from the contents of the Мастер Folder.",
+  "results": [
+    "ue2eqRBbneVzGTxL"
+  ],
+  "formula": "1d1",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e2c9a90eaa400183e5b69f91b1cfa29a552836b9",
+      "sourceId": "RollTable.JjJXrGafGFGYGOdG"
+    },
+    "core": {
+      "sourceId": "RollTable.JjJXrGafGFGYGOdG"
+    },
+    "cf": {
+      "id": "temp_d8c3idiea8s"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672829895524,
+    "modifiedTime": 1685496644418,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ydNMfXwdwR68I3Fr",
+  "sort": 0,
+  "_id": "UVKcYmOKVfsAkLR9",
+  "_key": "!tables!UVKcYmOKVfsAkLR9"
+}

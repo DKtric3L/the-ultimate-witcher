@@ -1,0 +1,44 @@
+{
+  "name": "Кандалы",
+  "type": "valuable",
+  "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.CxdfQ95L3CnZNyMs"
+    }
+  },
+  "system": {
+    "description": "Очень похожи на наручники, только закрепляются на запястьях и лодыжках. Выбраться из них очень тяжело (Скор ограничена до 3). Для того чтобы высвободиться из кандалов нужна проверка Взлома замков со СЛ 20. Если вы хотите их, требуется совершить проверку Силы со СЛ 22.",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868975,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "P2SoXGLZDT3G6k9k",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!P2SoXGLZDT3G6k9k"
+}

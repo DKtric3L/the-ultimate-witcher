@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    46,
+    46
+  ],
+  "drawn": false,
+  "text": "Фонарь \"Бычий глаз\"",
+  "img": "icons/sundries/lights/lantern-bullseye-signal-copper.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "thz7Av98mhbr89oi",
+  "_id": "gxEaD3IyD9n2nwmr",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.gxEaD3IyD9n2nwmr"
+}

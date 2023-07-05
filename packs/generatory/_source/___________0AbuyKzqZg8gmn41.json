@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Боеприпасы",
+  "sorting": "a",
+  "type": "RollTable",
+  "folder": "qf6PR5ZRji9tzZjs",
+  "_id": "0AbuyKzqZg8gmn41",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!0AbuyKzqZg8gmn41"
+}

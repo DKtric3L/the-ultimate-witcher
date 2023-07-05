@@ -1,0 +1,43 @@
+{
+  "name": "Генератор: Краснолюд",
+  "img": "icons/svg/castle.svg",
+  "results": [
+    "igDANbaFG5sSYm1T",
+    "FyjZwFRJUzcqDrwW",
+    "VySuFOPm5I8jY8r9",
+    "lQTRDF2dEv3hPTOh",
+    "fHqJQkniV2WVHHIf",
+    "g4JnOCAOpDRIw8tQ",
+    "rx40q7d9iV7PIvy0",
+    "hNdtp3IHu6NaWkJo"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.pbCmVenPQATBcoCm"
+    },
+    "cf": {
+      "id": "temp_viybqj0tbyk"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926177,
+    "modifiedTime": 1685496652558,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PCAssN2Ms7yLzuCv",
+  "folder": "8Q5kbNQc52bcIHVJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!PCAssN2Ms7yLzuCv"
+}

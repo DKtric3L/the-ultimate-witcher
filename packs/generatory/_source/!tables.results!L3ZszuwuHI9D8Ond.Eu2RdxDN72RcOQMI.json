@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    22,
+    22
+  ],
+  "drawn": false,
+  "text": "Народное средство от чего-то",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-blue.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "f4Phz6aGFVDcKyJE",
+  "_id": "Eu2RdxDN72RcOQMI",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.Eu2RdxDN72RcOQMI"
+}

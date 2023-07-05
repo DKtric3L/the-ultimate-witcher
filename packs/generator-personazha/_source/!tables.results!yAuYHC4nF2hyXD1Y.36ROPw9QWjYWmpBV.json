@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли испытания - Дополнительные мутации(+1 к эмп и лвк). Ваше тело очень хорошо отозвалось на испытание травами, и вы получили дополнительные мутации. Вы успешно перенесли испытание, и вся испытанная боль того стоила.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    14
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!yAuYHC4nF2hyXD1Y.36ROPw9QWjYWmpBV"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Ласточкина трава",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/celandine_64x64.png.6666.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_z8408wef228",
+      "color": "#f57600"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 8,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Common",
+    "location": "Поля и леса",
+    "quantityObtainable": "1d10",
+    "forage": "12",
+    "substanceType": "rebis"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1685496583946,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wRVuVg8Ym0cCUaCW",
+  "folder": "4gDXDEmHwNJ2K1tR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!wRVuVg8Ym0cCUaCW"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Мастер - Земля",
+  "description": "A random table created from the contents of the Земля Folder.",
+  "results": [
+    "Oec5MajEJ7gV48Up",
+    "MjTJpwPI52CgWJPz",
+    "es8OMXetfuKpHP0L",
+    "Ivt01vfkMnghCPjM"
+  ],
+  "formula": "1d4",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a2677882a7071aa95effc5371ff2f11ecc63ad2b",
+      "sourceId": "RollTable.rphw0vNTUtNmYVla"
+    },
+    "core": {
+      "sourceId": "RollTable.rphw0vNTUtNmYVla"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593730867,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "7D6uJzB4q0VItM71",
+  "_key": "!tables!7D6uJzB4q0VItM71"
+}

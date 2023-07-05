@@ -1,0 +1,16 @@
+{
+  "_id": "RL96ak8Y8PedDk55",
+  "flags": {},
+  "type": 0,
+  "text": "Твоя профессия: Маг.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GIZb2oWMI458UKwX.RL96ak8Y8PedDk55"
+}

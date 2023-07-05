@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "xMrTqJfWCpVY1V2d",
+  "text": "Нет азартных игр",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!HXOQTSwUIR7Sbv7i.xMrTqJfWCpVY1V2d"
+}

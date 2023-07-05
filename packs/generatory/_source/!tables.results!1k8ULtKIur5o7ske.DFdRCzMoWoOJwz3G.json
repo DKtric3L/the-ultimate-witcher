@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Рабочий с топором",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Opolchenie_krestian_Lorenzo_Mastroianni.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "yc1m8fKfNHWSRe5v",
+  "_id": "DFdRCzMoWoOJwz3G",
+  "flags": {},
+  "_key": "!tables.results!1k8ULtKIur5o7ske.DFdRCzMoWoOJwz3G"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "UdHUplxRtBUmcUsy",
+  "flags": {},
+  "type": 0,
+  "text": "В этом десятилетии вы сыскали выгоду.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!9wLVgbnUAU3Sxvhj.UdHUplxRtBUmcUsy"
+}

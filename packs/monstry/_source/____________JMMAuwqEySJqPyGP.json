@@ -1,0 +1,42 @@
+{
+  "name": "Зубы накера",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tooth_necrophage.dds_.6950.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Накеры",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.CtlLGbc7q2ol3m5D"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1669964653256,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "JMMAuwqEySJqPyGP",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!LWyTykezbv57m37B.JMMAuwqEySJqPyGP"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Слёзы жён",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/wives_tears.png",
+  "system": {
+    "description": "",
+    "quantity": "2",
+    "weight": 0.1,
+    "cost": 56,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "Принятая порция слёз жён отменяет эффекты опьянения.\nПринявший это зелье немедленно трезвеет.",
+    "time": "",
+    "toxicity": ""
+  },
+  "sort": 325000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.5wQ5xavgJakHJgjU"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1671035133157,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "UXEyNXQ7wYdqknWl",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.UXEyNXQ7wYdqknWl"
+}

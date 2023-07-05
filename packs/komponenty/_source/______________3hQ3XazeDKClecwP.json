@@ -1,0 +1,42 @@
+{
+  "name": "Глаз прибожка",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/eye_cyclops_64x64.png.6898.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xvosmbgy3f",
+      "color": "#4ab2bf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 55,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Godlings",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853698,
+    "modifiedTime": 1685496584189,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3hQ3XazeDKClecwP",
+  "folder": "AFuI03RtWy2s7Q7F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3hQ3XazeDKClecwP"
+}

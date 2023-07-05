@@ -1,0 +1,26 @@
+{
+  "_id": "kqC2ndxYjAnVi4ul",
+  "name": "Лисья природа",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Агуара может обратиться в лису и обратно, не будучи замеченной."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!6MVxQpF5plpAkAB3.kqC2ndxYjAnVi4ul"
+}

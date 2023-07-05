@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Скеллигский воин",
+  "img": "modules/the-ultimate-witcher/assets/monsters/skellige_warrior.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "KqfoOkm6g0kP88Ss",
+  "_id": "cXjG5wlSvICDC2em",
+  "flags": {},
+  "_key": "!tables.results!tlNi36XdXbe970gp.cXjG5wlSvICDC2em"
+}

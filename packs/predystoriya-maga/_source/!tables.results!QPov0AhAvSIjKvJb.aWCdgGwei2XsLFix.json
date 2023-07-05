@@ -1,0 +1,16 @@
+{
+  "_id": "aWCdgGwei2XsLFix",
+  "type": 0,
+  "text": "Занимался темной магией. Вы баловались темной магией и выпустили в мир демона. Ты носишь Люцифуг демона, и они всегда знают, где ты. Вас взял в ученики маг.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!QPov0AhAvSIjKvJb.aWCdgGwei2XsLFix"
+}
