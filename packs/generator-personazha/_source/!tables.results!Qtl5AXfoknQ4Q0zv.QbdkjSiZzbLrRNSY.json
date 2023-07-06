@@ -1,0 +1,16 @@
+{
+  "_id": "QbdkjSiZzbLrRNSY",
+  "type": 2,
+  "text": "Как люди реагировали на вашу магию?",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "1LPYkOqxCeAmFnFT",
+  "_key": "!tables.results!Qtl5AXfoknQ4Q0zv.QbdkjSiZzbLrRNSY"
+}

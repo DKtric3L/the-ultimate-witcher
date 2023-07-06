@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    24,
+    24
+  ],
+  "drawn": false,
+  "text": "Покрытая резьбой кость",
+  "img": "icons/commodities/bones/horn-engraved-stripes-white.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "kZKUAJBPdBjKLEhQ",
+  "_id": "pqztJMZkivXEjvdH",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.pqztJMZkivXEjvdH"
+}

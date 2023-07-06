@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Карта местности",
+  "img": "icons/tools/navigation/map-marked-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "bTt5c6OrypXJsMLq",
+  "_id": "xE5Sh9OseIgk56W7",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.xE5Sh9OseIgk56W7"
+}

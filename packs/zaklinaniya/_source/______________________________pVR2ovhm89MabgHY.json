@@ -1,0 +1,83 @@
+{
+  "name": "Второй Этап Испытания травами",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zhest.HOStN3aKeMJ5bk2M"
+    },
+    "cf": {
+      "id": "temp_5fs5k8llj4f"
+    }
+  },
+  "system": {
+    "description": "<p>В тело будущего ведьмака внедряются мутагены, которые оканчивают его превращение.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": null,
+    "alchemyDC": 0,
+    "craftingTime": "",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "_kzr83qrno",
+        "name": "Талант мутации 10 уровня(Маг)",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_uqkh32t5j",
+        "name": "Любой Красный Мутаген",
+        "quantity": "1"
+      },
+      {
+        "id": "_aizivyabb",
+        "name": "Любой Синий Мутаген",
+        "quantity": "1"
+      },
+      {
+        "id": "_x9b49bpr1",
+        "name": "Любой Зелёный Мутаген",
+        "quantity": "1"
+      }
+    ],
+    "investment": null,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496639186,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "folder": "MoEHlU2BhTZKp1h3",
+  "sort": 0,
+  "_id": "pVR2ovhm89MabgHY",
+  "_key": "!items!pVR2ovhm89MabgHY"
+}

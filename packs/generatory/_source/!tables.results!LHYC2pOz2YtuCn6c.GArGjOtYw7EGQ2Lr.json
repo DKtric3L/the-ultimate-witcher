@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Оружие - Подмастерье",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "qyjhZiog9DAbVsLV",
+  "_id": "GArGjOtYw7EGQ2Lr",
+  "flags": {},
+  "_key": "!tables.results!LHYC2pOz2YtuCn6c.GArGjOtYw7EGQ2Lr"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "YqKoWFzgGZuSuzj0",
+  "flags": {},
+  "type": 2,
+  "text": "Style: Affectations",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "YteBMR3Arfy3K9SZ",
+  "_key": "!tables.results!CjaIcLRWSlzwI6ly.YqKoWFzgGZuSuzj0"
+}

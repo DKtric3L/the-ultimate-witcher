@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Рюхин",
+  "img": "modules/the-ultimate-witcher/assets/monsters/ryuhin.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "8FMvYdrRjZw0oKqW",
+  "_id": "MeTrmR9hb0ASyGEe",
+  "flags": {},
+  "_key": "!tables.results!Py1eaPHfXVJvNA6s.MeTrmR9hb0ASyGEe"
+}

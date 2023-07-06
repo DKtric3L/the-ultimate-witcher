@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Махакамская сталь",
+  "img": "icons/commodities/metal/ingot-stamped-steel.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "lbUH5LeHtbSEucA8",
+  "_id": "JCO6Ic7iyf1zfwqa",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.JCO6Ic7iyf1zfwqa"
+}

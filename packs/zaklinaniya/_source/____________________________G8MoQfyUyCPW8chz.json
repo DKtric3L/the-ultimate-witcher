@@ -1,0 +1,60 @@
+{
+  "name": "Жертвоприношение Свальблода",
+  "type": "spell",
+  "img": "icons/magic/death/skull-sand-white-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.enZ98FaDSLuCAuyE"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Жертвоприношение Свальблода позволяет призвать материальную форму бога Свальблода, принеся в жертву 3 человек на каменном алтаре. Для успеха ритуала нужно 2 жертвы, но без третей Свальблод не получит все свои силы.",
+    "range": "",
+    "duration": "одно использование",
+    "defence": "",
+    "components": "Идеальный драгоценный камень (x1), Пятая эссенция (x5), Мелок (x4), Дымная пыль (x1), Камень (x10), Зуб Свальблода (x10), Темная пыль (x3), Жертвы (x2/3)",
+    "alternateComponents": "",
+    "preparationTime": "15 раундов",
+    "dificultyCheck": "15",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "G8MoQfyUyCPW8chz",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!G8MoQfyUyCPW8chz"
+}

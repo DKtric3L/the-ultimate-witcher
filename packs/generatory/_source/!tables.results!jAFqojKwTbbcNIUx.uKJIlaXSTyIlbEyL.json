@@ -1,0 +1,16 @@
+{
+  "_id": "uKJIlaXSTyIlbEyL",
+  "type": 2,
+  "text": "Ведьмачьи знаки",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "g5N58Pa9V80sszGb",
+  "_key": "!tables.results!jAFqojKwTbbcNIUx.uKJIlaXSTyIlbEyL"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Торрур",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-crossguard-flanged-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2ps351j34un"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 1075,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "6d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "50"
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863944,
+    "modifiedTime": 1685496598616,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "z0Asdk1OIL8QtziQ",
+  "folder": "OTwHAIoGyBjQBAVX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!z0Asdk1OIL8QtziQ"
+}

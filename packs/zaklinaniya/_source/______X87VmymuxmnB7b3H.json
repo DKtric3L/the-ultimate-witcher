@@ -1,0 +1,57 @@
+{
+  "name": "Изъян",
+  "type": "spell",
+  "img": "icons/magic/unholy/strike-beam-blood-large-red-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_dpnqmwag5w"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Изъян позволяет вам создать небольшую, но заметную иллюзию на цели, о которой они не подозревают, что делает их отталкивающими или непривлекательными. При накладывании этого заклинания цель получает -3 к проверкам Соблазнения, Харизмы и Лидерства. Если цель предупреждена об иллюзорном пятне, она узнает об этом. Цель, которая смотрит в зеркало или отражающую поверхность, может пройти проверку Внимания с Сл:16, чтобы заметить это.",
+    "range": "4м",
+    "duration": "1d6 часов",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(часы)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496637764,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "X87VmymuxmnB7b3H",
+  "folder": "cnIlwgnwtzSIOWjW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!X87VmymuxmnB7b3H"
+}

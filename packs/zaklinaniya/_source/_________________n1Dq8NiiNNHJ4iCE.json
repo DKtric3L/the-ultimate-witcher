@@ -1,0 +1,57 @@
+{
+  "name": "Управление водой",
+  "type": "spell",
+  "img": "icons/magic/water/water-hand.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_lu7t5sx8px8"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "Water",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Позволяет управлять скоростью и направлением течения воды на время действия заклинания. Управление водой можно использовать для снижения скорости плавающих целей вдвое, для ускорения кораблей в полтора раза или для замедления или остановки речного течения",
+    "range": "10м",
+    "duration": "Актив(2 вын)",
+    "defence": "Сл ведущего",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496637883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "n1Dq8NiiNNHJ4iCE",
+  "folder": "KwqiK2bUcnubIyHN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!n1Dq8NiiNNHJ4iCE"
+}

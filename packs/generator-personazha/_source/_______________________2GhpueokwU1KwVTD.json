@@ -1,0 +1,44 @@
+{
+  "name": "Женщина - Телосложение",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "evjQjOBvMkawf0HY",
+    "O8FFpOmjCthSHDim",
+    "fOWMV819RWMaPaPw",
+    "2WvDOZoIXC6RJlWv",
+    "48PKm3bgEWvwnl4x",
+    "tYkaEtSo4Hg8De7u",
+    "1QIvfoGXbnPyYt5p",
+    "faBg4pCzBOGVojrR",
+    "wQjTDOXT5HVeo8jy",
+    "nv6iZzefQRvpN3NW"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "2GhpueokwU1KwVTD",
+  "_key": "!tables!2GhpueokwU1KwVTD"
+}

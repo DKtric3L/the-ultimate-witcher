@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Жизнь мага - эксперименты",
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "s9cYIwhQJhSEN5sV",
+  "_id": "zP33zDt7jabc8MGm",
+  "flags": {},
+  "_key": "!tables.results!T2XeZDKHfHH0QG4w.zP33zDt7jabc8MGm"
+}

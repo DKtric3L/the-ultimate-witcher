@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Ячмень",
+  "img": "systems/TheWitcherTRPG/assets/images/vitriol.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "zmcTXsM9C9xL6E2z",
+  "_id": "RREAcnXpSHYV67WQ",
+  "flags": {},
+  "_key": "!tables.results!4kxGsvn8IERGehNl.RREAcnXpSHYV67WQ"
+}

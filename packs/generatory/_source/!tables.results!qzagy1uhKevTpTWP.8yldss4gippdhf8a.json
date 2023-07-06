@@ -1,0 +1,16 @@
+{
+  "text": "Тёмная одежда",
+  "type": 2,
+  "img": "icons/equipment/back/cloak-hooded-blue.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "8yldss4gippdhf8a",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "cwUttoq8O4ZfUQeV",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.8yldss4gippdhf8a"
+}

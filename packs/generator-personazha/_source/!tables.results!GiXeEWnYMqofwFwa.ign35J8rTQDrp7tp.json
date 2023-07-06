@@ -1,0 +1,16 @@
+{
+  "_id": "ign35J8rTQDrp7tp",
+  "type": 2,
+  "text": "Как вы обнаружили свои способности?",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "Qtl5AXfoknQ4Q0zv",
+  "_key": "!tables.results!GiXeEWnYMqofwFwa.ign35J8rTQDrp7tp"
+}

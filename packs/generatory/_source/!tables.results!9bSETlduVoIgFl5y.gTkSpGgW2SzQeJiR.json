@@ -1,0 +1,16 @@
+{
+  "text": "Краснолюдское усиление",
+  "type": 2,
+  "img": "icons/sundries/books/book-red-square.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "gTkSpGgW2SzQeJiR",
+  "documentId": "pB8MSubzO2ePKQL3",
+  "flags": {},
+  "_key": "!tables.results!9bSETlduVoIgFl5y.gTkSpGgW2SzQeJiR"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Медицинская кадильница",
+  "type": 2,
+  "img": "icons/tools/laboratory/burner-steel-grey.webp",
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "_id": "navwguh803up4r7m",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "FjkJyCKehnKTirLI",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.navwguh803up4r7m"
+}

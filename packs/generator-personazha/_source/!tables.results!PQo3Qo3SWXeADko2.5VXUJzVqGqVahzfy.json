@@ -1,0 +1,16 @@
+{
+  "_id": "5VXUJzVqGqVahzfy",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Тайная полиция забрала кого-то из ваших родителей(Или обоих) на допрос. Неделю спустя тела нашли повешенными на улице.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!PQo3Qo3SWXeADko2.5VXUJzVqGqVahzfy"
+}

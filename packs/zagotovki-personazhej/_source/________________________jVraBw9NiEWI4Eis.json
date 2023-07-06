@@ -1,0 +1,44 @@
+{
+  "name": "Колода для игры в гвинт",
+  "type": "valuable",
+  "img": "icons/sundries/gaming/playing-cards-black.webp",
+  "system": {
+    "description": "Понятия не имею, как гвинт так быстро набрал популярность. В этой стратегической игре есть здоровенные колоды карт, основанные на пяти реальных силах: Королевства Севера, Нильфгаард, скоятаэли, чудовища и Скеллиге.\n\nПравила игры - каждый игрок бросает 10d10, и записывает результаты. Это сила десяти ваших карт, выкладывая на стол которые вы набираете очки. Ваша цель - набрать больше очков в раунде, чем у оппонента, потратив как можно меньше карт. Игра до двух побед. Можно спасовать, тогда вы скорее всего проиграете(Особенно, если не выложили ни одной карты), но у вас будет шанс вернуть господство в следующем раунде.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 5,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_qtp9pduhxta",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.MKzmGR4yz7bfrclY"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663424876557,
+    "modifiedTime": 1663424876557,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "jVraBw9NiEWI4Eis",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dGYJGK7TFYppq74h.jVraBw9NiEWI4Eis"
+}

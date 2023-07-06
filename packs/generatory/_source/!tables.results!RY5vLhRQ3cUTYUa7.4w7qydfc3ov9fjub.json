@@ -1,0 +1,16 @@
+{
+  "text": "Покрытая резьбой человеческая кость",
+  "type": 2,
+  "img": "icons/commodities/bones/horn-engraved-vines-grey.webp",
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "drawn": false,
+  "_id": "4w7qydfc3ov9fjub",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "qHf7mtprPSMcIl6o",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.4w7qydfc3ov9fjub"
+}

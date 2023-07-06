@@ -1,0 +1,16 @@
+{
+  "text": "Мысленный приказ",
+  "type": 2,
+  "img": "icons/magic/control/silhouette-aura-energy.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "24tknk5bUiyPt7OT",
+  "documentId": "2023eejdh7iaQ7TQ",
+  "flags": {},
+  "_key": "!tables.results!gFroPnYuQcPBOSr2.24tknk5bUiyPt7OT"
+}

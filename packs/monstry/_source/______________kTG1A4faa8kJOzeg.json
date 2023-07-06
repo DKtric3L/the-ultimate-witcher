@@ -1,0 +1,60 @@
+{
+  "_id": "kTG1A4faa8kJOzeg",
+  "name": "Гвинт Троэлли",
+  "type": "spell",
+  "img": "icons/magic/air/wind-tornado-funnel-damage-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_ex348povmdi"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.tleYeOBCJ8S3oL6U"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Гвинт Троэлли создаёт вокруг вас барьер из ветра, блокирующий дистанционные атаки и снаряды. Если результат проверки дистанционной атаки не превышает ваш результат Сотворения заклинаний, то снаряд отлетает от барьера на 8 метров в случайном направлении.",
+    "range": "радиус 10м",
+    "duration": "актив(4 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!35PrRyyk0lNl1KVq.kTG1A4faa8kJOzeg"
+}

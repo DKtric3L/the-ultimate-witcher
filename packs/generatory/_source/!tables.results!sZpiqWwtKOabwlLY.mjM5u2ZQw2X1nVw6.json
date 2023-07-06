@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Храбрость Фрейи",
+  "img": "icons/magic/light/explosion-beam-impact-silhouette.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "d7UvV8Uxq6ThFiRe",
+  "_id": "mjM5u2ZQw2X1nVw6",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.mjM5u2ZQw2X1nVw6"
+}

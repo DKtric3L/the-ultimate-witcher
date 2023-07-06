@@ -1,0 +1,16 @@
+{
+  "text": "Пиво",
+  "type": 2,
+  "img": "icons/containers/kitchenware/stein-empty.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "_id": "lamtfxnp39iduka7",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "TrCiAXSYn54SHVz2",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.lamtfxnp39iduka7"
+}

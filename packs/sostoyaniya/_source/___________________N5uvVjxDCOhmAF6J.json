@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Яд аконита",
+  "type": "effect",
+  "img": "icons/commodities/materials/bowl-powder-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    },
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.C6c9eod6aJzrtz6U"
+    }
+  },
+  "system": {
+    "description": "Яд аконита немедленно заставляет цель страдать от удушья. Чтобы выйти из состояния удушья, цель должна пройти проверку Выносливости Сл:20, или кто-то должен помочь пройти проверку Первой помощи Сл:20",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883188,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "N5uvVjxDCOhmAF6J",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!N5uvVjxDCOhmAF6J"
+}

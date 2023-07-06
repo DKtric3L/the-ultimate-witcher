@@ -1,0 +1,65 @@
+{
+  "name": "Скеллигский шлем",
+  "type": "armor",
+  "img": "icons/equipment/head/helm-sallet-grey.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_mxldaj92pz"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3.5,
+    "cost": 700,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 25,
+    "headMaxStopping": 25,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Heavy",
+    "avail": "Poor",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Ограничение зрения"
+      }
+    ],
+    "encumb": 1,
+    "location": "Head",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837868,
+    "modifiedTime": 1685496574789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5MMugSvrV9dOpILN",
+  "folder": "tJIMKEBfKhFRtsQQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5MMugSvrV9dOpILN"
+}

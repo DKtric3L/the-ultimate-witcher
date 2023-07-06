@@ -1,0 +1,60 @@
+{
+  "_id": "QGSx04LO03sKPWjE",
+  "name": "Иллюзия",
+  "type": "spell",
+  "img": "icons/magic/control/silhouette-hold-change-green.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_ex348povmdi"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.7aTfqwsZR2J38zah"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Позволяет сотворить любую визуальную иллюзию в пределах 20 метров от заклинателя. Любой, кто провалит проверку Сопротивления магии, не только видит иллюзию, но и верит в её реальность. Однако иллюзия не пахнет, её не слышно, и к ней нельзя прикоснуться.",
+    "range": "20м",
+    "duration": "Актив(4 вын)",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.QGSx04LO03sKPWjE"
+}

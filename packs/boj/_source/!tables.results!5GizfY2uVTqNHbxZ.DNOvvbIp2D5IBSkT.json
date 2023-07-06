@@ -1,0 +1,16 @@
+{
+  "_id": "DNOvvbIp2D5IBSkT",
+  "type": 0,
+  "text": "Земля: Земля вокруг начинает ходить ходуном, нанося ему урон, в зависимости от величины критического провала. Персонаж дезориентирован.",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5GizfY2uVTqNHbxZ.DNOvvbIp2D5IBSkT"
+}

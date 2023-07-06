@@ -1,0 +1,16 @@
+{
+  "text": "Усиление из клёпаной кожи",
+  "type": 2,
+  "img": "icons/equipment/shoulder/shoulderguard-segmented-studded-leather-brass.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "dmytdpe0kf7b3bf3",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "q53HTpWsaxifG5LR",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.dmytdpe0kf7b3bf3"
+}

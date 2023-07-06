@@ -1,0 +1,16 @@
+{
+  "_id": "JBbR1JdZQzU92Pn3",
+  "type": 2,
+  "text": "Стандартное снаряжение",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "f9rtJAHzfvog1kNz",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.JBbR1JdZQzU92Pn3"
+}

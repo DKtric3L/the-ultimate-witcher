@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "text": "Высший вампир - События в жизни",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "82Gl6NYRFaEl274h",
+  "_id": "vzd1zPTyHJxtjGfZ",
+  "flags": {},
+  "_key": "!tables.results!kFqwDYlgGZSaQCYZ.vzd1zPTyHJxtjGfZ"
+}

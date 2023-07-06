@@ -1,0 +1,45 @@
+{
+  "name": "Записная книжка с зашифрованными именами любовниц",
+  "type": "valuable",
+  "img": "icons/sundries/books/book-embossed-blue.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_pcz898xpa9",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.s2dzRq1cUq1gAnao"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868972,
+    "modifiedTime": 1671035472765,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "hhj1bRMQ3081D87k",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!p22j81fJJYgk0Zfx.hhj1bRMQ3081D87k"
+}

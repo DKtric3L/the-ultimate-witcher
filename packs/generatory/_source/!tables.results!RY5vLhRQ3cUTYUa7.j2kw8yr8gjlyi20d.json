@@ -1,0 +1,16 @@
+{
+  "text": "Кольцо для черной магии",
+  "type": 2,
+  "img": "icons/equipment/finger/ring-bone-spiked-skull.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "_id": "j2kw8yr8gjlyi20d",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "lufNj9tbOJRbARSy",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.j2kw8yr8gjlyi20d"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "jOMIjEuLsQAjFYI0",
+  "type": 0,
+  "text": "Разыскал потенциального мага. Вы нашли молодого человека, одаренного Хаосом. Вы помогли им обуздать свои силы и обучили их стать магами. Вы находитесь в постоянном общении и можете попросить их повторно изучить магические вопросы для вас. Вы получаете союзника-мага.",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ENltA9xkbh8cljBm.jOMIjEuLsQAjFYI0"
+}

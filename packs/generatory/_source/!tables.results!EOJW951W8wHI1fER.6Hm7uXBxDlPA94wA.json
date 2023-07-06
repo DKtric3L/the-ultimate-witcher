@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Корень зарника",
+  "img": "systems/TheWitcherTRPG/assets/images/aether.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "DQ9oWviYotvxPMRl",
+  "_id": "6Hm7uXBxDlPA94wA",
+  "flags": {},
+  "_key": "!tables.results!EOJW951W8wHI1fER.6Hm7uXBxDlPA94wA"
+}

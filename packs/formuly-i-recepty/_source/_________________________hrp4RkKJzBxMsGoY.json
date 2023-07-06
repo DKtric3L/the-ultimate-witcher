@@ -1,0 +1,165 @@
+{
+  "name": "Серебряный ведьмачий меч",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-triangle-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.hrp4RkKJzBxMsGoY"
+    },
+    "cf": {
+      "id": "temp_oavemrlvbr8"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.OTYs7TCEArXIRnDs]{Серебряный ведьмачий меч}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 19,
+    "alchemyDC": 0,
+    "craftingTime": "10ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_w2qhldptr",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_skcil301c",
+        "name": "Серебро",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_oke4ucjgs",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_gr24x8u1y",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_9mrpt1ihv",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_udy98s9ws",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 498,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Серебряный ведьмачий меч",
+      "type": "weapon",
+      "img": "icons/weapons/swords/greatsword-crossguard-steel.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1.5,
+        "cost": null,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "1d6+2",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Серебряное(3d6)",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_ub4c5p36xla"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887310,
+        "modifiedTime": 1668162887310,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848427,
+    "modifiedTime": 1685496578924,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hrp4RkKJzBxMsGoY",
+  "folder": "Tf7D5mVUyimkB23i",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hrp4RkKJzBxMsGoY"
+}

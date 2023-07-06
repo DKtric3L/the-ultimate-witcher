@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Лепестки морозника",
+  "img": "systems/TheWitcherTRPG/assets/images/aether.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "0T4ax0REvDuA4yMa",
+  "_id": "IEiWSew8bPRjY6WL",
+  "flags": {},
+  "_key": "!tables.results!EOJW951W8wHI1fER.IEiWSew8bPRjY6WL"
+}

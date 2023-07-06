@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Мастер - Смешанная магия",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "gFroPnYuQcPBOSr2",
+  "_id": "M4O6ZzA9grp6W1D0",
+  "flags": {},
+  "_key": "!tables.results!qXzcIUTDktfT2ZTb.M4O6ZzA9grp6W1D0"
+}

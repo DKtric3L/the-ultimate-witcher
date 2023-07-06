@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "klJsg1lPxKfbBsFW",
+  "text": "Вид татуировки - Существа",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!smHaC9uyeNmi54Es.klJsg1lPxKfbBsFW"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Покрытый рунами деревянный кол",
+  "type": 2,
+  "img": "icons/commodities/wood/fence-post-brown.webp",
+  "weight": 1,
+  "range": [
+    21,
+    21
+  ],
+  "drawn": false,
+  "_id": "xddal2oun3csg8n8",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "7LcXERcYbEgBkiim",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.xddal2oun3csg8n8"
+}

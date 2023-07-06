@@ -1,0 +1,16 @@
+{
+  "_id": "YO4gBbVH60icQH1F",
+  "type": 0,
+  "text": "Проклят. Вы были прокляты либо собственной рукой, либо гневом кого-то из вашей школы. Вместе с Мастером выберите подходящее проклятие.",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!sXXtH4a5k1pk0l84.YO4gBbVH60icQH1F"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Воровские инструменты",
+  "type": 2,
+  "img": "icons/containers/chest/chest-reinforced-stone.webp",
+  "weight": 1,
+  "range": [
+    23,
+    23
+  ],
+  "drawn": false,
+  "_id": "tdsxa02pbum5oj19",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "BnisSHqWqKhbcnjr",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.tdsxa02pbum5oj19"
+}

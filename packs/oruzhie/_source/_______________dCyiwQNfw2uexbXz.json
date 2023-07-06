@@ -1,0 +1,66 @@
+{
+  "name": "Ручной арбалет",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/handcrossbow-black.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uugqhd13qjr"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 285,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 1,
+    "avail": "Everywhere",
+    "damage": "2d6+2",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "50",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Медленно перезаряжается",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Crossbow",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863942,
+    "modifiedTime": 1685496598674,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "dCyiwQNfw2uexbXz",
+  "folder": "OfTUWgpov2wtraF3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!dCyiwQNfw2uexbXz"
+}

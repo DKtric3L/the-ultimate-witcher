@@ -1,0 +1,37 @@
+{
+  "name": "Эффект трофея - Ослизг",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/trophy/oslizg.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lZTRxOAm7FAy4aI5"
+    },
+    "cf": {
+      "id": "temp_mgri5lboda"
+    }
+  },
+  "system": {
+    "description": "Вы добавляете +2 к Сотворению заклинаний при использовании заклинаний и знаков, основанных на огне.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883180,
+    "modifiedTime": 1685496622016,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1EQKXC4ve7THeqjs",
+  "folder": "Ny5twfeEX4VEIr47",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1EQKXC4ve7THeqjs"
+}

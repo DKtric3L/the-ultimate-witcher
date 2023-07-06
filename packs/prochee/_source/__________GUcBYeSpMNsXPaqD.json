@@ -1,0 +1,65 @@
+{
+  "name": "Активация",
+  "type": "weapon",
+  "_id": "GUcBYeSpMNsXPaqD",
+  "img": "icons/skills/movement/ball-spinning-blue.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийный",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "8",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Любой, попавший в зону взрыва, должен пройти проверку Стойкости,СЛ 18. При провале он начинает сражаться с ближайшим к нему существом, пока не совершит успешную проверку.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Actor.z9h3UWrPM3zVPXvF.Item.GUcBYeSpMNsXPaqD"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668183202483,
+    "modifiedTime": 1668183233698,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_key": "!actors.items!3x0H4I4tTLTcH63d.GUcBYeSpMNsXPaqD"
+}

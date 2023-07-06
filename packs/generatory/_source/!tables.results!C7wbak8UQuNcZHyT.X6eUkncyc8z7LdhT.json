@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Помино",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/fiorano.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "VU9MOLTQvalTlyeg",
+  "_id": "X6eUkncyc8z7LdhT",
+  "flags": {},
+  "_key": "!tables.results!C7wbak8UQuNcZHyT.X6eUkncyc8z7LdhT"
+}

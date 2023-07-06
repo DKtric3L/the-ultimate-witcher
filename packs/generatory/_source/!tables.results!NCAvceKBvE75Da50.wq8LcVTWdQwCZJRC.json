@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Дикая охота",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "5tfGWAzBNqJfO1Gr",
+  "_id": "wq8LcVTWdQwCZJRC",
+  "flags": {},
+  "_key": "!tables.results!NCAvceKBvE75Da50.wq8LcVTWdQwCZJRC"
+}

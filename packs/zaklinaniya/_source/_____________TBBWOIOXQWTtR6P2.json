@@ -1,0 +1,60 @@
+{
+  "name": "Сильные Ноги",
+  "type": "spell",
+  "img": "icons/magic/movement/trail-streak-impact-blue.webp",
+  "system": {
+    "class": "MagicalGift",
+    "level": "minor gift",
+    "source": "",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "В качестве действия вы можете удвоить дальность своего Прыжка на 1 раунд.",
+    "range": "",
+    "duration": "1 раунд",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "Когда вас отбрасывает назад, вы перемещаетесь еще на 4 м, увеличивая возможный урон, получаемый от удара по объекту.",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.d7Ge8fnJ4Pr8GEZv"
+    },
+    "cf": {
+      "id": "temp_rpgkv4xo64q"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670242348376,
+    "modifiedTime": 1685496637371,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Q9L0nlR84L8aYj92",
+  "sort": 0,
+  "_id": "TBBWOIOXQWTtR6P2",
+  "_key": "!items!TBBWOIOXQWTtR6P2"
+}

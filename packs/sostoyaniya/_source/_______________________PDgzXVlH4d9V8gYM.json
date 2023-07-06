@@ -1,0 +1,53 @@
+{
+  "name": "Симптом: Мышечная боль",
+  "type": "effect",
+  "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lYPiDLqoaXNdr3fO"
+    },
+    "cf": {
+      "id": "temp_nxdlb2anpj"
+    }
+  },
+  "system": {
+    "description": "Мышцы ломит тупой болью.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_daw2k5xte",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-1"
+      },
+      {
+        "id": "_mvbs9mm63",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-1"
+      },
+      {
+        "id": "_38shwg36t",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1685496621715,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PDgzXVlH4d9V8gYM",
+  "folder": "gc7euHqdhcoTNbKd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PDgzXVlH4d9V8gYM"
+}

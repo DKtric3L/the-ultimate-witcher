@@ -1,0 +1,68 @@
+{
+  "name": "Доспехи горного народа",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-leather-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-dospehov.xAwmCJqpLvrJw2cM"
+    },
+    "cf": {
+      "id": "temp_uj8iaif803"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 15,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 24,
+    "headMaxStopping": 24,
+    "torsoStopping": 24,
+    "torsoMaxStopping": 24,
+    "leftArmStopping": 24,
+    "leftArmMaxStopping": 24,
+    "rightArmStopping": 24,
+    "rightArmMaxStopping": 24,
+    "leftLegStopping": 24,
+    "leftLegMaxStopping": 24,
+    "rightLegStopping": 24,
+    "rightLegMaxStopping": 24,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сопротивление яду"
+      }
+    ],
+    "encumb": 0,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": true,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877955,
+    "modifiedTime": 1685496616922,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "b2JUrUGqbgzhY07r",
+  "folder": "PRppF7wbRYRReD1k",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!b2JUrUGqbgzhY07r"
+}

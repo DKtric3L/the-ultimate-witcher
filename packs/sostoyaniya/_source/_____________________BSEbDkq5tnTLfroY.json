@@ -1,0 +1,51 @@
+{
+  "name": "Травма сердца (Стаб)",
+  "type": "effect",
+  "img": "icons/skills/wounds/anatomy-organ-heart-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_maooi46ln8"
+    }
+  },
+  "system": {
+    "description": "Урон повредил сердце персонажа.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "/2"
+      },
+      {
+        "id": "_aqdzoq71z",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "/2"
+      }
+    ],
+    "derived": [
+      {
+        "id": "first",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "/2"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883174,
+    "modifiedTime": 1685496621852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BSEbDkq5tnTLfroY",
+  "folder": "PLkbl9b4zJv5jmUU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!BSEbDkq5tnTLfroY"
+}

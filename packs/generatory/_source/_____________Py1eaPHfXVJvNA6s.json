@@ -1,0 +1,46 @@
+{
+  "name": "Заказ - Духи",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Specters.png",
+  "description": "",
+  "results": [
+    "3U7wLK1IhsB54PT5",
+    "E9H1bMbmIEfIYirj",
+    "MPun1Fb6CdurOeJX",
+    "yDEuvft0mNjeYZpD",
+    "lONDrimCk2BhqS65",
+    "kNdmNRVVJUpjGgdG",
+    "xfnVRXLHQLfED0x4",
+    "RO2pE8zOSRHPCNDA",
+    "MeTrmR9hb0ASyGEe",
+    "e9OAGXMfsq5vRKjn",
+    "Ht2rHwuVifvJKQoP",
+    "DPugzNANQ8MQk8er"
+  ],
+  "formula": "1d13",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_fs1p2hgxhmu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644753,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ZZd02IQkbh9qxG3G",
+  "sort": 0,
+  "_id": "Py1eaPHfXVJvNA6s",
+  "_key": "!tables!Py1eaPHfXVJvNA6s"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "CBouAXw4ERhtoDLD",
+  "name": "Иллюзия",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Сирена способна с помощью иллюзии мгновенно изменить свой облик, пре вратившись в прекрасную женщину с внешностью по своему выбору. Эту иллюзию можно рассеять проверкой Сотворения заклинаний со СЛ 15."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!BU6CSpWQ5ky2ZU9Q.CBouAXw4ERhtoDLD"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Глаз химеры",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/eye_necrophage.dds_.6902.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 192,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Frighteners",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "sol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.uTf9VQC4S7umXn9m"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853698,
+    "modifiedTime": 1669963955027,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "IZxLxcM3EuCoSD9J",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!8T6WvA4ZCWgaXb3t.IZxLxcM3EuCoSD9J"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Ваше нынешнее положение - Нормальная жизнь. Вы уже десятки лет пытаетесь оставить жизнь ведьмака. Это трудно, поскольку люди никогда не примут вас полностью, но вы кое-как ведёте практически нормальную жизнь. Желаем успехов!",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gWrO08z2ImuZyB4g.36ROPw9QWjYWmpBV"
+}

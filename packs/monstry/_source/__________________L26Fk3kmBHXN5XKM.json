@@ -1,0 +1,26 @@
+{
+  "_id": "L26Fk3kmBHXN5XKM",
+  "name": "Уязвимость - свет",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "На свету этерал замирает. Если его атаковать, он начнёт действовать, получая штрафы -4 к атаке и защите и -2 к скор."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!h90FOxen3LlHZn6X.L26Fk3kmBHXN5XKM"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "fpNzhxN35heF27Yk",
+  "name": "Магическая вспышка",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-glow-blue-purple.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.NqfJP6W7ZBrkGRf4"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Создаёт яркую вспышку над головой заклинателя. Все, кто находится в радиусе 8 м, должны совершить проверку Сопротивления магии или будут ослеплены на ld6 раундов. Вспышку видно на расстоянии 10 километров.",
+    "range": "радиус 8 м",
+    "duration": "мгновенное",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "rect",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TAgpqRjhqjZdQ6fL.fpNzhxN35heF27Yk"
+}

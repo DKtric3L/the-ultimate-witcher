@@ -1,0 +1,16 @@
+{
+  "_id": "VhVHZe033E66I30U",
+  "type": 0,
+  "text": "Наемничество. Вы сражались за мелкого дворянина в земельном споре. Вы сохранили часть своей зарплаты, после того, как школа забрала свою долю, конечно. Получите 1d6 x 100 крон.",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!EM1uMos8Enfzk9Rj.VhVHZe033E66I30U"
+}

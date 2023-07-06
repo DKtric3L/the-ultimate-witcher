@@ -1,0 +1,16 @@
+{
+  "_id": "a90EHPhkX2hszHH8",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Hunt - Was There a Twist?",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "U3EGBmrhFdcItow3",
+  "_key": "!tables.results!0Czkzh9GtsGa53CF.a90EHPhkX2hszHH8"
+}

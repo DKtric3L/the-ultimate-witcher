@@ -1,0 +1,63 @@
+{
+  "name": "Энье",
+  "type": "spell",
+  "img": "icons/magic/fire/projectile-fireball-embers-yellow.webp",
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Энье позволяет швырнуть сгусток пламени в противника, находящегося в пределах дистанции заклинания. Пламя наносит 4d6 урона с 75%-ным шансом горения.",
+    "range": "12м",
+    "duration": "мгновенное",
+    "defence": "Укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "75"
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_p8nj0svlvn"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.csR15PIFKhjdGG9h"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892180,
+    "modifiedTime": 1671034719288,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "o48M3VkQkeWEa3Hf",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.o48M3VkQkeWEa3Hf"
+}

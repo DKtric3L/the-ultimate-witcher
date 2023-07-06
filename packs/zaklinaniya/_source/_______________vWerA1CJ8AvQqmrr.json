@@ -1,0 +1,60 @@
+{
+  "name": "Видение смерти",
+  "type": "spell",
+  "img": "icons/magic/death/skull-energy-light-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.21bjVNVLYu010pl3"
+    },
+    "cf": {
+      "id": "temp_01h4gyhswg6t"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d6.\nВыбранное существо в пределах дистанции получает видение своей смерти или смерти близкого человека. При провале проверки Сопротивления магии, разум цели переполняется этими видениями, и она дезориентирована. Если у цели меньше половины максимума ПЗ, она получает дополнительные 2d6 некротического урона. Это заклинание может быть использовано только на разумных существах.",
+    "range": "20м",
+    "duration": "пока не сброшено",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496638575,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vWerA1CJ8AvQqmrr",
+  "folder": "ndviRHoqdpigGVTn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vWerA1CJ8AvQqmrr"
+}

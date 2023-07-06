@@ -1,0 +1,57 @@
+{
+  "name": "Слово призыва",
+  "type": "spell",
+  "img": "icons/creatures/birds/corvid-call-sound-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a1f9vxmt8yw"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "druid",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Произношение Слова Призыва взывает к ближайшему дикому животному которое прибывает в течение 1d6 раундов. Когда животное прибывает, оно дружелюбно к вам и будет помогать вам, пока вы не предаёте и не злоупотребляйте им. Если вы потратите 2 Вын на сотворение Слова призыва, то можно призвать маленькое животное (птицу, Змей, Кот и др.). Если вы потратите 5 Вын Вы можете вызвать среднее животное (Волки, Пантеры, Кабаны и т.д.). если ты потратив 10 Вын, вы можете призвать большое животное (медведь, бык, лошадь и др.). Слово Призыва можно использовать только один раз в день в области. Когда этот призыв заканчивается, животное становится нейтральным к вам.",
+    "range": "нет",
+    "duration": "10 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496638262,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lJ6De1XjG5snwQ2x",
+  "folder": "KJ7hbWltUlxzYhEM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lJ6De1XjG5snwQ2x"
+}

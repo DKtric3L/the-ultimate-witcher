@@ -1,0 +1,45 @@
+{
+  "name": "Яд кракена",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_harpy.dds_.6938.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xvosmbgy3f",
+      "color": "#f57600"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.FvJXWT2vbxoXGIvd"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 286,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "кракены",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853709,
+    "modifiedTime": 1685496584189,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Bfqv8LU88eKbCCkL",
+  "folder": "AFuI03RtWy2s7Q7F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Bfqv8LU88eKbCCkL"
+}

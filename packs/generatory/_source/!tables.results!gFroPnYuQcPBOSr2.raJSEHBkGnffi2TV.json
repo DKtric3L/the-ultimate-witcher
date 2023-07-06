@@ -1,0 +1,16 @@
+{
+  "text": "Кража заклинания",
+  "type": 2,
+  "img": "icons/magic/unholy/projectile-missile-green.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "raJSEHBkGnffi2TV",
+  "documentId": "iSkrIiQWikLot8LB",
+  "flags": {},
+  "_key": "!tables.results!gFroPnYuQcPBOSr2.raJSEHBkGnffi2TV"
+}

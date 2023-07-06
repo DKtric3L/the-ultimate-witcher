@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Протофледер",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Protofleder_Rudy_Siswanto.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "hxLFdF4TZpwdSjM4",
+  "_id": "WFEcvakgqP0PSGkY",
+  "flags": {},
+  "_key": "!tables.results!KyFSraxX1yw7cePM.WFEcvakgqP0PSGkY"
+}

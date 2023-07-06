@@ -1,0 +1,36 @@
+{
+  "name": "Оружие - Ведьмачье",
+  "img": "icons/sundries/books/book-symbol-triangle-blue.webp",
+  "results": [
+    "al7a728te17mt927",
+    "4w112cf2byed8vi1"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Ms0FPvPCSE2JakxN"
+    },
+    "cf": {
+      "id": "temp_w8j8kxtvyk"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932913,
+    "modifiedTime": 1685496644485,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pOpEuHsZd5LNEKrh",
+  "folder": "YQvs7SSKK7I1szPG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!pOpEuHsZd5LNEKrh"
+}

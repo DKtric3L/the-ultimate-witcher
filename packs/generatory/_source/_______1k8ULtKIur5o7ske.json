@@ -1,0 +1,40 @@
+{
+  "name": "Селяне",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "aUtm21TfC1jTwVz0",
+    "gR4Seaz8v9pVkJlq",
+    "DFdRCzMoWoOJwz3G",
+    "BgL7rHCViUYgW2Dg",
+    "jJ60uPLUbnIVvwAO",
+    "Kv9SlNXJlbfZUixx"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "1k8ULtKIur5o7ske",
+  "_key": "!tables!1k8ULtKIur5o7ske"
+}

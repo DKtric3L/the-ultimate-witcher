@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    35,
+    35
+  ],
+  "drawn": false,
+  "text": "Странный браслет",
+  "img": "icons/equipment/wrist/bracer-red-silver.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "DbIklK8DJylms1zC",
+  "_id": "b44mIgQRkA1SYFKb",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.b44mIgQRkA1SYFKb"
+}

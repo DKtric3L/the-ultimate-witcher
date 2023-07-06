@@ -1,0 +1,84 @@
+{
+  "name": "Бронированная адаптация",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zhest.Y9iI6lCciUKAuVsX"
+    },
+    "cf": {
+      "id": "temp_irvl6ds3fn"
+    }
+  },
+  "system": {
+    "description": "<p>Вы укрепляете покровы Существа, вводя в нее смесь зеленого мутагена и хитинового материала. Существо получает Сопротивление колющему и рубящему урону и теряет всю свою Уязвимость к колющему и рубящему урону, в дополнение к потере Уязвимости Мягкого места, если она у него была.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": null,
+    "alchemyDC": 0,
+    "craftingTime": "",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Зеленый мутаген"
+      },
+      {
+        "id": "_2hb73so87",
+        "name": "Хитин главоглаза",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_rion61215",
+        "name": "Чешуя драконида",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_5jlv5vym0",
+        "name": "Талант мутации 5 уровня(Маг)",
+        "percentage": "",
+        "quantity": "5"
+      }
+    ],
+    "investment": null,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496637677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0SjEHejMOQrYBCMD",
+  "folder": "vGJDximI7xAFPxUk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0SjEHejMOQrYBCMD"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "zX3JPffwplIPWSai",
+  "flags": {},
+  "type": 0,
+  "text": "Снаряд перелетел цель и приземлился за ней.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XzhVNbs2LhDWFBH1.zX3JPffwplIPWSai"
+}

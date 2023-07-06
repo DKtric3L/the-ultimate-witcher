@@ -1,0 +1,48 @@
+{
+  "name": "Эффект: Благословение мужества",
+  "type": "effect",
+  "img": "icons/magic/control/control-influence-rally-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Kx3HynQaKoPp7pcb"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "1d10 раундов.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_cjqus0toq",
+        "skill": "WITCHER.SkWillCourage",
+        "modifier": "3"
+      },
+      {
+        "id": "_vc03lmllq",
+        "skill": "WITCHER.SkWillResistCoer",
+        "modifier": "3"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883181,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9FERTmUymkrfVUS9",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9FERTmUymkrfVUS9"
+}

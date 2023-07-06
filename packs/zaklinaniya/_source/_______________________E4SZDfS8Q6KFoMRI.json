@@ -1,0 +1,60 @@
+{
+  "name": "Животная Ярость(Дагон)",
+  "type": "spell",
+  "img": "icons/creatures/abilities/lion-roar-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.KCGjeQb7LUpKIjQl"
+    },
+    "cf": {
+      "id": "temp_y5c320rzgq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Заклинатель видит видения и слышит шепот Дагона, и это навлекает на него его ярость. На время действия заклинания заклинатель охвачен гневом, он становится невосприимчив к мысленным командам и не слышит советы своих товарищей. Он также не теряете очки Выносливости и наносит дополнительные 5 единиц урона атаками ближнего боя.",
+    "range": "на себя",
+    "duration": "5 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496639313,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "E4SZDfS8Q6KFoMRI",
+  "folder": "MrlJwKcG9EWlHZie",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!E4SZDfS8Q6KFoMRI"
+}

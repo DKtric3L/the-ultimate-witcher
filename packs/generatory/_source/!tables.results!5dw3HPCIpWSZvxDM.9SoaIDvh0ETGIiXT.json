@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Проклятые",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/CursedOnes.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "QlHGUejHno6ftM4n",
+  "_id": "9SoaIDvh0ETGIiXT",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.9SoaIDvh0ETGIiXT"
+}

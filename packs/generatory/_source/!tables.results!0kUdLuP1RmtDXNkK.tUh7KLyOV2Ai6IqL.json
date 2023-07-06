@@ -1,0 +1,16 @@
+{
+  "text": "Градобитие Меригольд",
+  "type": 2,
+  "img": "icons/magic/water/projectile-ice-teardrops-salvo.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "tUh7KLyOV2Ai6IqL",
+  "documentId": "v3bPZ3YoDtMAgoJo",
+  "flags": {},
+  "_key": "!tables.results!0kUdLuP1RmtDXNkK.tUh7KLyOV2Ai6IqL"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Подмастерье - Смешанная магия",
+  "description": "A random table created from the contents of the Смешанная магия Folder.",
+  "results": [
+    "gJBcceNBSq3yUMyY",
+    "Nc7ZrLgSlLYiGu5F",
+    "7tTtenH33xLjaaJA",
+    "vNsSljIjhObCTFWy",
+    "GtLKf8qKpqchXkgl",
+    "ue6y79SSH9RD0Gqu",
+    "1LXuRj4Y9hWmYNuK",
+    "zZD9SAfLYQXbp5D8",
+    "5XGxNuvQBsgIlFX3",
+    "xw5Xb5ghzyAP2dfl",
+    "6d37PoVA1lYy85n5"
+  ],
+  "formula": "1d11",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d2fda0560d530f0496f8b2135d44d1aaf8a58199",
+      "sourceId": "RollTable.golAOSQ8svtvTOXb"
+    },
+    "core": {
+      "sourceId": "RollTable.golAOSQ8svtvTOXb"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593571247,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "vxJn6mXouA44kxge",
+  "_key": "!tables!vxJn6mXouA44kxge"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "a6YCIDdtwpoL5ytY",
+  "flags": {},
+  "type": 2,
+  "text": "Parental Fate: Northern",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "BVAifyDThmUYivmt",
+  "_key": "!tables.results!3dkzpZf8N1lyCpNf.a6YCIDdtwpoL5ytY"
+}

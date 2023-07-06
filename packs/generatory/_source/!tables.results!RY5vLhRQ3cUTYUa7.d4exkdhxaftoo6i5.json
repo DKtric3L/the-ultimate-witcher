@@ -1,0 +1,16 @@
+{
+  "text": "Помет беса",
+  "type": 2,
+  "img": "systems/TheWitcherTRPG/assets/images/caelum.png",
+  "weight": 1,
+  "range": [
+    32,
+    32
+  ],
+  "drawn": false,
+  "_id": "d4exkdhxaftoo6i5",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "QaOLTljeu1T1xrhW",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.d4exkdhxaftoo6i5"
+}

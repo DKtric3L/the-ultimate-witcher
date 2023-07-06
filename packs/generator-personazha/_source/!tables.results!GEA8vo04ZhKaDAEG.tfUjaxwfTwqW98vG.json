@@ -1,0 +1,16 @@
+{
+  "_id": "tfUjaxwfTwqW98vG",
+  "flags": {},
+  "type": 0,
+  "text": "Удача - Благодарность мага. Могущественный маг, которому вы помогли, должен вам одну услугу.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GEA8vo04ZhKaDAEG.tfUjaxwfTwqW98vG"
+}

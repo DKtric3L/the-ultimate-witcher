@@ -1,0 +1,16 @@
+{
+  "_id": "80iLxUptZ3uspS2c",
+  "type": 0,
+  "text": "Сила союзника - Связи",
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!MUM5QmAXWs9It8X5.80iLxUptZ3uspS2c"
+}

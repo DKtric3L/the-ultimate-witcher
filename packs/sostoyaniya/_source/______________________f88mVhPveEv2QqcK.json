@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Купорос+Ребис",
+  "type": "effect",
+  "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.tJWCH1KIKFl8e9RM"
+    },
+    "cf": {
+      "id": "temp_zvo0qme6z8p"
+    }
+  },
+  "system": {
+    "description": "+15 ПЗ на 1 час.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_gexeo9f37",
+        "derivedStat": "WITCHER.Actor.DerStat.HP",
+        "modifier": "15"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883183,
+    "modifiedTime": 1685496621964,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "f88mVhPveEv2QqcK",
+  "folder": "SVDWJ6D7d1oTHirD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!f88mVhPveEv2QqcK"
+}

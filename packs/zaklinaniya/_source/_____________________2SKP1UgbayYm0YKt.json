@@ -1,0 +1,57 @@
+{
+  "name": "Отвратительная порча",
+  "type": "spell",
+  "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0hnqv3ub2out"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Отвратительная порча окутывает объект и делает его отталкивающим. Будучи заколдованным, субъект всегда считается на один уровень ниже в таблице социального положения, если только он уже не был ненавидим. Это влияет на людей той же расы, что и субъект",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "убъект должен создать собственное изображение из единиц волокн хана, ячменя и Собачьей петрушки. Затем они должны оскорблять чучело, как если бы они оскорбляли самих себя, до тех пор, пока они не перестанут думать об оскорблениях. Наконец, субъект должен сжечь чучело, чтобы освободиться от порчи",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496637534,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2SKP1UgbayYm0YKt",
+  "folder": "lGUspSPt2bEySA3U",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2SKP1UgbayYm0YKt"
+}

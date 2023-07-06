@@ -1,0 +1,26 @@
+{
+  "_id": "4i1tKeNuJreuPXgM",
+  "name": "Метание глыб",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Будучи дальше, чем на 6 м от цели, горгульи предпочитают метать в неё глыбы булыжника или прочего хлама, нанося 5d6 урона. Дистанция этих бросков 16 м."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!V9DTfjEpscLsT6NX.4i1tKeNuJreuPXgM"
+}

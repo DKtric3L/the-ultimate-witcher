@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Дыхание суккуба",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.aW0q9G2pICuHKfLH"
+    },
+    "cf": {
+      "id": "temp_odzgattgzk8"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.fwrDVAPzVqD2BhCO]{Дыхание суккуба}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "novice",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 14,
+    "craftingTime": "10 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 2,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 1,
+      "caelum": 1,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Дыхание суккуба",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/props/succubus_breath.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 20,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Common",
+        "effect": "Втерев в кожу, вы получаете +2 к Соблазнению. Если состав\nподлить в питьё, выпивший получает -5 против Соблазнения.\nДля обнаружения дыхания суккуба в питье требуется\nпроверка Внимания со СЛ 16",
+        "time": "",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.fwrDVAPzVqD2BhCO"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868973,
+        "modifiedTime": 1668171332380,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848414,
+    "modifiedTime": 1685496578568,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aW0q9G2pICuHKfLH",
+  "folder": "JHAOFbhEaanr5CRj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!aW0q9G2pICuHKfLH"
+}

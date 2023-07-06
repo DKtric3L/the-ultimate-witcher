@@ -1,0 +1,16 @@
+{
+  "text": "Рой Яведа",
+  "type": 2,
+  "img": "icons/creatures/invertebrates/fly-wasp-mosquito-green.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "EYTGRwdqhLTZztJK",
+  "documentId": "8XuYVBuTqWnCSm3B",
+  "flags": {},
+  "_key": "!tables.results!9v4m7jaZ7Y6J6ttK.EYTGRwdqhLTZztJK"
+}

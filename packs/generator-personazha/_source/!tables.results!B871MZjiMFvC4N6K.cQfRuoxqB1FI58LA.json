@@ -1,0 +1,16 @@
+{
+  "_id": "cQfRuoxqB1FI58LA",
+  "flags": {},
+  "type": 0,
+  "text": "Сила врага - 6",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!B871MZjiMFvC4N6K.cQfRuoxqB1FI58LA"
+}

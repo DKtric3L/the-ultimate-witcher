@@ -1,0 +1,60 @@
+{
+  "name": "Армейский лук",
+  "type": "weapon",
+  "img": "icons/weapons/bows/bow-recurve-black.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rpglc34ihvo"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 835,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 0,
+    "avail": "Common",
+    "damage": "6d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "2",
+    "range": "300",
+    "equiped": false,
+    "effects": [],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Archery",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863936,
+    "modifiedTime": 1685496598663,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3F0blWVRjGxoXkBT",
+  "folder": "2IkNgpEkJTz0CRQl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3F0blWVRjGxoXkBT"
+}

@@ -1,0 +1,168 @@
+{
+  "name": "Серп друида",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-brown.webp",
+  "system": {
+    "description": "<p>@UUID[Compendium.the-ultimate-witcher.oruzhie.ANCLPKR14Ca1sJGO]{Серп друида}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 780,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "5ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_6elgmk9yz",
+        "name": "Смола",
+        "quantity": "1"
+      },
+      {
+        "id": "_xbdqv7z07",
+        "name": "Кости животных",
+        "quantity": "2"
+      },
+      {
+        "id": "_a555x4mk0",
+        "name": "Укрепленная кожа",
+        "quantity": "2"
+      },
+      {
+        "id": "_wjblt35g6",
+        "name": "Точильный порошок",
+        "quantity": "4"
+      },
+      {
+        "id": "_t56si5966",
+        "name": "Сталь",
+        "quantity": "2"
+      },
+      {
+        "id": "_5vpr2kud3",
+        "name": "Перья",
+        "quantity": "3"
+      }
+    ],
+    "investment": 390,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Серп друида",
+      "type": "weapon",
+      "img": "icons/weapons/sickles/sickle-wrapped-engraved-green.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1.5,
+        "cost": 540,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Режущий, Колющий",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Poor",
+        "damage": "3d6",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Захватное",
+            "percentage": ""
+          },
+          {
+            "id": "_xscwn24vu",
+            "name": "Кровопускающее",
+            "percentage": "30"
+          }
+        ],
+        "conceal": "L",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Small Blades",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.Fyba9RU9zj67JedA"
+        },
+        "cf": {
+          "id": "temp_1jlhu26b32w"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1663425418673,
+        "modifiedTime": 1672564832315,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.g4YNS0KcivNXKGm1"
+    },
+    "cf": {
+      "id": "temp_ddwqxocukpf"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1663425520984,
+    "modifiedTime": 1685496579717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "dh4ZdBnZ6HeKYL8G",
+  "folder": "b2anqQiTRYL0jSkN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!dh4ZdBnZ6HeKYL8G"
+}

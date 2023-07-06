@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Подмастерье - Земля",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "9v4m7jaZ7Y6J6ttK",
+  "_id": "mbyvSgaAvGnu0MRr",
+  "flags": {},
+  "_key": "!tables.results!bOEboAKzfCzScDVQ.mbyvSgaAvGnu0MRr"
+}

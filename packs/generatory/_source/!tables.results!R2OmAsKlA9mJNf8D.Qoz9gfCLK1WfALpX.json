@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "Qoz9gfCLK1WfALpX",
+  "text": "Цель заказа осведомлена о контракте на свою голову.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!R2OmAsKlA9mJNf8D.Qoz9gfCLK1WfALpX"
+}

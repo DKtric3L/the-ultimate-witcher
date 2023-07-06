@@ -1,0 +1,39 @@
+{
+  "name": "Жизнь мага - эксперименты",
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "results": [
+    "yaH0tMyAkAAQ2mWg",
+    "sNj8408RxbAzcM5N",
+    "stqYpfeWRkQbQuce",
+    "HRN0k1NKwcwt52LL",
+    "EciBuRQOv0LjHHM8"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.FwUvu0ToHUIBXaXp"
+    },
+    "cf": {
+      "id": "temp_dzgvfo2vboe"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926183,
+    "modifiedTime": 1685496652425,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "s9cYIwhQJhSEN5sV",
+  "folder": "xccyEiQ9jAncMgNo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!s9cYIwhQJhSEN5sV"
+}

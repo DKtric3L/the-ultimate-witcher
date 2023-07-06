@@ -1,0 +1,45 @@
+{
+  "name": "Опасность - ост",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "HDIwK9JNvHsNiI4y",
+    "UfdeKSPduTkyOgI2",
+    "oOrGEtD8MRJJLtx6",
+    "EhpmbY9Ps49kKcgo",
+    "BHbZ30MlRHog2Qf4",
+    "Qz3WOh3PHtjcG3Yf",
+    "CcZvLTWSsDk5lVUV",
+    "6S8CrxiL8HX0qRqk",
+    "9LwHRf6D7FDEuLAP",
+    "Ie8Ah1eyyqa1J0Fd"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.KiaQZRr4QLgGDQzW"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901101,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "BqWiXzs6w2pmN2Ra",
+  "_key": "!tables!BqWiXzs6w2pmN2Ra"
+}

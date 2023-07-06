@@ -1,0 +1,16 @@
+{
+  "text": "Глиф воды",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/water.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "XygSZIdhB9cUOyGu",
+  "documentId": "WjUX67qdduldhJxM",
+  "flags": {},
+  "_key": "!tables.results!WkvPSXPzLEd3cQFk.XygSZIdhB9cUOyGu"
+}

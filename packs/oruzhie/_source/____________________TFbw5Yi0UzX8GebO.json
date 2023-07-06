@@ -1,0 +1,63 @@
+{
+  "name": "Краснолюдский топор",
+  "type": "weapon",
+  "img": "icons/weapons/axes/axe-tomahawk-jagged.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.32RqCsg1pEteL3a8"
+    },
+    "cf": {
+      "id": "temp_q9erbq5w26"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 4,
+    "cost": 740,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее",
+      "slashing": true,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 3,
+    "avail": "Rare",
+    "damage": "5d6+3",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [],
+    "conceal": "L",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863940,
+    "modifiedTime": 1685496598510,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TFbw5Yi0UzX8GebO",
+  "folder": "aQLu4wF6Pus9OgTI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TFbw5Yi0UzX8GebO"
+}

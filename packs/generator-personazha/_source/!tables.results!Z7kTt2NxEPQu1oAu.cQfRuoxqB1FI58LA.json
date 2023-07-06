@@ -1,0 +1,16 @@
+{
+  "_id": "cQfRuoxqB1FI58LA",
+  "flags": {},
+  "type": 0,
+  "text": "Одышка(-5 к вын). Возможно, вам проткнули лёгкое или же вы вдохнули токсичный газ. Так или иначе, ваши лёгкие повреждены и дышать вам тяжеловато.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Z7kTt2NxEPQu1oAu.cQfRuoxqB1FI58LA"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Флейта",
+  "type": "valuable",
+  "img": "icons/tools/instruments/pipe-flute-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.HhLfK3As5SSCKe4s"
+    },
+    "cf": {
+      "id": "temp_witw8a9x5dh"
+    }
+  },
+  "system": {
+    "description": "Музыкальный инструмент. на котором можно сыграть, если у вас есть навыки.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 33,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868993,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "HhLfK3As5SSCKe4s",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!HhLfK3As5SSCKe4s"
+}

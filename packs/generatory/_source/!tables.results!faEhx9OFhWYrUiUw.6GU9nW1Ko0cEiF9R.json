@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Коричневая археспора",
+  "img": "modules/the-ultimate-witcher/assets/monsters/arhespora.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "TBu2A8TZxtXhskMV",
+  "_id": "6GU9nW1Ko0cEiF9R",
+  "flags": {},
+  "_key": "!tables.results!faEhx9OFhWYrUiUw.6GU9nW1Ko0cEiF9R"
+}

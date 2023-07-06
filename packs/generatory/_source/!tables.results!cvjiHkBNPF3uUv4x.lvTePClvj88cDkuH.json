@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Виверна",
+  "img": "modules/the-ultimate-witcher/assets/monsters/vivern.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "AEkJbzVAFn9Su5f6",
+  "_id": "lvTePClvj88cDkuH",
+  "flags": {},
+  "_key": "!tables.results!cvjiHkBNPF3uUv4x.lvTePClvj88cDkuH"
+}

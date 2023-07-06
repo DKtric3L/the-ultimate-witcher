@@ -1,0 +1,44 @@
+{
+  "name": "Ошеломление",
+  "type": "effect",
+  "img": "icons/magic/control/hypnosis-mesmerism-watch.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.QkMJd3Jt7YJHZI5i"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонаж теряет равновесие и получает штраф -2 к атаке и защите. К началу следующего хода вашего персонажа эффект проходит и штраф отменяется.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_g94npwrij",
+        "skill": "WITCHER.SkRefBrawling",
+        "modifier": "-2(Касается всех видов атак и защиты)"
+      }
+    ],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883171,
+    "modifiedTime": 1688508900251,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "QkMJd3Jt7YJHZI5i",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QkMJd3Jt7YJHZI5i"
+}

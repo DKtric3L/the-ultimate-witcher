@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Доспехи - Ведьмачье",
+  "img": "icons/sundries/documents/document-symbol-triangle-pink.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "wTccRtjtVDol8ETz",
+  "_id": "uyrpkIL3Z6sY17SF",
+  "flags": {},
+  "_key": "!tables.results!PRdg7r31JaNZfsCk.uyrpkIL3Z6sY17SF"
+}

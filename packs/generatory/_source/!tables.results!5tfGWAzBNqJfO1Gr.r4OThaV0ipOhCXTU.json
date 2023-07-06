@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Карантир",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Karantir_Marek_Madej.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "HBsFnwKNGylLr5Fa",
+  "_id": "r4OThaV0ipOhCXTU",
+  "flags": {},
+  "_key": "!tables.results!5tfGWAzBNqJfO1Gr.r4OThaV0ipOhCXTU"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "XbB2Z0LHFWRqkg4z",
+  "type": 0,
+  "text": "Возврат долга. Кто-то должен вам 600 крон, и вы сохранили право взыскать в любой момент, даже спустя десятилетия.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ENltA9xkbh8cljBm.XbB2Z0LHFWRqkg4z"
+}

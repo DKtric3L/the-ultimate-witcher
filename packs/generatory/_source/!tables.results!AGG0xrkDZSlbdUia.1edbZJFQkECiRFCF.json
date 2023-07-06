@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Доспехи - Мастер",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "iVdkzHObzqQ4015l",
+  "_id": "1edbZJFQkECiRFCF",
+  "flags": {},
+  "_key": "!tables.results!AGG0xrkDZSlbdUia.1edbZJFQkECiRFCF"
+}

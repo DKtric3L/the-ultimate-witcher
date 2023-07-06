@@ -1,0 +1,16 @@
+{
+  "_id": "diG3ThmxwJLO2CDQ",
+  "flags": {},
+  "type": 2,
+  "text": "Romance: Romantic Tragedy",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    2,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "RVKoQNEYQHkJ5VOf",
+  "_key": "!tables.results!1nW1pPKnFl1o3mvD.diG3ThmxwJLO2CDQ"
+}

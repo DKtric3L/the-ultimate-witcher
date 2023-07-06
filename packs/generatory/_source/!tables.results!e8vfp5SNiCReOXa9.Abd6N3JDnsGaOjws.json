@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "text": "Крепкий Алкоголь",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "PxlPbDEdRSbXlClO",
+  "_id": "Abd6N3JDnsGaOjws",
+  "flags": {},
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.Abd6N3JDnsGaOjws"
+}

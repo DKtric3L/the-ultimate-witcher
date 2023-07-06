@@ -1,0 +1,43 @@
+{
+  "name": "Кольчужные доспехи",
+  "type": "valuable",
+  "img": "icons/equipment/shoulder/pauldron-segmented-steel-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.gpbDVpZeIo9hXDZP"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "Прочность 15 всех частей тела скакуна. -1 к проверкам управления верховой езды.",
+    "quantity": 1,
+    "weight": 25,
+    "cost": 1050,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "mount-accessories",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gpbDVpZeIo9hXDZP",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gpbDVpZeIo9hXDZP"
+}

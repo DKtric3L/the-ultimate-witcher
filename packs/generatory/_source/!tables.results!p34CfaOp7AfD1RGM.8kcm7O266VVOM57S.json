@@ -1,0 +1,16 @@
+{
+  "text": "Магическая проекция",
+  "type": 2,
+  "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "8kcm7O266VVOM57S",
+  "documentId": "mCxuyeAP6dEXUrkW",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.8kcm7O266VVOM57S"
+}

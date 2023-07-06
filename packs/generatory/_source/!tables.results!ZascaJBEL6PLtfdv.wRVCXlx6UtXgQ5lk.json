@@ -1,0 +1,16 @@
+{
+  "text": "Земляной столб",
+  "type": 2,
+  "img": "icons/magic/earth/barrier-stone-pillar-purple.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "wRVCXlx6UtXgQ5lk",
+  "documentId": "TMJMmdxAlbrgYZLr",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.wRVCXlx6UtXgQ5lk"
+}

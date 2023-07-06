@@ -1,0 +1,26 @@
+{
+  "_id": "H2pduwph6C3rQU9L",
+  "name": "Контроль над лесом",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Когда у Рюхина есть тело, он может использовать контроль над лесом. Он призывает легион мелких демонов, которые берут под контроль каждое существо и каждое растение в лесу. Инт захваченных таким образом существ становится таким же, как и у Рюхина и они сполняют его приказы без вербальных команд."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!8FMvYdrRjZw0oKqW.H2pduwph6C3rQU9L"
+}

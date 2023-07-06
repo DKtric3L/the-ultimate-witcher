@@ -1,0 +1,16 @@
+{
+  "text": "Управление водой",
+  "type": 2,
+  "img": "icons/magic/water/water-hand.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "hhbTfKhRdizRub7F",
+  "documentId": "n1Dq8NiiNNHJ4iCE",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.hhbTfKhRdizRub7F"
+}

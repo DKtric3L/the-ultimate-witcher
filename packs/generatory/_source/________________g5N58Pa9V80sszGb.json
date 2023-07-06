@@ -1,0 +1,46 @@
+{
+  "name": "Ведьмачьи знаки",
+  "img": "modules/the-ultimate-witcher/assets/signs/sweeping_aard.webp",
+  "results": [
+    "l2L1zLHg45hDE689",
+    "RSFNKop0F7kOpvff",
+    "2WNcHuBBHjn0DBsh",
+    "TUFhMuDA1BIESLzp",
+    "XXlmCdxAD80F6zeN",
+    "Q5tkQtQAy9vFr0J8",
+    "Gs1y2LmMepy6NLmg",
+    "Ele6dLU7rvHHuOur",
+    "exhak5SGtVi8M9E3",
+    "VzLbkaOrM6fVDlmz",
+    "c31ejWVCCEivXthR",
+    "ApSzUij2Kig79V0O"
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.kB2QDJVDvbDifrhm"
+    },
+    "cf": {
+      "id": "temp_h10nponc3b"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932893,
+    "modifiedTime": 1685496644866,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "g5N58Pa9V80sszGb",
+  "folder": "mmgJeU18B00wxANi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!g5N58Pa9V80sszGb"
+}

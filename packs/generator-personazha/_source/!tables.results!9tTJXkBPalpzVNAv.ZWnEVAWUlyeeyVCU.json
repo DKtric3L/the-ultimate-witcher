@@ -1,0 +1,16 @@
+{
+  "_id": "ZWnEVAWUlyeeyVCU",
+  "type": 0,
+  "text": "Цель ведьмака. Ваше неконтролируемое использование магии нанесло достаточно ущерба, чтобы ведьмак из школы Кота был нанят, чтобы убить вас. Этот ведьмак все еще ищет тебя. Вас взял в ученики маг.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!9tTJXkBPalpzVNAv.ZWnEVAWUlyeeyVCU"
+}

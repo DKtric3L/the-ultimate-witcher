@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Новичок - Смешанная магия",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "p34CfaOp7AfD1RGM",
+  "_id": "vZLd9iHljIo1Wd1C",
+  "flags": {},
+  "_key": "!tables.results!sgbHp1FLCjvxzyZO.vZLd9iHljIo1Wd1C"
+}

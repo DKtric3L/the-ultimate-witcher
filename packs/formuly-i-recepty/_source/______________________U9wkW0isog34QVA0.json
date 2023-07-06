@@ -1,0 +1,181 @@
+{
+  "name": "Эльфский походный лук",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.U9wkW0isog34QVA0"
+    },
+    "cf": {
+      "id": "temp_o6021xqcjz"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.xwB78yL1dYoFGtXM]{Эльфский походный лук}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 862,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "11ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_rlq4yv2jr",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_scmbagysa",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_6tl816wcv",
+        "name": "Пятая эссенция",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_d29z5amzj",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_3k824bjcq",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_3opaulqfg",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_p3tcvdssc",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_x1x8zxfu8",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_yw3ee858f",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "3"
+      }
+    ],
+    "investment": 432,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Эльфский походный лук",
+      "type": "weapon",
+      "img": "icons/weapons/bows/shortbow-leaves-green.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 575,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": 1,
+        "avail": "Rare",
+        "damage": "4d6",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "2",
+        "range": "200",
+        "equiped": false,
+        "effects": [],
+        "conceal": "L",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Archery",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.V1EbAy7LrA0KnnVR"
+        },
+        "cf": {
+          "id": "temp_rpglc34ihvo"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863946,
+        "modifiedTime": 1672564871286,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848433,
+    "modifiedTime": 1685496579684,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "U9wkW0isog34QVA0",
+  "folder": "CmRwhBGVa7PHSDao",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!U9wkW0isog34QVA0"
+}

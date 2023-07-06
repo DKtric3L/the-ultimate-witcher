@@ -1,0 +1,16 @@
+{
+  "_id": "nGvEbuComhjRZAPP",
+  "flags": {},
+  "type": 0,
+  "text": "Место попадания - Торс | Урон = x1",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!tUubEoDQPTPIis9g.nGvEbuComhjRZAPP"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "M2HENBWyZLf6ss7y",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Эббинг (+1 Дедукция)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!P9HHqXymm9mINwdH.M2HENBWyZLf6ss7y"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Волколак",
+  "img": "modules/the-ultimate-witcher/assets/monsters/volkolak.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "b27AF3zTynDRiJ0r",
+  "_id": "cygEgabJZyEp0IBv",
+  "flags": {},
+  "_key": "!tables.results!faEhx9OFhWYrUiUw.cygEgabJZyEp0IBv"
+}

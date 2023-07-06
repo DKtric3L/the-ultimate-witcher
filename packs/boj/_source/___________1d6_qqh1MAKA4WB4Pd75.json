@@ -1,0 +1,40 @@
+{
+  "name": "Летал урон 1d6",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "TB4pHhE1oh3uzI5n",
+    "2D42ZCjlzScxBkSl",
+    "evHYyufnHnbMqkWj",
+    "rBvAVM1HhBbDxNTF",
+    "uln8RdzHtqSNYAbm",
+    "mKQvTTYrz8hCLeFs"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.6kanAeaRbXyHoNNP"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897072,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qqh1MAKA4WB4Pd75",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!qqh1MAKA4WB4Pd75"
+}

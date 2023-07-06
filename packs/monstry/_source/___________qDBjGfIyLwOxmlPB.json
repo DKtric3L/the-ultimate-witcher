@@ -1,0 +1,57 @@
+{
+  "_id": "qDBjGfIyLwOxmlPB",
+  "name": "Облако мух",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-green.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.WcBJu48Q6fzfYVNU"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": false,
+    "effect": "Песта призывает заражённых мух. Каждый персонаж в начале своего хода, если находится на дистанции\nближнего боя от песты, получает штраф - 2 ко всем действиям и с вероятностью 25 % заражается болезнью.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!GvHkNN3d16eUO8Ig.qDBjGfIyLwOxmlPB"
+}

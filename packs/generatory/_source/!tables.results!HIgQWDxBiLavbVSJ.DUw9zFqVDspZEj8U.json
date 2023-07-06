@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "DUw9zFqVDspZEj8U",
+  "text": "Наниматель даёт полную сумму, но торговаться не намерен.(Полная сумма, указанная в монстре, сложность торгов - 20)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!HIgQWDxBiLavbVSJ.DUw9zFqVDspZEj8U"
+}

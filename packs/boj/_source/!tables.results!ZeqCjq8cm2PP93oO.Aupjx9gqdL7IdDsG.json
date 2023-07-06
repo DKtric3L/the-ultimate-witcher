@@ -1,0 +1,16 @@
+{
+  "_id": "Aupjx9gqdL7IdDsG",
+  "flags": {},
+  "type": 0,
+  "text": "Инородный объект - В ране застрял кусок одежды или брони, что вызвало заражение. Отдых, и исцеление от критических ранений происходят в 4 раза хуже. После стабилизации - В два раза, После лечения -2 к отдыху, лечение от крит ранений снижено в два раза.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZeqCjq8cm2PP93oO.Aupjx9gqdL7IdDsG"
+}

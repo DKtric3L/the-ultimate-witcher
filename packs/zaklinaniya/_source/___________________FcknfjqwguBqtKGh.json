@@ -1,0 +1,60 @@
+{
+  "name": "Кладбищенская пыль",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.mKPzclVLaKs4dDe8"
+    },
+    "cf": {
+      "id": "temp_01h4gyhswg6t"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d10\nЗаклинатель раздувает кладбищенскую пыль в 3-метровом конусе перед собой. Любое существо, вдохнувшее эту пыль, начинает задыхаться на следующем ходу. Удушье заканчивается через 1d6 раундов, но цель может потратив действие совершить проверку Стойкости СЛ15, чтобы закончить действия эффект.",
+    "range": "3м",
+    "duration": "Мгновенное",
+    "defence": "Изм поз",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "3",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Удушье"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496638575,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "FcknfjqwguBqtKGh",
+  "folder": "ndviRHoqdpigGVTn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!FcknfjqwguBqtKGh"
+}

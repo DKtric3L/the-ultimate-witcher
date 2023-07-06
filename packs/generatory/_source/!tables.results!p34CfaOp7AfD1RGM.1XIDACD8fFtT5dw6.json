@@ -1,0 +1,16 @@
+{
+  "text": "Слепящая пыль",
+  "type": 2,
+  "img": "icons/magic/control/hypnosis-mesmerism-eye-tan.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "1XIDACD8fFtT5dw6",
+  "documentId": "AZJBvVpNLcuGQ4RQ",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.1XIDACD8fFtT5dw6"
+}

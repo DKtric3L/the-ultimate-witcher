@@ -1,0 +1,16 @@
+{
+  "text": "Ветры тайги (Гвин Гарн)",
+  "type": 2,
+  "img": "icons/magic/water/snowflake-ice-blue.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "npzv178e0uh8pk5j",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "sqHUYMEAKsdiFr0N",
+  "_key": "!tables.results!lezfYVfaJHFGTx7D.npzv178e0uh8pk5j"
+}

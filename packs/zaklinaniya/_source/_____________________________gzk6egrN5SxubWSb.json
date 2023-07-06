@@ -1,0 +1,57 @@
+{
+  "name": "Благословенный табун (Эпона)",
+  "type": "spell",
+  "img": "icons/creatures/mammals/spirit-deer-herd-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Благодаря силе, дарованной вам Эпоной, вы призываете до 10 диких лошадей и наделяете их магией. Эти лошади появляются в течение следующего часа. Лошадь, усиленная этим заклинанием, может быть наделена либо скоростью, либо силой. Если зачаровать на скорость, вызванная лошадь будет Лошадью со статистикой скорости 24 и базовым навыком Атлетики 20. Если зачаровать на силу, вызванная лошадь будет Боевым конем с модификатором Управления +2 и естественным значением брони 20, которые не могут быть увеличены конской броней. Во время езды на этих скакунах выбранные вами существа получают +5 к проверкам верховой езды. У вас может быть не более десяти лошадей, призванных этим заклинанием одновременно.",
+    "range": "нет",
+    "duration": "1 нед",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892153,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gzk6egrN5SxubWSb",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gzk6egrN5SxubWSb"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    43,
+    43
+  ],
+  "drawn": false,
+  "text": "Факел",
+  "img": "icons/sundries/lights/torch-brown-lit.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "r6ogdxzBRutLCYMB",
+  "_id": "XXwzcoZUvlhzJLGu",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.XXwzcoZUvlhzJLGu"
+}

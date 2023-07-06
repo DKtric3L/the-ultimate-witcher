@@ -1,0 +1,16 @@
+{
+  "_id": "oOrGEtD8MRJJLtx6",
+  "type": 0,
+  "text": "Заболел. Вы заболели изнурительной болезнью. В конце концов вы выздоровели, но осталась некоторая непрекращающаяся усталость. Ваша Вын опускается на 2.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BqWiXzs6w2pmN2Ra.oOrGEtD8MRJJLtx6"
+}

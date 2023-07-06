@@ -1,0 +1,16 @@
+{
+  "text": "Свет покаяния",
+  "type": 2,
+  "img": "icons/magic/light/explosion-impact-purple.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "_id": "g79c78rtiyufcinh",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "aF0bK3KLD4xVHfxL",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.g79c78rtiyufcinh"
+}

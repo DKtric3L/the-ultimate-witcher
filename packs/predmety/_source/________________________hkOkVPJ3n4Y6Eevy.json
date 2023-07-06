@@ -1,0 +1,44 @@
+{
+  "name": "Нильфгаардская лимонная",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/nilfgaardian_lemon.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.xUzn2YMqUwG93J8Y"
+    },
+    "cf": {
+      "id": "temp_bwqayhgr7ws"
+    }
+  },
+  "system": {
+    "description": "Крепкая выпивка. Очень забористая. Ведьмаки используют в качестве основы для своих зелий.\n\nПройди проверку со сл. 14, при провале становишься зависим от алкоголя(не только крепкого).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496603857,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "ecHxBa7NHg5z9IP7",
+  "sort": 0,
+  "_id": "hkOkVPJ3n4Y6Eevy",
+  "_key": "!items!hkOkVPJ3n4Y6Eevy"
+}

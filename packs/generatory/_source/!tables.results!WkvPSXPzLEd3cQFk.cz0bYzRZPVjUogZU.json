@@ -1,0 +1,16 @@
+{
+  "text": "Сопротивление",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/glyph_resist.png",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "cz0bYzRZPVjUogZU",
+  "documentId": "EFuQTwx9MvMx3QO2",
+  "flags": {},
+  "_key": "!tables.results!WkvPSXPzLEd3cQFk.cz0bYzRZPVjUogZU"
+}

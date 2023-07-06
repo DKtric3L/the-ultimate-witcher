@@ -1,0 +1,16 @@
+{
+  "text": "Рунное слово: Стригущий",
+  "type": 2,
+  "img": "icons/skills/melee/shield-damaged-broken-orange.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "75cf58rhvm927wpq",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "bLIx2DRAkKmyFQiz",
+  "_key": "!tables.results!rEKb2IOfF0Xfuv4K.75cf58rhvm927wpq"
+}

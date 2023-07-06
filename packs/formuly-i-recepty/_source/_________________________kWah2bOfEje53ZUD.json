@@ -1,0 +1,78 @@
+{
+  "name": "Глифово слово: Возмездие",
+  "type": "diagrams",
+  "img": "icons/magic/light/beam-deflect-path-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.0S4geo9WrlGGbeRg"
+    },
+    "cf": {
+      "id": "temp_9bj7smrdyss"
+    }
+  },
+  "system": {
+    "description": "<p>Получая урон в этой броне, атакующий получает неснижаемые 3 урона в своё туловище.</p>\n<p>Занимает 3 ячейки улучшения</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 2500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 21,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Глиф земли"
+      },
+      {
+        "id": "_hprhc0hhh",
+        "name": "Глиф огня",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_xnclfmy1w",
+        "name": "Глиф укрепления",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 1250,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848411,
+    "modifiedTime": 1685496579101,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kWah2bOfEje53ZUD",
+  "folder": "E2VrBCTEMffcDmWz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kWah2bOfEje53ZUD"
+}

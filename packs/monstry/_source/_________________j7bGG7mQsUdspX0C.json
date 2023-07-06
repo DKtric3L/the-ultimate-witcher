@@ -1,0 +1,67 @@
+{
+  "_id": "j7bGG7mQsUdspX0C",
+  "name": "Красная алебарда",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/halberd-crescent-small-spiked.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.5WAfwJI8qAwbHPhs"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 4,
+    "cost": 865,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее, Дробящее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Poor",
+    "damage": "6d6+3",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длинное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": "2",
+    "attackSkill": "Staff/Spear",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!odFTsFEj7GxvhSWc.j7bGG7mQsUdspX0C"
+}

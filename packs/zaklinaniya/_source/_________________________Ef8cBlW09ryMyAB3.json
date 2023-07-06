@@ -1,0 +1,65 @@
+{
+  "name": "Обжигающее прикосновение",
+  "type": "spell",
+  "img": "icons/tools/smithing/furnace-fire-metal-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.1MiDgtmp5FGBbgsl"
+    },
+    "cf": {
+      "id": "temp_1ldq6zu6i6ej"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Руки заклинателя загораются огнем. Вы можете совершить атаку руками, наносящую дополнительные 2d6 урона от магического огня, или вы можете коснуться части брони и нанести ей 2d6 разрушающего урона.",
+    "range": "На себя",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Разрушающий урон броне"
+      },
+      {
+        "id": "_v0lmdau1a",
+        "name": "Или доп урон от атаки руками",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496638808,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Ef8cBlW09ryMyAB3",
+  "folder": "ZcfqdHfSUvKAeyeQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Ef8cBlW09ryMyAB3"
+}

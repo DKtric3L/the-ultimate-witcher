@@ -1,0 +1,57 @@
+{
+  "name": "Порча забвения",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-shadow-monster-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_inm2utr2uk"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Порча забвения погружает разум субъекта в густой бульон магического мрака, что затрудняет сохранение знаний и воспоминаний. Субъект больше не может получать О.У. через обучение или изучение и практику, больше не может учить кого-то и больше не может изучать новую магию. Кроме того, один раз в день Мастер может призвать субъекта сделать бросок на Сопротивление Магии с Сл:20 или забыть факт, воспоминание, рецепт, заклинание, инвокацию, ритуал, порчу или знак по выбору Мастера до тех пор, пока порча не будет устранена",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "High",
+    "liftRequirement": "Субъект должен сбрить все волосы на голове, а затем приготовить пасту из 2 единиц эссенции воды и 2 единиц речной глины. Затем субъект должен нанести глиной на скальп определенные знаки и подержать под языком единицу optima mater. Они должны молча ждать целый день и ночь, пока глина не высохнет. Когда глина будет удалена со скальпа, optima mater будет вынута изо рта, optima mater станет пепельно-серой, а порча будет снята, возвращая все, что было забыто. Используемая optima mater постоянно окрашена в серый цвет и действует как Фокусировка (2), которую можно использовать только для Порчи, Гоэтии и Некромантии.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496637583,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eAnOv95TRwugeEVw",
+  "folder": "RHxFpTcBKBLrvsXh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eAnOv95TRwugeEVw"
+}

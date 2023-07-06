@@ -1,0 +1,16 @@
+{
+  "text": "Хороший обед",
+  "type": 2,
+  "img": "icons/consumables/food/plate-chicken-grilled-mushroom-brown.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "pujbr478ads2fnll",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "rp97eDkZn8gMMtdo",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.pujbr478ads2fnll"
+}

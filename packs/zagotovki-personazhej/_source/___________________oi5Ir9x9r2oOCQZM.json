@@ -1,0 +1,60 @@
+{
+  "name": "Кольчужный капюшон",
+  "type": "armor",
+  "img": "icons/equipment/head/hood-chain-worn.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 250,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 12,
+    "headMaxStopping": 12,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Everywhere",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "Head",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_mxldaj92pz"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663422662157,
+    "modifiedTime": 1663422662157,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "oi5Ir9x9r2oOCQZM",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!TbDY7PdVyaA6e4ar.oi5Ir9x9r2oOCQZM"
+}

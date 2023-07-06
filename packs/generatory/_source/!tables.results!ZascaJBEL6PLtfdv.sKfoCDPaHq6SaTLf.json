@@ -1,0 +1,16 @@
+{
+  "text": "Тюрьма Тальфрина",
+  "type": 2,
+  "img": "icons/magic/nature/root-vine-entangled-hands.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "sKfoCDPaHq6SaTLf",
+  "documentId": "wKuhDSVQpdLCoW43",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.sKfoCDPaHq6SaTLf"
+}

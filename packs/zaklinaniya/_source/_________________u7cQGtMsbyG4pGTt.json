@@ -1,0 +1,19 @@
+{
+  "color": "#4f4f4f",
+  "name": "Инвокации друида",
+  "sorting": "m",
+  "type": "Item",
+  "folder": null,
+  "_id": "u7cQGtMsbyG4pGTt",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!u7cQGtMsbyG4pGTt"
+}

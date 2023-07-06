@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Молния",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.rDbSPNRtEp8Q7CoE"
+    },
+    "cf": {
+      "id": "temp_uu87z6q9p5a"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.5YolPiH5AluS4OIr]{Молния}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 150,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "journeyman",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 16,
+    "craftingTime": "15 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 2,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 2,
+      "vermilion": 2,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Молния",
+      "type": "alchemical",
+      "img": "icons/consumables/potions/bottle-corked-blue.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 75,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Poor",
+        "effect": "Молния — результат попытки воссоздать ведьмачье\nзелье «Гром». Он дает пьющему +3 к урону при\nвашей следующей физической атаке.",
+        "time": "-",
+        "toxicity": "75%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.wb2TpGzwv2CgaQLz"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868980,
+        "modifiedTime": 1668162868980,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848422,
+    "modifiedTime": 1685496578745,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RUr1FRdTcfSf7sLL",
+  "folder": "TXoqSw4OOX255Z4E",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RUr1FRdTcfSf7sLL"
+}

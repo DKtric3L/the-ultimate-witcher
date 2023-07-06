@@ -1,0 +1,37 @@
+{
+  "name": "Проклятье Трезвости",
+  "type": "effect",
+  "img": "icons/consumables/drinks/tea-jug-gourd-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.d3M9OpsTjb0pK7Yg"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Проклятие сдержанности насыщает желудок субъекта алкоголем и усугубляет последствия опьянения. Если субъект потребляет что-либо, что может привести к опьянению, он немедленно страдает от эффектов Опьянения и Тошноты, поскольку его голова начинает кружиться, а желудок сильно скручивается.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "d3M9OpsTjb0pK7Yg",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!d3M9OpsTjb0pK7Yg"
+}

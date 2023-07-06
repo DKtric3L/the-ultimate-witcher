@@ -1,0 +1,55 @@
+{
+  "name": "Духи огня",
+  "type": "spell",
+  "img": "icons/magic/fire/explosion-embers-evade-silhouette.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.s6eByrp61VBZ5aMo"
+    },
+    "cf": {
+      "id": "temp_1ldq6zu6i6ej"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Вы вызываете 1d6 человекоподобных огненных существ. Они сразу же бегут к любому противнику в зоне действия заклинания и таранят его. Эта атака наносит 3d6 урона от магического огня и сбивает цель с ног.",
+    "range": "20м",
+    "duration": "мгновенное",
+    "defence": "Укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "3d6",
+    "effects": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496638808,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "M8Kg1a8eLdf0CG13",
+  "folder": "ZcfqdHfSUvKAeyeQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!M8Kg1a8eLdf0CG13"
+}

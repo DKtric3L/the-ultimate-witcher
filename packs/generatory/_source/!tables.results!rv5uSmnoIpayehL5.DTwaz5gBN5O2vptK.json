@@ -1,0 +1,16 @@
+{
+  "text": "Статическая буря",
+  "type": 2,
+  "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "DTwaz5gBN5O2vptK",
+  "documentId": "ipEaAmfD9A4kEb1B",
+  "flags": {},
+  "_key": "!tables.results!rv5uSmnoIpayehL5.DTwaz5gBN5O2vptK"
+}

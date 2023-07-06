@@ -1,0 +1,60 @@
+{
+  "_id": "IMU2Tj7TKy48Eiqo",
+  "name": "Вспышка Деметии Крест",
+  "type": "spell",
+  "img": "icons/magic/fire/barrier-wall-explosion-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_ex348povmdi"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.LA5GHrJG8yd0BKK2"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Создаёт вокруг заклинателя щит из чистой магии огня, блокирующий количество заклинаний воды, равное удвоенному значению его навыка Сотворение заклинаний. Снаряды, касающиеся щита, уничтожаются, а живые существа не могут пройти через него.",
+    "range": "12м",
+    "duration": "актив(4 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!18gHB3Adpvb9PMks.IMU2Tj7TKy48Eiqo"
+}

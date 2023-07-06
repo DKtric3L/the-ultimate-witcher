@@ -1,0 +1,44 @@
+{
+  "name": "Фонарь \"Бычий глаз\"",
+  "type": "valuable",
+  "img": "icons/sundries/lights/lantern-bullseye-signal-copper.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.bIkMyTqszQcOc3ze"
+    }
+  },
+  "system": {
+    "description": "Такими по большей части пользуются стражники и преступники. Небольшое окошко, откуда идёт свет, можно прикрыть с помощью рычажка (повышает уровень освещённости на 3 в 5-метровом конусе).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 39,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868994,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "thz7Av98mhbr89oi",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!thz7Av98mhbr89oi"
+}

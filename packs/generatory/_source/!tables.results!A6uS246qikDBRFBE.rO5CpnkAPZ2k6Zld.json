@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    33
+  ],
+  "drawn": false,
+  "text": "Масла",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "S4FCgPes7Ai4jUAT",
+  "_id": "rO5CpnkAPZ2k6Zld",
+  "flags": {},
+  "_key": "!tables.results!A6uS246qikDBRFBE.rO5CpnkAPZ2k6Zld"
+}

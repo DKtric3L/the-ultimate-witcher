@@ -1,0 +1,60 @@
+{
+  "name": "Нильфгаардские поножи",
+  "type": "armor",
+  "img": "icons/equipment/leg/tasset-reticulated-steel-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4zb4x6lgt3c"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 6,
+    "cost": 850,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 30,
+    "leftLegMaxStopping": 30,
+    "rightLegStopping": 30,
+    "rightLegMaxStopping": 30,
+    "type": "Heavy",
+    "avail": "Rare",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 1,
+    "location": "Leg",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837868,
+    "modifiedTime": 1685496574805,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "OnZRfOE8joO8S8Sb",
+  "folder": "K1UIQAUt5QlrdJLB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OnZRfOE8joO8S8Sb"
+}

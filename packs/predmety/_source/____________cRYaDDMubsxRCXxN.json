@@ -1,0 +1,43 @@
+{
+  "name": "Могила Адды",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/addas_grave.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.cRYaDDMubsxRCXxN"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 18,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Common",
+    "effect": "Могилу Адды можно вылить на скоропортящиеся продукты и даже\nна труп. Обработанные продукты не будут портиться или гнить в течение 1d10 дней. Для сохранения тела человеческого размера уйдёт 2 порции",
+    "time": "1d10 дней",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868979,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cRYaDDMubsxRCXxN",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cRYaDDMubsxRCXxN"
+}

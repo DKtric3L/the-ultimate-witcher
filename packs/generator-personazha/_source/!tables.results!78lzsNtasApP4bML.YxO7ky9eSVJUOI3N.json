@@ -1,0 +1,16 @@
+{
+  "_id": "YxO7ky9eSVJUOI3N",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Каэвен (+1 Стойкость)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!78lzsNtasApP4bML.YxO7ky9eSVJUOI3N"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "9UKnHVAiKgMmt45g",
+  "type": 2,
+  "text": "Пол мага",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "UlOK7ZxUMPtUvYi8",
+  "_key": "!tables.results!bXkCrR9sAIX75Yhi.9UKnHVAiKgMmt45g"
+}

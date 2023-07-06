@@ -1,0 +1,43 @@
+{
+  "name": "Плотва",
+  "type": "mount",
+  "img": "modules/the-ultimate-witcher/assets/monsters/horse.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 520,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "dex": "11",
+    "control": "+2",
+    "speed": "12",
+    "hp": 40
+  },
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.WZJzaxC3mnf1tnsr"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868978,
+    "modifiedTime": 1671035442189,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "MKbg7HZGAl3JHq12",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!KGltdXgAyNR4yViS.MKbg7HZGAl3JHq12"
+}

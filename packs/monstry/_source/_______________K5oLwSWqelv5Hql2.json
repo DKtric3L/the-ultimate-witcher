@@ -1,0 +1,42 @@
+{
+  "name": "Зубы туманника",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tooth_endriag_64x64.dds_.6947.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 40,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Foglets",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "rebis"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.Skjgs8dtlDWCaBbx"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669965930404,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "K5oLwSWqelv5Hql2",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!Ul1wM3UdIe67k3Hk.K5oLwSWqelv5Hql2"
+}

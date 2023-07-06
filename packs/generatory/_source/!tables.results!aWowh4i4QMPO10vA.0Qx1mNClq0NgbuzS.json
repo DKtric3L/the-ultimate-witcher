@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Таверна - Услуги",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "4lv3m0AT5584Ex0H",
+  "_id": "0Qx1mNClq0NgbuzS",
+  "flags": {},
+  "_key": "!tables.results!aWowh4i4QMPO10vA.0Qx1mNClq0NgbuzS"
+}

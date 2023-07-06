@@ -1,0 +1,16 @@
+{
+  "_id": "I1gNYaciecrJjqfQ",
+  "type": 0,
+  "text": "Ботаник. Вы ухаживали за школьным садом. Получите +2 к Выживанию в дикой природе. Вас взял в ученики маг.",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!9tTJXkBPalpzVNAv.I1gNYaciecrJjqfQ"
+}

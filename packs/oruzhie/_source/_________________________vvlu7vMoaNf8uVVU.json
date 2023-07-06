@@ -1,0 +1,71 @@
+{
+  "name": "Разбивающий болт скорпио",
+  "type": "weapon",
+  "img": "icons/weapons/ammunition/arrow-broadhead.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_1wc74o93668"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 75,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Болт для скорпио",
+        "percentage": ""
+      },
+      {
+        "id": "_eefef6spw",
+        "name": "Разрушающее",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863941,
+    "modifiedTime": 1685496598734,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vvlu7vMoaNf8uVVU",
+  "folder": "G4trVfJd76Whv6ts",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vvlu7vMoaNf8uVVU"
+}

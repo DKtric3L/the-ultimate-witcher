@@ -1,0 +1,16 @@
+{
+  "text": "Рунное слово: Сохранение",
+  "type": 2,
+  "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "h2skij3bftda6pih",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "pn8AC1GPAzRh0SIN",
+  "_key": "!tables.results!rEKb2IOfF0Xfuv4K.h2skij3bftda6pih"
+}

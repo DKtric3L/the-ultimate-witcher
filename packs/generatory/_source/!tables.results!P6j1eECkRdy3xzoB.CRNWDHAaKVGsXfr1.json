@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Ведьмак школы Змеи",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Ubiiza_koroley_Nemanja_Stankovic.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "dxyWHzqdwqA0HCFh",
+  "_id": "CRNWDHAaKVGsXfr1",
+  "flags": {},
+  "_key": "!tables.results!P6j1eECkRdy3xzoB.CRNWDHAaKVGsXfr1"
+}

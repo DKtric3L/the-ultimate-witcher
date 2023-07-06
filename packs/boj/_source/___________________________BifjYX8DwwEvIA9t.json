@@ -1,0 +1,40 @@
+{
+  "name": "Место попадания по монстру",
+  "img": "icons/commodities/biological/eye-tentacle-green-orange.webp",
+  "results": [
+    "RHNQnlcfgi5i1isk",
+    "nGvEbuComhjRZAPP",
+    "bmm5fg7mdHPOmQ3G",
+    "3K1jam0ISPD3EKNg",
+    "BBam5islqax05Zea"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.OYmYyFP4MR6Uw0pI"
+    },
+    "cf": {
+      "id": "temp_k8hwciyvpw"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897074,
+    "modifiedTime": 1685496658120,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BifjYX8DwwEvIA9t",
+  "folder": "DL7m2vy4NZZYLWYk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!BifjYX8DwwEvIA9t"
+}

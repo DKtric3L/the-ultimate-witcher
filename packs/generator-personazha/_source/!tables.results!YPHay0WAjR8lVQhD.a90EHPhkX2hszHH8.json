@@ -1,0 +1,16 @@
+{
+  "_id": "a90EHPhkX2hszHH8",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Danger - Enemies: The Cause",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "B7CNxjQJz1Y3Fx5H",
+  "_key": "!tables.results!YPHay0WAjR8lVQhD.a90EHPhkX2hszHH8"
+}

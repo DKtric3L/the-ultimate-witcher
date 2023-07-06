@@ -1,0 +1,60 @@
+{
+  "name": "Аура Страха",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-monster-red.webp",
+  "system": {
+    "class": "MagicalGift",
+    "level": "minor gift",
+    "source": "",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "В качестве действия вы можете излучать ауру ощутимого страха. Все в пределах 4 м от вас должны пройти проверку Сопротивления Магии со Сл: 12 или испугаться и получить -2 к любому действию против вас в течение 24 часов.",
+    "range": "",
+    "duration": "24 часа",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "Вы считаетесь на один уровень ниже в таблице социального положения (минимум ненависть), и члены вашей расы теперь относятся к вам как к терпимому, а не как к равному.",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.xDacvs22OTyLmI9v"
+    },
+    "cf": {
+      "id": "temp_rpgkv4xo64q"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670242348376,
+    "modifiedTime": 1685496637371,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Q9L0nlR84L8aYj92",
+  "sort": 0,
+  "_id": "6Vrk6L0A5qjFhn2g",
+  "_key": "!items!6Vrk6L0A5qjFhn2g"
+}

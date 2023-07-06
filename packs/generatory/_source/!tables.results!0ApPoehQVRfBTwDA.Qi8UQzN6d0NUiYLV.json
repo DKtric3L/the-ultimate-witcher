@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Хостел - Есть ли Ванна",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "OEmJexjUpVfg5rEM",
+  "_id": "Qi8UQzN6d0NUiYLV",
+  "flags": {},
+  "_key": "!tables.results!0ApPoehQVRfBTwDA.Qi8UQzN6d0NUiYLV"
+}

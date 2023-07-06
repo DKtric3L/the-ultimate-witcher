@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Нильфгаардский Капитан",
+  "img": "modules/the-ultimate-witcher/assets/monsters/nilfgardian_captain.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "UhAVtnMtHzz3jQ41",
+  "_id": "2TmA3LpGnUuHeL1G",
+  "flags": {},
+  "_key": "!tables.results!SjuCf7xOHUndymuN.2TmA3LpGnUuHeL1G"
+}

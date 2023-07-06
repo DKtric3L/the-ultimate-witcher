@@ -1,0 +1,16 @@
+{
+  "_id": "rFyILJugD0SxRczf",
+  "type": 0,
+  "text": "Энциклопедия Арканы Вы провели это десятилетие, погружаясь в законы Хаоса, его эволюцию и использование. Вы получаете +2 к Магическому познанию. Если у вас уже есть это знание, вы перебрасываете этот результат.",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!LiPUuGFfXbdWlnAd.rFyILJugD0SxRczf"
+}

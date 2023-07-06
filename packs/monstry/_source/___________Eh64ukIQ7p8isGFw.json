@@ -1,0 +1,87 @@
+{
+  "_id": "Eh64ukIQ7p8isGFw",
+  "name": "Белый хлад",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-runed-glowing.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_158empsijjm"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.OTYs7TCEArXIRnDs"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 3,
+    "avail": "Rare",
+    "damage": "9d6",
+    "reliable": 20,
+    "maxReliability": 20,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пробивающее броню",
+        "percentage": ""
+      },
+      {
+        "id": "_s2r7318f4",
+        "name": "Длинное",
+        "percentage": ""
+      },
+      {
+        "id": "_ttdaay6sk",
+        "name": "Кровопускающее",
+        "percentage": "100"
+      },
+      {
+        "id": "_tlflwiq4e",
+        "name": "Серебряное(9d6)",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 3,
+    "enhancementItems": [
+      {},
+      {},
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!0ydabPZvDV0woWj7.Eh64ukIQ7p8isGFw"
+}

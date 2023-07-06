@@ -1,0 +1,60 @@
+{
+  "name": "Истинное воскрешение",
+  "type": "spell",
+  "img": "icons/creatures/magical/spirit-undead-ghost-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OrSnfwQopYA2snw7"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "20",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 8d10.\nВоскрешает умершее существо в течении 10 дней после его смерти. Если пройдет еще одна секунда, существо окончательно умирает. Если труп проходит ритуал Остановки разложения, то время до смерти останавливается. Вернувшееся к жизни существо не восстанавливает потерянные конечности и полученные шрамы. Оно возвращается с молочно-белыми глазами и бледной кожей, что придает ему устрашающий вид. Существо возвращаются с 1 ПЗ и постепенно регенерируется естественным образом, исцелять его можно только после того как его ПЗ полностью восстановятся в первый раз. Оно получает штраф -8 ко всем характеристикам, и этот штраф уменьшается на -1 каждый день, пока не достигнет -3. Этот штраф -3 нельзя снять, а возрожденное существо навсегда получает боязнь огня и восприимчивость к урону от него.",
+    "range": "",
+    "duration": "мгновенное",
+    "defence": "",
+    "components": "Тело существа, Мелок (x2), Совершенный самоцвет (x1), Дымная пыль (x10), Пятая эссенция (x10), Черная жемчужина (x3), Сердце голема (x1), Эссенция призрака (x3)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "20",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "S6Cy8Bgxo3cpDPy3",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!S6Cy8Bgxo3cpDPy3"
+}

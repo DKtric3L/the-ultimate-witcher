@@ -1,0 +1,77 @@
+{
+  "name": "Рунное слово: Продление",
+  "type": "diagrams",
+  "img": "icons/magic/time/hourglass-yellow-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GdIO4TKfgrQZxJ6T"
+    },
+    "cf": {
+      "id": "temp_1r5chs154v7"
+    }
+  },
+  "system": {
+    "description": "<p>Когда вы используете заклинание или инвокацию с этим оружием в качестве фокусировки, бросьте кость 1d6 чтобы определить продолжительность заклинания в часах, вместо указанной в оружии.</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 2150,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Перун"
+      },
+      {
+        "id": "_qbwcw6q8p",
+        "name": "Сварог",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_1u0olhh75",
+        "name": "Занимает 2 слота для улучшений",
+        "percentage": ""
+      }
+    ],
+    "investment": 1175,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848427,
+    "modifiedTime": 1685496579124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3ON1ZfBJ9CGPMI9h",
+  "folder": "7ogE3cPtN4Xw0G1z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3ON1ZfBJ9CGPMI9h"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Северный ветер",
+  "type": 2,
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "Y7Ol9Tw8lzZqBwa8",
+  "documentId": "VrYEXgMVdpJKcuHe",
+  "flags": {},
+  "_key": "!tables.results!pfvQJ4Ab5bIZaYOH.Y7Ol9Tw8lzZqBwa8"
+}

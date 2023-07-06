@@ -1,0 +1,43 @@
+{
+  "name": "Нильфгаард",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "AjDNLYTGDVWcWiQb",
+    "5rTsAA6BoI2LeGDy",
+    "y1qo0bRFNIOHm5X1",
+    "mTMtlYQlBoZYFIHr",
+    "q170zqQH5XTwoIfa",
+    "2TmA3LpGnUuHeL1G",
+    "DQIXPNXgq21ZSBGe",
+    "orbbyHCLE86o3Gb2",
+    "UxVQhlzHyeAJTtvj"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "SjuCf7xOHUndymuN",
+  "_key": "!tables!SjuCf7xOHUndymuN"
+}

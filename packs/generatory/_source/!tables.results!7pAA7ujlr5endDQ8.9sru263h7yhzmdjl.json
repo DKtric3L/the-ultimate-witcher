@@ -1,0 +1,16 @@
+{
+  "text": "Спиритический сеанс",
+  "type": 2,
+  "img": "icons/magic/death/undead-ghost-scream-teal.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "_id": "9sru263h7yhzmdjl",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "LFaAgL3CsURXJsaV",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.9sru263h7yhzmdjl"
+}

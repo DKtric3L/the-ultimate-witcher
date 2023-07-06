@@ -1,0 +1,43 @@
+{
+  "name": "Мутаген: Великан",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.FQe4Ke3f0pHAWXb4"
+    },
+    "cf": {
+      "id": "temp_fv6olz7y9lh"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Великаны",
+    "effect": "+2 тел",
+    "alchemyDC": "24",
+    "minorMutation": "Кривые зубы"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868980,
+    "modifiedTime": 1685496603726,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0pR11czFckKEdk6W",
+  "folder": "VRFufJJy36LEhABA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0pR11czFckKEdk6W"
+}

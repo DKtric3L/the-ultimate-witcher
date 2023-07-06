@@ -1,0 +1,36 @@
+{
+  "name": "Жизнь мага - Магические исследования",
+  "img": "icons/sundries/books/book-stack.webp",
+  "description": "",
+  "results": [
+    "fIRLQZyNpGEWrYlK",
+    "Oa4LgB1Y3M4qVHbJ",
+    "IbPJbXkLADvyruPR",
+    "LGABmDKxSG5SetOV",
+    "XsbToQCK7hQbEBKP"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UGtkSX1N4g0P2PTW"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668163149817,
+    "modifiedTime": 1668163203658,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_id": "ROc6YpeCPEz8XtOS",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!ROc6YpeCPEz8XtOS"
+}

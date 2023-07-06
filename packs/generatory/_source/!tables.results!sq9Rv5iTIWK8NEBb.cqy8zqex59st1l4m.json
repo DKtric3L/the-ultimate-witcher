@@ -1,0 +1,16 @@
+{
+  "text": "Эльфский походный лук",
+  "type": 2,
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "cqy8zqex59st1l4m",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "U9wkW0isog34QVA0",
+  "_key": "!tables.results!sq9Rv5iTIWK8NEBb.cqy8zqex59st1l4m"
+}

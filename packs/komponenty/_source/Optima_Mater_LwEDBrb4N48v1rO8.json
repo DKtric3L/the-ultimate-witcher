@@ -1,0 +1,42 @@
+{
+  "name": "Optima Mater",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/other/optima_mater.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_pzkgrhat4qp",
+      "color": "#e7c61d"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Горы и под землёй",
+    "quantityObtainable": "1d6/2",
+    "forage": "18",
+    "substanceType": "quebrith"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853710,
+    "modifiedTime": 1685496583975,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LwEDBrb4N48v1rO8",
+  "folder": "uhtH6S9l8aJ4XQWd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LwEDBrb4N48v1rO8"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "hp8QDWPG0Leg2Ei8",
+  "text": "Этот дракон в молодости странствовал по Континенту и за его пределами и собрал массу всевозможных безделушек, которые теперь носит на себе.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Gy4sJiEEweUOW1Jz.hp8QDWPG0Leg2Ei8"
+}

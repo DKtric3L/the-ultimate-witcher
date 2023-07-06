@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Речная Глина",
+  "img": "icons/commodities/stone/clay-orange.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "NmT5NnqVHZCArORh",
+  "_id": "9UU4ep3ge9KclEph",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.9UU4ep3ge9KclEph"
+}

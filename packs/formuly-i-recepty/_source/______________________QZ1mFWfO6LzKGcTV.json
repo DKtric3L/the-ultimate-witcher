@@ -1,0 +1,77 @@
+{
+  "name": "Глифово слово: баланс",
+  "type": "diagrams",
+  "img": "icons/skills/social/trading-justice-scale-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.5qyC3sSC6oEF9izv"
+    },
+    "cf": {
+      "id": "temp_1r5chs154v7"
+    }
+  },
+  "system": {
+    "description": "<p>Вес доспеха уменьшается на 1 киллограмм.&nbsp;</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Глиф укрепления"
+      },
+      {
+        "id": "_0stlax9sn",
+        "name": "Глиф укрепления",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_kkvyfneeq",
+        "name": "Занимает 2 ячейки улучшения",
+        "percentage": ""
+      }
+    ],
+    "investment": 550,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848411,
+    "modifiedTime": 1685496579124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QZ1mFWfO6LzKGcTV",
+  "folder": "7ogE3cPtN4Xw0G1z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QZ1mFWfO6LzKGcTV"
+}

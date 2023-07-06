@@ -1,0 +1,16 @@
+{
+  "_id": "IIquHxO4firfm22X",
+  "type": 2,
+  "text": "Опасность - ост",
+  "weight": 1,
+  "range": [
+    81,
+    100
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "BqWiXzs6w2pmN2Ra",
+  "_key": "!tables.results!eQ919gScqOBYcW7l.IIquHxO4firfm22X"
+}

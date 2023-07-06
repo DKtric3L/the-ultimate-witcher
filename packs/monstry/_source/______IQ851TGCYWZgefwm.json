@@ -1,0 +1,42 @@
+{
+  "name": "Глаза",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/eye_monstrous_64x64.png.6901.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.5,
+    "cost": 95,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Главоглазы и эндриаги",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.0yuv15VLyRt51RZG"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853698,
+    "modifiedTime": 1669963702584,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "IQ851TGCYWZgefwm",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!vH8RFGIQt7XR53WH.IQ851TGCYWZgefwm"
+}

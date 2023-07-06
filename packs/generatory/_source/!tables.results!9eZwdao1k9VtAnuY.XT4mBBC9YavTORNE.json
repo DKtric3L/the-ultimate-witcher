@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "XT4mBBC9YavTORNE",
+  "text": "Спасение. Наниматель просит спасти своего человека. Противники -",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.XT4mBBC9YavTORNE"
+}

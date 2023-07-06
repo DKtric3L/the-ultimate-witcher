@@ -1,0 +1,48 @@
+{
+  "name": "Инвокации верховного жреца",
+  "img": "icons/magic/life/heart-cross-strong-flame-purple-orange.webp",
+  "description": "",
+  "results": [
+    "E5CFOipVFh9pDqOk",
+    "3RuJuj3jWd3h9dA3",
+    "Uma5OlDTLHUDQNZG",
+    "9cAkI9HuqRyshihR",
+    "QYv5TRLAdtePNDqy",
+    "j8KKnpgPvteGUoEp",
+    "pNFRLDqRhvYblVfb",
+    "rR5Vo8i2G407NLn1",
+    "C5eXSNTQfaHRiIBC",
+    "VkPX6EFA9EsfbD3g",
+    "mjM5u2ZQw2X1nVw6",
+    "Rt9s5KiYNJz91u6R",
+    "2nnPq1fiePlbincG",
+    "W08hZ6PRRNka53sF"
+  ],
+  "formula": "1d14",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Gbg4exwPb2p9SfMg"
+    },
+    "cf": {
+      "id": "temp_s23761z2tk"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932901,
+    "modifiedTime": 1685496644216,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sZpiqWwtKOabwlLY",
+  "folder": "UBZ0NONtvUbanf9g",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!sZpiqWwtKOabwlLY"
+}

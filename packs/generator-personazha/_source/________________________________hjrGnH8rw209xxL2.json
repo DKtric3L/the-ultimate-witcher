@@ -1,0 +1,45 @@
+{
+  "name": "Самый запом момент с настаником",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "uqZefemvvEbBhUjN",
+    "LppRluv5BMIwP9ZG",
+    "ZMjks1DNCRvojO8f",
+    "N11Ve1KFoyiJuXWq",
+    "T8PBfiDHNnRmaPvU",
+    "9yAK79lfjYtcbSoI",
+    "3g51eW4utfrxAtSK",
+    "K9Sss3HIaAAk8Ata",
+    "30AqS8nRAc1xERKs",
+    "uGvOpwDE9sW9SGRr"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.yqOnmoHRcD2E4XhW"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901104,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "hjrGnH8rw209xxL2",
+  "_key": "!tables!hjrGnH8rw209xxL2"
+}

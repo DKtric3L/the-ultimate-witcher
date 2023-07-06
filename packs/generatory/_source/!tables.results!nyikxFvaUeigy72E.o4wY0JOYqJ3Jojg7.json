@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "o4wY0JOYqJ3Jojg7",
+  "text": "[[2d6]] Бойцов",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!nyikxFvaUeigy72E.o4wY0JOYqJ3Jojg7"
+}

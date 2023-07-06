@@ -1,0 +1,60 @@
+{
+  "name": "Нильфгаардский латный доспех",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-collared-steel.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_1fv367gt0a6"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 12,
+    "cost": 850,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 30,
+    "torsoMaxStopping": 30,
+    "leftArmStopping": 30,
+    "leftArmMaxStopping": 30,
+    "rightArmStopping": 30,
+    "rightArmMaxStopping": 30,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Heavy",
+    "avail": "Rare",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 2,
+    "location": "Torso",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837868,
+    "modifiedTime": 1685496574773,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Wwm3VseFbhwi1jXT",
+  "folder": "rlORb2Xgea9R19aj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Wwm3VseFbhwi1jXT"
+}

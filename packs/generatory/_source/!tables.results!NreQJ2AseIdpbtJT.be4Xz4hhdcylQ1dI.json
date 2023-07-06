@@ -1,0 +1,16 @@
+{
+  "text": "Боеприпасы с широким наконечником",
+  "type": 2,
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "be4Xz4hhdcylQ1dI",
+  "documentId": "DD3LosBwaRMbDIfA",
+  "flags": {},
+  "_key": "!tables.results!NreQJ2AseIdpbtJT.be4Xz4hhdcylQ1dI"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "RCBaxlX35KNxAK3D",
+  "name": "Стая крыс",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Песта вступает бой в сопровождении двух стай заражённых крыс. Каждый раунд в начале хода песты все оставшиеся стаи крыс перемещаются в сторону ближайшего существа и при возможности пытаются его атаковать. Если стая крыс уже участвует в бою и ей не нужно перемещаться, чтобы напасть на врага, она только атакует. В качестве действия песта может призвать рядом с собой две стаи чумных крыс. Эти стаи немедленно перемещаются к ближайшему врагу и при возможности пытаются его атаковать."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!GvHkNN3d16eUO8Ig.RCBaxlX35KNxAK3D"
+}

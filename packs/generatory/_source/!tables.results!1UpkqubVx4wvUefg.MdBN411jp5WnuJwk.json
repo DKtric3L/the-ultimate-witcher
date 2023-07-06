@@ -1,0 +1,16 @@
+{
+  "text": "Энье",
+  "type": 2,
+  "img": "icons/magic/fire/projectile-fireball-embers-yellow.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "MdBN411jp5WnuJwk",
+  "documentId": "csR15PIFKhjdGG9h",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.MdBN411jp5WnuJwk"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Мозг Великана",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/brain_monstrous_64x64.png.6872.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_245p1o8sc5y"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.qQsC3lIi7gk7FyQK"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Великаны",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1685496584212,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "HjNVduTYA5Hnj66m",
+  "sort": 0,
+  "_id": "bVDXGKvEA8rr6NmK",
+  "_key": "!items!bVDXGKvEA8rr6NmK"
+}

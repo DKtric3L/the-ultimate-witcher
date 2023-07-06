@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    27,
+    27
+  ],
+  "drawn": false,
+  "text": "Серебряное кольцо",
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-silver.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "xSDdN8WcYc19Zfoe",
+  "_id": "IOnReXqcrQakxr7f",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.IOnReXqcrQakxr7f"
+}

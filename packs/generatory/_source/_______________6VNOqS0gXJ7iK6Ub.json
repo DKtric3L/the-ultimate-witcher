@@ -1,0 +1,38 @@
+{
+  "name": "Друид - Мастер",
+  "img": "icons/magic/nature/leaf-glow-maple-teal.webp",
+  "description": "",
+  "results": [
+    "3ci8od3xfxwuxt1o",
+    "80o45a0oc1yxbnw0",
+    "0y1y4tpb8h5xqj34",
+    "eigymecbkd8ty7wd"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.EpskICyL8aYSSCt7"
+    },
+    "cf": {
+      "id": "temp_cboveqoq8kl"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932897,
+    "modifiedTime": 1685496644235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6VNOqS0gXJ7iK6Ub",
+  "folder": "hu5je5cICYkkCemz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!6VNOqS0gXJ7iK6Ub"
+}

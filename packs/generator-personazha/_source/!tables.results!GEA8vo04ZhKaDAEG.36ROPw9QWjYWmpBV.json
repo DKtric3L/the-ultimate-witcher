@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Удача - Боевой инструктор. Вы учились боевым искусствам у настоящего воина. Получите бонус +1 к любому вашему боевому навыку, либо выберите новый с бонусом +2.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GEA8vo04ZhKaDAEG.36ROPw9QWjYWmpBV"
+}

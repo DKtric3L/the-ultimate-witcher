@@ -1,0 +1,16 @@
+{
+  "_id": "eqUGwpXUCrrhdqtN",
+  "type": 2,
+  "text": "Союзник",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "zyjzQair7u8jqoA8",
+  "_key": "!tables.results!tqR33wiWBL1kl5WV.eqUGwpXUCrrhdqtN"
+}

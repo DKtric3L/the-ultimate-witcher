@@ -1,0 +1,16 @@
+{
+  "_id": "VaBMiBo9HQjCGHT1",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Background: How Did Early Training Go? +2",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "RkpitlJX32gc9k3O",
+  "_key": "!tables.results!C5d6zkIMvS9gDWEN.VaBMiBo9HQjCGHT1"
+}

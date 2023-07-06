@@ -1,0 +1,16 @@
+{
+  "_id": "Tkg0G7hzcdaLhQ8C",
+  "type": 2,
+  "text": "Разброс снаряда",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/weapons/thrown/bomb-fuse-cloth-pink.webp",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "XzhVNbs2LhDWFBH1",
+  "_key": "!tables.results!z1nhy4Q1pKgKmLgo.Tkg0G7hzcdaLhQ8C"
+}

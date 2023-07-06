@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Какая Археспора",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "zr9cLesDWkcJHfms",
+  "_id": "y8yiT2EyG9uK0uYK",
+  "flags": {},
+  "_key": "!tables.results!QlHGUejHno6ftM4n.y8yiT2EyG9uK0uYK"
+}

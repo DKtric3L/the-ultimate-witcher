@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Право неожиданности - Сделайте бросок 1d10: 1 - вы получили ребёнка, 2 - собаку, 3 - лошадь, 4 - новый плуг, 5 - кошку, 6 - Бочку эля, 7 - Драгоценность стоимостью 1d6*10 крон, 8 - оружие стоимостью до 500 крон, 9 - Вола, 10 - Мула.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Fh8VJ3C7tUE27Cc9.q0DM4FW7XCnFdKZu"
+}

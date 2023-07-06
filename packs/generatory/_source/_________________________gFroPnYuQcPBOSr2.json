@@ -1,0 +1,42 @@
+{
+  "name": "Мастер - Смешанная магия",
+  "description": "A random table created from the contents of the Смешанная магия Folder.",
+  "results": [
+    "24tknk5bUiyPt7OT",
+    "cyRhV3TDpCXhL6EI",
+    "hNrO3KbaBRO8rHyg",
+    "raJSEHBkGnffi2TV"
+  ],
+  "formula": "1d4",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a3ce3e62c34c501c5c5419c54bd3c3cd8df9ddc7",
+      "sourceId": "RollTable.ZnRTGmqwKeTR3J7D"
+    },
+    "core": {
+      "sourceId": "RollTable.ZnRTGmqwKeTR3J7D"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593722563,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "gFroPnYuQcPBOSr2",
+  "_key": "!tables!gFroPnYuQcPBOSr2"
+}

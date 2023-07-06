@@ -1,0 +1,16 @@
+{
+  "_id": "t5BSdnN3u65y1BuJ",
+  "type": 0,
+  "text": "Вас взял в ученики маг.",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!M9eGi05GrMOcW12S.t5BSdnN3u65y1BuJ"
+}

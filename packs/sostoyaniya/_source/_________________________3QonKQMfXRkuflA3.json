@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Гидраген + Ребис",
+  "type": "effect",
+  "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.17ac5xvBoYdH1hCM"
+    },
+    "cf": {
+      "id": "temp_zvo0qme6z8p"
+    }
+  },
+  "system": {
+    "description": "+3 к Соблазнению на 1 час.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_eey1w0ftr",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "3"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883181,
+    "modifiedTime": 1685496621964,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3QonKQMfXRkuflA3",
+  "folder": "SVDWJ6D7d1oTHirD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3QonKQMfXRkuflA3"
+}

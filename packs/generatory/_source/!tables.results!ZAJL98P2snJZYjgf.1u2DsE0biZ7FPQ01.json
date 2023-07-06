@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    17,
+    17
+  ],
+  "drawn": false,
+  "text": "Клад баба с бандой",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "y7UQs56lm0JSaADw",
+  "_id": "1u2DsE0biZ7FPQ01",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.1u2DsE0biZ7FPQ01"
+}

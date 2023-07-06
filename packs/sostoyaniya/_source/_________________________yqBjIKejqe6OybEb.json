@@ -1,0 +1,75 @@
+{
+  "name": "Эффект еды: Хороший обед",
+  "type": "effect",
+  "img": "icons/consumables/food/plate-chicken-grilled-mushroom-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xq906tikww"
+    }
+  },
+  "system": {
+    "description": "До следующего отдыха.\nЭто было вкусно. Ты чувствуешь приятное тепло в желудке.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "1"
+      },
+      {
+        "id": "_17pk46n5x",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "1"
+      },
+      {
+        "id": "_blk9jfb56",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "1"
+      },
+      {
+        "id": "_lw6q9l5pf",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "1"
+      },
+      {
+        "id": "_avm2xp03z",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "1"
+      },
+      {
+        "id": "_uuhsg987m",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "1"
+      },
+      {
+        "id": "_wtxa5h8e1",
+        "stat": "WITCHER.Actor.Stat.Cra",
+        "modifier": "1"
+      },
+      {
+        "id": "_glry8n4fg",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883179,
+    "modifiedTime": 1685496621661,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "yqBjIKejqe6OybEb",
+  "folder": "1H4Dkaei03yMUCuF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!yqBjIKejqe6OybEb"
+}

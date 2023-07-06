@@ -1,0 +1,74 @@
+{
+  "name": "Эльфская глефа",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/glaive-hooked-steel.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.p2DRg7XaNMA9TQIt"
+    },
+    "cf": {
+      "id": "temp_a2llj98abwf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 925,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее, Дробящее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 2,
+    "avail": "Rare",
+    "damage": "4d6+3",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "25"
+      },
+      {
+        "id": "_btty7z7h9",
+        "name": "Длинное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Staff/Spear",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863945,
+    "modifiedTime": 1685496598547,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "65SiYbPAnla4vM80",
+  "folder": "mgO1PrsFighcxM09",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!65SiYbPAnla4vM80"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Капитан редании",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "NPUZmFAZfGvNewQ8",
+  "_id": "2dXlIo5mZlLL8XH3",
+  "flags": {},
+  "_key": "!tables.results!Qz8miDhG9hWzD1cg.2dXlIo5mZlLL8XH3"
+}

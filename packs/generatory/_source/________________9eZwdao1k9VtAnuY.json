@@ -1,0 +1,56 @@
+{
+  "name": "Необычный заказ",
+  "img": "icons/commodities/gems/gem-amber-insect-orange.webp",
+  "description": "",
+  "results": [
+    "imuN6RjYVCYz8jwp",
+    "wiDDq2j68aHDTqVC",
+    "UOrpR4gGoHUlRH1c",
+    "1oUEa1s1rxjln0a2",
+    "xZ5Vvwgg9dA2mezN",
+    "Upk6pm7RHKv7iDYu",
+    "2UWdIonQ8h7ajbYe",
+    "fcJuDG7CK8s4RBcQ",
+    "9Ip6bXdoq9SIqEFt",
+    "ttYCeiwm9mEDSDSZ",
+    "DxPBUUKDtu0xCXqv",
+    "SQJCShjypZWEehoa",
+    "vh54zwNXV9iI1I22",
+    "kZbpCqINB3hdLOOu",
+    "mYvU9DcvAQO4OCMv",
+    "VJGA7dGMqqkwWyeS",
+    "u0OyvvcGxn3R3hlS",
+    "1GpwyiDTBNeJvJOf",
+    "XT4mBBC9YavTORNE",
+    "55Hp3rj4PahmhjlH",
+    "EIx9WhuyGUxLf4Jk",
+    "CtxTFmTAzYv9TWY1"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_fs1p2hgxhmu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496644753,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ZZd02IQkbh9qxG3G",
+  "sort": 0,
+  "_id": "9eZwdao1k9VtAnuY",
+  "_key": "!tables!9eZwdao1k9VtAnuY"
+}

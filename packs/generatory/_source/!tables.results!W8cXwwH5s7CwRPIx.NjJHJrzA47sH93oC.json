@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    21,
+    21
+  ],
+  "drawn": false,
+  "text": "Обеззараживающая жидкость",
+  "img": "modules/the-ultimate-witcher/assets/props/disinfecting_liquid.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "k6K3fEt05GLZcIeU",
+  "_id": "NjJHJrzA47sH93oC",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.NjJHJrzA47sH93oC"
+}

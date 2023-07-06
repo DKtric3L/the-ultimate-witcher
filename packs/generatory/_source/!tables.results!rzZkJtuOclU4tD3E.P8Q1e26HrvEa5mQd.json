@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Неясыть",
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "6SbgctI6j9m4QK8o",
+  "_id": "P8Q1e26HrvEa5mQd",
+  "flags": {},
+  "_key": "!tables.results!rzZkJtuOclU4tD3E.P8Q1e26HrvEa5mQd"
+}

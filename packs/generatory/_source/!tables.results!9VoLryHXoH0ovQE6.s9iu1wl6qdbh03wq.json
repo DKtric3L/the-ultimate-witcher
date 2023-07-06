@@ -1,0 +1,16 @@
+{
+  "text": "Тканевое усиление",
+  "type": 2,
+  "img": "icons/commodities/cloth/cloth-patterned-pink.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "_id": "s9iu1wl6qdbh03wq",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "WVFG6HrzBmYyOxhT",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.s9iu1wl6qdbh03wq"
+}

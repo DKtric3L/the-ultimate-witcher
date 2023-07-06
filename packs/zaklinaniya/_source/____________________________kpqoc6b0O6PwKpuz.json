@@ -1,0 +1,60 @@
+{
+  "name": "Нежелательный последователь",
+  "type": "spell",
+  "img": "icons/creatures/mammals/rodent-rat-diseaed-gray.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_kp5e8xlen2o"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "За жертвой постоянно следует маленькая белка, но на самом деле этой белки не существует. Только жертва видит ее, и если она попытается показать ее кому-либо, белка исчезает. Со временем у жертвы развивается паранойя по поводу этой белки, и она даже начинает бояться ее.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "Для этого жертве понадобятся несколько костей мелких животных, мех или шкура животного, нитки и инструменты для творчества. Жертва должна сделать маленькую куклу в виде белки так, как она представляет ее в своем воображении. Качество не имеет значения, главное, чтобы она старалась изобразить то, что видят в своем воображении. Внутрь куклы помещаются кости животных. Когда все сделано, жертва должна бросить куклу в огонь, и когда та сгорит дотла, порча уйдет.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496639494,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kpqoc6b0O6PwKpuz",
+  "folder": "Syi8vTbZZBjwpqCl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kpqoc6b0O6PwKpuz"
+}

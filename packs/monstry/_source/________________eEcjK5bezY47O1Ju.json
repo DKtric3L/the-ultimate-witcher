@@ -1,0 +1,67 @@
+{
+  "_id": "eEcjK5bezY47O1Ju",
+  "name": "Темерский армет",
+  "type": "armor",
+  "img": "icons/equipment/head/helm-bassinet-steel.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi.IJN5nE6KlMAG8UZE"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 475,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 16,
+    "headMaxStopping": 16,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Poor",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Ограничение зрения"
+      }
+    ],
+    "encumb": 0,
+    "location": "Head",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!odFTsFEj7GxvhSWc.eEcjK5bezY47O1Ju"
+}

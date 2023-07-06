@@ -1,0 +1,26 @@
+{
+  "_id": "879wcjibNIORCLJA",
+  "name": "Дева",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Не тратя действия, брукса может замаскироваться под кра сивую женщину, непохожую на чудовище. В такой маскировке брукса неотличима от человека. Но если брукса использует какую-нибудь способность, кроме Телепатии или Связи с птицами, магическая маскировка спадёт и вампир примет свой истинный облик. Бомбы «Лунная пыль» не дают бруксе использовать эту способность."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!peBJcF5diDknACSa.879wcjibNIORCLJA"
+}

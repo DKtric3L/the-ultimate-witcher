@@ -1,0 +1,16 @@
+{
+  "_id": "FyjZwFRJUzcqDrwW",
+  "flags": {},
+  "type": 0,
+  "text": "По крайней мере, часть вашей семьи жива",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!aOOyMkQ8Dk66hzNe.FyjZwFRJUzcqDrwW"
+}

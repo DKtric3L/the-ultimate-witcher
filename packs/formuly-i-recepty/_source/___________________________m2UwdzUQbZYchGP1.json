@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Эликсир живучести",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.m2UwdzUQbZYchGP1"
+    },
+    "cf": {
+      "id": "temp_cc83pensjd5"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.VCEgyHHiOn0WrSBO]{Эликсир живучести}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "master",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 18,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 1,
+      "rebis": 2,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 1,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 2
+    },
+    "associatedItem": {
+      "name": "Эликсир живучести",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/props/vitality_potion.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 85,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Rare",
+        "effect": "Позволяет выпившему игнорировать штрафы за\nнахождение на пороге ранения на время действия\nэликсира.",
+        "time": "2d6 раундов",
+        "toxicity": "50%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.VCEgyHHiOn0WrSBO"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868995,
+        "modifiedTime": 1668171547624,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848432,
+    "modifiedTime": 1685496578717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "m2UwdzUQbZYchGP1",
+  "folder": "7HVmVrGmTRrNoVTk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!m2UwdzUQbZYchGP1"
+}

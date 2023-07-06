@@ -1,0 +1,43 @@
+{
+  "name": "Походная кузница",
+  "type": "valuable",
+  "img": "icons/tools/smithing/anvil.webp",
+  "system": {
+    "description": "Позволяют ковать оружие или броню в любом месте.",
+    "quantity": 1,
+    "weight": 5,
+    "cost": 111,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.RtObOOHXsMsJWQEd"
+    },
+    "cf": {
+      "id": "temp_zf5u6w9lv4"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663423675337,
+    "modifiedTime": 1663423675337,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "eW5ua5rdv5khqBbU",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!uwoc5G9Eyjzo0fxU.eW5ua5rdv5khqBbU"
+}

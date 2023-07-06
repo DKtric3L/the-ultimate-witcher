@@ -1,0 +1,16 @@
+{
+  "text": "Самум",
+  "type": 2,
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "CBmPFUVFnAwpIqjL",
+  "documentId": "JOGh4k6TXc8ypeHV",
+  "flags": {},
+  "_key": "!tables.results!pfvQJ4Ab5bIZaYOH.CBmPFUVFnAwpIqjL"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Меч дикой охоты",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard-flanged.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.ctNA2W3kSjL4LOWV"
+    },
+    "cf": {
+      "id": "temp_158empsijjm"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 875,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 3,
+    "avail": "Rare",
+    "damage": "8d6",
+    "reliable": 20,
+    "maxReliability": 20,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пробивающее броню",
+        "percentage": ""
+      },
+      {
+        "id": "_a1gbpgser",
+        "name": "Кровопускающее",
+        "percentage": "50"
+      },
+      {
+        "id": "_klx6cdyj7",
+        "name": "Метеоритное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877955,
+    "modifiedTime": 1685496616900,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Y2nD4541KapzbvyW",
+  "folder": "qosTfu30dYf09sIj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Y2nD4541KapzbvyW"
+}

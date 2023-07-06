@@ -1,0 +1,16 @@
+{
+  "_id": "i4n3taLZOfbhwLaS",
+  "flags": {},
+  "type": 0,
+  "text": "Скакун напуган и встаёт на дыбы. Совершите проверку атлетики со сл. 16, чтобы удержаться, а также проверку выживания в дикой природе со сл. 18, чтобы успокоить скакуна, прежде чем ехать дальше.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!6FrD4tQuyJOICu5m.i4n3taLZOfbhwLaS"
+}

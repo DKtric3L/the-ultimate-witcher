@@ -1,0 +1,57 @@
+{
+  "name": "Камера Дормина",
+  "type": "spell",
+  "img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uo04sybp4yb"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "18",
+    "staminaIsVar": false,
+    "effect": "Камера Дормина позволяют вам заточить одну цель в полупрозрачном магическом пузыре. Камера имеет 40 хитов и остается неподвижной там, где была сотворена. Существо внутри камеры не может выбирать цель или быть выбрана в качестве цели чем-либо снаружи. Кроме того, звук не проходит сквозь стены камеры.",
+    "range": "10м",
+    "duration": "актив (вын 8)",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496637929,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bet7W8enOIMhPwPy",
+  "folder": "Kq5EsZjuyQjP2c1F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bet7W8enOIMhPwPy"
+}

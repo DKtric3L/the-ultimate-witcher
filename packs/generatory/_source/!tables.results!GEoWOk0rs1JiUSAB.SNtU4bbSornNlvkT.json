@@ -1,0 +1,16 @@
+{
+  "text": "Метательные топоры(3х)",
+  "type": 2,
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "SNtU4bbSornNlvkT",
+  "documentId": "08Z5NjLqa1zBmJQS",
+  "flags": {},
+  "_key": "!tables.results!GEoWOk0rs1JiUSAB.SNtU4bbSornNlvkT"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Случайная руна",
+  "type": "valuable",
+  "img": "icons/commodities/treasure/token-engraved-question-green.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7ee10d754cc789322dd82dde5c51d3c1e93d658f"
+    },
+    "core": {
+      "sourceId": "Item.TDTWPb7sjejNJ0Sy"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1672657970466,
+    "modifiedTime": 1672738821490,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "a8zKLK10tGG7L7wu",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!RtOGQFzxqbmEIv1u.a8zKLK10tGG7L7wu"
+}

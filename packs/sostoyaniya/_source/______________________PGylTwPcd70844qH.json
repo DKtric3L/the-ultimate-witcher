@@ -1,0 +1,62 @@
+{
+  "name": "Эффект: Горячая ванна",
+  "type": "effect",
+  "img": "icons/magic/water/water-hand.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_et1htt64j0c"
+    }
+  },
+  "system": {
+    "description": "Длится до следующего отдыха.\nТеплая вода, миги спокойствия - как же это бесценно.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "1"
+      },
+      {
+        "id": "_8d9sw9sjz",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "1"
+      },
+      {
+        "id": "_votuaz73c",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "1"
+      }
+    ],
+    "derived": [
+      {
+        "id": "_gemupmsb1",
+        "derivedStat": "WITCHER.Actor.CoreStat.Rec",
+        "modifier": "1"
+      }
+    ],
+    "skills": [
+      {
+        "id": "_a2btb73bk",
+        "skill": "WITCHER.SkEmpGrooming",
+        "modifier": "1"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883181,
+    "modifiedTime": 1685496621677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PGylTwPcd70844qH",
+  "folder": "FcoowEm4mYGPMieN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PGylTwPcd70844qH"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Связывание",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/glyph_binding.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Odoo9ODY3SV8Pt5Q"
+    },
+    "cf": {
+      "id": "temp_jkla6pjucb"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 200,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "glyph",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пока вы носите эту броню, всякий раз, когда у вас будет\nшанс кровотечения, уменьшите этот шанс на 30%. "
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868988,
+    "modifiedTime": 1685496603411,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "yBjlomFYsYJ6NyMB",
+  "folder": "IwHMGFCqloImUMb0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!yBjlomFYsYJ6NyMB"
+}

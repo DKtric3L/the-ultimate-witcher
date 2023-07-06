@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "R9pMWpTFm300G2lX",
+  "text": "Умеренно - Этой ночью чудовище оставило следы на влажной земле, но их слегка размыло дождём.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!y4PRqT9elfd6BHh3.R9pMWpTFm300G2lX"
+}

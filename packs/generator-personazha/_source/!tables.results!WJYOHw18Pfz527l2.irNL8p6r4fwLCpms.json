@@ -1,0 +1,16 @@
+{
+  "_id": "irNL8p6r4fwLCpms",
+  "type": 0,
+  "text": "Профессия врага - Рыцарь",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!WJYOHw18Pfz527l2.irNL8p6r4fwLCpms"
+}

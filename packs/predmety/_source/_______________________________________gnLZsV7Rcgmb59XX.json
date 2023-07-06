@@ -1,0 +1,43 @@
+{
+  "name": "Проживание: Стойло в конюшне (за ночь)",
+  "type": "valuable",
+  "img": "icons/sundries/scrolls/scroll-writing-gold.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.4wjvWutQAz8rSuzY"
+    },
+    "cf": {
+      "id": "temp_9g36jjd7ks7"
+    }
+  },
+  "system": {
+    "description": "Пока ты отдыхаешь, коняке твоей тоже надо где-то перекантоваться. Уж поверь мне — я как-то раз оставил своего ослика в чистом поле, покуда сам в таверне дремал. Скотину я так и не нашёл.",
+    "quantity": 1,
+    "weight": null,
+    "cost": 2,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "lodging",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868987,
+    "modifiedTime": 1685496603196,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gnLZsV7Rcgmb59XX",
+  "folder": "HDMExnnyDcCfbxTD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gnLZsV7Rcgmb59XX"
+}

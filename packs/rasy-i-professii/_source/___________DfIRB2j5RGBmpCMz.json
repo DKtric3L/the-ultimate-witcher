@@ -1,0 +1,56 @@
+{
+  "name": "Краснолюды",
+  "type": "race",
+  "img": "modules/the-ultimate-witcher/assets/professions/krasnolud.jpg",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.qQt5VEGy931KfJQG"
+    },
+    "cf": {
+      "id": "temp_rwe5bpoyvsp"
+    }
+  },
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Закалённый",
+      "description": "Кожа имеет постоянный бонус 2 ПБ, который нельзя снизить разрушающим уроном."
+    },
+    "perk2": {
+      "name": "Силач",
+      "description": "+1 к силе и +25 кг к переносимому весу."
+    },
+    "perk3": {
+      "name": "Намётанный глаз",
+      "description": "+1 к торговле."
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "tolerated",
+      "nilfgaard": "equal",
+      "skellige": "equal",
+      "dolBlathanna": "equal",
+      "mahakam": "equal"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162873439,
+    "modifiedTime": 1685496612239,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DfIRB2j5RGBmpCMz",
+  "folder": "32GHdDmc9HcJHQ9n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DfIRB2j5RGBmpCMz"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Стоимостью 100 крон",
+  "type": "component",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "component",
+    "rarity": "",
+    "location": "",
+    "quantityObtainable": "",
+    "forage": "",
+    "substanceType": ""
+  },
+  "_id": "3yY5mnbHLo24sHHH",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663423201305,
+    "modifiedTime": 1663423206544,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!Ezs4OxTZyi9d7KQ0.3yY5mnbHLo24sHHH"
+}

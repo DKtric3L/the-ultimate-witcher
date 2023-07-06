@@ -1,0 +1,16 @@
+{
+  "text": "Марена",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/marena.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "fhOaem8NLbvkCRDf",
+  "documentId": "vEAJZdiyBavgCCPB",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.fhOaem8NLbvkCRDf"
+}

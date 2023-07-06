@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "uAs6rTLpvPido4RT",
+  "text": "Увлечения - Охота. Этот дракон охотится ради удовольствия в диких местах близ своего логова. Он получает +6 к навыку Профессиональная паранойя.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!msr3MeH2IrProUDM.uAs6rTLpvPido4RT"
+}

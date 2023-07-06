@@ -1,0 +1,37 @@
+{
+  "name": "Хостел - Услуги",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "Qi8UQzN6d0NUiYLV",
+    "nqeAEKBE1i4clIRk",
+    "SOHn0I845wgnNsbh"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_tydad1d5ono"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644521,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "kf9IUy3zD5qIiqc7",
+  "sort": 0,
+  "_id": "0ApPoehQVRfBTwDA",
+  "_key": "!tables!0ApPoehQVRfBTwDA"
+}

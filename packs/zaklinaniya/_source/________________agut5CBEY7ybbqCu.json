@@ -1,0 +1,57 @@
+{
+  "name": "Клеймо увядания",
+  "type": "spell",
+  "img": "icons/magic/symbols/circle-ouroboros.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a9snocl3pol"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Излюбленное культистами смерти всех вероисповеданий, Клеймо Увядания помечает цель символом ползучего разложения, которое лишает их способности к исцелению. После применения этой инвокации цель, не сумевшая защититься, больше не может получить выгоду от любого эффекта, который позволил бы ей восстанавливать хиты, включая естественное исцеление.",
+    "range": "8м",
+    "duration": "1 нед",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496638327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "agut5CBEY7ybbqCu",
+  "folder": "vseZIvovion73VUQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!agut5CBEY7ybbqCu"
+}

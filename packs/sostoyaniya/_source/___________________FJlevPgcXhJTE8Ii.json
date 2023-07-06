@@ -1,0 +1,47 @@
+{
+  "name": "Приятное поведение",
+  "type": "effect",
+  "img": "icons/skills/social/thumbsup-approval-like.webp",
+  "system": {
+    "description": "+1 к Харизме",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "1"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "dcd563df15ddcbb792581c87d8f2dd206c81f238",
+      "sourceId": "Item.X3v1lfl9LFqKxkNG"
+    },
+    "core": {
+      "sourceId": "Item.X3v1lfl9LFqKxkNG"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672536721959,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "FJlevPgcXhJTE8Ii",
+  "_key": "!items!FJlevPgcXhJTE8Ii"
+}

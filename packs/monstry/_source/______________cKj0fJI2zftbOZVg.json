@@ -1,0 +1,46 @@
+{
+  "_id": "cKj0fJI2zftbOZVg",
+  "name": "Сердце голема",
+  "type": "component",
+  "img": "systems/TheWitcherTRPG/assets/images/fulgur.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_jmpyik2v7b",
+      "color": "#ff0000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.KlPqznU673zxhPFz"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 167,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Golems",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!wQAhDtp1XwWrOyYb.cKj0fJI2zftbOZVg"
+}

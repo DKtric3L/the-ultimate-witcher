@@ -1,0 +1,48 @@
+{
+  "name": "Формула - Новичок",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "results": [
+    "gMXu7NikoFhYp8X4",
+    "P3lP93dCM1PmC211",
+    "2n75T3M1kmzxOUrZ",
+    "fMiy01bjf2CPX6NU",
+    "vpeC6YxmRHQPXmGb",
+    "IoUsYfbMrHlPOYWy",
+    "prRHElFE8BL95xjs",
+    "Xvo8cAMYnyx5Wg5A",
+    "cuRUSn144PlsdO6L",
+    "YTYsP8I0UZfSnDKI",
+    "BPWnCOeXhWp7y7TA",
+    "yx6q25MFmN89migd",
+    "SKa0kpAIoFWvRRjh",
+    "tco6CS5UeOMrTfX1"
+  ],
+  "formula": "1d14",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.YxpY7fiEQceciRcL"
+    },
+    "cf": {
+      "id": "temp_h8ar7bbwcna"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932926,
+    "modifiedTime": 1685496644704,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "H2gvCHvewCoWFqxs",
+  "folder": "NFuWEKLLkn1jFLUK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!H2gvCHvewCoWFqxs"
+}

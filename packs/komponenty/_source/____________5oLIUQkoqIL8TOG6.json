@@ -1,0 +1,42 @@
+{
+  "name": "Переступень",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/bryony.dds_.6664.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ws51bo5n4h",
+      "color": "#b7f35e"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 8,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Common",
+    "location": "Горы и города",
+    "quantityObtainable": "1d10",
+    "forage": "12",
+    "substanceType": "caelum"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853703,
+    "modifiedTime": 1685496584023,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5oLIUQkoqIL8TOG6",
+  "folder": "whUethnWDpiJNIof",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5oLIUQkoqIL8TOG6"
+}

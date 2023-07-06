@@ -1,0 +1,60 @@
+{
+  "name": "Ограждение от смерти",
+  "type": "spell",
+  "img": "icons/magic/death/skull-trio-badge-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.knxUKF0tXFfoz7wK"
+    },
+    "cf": {
+      "id": "temp_0t82pqg9kah"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d10.\nВы прикасаетесь к существу и создаете защитный щит, оберегающий от смерти. В следующий раз, когда ПЗ существа упадут до 0 или ниже, вместо этого они упадут до 1 ПЗ, и заклинание закончится.",
+    "range": "Касание",
+    "duration": "2d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1685496638860,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7A4AHw8fR7zPP1Gn",
+  "folder": "oUploplKQy7OzcxK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7A4AHw8fR7zPP1Gn"
+}

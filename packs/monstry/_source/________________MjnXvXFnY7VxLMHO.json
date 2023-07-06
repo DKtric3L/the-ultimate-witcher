@@ -1,0 +1,66 @@
+{
+  "name": "Каэдвенский щит",
+  "type": "armor",
+  "img": "icons/equipment/shield/heater-steel-sword-yellow-black.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2.5,
+    "cost": 400,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 14,
+    "reliabilityMax": 14,
+    "headStopping": 14,
+    "headMaxStopping": 14,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Poor",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "effects": [],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_yulv4k2lkie"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.dospehi.AwL4c61nyklaNl9s"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1668162837866,
+    "modifiedTime": 1680483553742,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_id": "MjnXvXFnY7VxLMHO",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!VbTqxwnvdGPEOxXG.MjnXvXFnY7VxLMHO"
+}

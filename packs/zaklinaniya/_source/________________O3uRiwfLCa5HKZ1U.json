@@ -1,0 +1,57 @@
+{
+  "name": "Печать щедрости",
+  "type": "spell",
+  "img": "icons/magic/nature/seed-acorn-glowing-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a1f9vxmt8yw"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "druid",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "Широко используемый друидами, консультирующими сельские общины, Прикосновение Щедрости наполняет аспект природы энергией, вызывая один из трех эффектов. Если наложить это заклинание на испорченную еду или питье, они снова станут свежими и вкусными. При наложении на кормовое растение оно будет производить в два раза больше единиц кормового материала. Наконец, если наложить его на почву, любое растение, выращенное в этой почве, вырастет в два раза больше по сравнению с обычным размером за половину времени",
+    "range": "2м",
+    "duration": "1 год",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892168,
+    "modifiedTime": 1685496638262,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "O3uRiwfLCa5HKZ1U",
+  "folder": "KJ7hbWltUlxzYhEM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!O3uRiwfLCa5HKZ1U"
+}

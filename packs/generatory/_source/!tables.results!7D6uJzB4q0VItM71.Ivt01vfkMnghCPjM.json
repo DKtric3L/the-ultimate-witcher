@@ -1,0 +1,16 @@
+{
+  "text": "Формование земли",
+  "type": 2,
+  "img": "icons/environment/settlement/stone-stairs.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "Ivt01vfkMnghCPjM",
+  "documentId": "KVuoDR8YbgBEfePG",
+  "flags": {},
+  "_key": "!tables.results!7D6uJzB4q0VItM71.Ivt01vfkMnghCPjM"
+}

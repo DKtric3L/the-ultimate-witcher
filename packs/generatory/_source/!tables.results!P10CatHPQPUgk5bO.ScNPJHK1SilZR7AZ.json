@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "ScNPJHK1SilZR7AZ",
+  "text": "Чудовище уже мертво.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!P10CatHPQPUgk5bO.ScNPJHK1SilZR7AZ"
+}

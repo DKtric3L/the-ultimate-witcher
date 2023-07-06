@@ -1,0 +1,44 @@
+{
+  "name": "Метры 3",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "hraq3goE6BLOFHSc",
+    "gxkHlD6jfWngd3IR",
+    "0OWIHKgiPfogMcsi",
+    "SCHUo9mimZ6usx39",
+    "YwzieUgwVW2AH705",
+    "ApYVZPjdHqkDC6ub",
+    "XipLm57VScwtMTfM",
+    "ZtyKRinGWY6Drhe3",
+    "OWax7k2jxJYx50ej",
+    "06sbQkJI6FafCDa0"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Jej9elBsPKqUJVm3"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897075,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AUWOVDuZzKMb6vJF",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!AUWOVDuZzKMb6vJF"
+}

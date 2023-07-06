@@ -1,0 +1,41 @@
+{
+  "name": "Ритуалы - Подмастерье",
+  "img": "icons/magic/symbols/runes-star-blue.webp",
+  "results": [
+    "08zp3vmnmyd3lsnr",
+    "rmqzj0kpe49no6tl",
+    "q8x6nxgr8lnlrv0b",
+    "3lgmfwk0yaveudla",
+    "auhdmlav0jgh21a0",
+    "qys14gh22ioxtu4z",
+    "64c0jopjv4j92tvu"
+  ],
+  "formula": "1d7",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.XIkhUbpJEfJKWRki"
+    },
+    "cf": {
+      "id": "temp_ajkic29f266"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932918,
+    "modifiedTime": 1685496644591,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7kW39E9A500MUXsS",
+  "folder": "o3sEoxIBdvOUItmm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!7kW39E9A500MUXsS"
+}

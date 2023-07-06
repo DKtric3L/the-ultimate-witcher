@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    21,
+    21
+  ],
+  "drawn": false,
+  "text": "Потестаквизитор",
+  "img": "icons/tools/hand/wrench-iron-grey.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "V8dIF5SNN2db2sQJ",
+  "_id": "6wXLMDTLg5I1n1MX",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.6wXLMDTLg5I1n1MX"
+}

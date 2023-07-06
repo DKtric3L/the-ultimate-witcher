@@ -1,0 +1,16 @@
+{
+  "_id": "l5SfmfHRYJSBMI4d",
+  "type": 0,
+  "text": "Алхимическая зависимость. Благодаря постоянному тестированию эликсиров и зелий у вас развилась зависимость от эликсиров. Это работает точно так же, как и любая другая зависимость. См. Книгу правил",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4dpnBG7SV5On0Q30.l5SfmfHRYJSBMI4d"
+}

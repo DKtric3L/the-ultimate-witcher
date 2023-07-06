@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "sqdJMkJqlWqwsY9T",
+  "text": "Этот дракон рос в глубине логова, пополняя свою сокровищницу и полируя чешую и когти.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Gy4sJiEEweUOW1Jz.sqdJMkJqlWqwsY9T"
+}

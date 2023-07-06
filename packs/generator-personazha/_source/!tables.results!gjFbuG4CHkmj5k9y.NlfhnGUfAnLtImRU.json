@@ -1,0 +1,16 @@
+{
+  "_id": "NlfhnGUfAnLtImRU",
+  "flags": {},
+  "type": 0,
+  "text": "Самое важное событие - Слава героя. Посёлок, который вы избавили от чудовища, встретил вас как героя. Вы не ожидали ни бесплатной выпивки, ни того, что женщины будут на вас с интересом поглядывать, но вы это получили. Больше вам не встречалось подобной доброты.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gjFbuG4CHkmj5k9y.NlfhnGUfAnLtImRU"
+}

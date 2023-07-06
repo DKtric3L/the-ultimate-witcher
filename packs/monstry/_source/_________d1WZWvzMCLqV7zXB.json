@@ -1,0 +1,44 @@
+{
+  "name": "Ласточка",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/swallow.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 21,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Вы восстанавливаете 3 ПЗ за раунд. В том раун-\nде, когда по вам попадают, вы не восстанавлива-\nете ПЗ. Эффект исцеления от нескольких порций\n«Ласточки» не суммируется.",
+    "time": "20 раундов",
+    "toxicity": "50%"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.hYO78LMJR2jCXvK6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1669961937420,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "d1WZWvzMCLqV7zXB",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dxyWHzqdwqA0HCFh.d1WZWvzMCLqV7zXB"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Киноварь + Солнце",
+  "type": "effect",
+  "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.yZnobU8dj4tGQmHU"
+    },
+    "cf": {
+      "id": "temp_zvo0qme6z8p"
+    }
+  },
+  "system": {
+    "description": "+3 к Реакции на 10 раундов.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_88lyd9ax0",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "3"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621964,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "00ahztKiBJdVCaIG",
+  "folder": "SVDWJ6D7d1oTHirD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!00ahztKiBJdVCaIG"
+}

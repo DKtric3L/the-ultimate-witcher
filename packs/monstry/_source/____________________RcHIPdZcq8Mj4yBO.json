@@ -1,0 +1,26 @@
+{
+  "_id": "RcHIPdZcq8Mj4yBO",
+  "name": "Уязвимость к солнцу",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "На солнце или в ярко освещённой зоне плюмард слепнет. Под прямым солнечным светом он получает 1 пункт урона в начале каждого раунда, пока не уйдёт с солнца."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xm1767DH0mZ5iKmw.RcHIPdZcq8Mj4yBO"
+}

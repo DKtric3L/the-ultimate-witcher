@@ -1,0 +1,65 @@
+{
+  "_id": "8a4wCLVA7erm712z",
+  "name": "Иглы трутней",
+  "type": "weapon",
+  "img": "icons/commodities/claws/talon-red.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "5м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Эндриага-трутень может обстреливать иглами круг радиусом 5 метров. Эти иглы можно заблокировать, и от них можно уклониться (СЛ 15). За каждый пункт ниже СЛ жертва получает 1 d6 урона и считается отравленной.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!pg97zZOfg7F0DkfP.8a4wCLVA7erm712z"
+}

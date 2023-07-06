@@ -1,0 +1,43 @@
+{
+  "_id": "XHJpXea5akqW41fK",
+  "name": "Воровские инструменты",
+  "type": "valuable",
+  "img": "icons/containers/chest/chest-reinforced-stone.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.BnisSHqWqKhbcnjr"
+    },
+    "cf": {
+      "id": "temp_zf5u6w9lv4"
+    }
+  },
+  "system": {
+    "description": "Позволяют взламывать замки",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 80,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!6MVxQpF5plpAkAB3.XHJpXea5akqW41fK"
+}

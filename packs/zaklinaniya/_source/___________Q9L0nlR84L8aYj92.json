@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Малые дары",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "xT4rtuNyUY02oQVw",
+  "_id": "Q9L0nlR84L8aYj92",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!Q9L0nlR84L8aYj92"
+}

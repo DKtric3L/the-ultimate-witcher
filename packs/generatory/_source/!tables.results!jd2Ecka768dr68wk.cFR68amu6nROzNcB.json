@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Мутант-Убийца",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Mutant_assasinator_Diego_de_Almeida.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "oKCibeKFEw6hUKDB",
+  "_id": "cFR68amu6nROzNcB",
+  "flags": {},
+  "_key": "!tables.results!jd2Ecka768dr68wk.cFR68amu6nROzNcB"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Зеркало желаний",
+  "img": "icons/commodities/treasure/stone-cracked-lightning-blue.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "5UxiMRMxq3DLqKX3",
+  "_id": "9Eii6cce7Zd8c5Ah",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.9Eii6cce7Zd8c5Ah"
+}

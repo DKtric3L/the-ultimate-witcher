@@ -1,0 +1,16 @@
+{
+  "text": "Кольчужное усиление",
+  "type": 2,
+  "img": "icons/equipment/shoulder/pauldron-segmented-steel-white.webp",
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "_id": "fbk4uxp97hq1xook",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "utWZy3qhNXPxkfaj",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.fbk4uxp97hq1xook"
+}

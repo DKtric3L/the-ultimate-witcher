@@ -1,0 +1,57 @@
+{
+  "name": "Пиромантия",
+  "type": "spell",
+  "img": "icons/magic/fire/flame-burning-campfire-rocks.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Пиромантия позволяет заглянуть в пламя и увидеть происходящие события. Пиромантия несколько опаснее Гидромантии — её тяжелее поддерживать, к тому же огонь не позволяет смотреть в прошлое. Зато разглядеть события, про исходящие в данный момент, куда проще. Как и в случае с Гидромантией, маг, за которым наблюдает заклинатель, может почувствовать слежку, совершив проверку Магических познаний со СЛ, равной результату про верки Проведения ритуалов.",
+    "range": "",
+    "duration": "актив(5 вын)",
+    "defence": "",
+    "components": "небольшой огонь, пятая эссенция(х2), пепел(х2), Calcium equum(х5), вороний глаз(х2), воск(х2)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "15",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892168,
+    "modifiedTime": 1685496637440,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nNH7cKxh8eYcFetw",
+  "folder": "dsrLHBOICpZhVQvb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nNH7cKxh8eYcFetw"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Яд повешенного",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/oils/oil_hanged.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_hacq9m5y7oq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 46,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "oil",
+    "avail": "Rare",
+    "effect": "+5 урона против гуманоидов",
+    "time": "30 минут",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887311,
+    "modifiedTime": 1685496626812,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0sORclVDVEAQ1NzP",
+  "folder": "NtgGk0KNN8x3CCVm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0sORclVDVEAQ1NzP"
+}

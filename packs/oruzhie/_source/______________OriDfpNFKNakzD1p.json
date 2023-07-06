@@ -1,0 +1,84 @@
+{
+  "name": "Взрывной болт",
+  "type": "weapon",
+  "img": "icons/skills/ranged/projectile-explosion-black-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wqarogwgy4k"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.BprgghiLtOH5Clh2"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 108,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Poor",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "При столкновении с целью наконечник",
+        "percentage": ""
+      },
+      {
+        "id": "_i5w2q67ri",
+        "name": "взрывается, нанося 4d6 урона по всем",
+        "percentage": ""
+      },
+      {
+        "id": "_ybrpvpq1d",
+        "name": "частям тела всем, кто находится",
+        "percentage": ""
+      },
+      {
+        "id": "_j60w0yody",
+        "name": "в пределах 2 м",
+        "percentage": ""
+      }
+    ],
+    "conceal": "S",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863937,
+    "modifiedTime": 1685496598706,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "OriDfpNFKNakzD1p",
+  "folder": "Af4Fdawq6CeqRn8S",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OriDfpNFKNakzD1p"
+}

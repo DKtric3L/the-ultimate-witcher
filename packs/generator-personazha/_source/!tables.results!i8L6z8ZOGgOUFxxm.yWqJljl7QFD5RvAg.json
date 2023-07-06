@@ -1,0 +1,16 @@
+{
+  "_id": "yWqJljl7QFD5RvAg",
+  "flags": {},
+  "type": 0,
+  "text": "Вассальные государства:",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    4,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!i8L6z8ZOGgOUFxxm.yWqJljl7QFD5RvAg"
+}

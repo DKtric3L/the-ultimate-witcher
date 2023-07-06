@@ -1,0 +1,16 @@
+{
+  "text": "Нильфгаардский прицел",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-anchor.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "nYtJ6oyznTGxnVpW",
+  "documentId": "AZetGEfyDGjSUaUx",
+  "flags": {},
+  "_key": "!tables.results!d4MIY08Ac2P9727q.nYtJ6oyznTGxnVpW"
+}

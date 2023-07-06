@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "f4aPAFAtZQ42qj49",
+  "text": "Причуды - Стоит Камень Силы, который создает мимолетные видения и иллюзорные спектакли.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!B5CpQsRPt505wapy.f4aPAFAtZQ42qj49"
+}

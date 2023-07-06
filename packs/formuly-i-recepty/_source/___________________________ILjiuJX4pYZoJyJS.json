@@ -1,0 +1,162 @@
+{
+  "name": "Краснолюдский боевой молот",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.ILjiuJX4pYZoJyJS"
+    },
+    "cf": {
+      "id": "temp_o6021xqcjz"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.Zb5IOFkUYkxkNu99]{Краснолюдский боевой молот}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1248,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "13ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "6",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_w69vnh3pg",
+        "name": "Махакамская сталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_mijhlsy82",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_1ck61ipym",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_9s5bq8tjk",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 624,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Краснолюдский боевой молот",
+      "type": "weapon",
+      "img": "icons/weapons/hammers/hammer-war-rounding.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 4,
+        "cost": 835,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее, Дробящее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": true,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "5d6+2",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Длинное",
+            "percentage": ""
+          },
+          {
+            "id": "_sd6g4q663",
+            "name": "Дезориентирующее(-2)",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Staff/Spear",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.QDC6V2wYGWOVzLcC"
+        },
+        "cf": {
+          "id": "temp_upy3ob71tu"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863940,
+        "modifiedTime": 1672564565486,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848418,
+    "modifiedTime": 1685496579684,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ILjiuJX4pYZoJyJS",
+  "folder": "CmRwhBGVa7PHSDao",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ILjiuJX4pYZoJyJS"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "Fk8gK60UrUNEvhTk",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Гесо (+1 Скрытность)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!P9HHqXymm9mINwdH.Fk8gK60UrUNEvhTk"
+}

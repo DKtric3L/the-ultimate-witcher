@@ -1,0 +1,39 @@
+{
+  "name": "Маг - Новичок",
+  "img": "icons/magic/control/buff-flight-wings-red.webp",
+  "description": "",
+  "results": [
+    "NZBaRDmGPGadtotr",
+    "911FietdXpYPoC4U",
+    "Nj5lmCZ4qVgI3VV6",
+    "XUJBxW3AnpyBEPH5",
+    "vZLd9iHljIo1Wd1C"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.lK3a79Gn8U8pdJt0"
+    },
+    "cf": {
+      "id": "temp_h10nponc3b"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932906,
+    "modifiedTime": 1685496644866,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sgbHp1FLCjvxzyZO",
+  "folder": "mmgJeU18B00wxANi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!sgbHp1FLCjvxzyZO"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Управление природой",
+  "type": 2,
+  "img": "icons/magic/nature/tree-animated-squint.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "0y1y4tpb8h5xqj34",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "9AcHZs38MxRGJpYE",
+  "_key": "!tables.results!6VNOqS0gXJ7iK6Ub.0y1y4tpb8h5xqj34"
+}

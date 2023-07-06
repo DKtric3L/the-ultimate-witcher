@@ -1,0 +1,69 @@
+{
+  "name": "Широкий болт",
+  "type": "weapon",
+  "img": "icons/weapons/ammunition/arrow-broadhead-glowing-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wqarogwgy4k"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.nN56s1SipmMmLS7q"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Common",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "100"
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863945,
+    "modifiedTime": 1685496598706,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YFbgwiJ2s0ssK63a",
+  "folder": "Af4Fdawq6CeqRn8S",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YFbgwiJ2s0ssK63a"
+}

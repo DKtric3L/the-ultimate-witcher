@@ -1,0 +1,42 @@
+{
+  "name": "Мастер - Вода",
+  "description": "A random table created from the contents of the Вода Folder.",
+  "results": [
+    "8lfmR99gJwWlLp2I",
+    "nCuMJtUGdXgF6pdl",
+    "5zOBIy5NUjaCOqnB",
+    "RmiBFY08fxfHzEJJ"
+  ],
+  "formula": "1d4",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b3b8c5808a69abdf832de5662f0a3259df34edc3",
+      "sourceId": "RollTable.Bx2pdnJ4iXambPC8"
+    },
+    "core": {
+      "sourceId": "RollTable.Bx2pdnJ4iXambPC8"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593755623,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "lpcKCRY2iQvW7IvZ",
+  "_key": "!tables!lpcKCRY2iQvW7IvZ"
+}

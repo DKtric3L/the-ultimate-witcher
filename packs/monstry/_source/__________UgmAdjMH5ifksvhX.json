@@ -1,0 +1,70 @@
+{
+  "_id": "UgmAdjMH5ifksvhX",
+  "name": "Дикий бег",
+  "type": "weapon",
+  "img": "icons/skills/melee/strike-flail-destructive-yellow.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Everywhere",
+    "damage": "6d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "10м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "В качестве действия полного хода циклоп может, бешено размахивая руками, атаковать с разбега цель.",
+        "percentage": ""
+      },
+      {
+        "id": "_etqei487l",
+        "name": "Циклопу необязательно бежать по прямой, он может огибать углы и перепрыгивать расщелины. Все, кто окажется в пределах 2 метров от бегущего циклопа, вынуждены будут защищаться от его удара кулаком.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!5uEBp1Dg0RJq2yA1.UgmAdjMH5ifksvhX"
+}

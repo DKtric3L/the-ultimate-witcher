@@ -1,0 +1,70 @@
+{
+  "name": "Цепная молния",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/volan2.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_7aea2ggiqyw"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "air",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Волан теперь стреляет в цель молнией, которая наносит 1d6 электрического урона за каждое затраченное очко Вын с 75% шансом дезориентировать противника. Молния проходит по прямой через несколько целей. За каждую пройденную цель урон следующей цели уменьшается на 1d6. Если урон исходит на 0, молния не попадает в цель.",
+    "range": "3 м(до первой цели)",
+    "duration": "мгновенное",
+    "defence": "уклонение(только для первой цели)",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1d6 за каждое вын "
+      },
+      {
+        "id": "_m5f1qqjyu",
+        "name": "Дезориентация",
+        "percentage": "75"
+      },
+      {
+        "id": "_p0nvwdmui",
+        "name": "-1d6 за каждую последующую цель",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496638489,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VcOvmzX8nI9gmftd",
+  "folder": "QhyjillGyHuKzXly",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VcOvmzX8nI9gmftd"
+}

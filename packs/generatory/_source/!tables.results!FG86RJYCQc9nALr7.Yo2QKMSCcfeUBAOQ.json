@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Ривийское фруктовое",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/rivian_fruit.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "aPAbxThwqaZ7shF0",
+  "_id": "Yo2QKMSCcfeUBAOQ",
+  "flags": {},
+  "_key": "!tables.results!FG86RJYCQc9nALr7.Yo2QKMSCcfeUBAOQ"
+}

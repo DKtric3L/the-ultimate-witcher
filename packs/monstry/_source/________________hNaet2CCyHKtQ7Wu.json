@@ -1,0 +1,44 @@
+{
+  "name": "Трофей гаркаина",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/garkain.webp",
+  "system": {
+    "description": "Если вы хотите вычесть из своего Оглушения при Спасброске от Оглушения, вычтите на единицу меньше. Если нельзя вычесть, ваше значение Ошеломления считается на 1 больше.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.R3hVbb9iO51NUeWl"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1669888894803,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "hNaet2CCyHKtQ7Wu",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!38OyYWRLT60Xc1xF.hNaet2CCyHKtQ7Wu"
+}

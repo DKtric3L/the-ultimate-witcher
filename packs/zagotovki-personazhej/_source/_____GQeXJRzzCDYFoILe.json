@@ -1,0 +1,44 @@
+{
+  "name": "Пиво",
+  "type": "valuable",
+  "img": "icons/containers/kitchenware/stein-empty.webp",
+  "system": {
+    "description": "Бывает разное: темерское ржаное, реданский лагер, маг-тургский стаут... Хорошая выпивка для простого работяги.\n\nДлится до следующего отдыха. Пройди проверку со сл. 8, при провале становишься зависим от алкоголя(Не только пива).\n+1 к отдыху и выносливости.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 5,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_9bempw9mh8g",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.ZrGTiOXDbSiT0DVX"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663424845904,
+    "modifiedTime": 1663424851931,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "GQeXJRzzCDYFoILe",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dGYJGK7TFYppq74h.GQeXJRzzCDYFoILe"
+}

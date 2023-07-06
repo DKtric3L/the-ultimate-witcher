@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Жужжащее проклятие",
+  "type": "effect",
+  "img": "icons/creatures/invertebrates/spider-skull-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Y3xblfPT3NSQB85u"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "За жертвой повсюду следуют насекомые, пауки и другие членистоногие, куда бы она ни пошла. Это дает ей штраф -2 к Скрытности и всем социальным проверкам. Это проклятие также привлекает к жертве чудовищ инсектоидного класса.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_4anvi34ef",
+        "skill": "WITCHER.SkDexStealth",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "57CH8DDQTVeFOcnI",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!57CH8DDQTVeFOcnI"
+}

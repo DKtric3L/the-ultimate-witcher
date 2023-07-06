@@ -1,0 +1,184 @@
+{
+  "name": "Доспех школы Волка",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lzfoeT3AFAskHPRl"
+    },
+    "cf": {
+      "id": "temp_cyw11apo0q"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.L4Fuo6ZWdZzepmpo]{Доспех школы волка}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "23ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укрепленная кожа"
+      },
+      {
+        "id": "_b2mhcxqe7",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_n9ob0xp0u",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_o1qou11xg",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_p7oexd5up",
+        "name": "Глаза утковола",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_z2we6xisg",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_7rymq5dri",
+        "name": "Кровь утковола",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_j2drynkip",
+        "name": "Эссенция призрака",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_1bocmk44a",
+        "name": "Костный мозг гуля",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_qx71dzpxb",
+        "name": "Шелк",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 1302,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Доспех школы волка",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-leather-brown.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 12,
+        "cost": null,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 14,
+        "torsoMaxStopping": 14,
+        "leftArmStopping": 14,
+        "leftArmMaxStopping": 14,
+        "rightArmStopping": 14,
+        "rightArmMaxStopping": 14,
+        "leftLegStopping": 14,
+        "leftLegMaxStopping": 14,
+        "rightLegStopping": 14,
+        "rightLegMaxStopping": 14,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "_ww0s53hx3",
+            "name": "Всякий раз, когда вы наносите критическое ранение с помощью одного из ваших ведьмачьих орудий, вы можете сразу же попытаться нанести одиночный удар оружием в руках без дополнительных штрафов и без дополнительной траты выносливости.",
+            "percentage": ""
+          }
+        ],
+        "encumb": 1,
+        "location": "FullCover",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_0w1zqqbn8lrf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887304,
+        "modifiedTime": 1668162887304,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848414,
+    "modifiedTime": 1685496578991,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jzMlkDy7z3cERubj",
+  "folder": "UzwPQjfsxmHErqqB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jzMlkDy7z3cERubj"
+}

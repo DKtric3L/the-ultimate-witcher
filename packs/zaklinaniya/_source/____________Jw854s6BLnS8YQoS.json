@@ -1,0 +1,70 @@
+{
+  "name": "Предел души",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/vorg3.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_a5r1vpsvopg"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d6 за очко вын.\nВорг теперь создает на земле прямую черную линию, которая отбрасывает на 2 м назад любого, кто попытается ее пересечь, и за каждое потраченное очко Вын, добавляется 10% шанс сбить цель с ног. Все, кто пытается пересечь линию, также получает 1d6 некротического урона.",
+    "range": "2м",
+    "duration": "5 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1d6 некротического урона заклинателю за 1 вын"
+      },
+      {
+        "id": "_cdedkg70h",
+        "name": "1d6 - некротический урон жертве",
+        "percentage": ""
+      },
+      {
+        "id": "_r0ufvg23y",
+        "name": "Сбивает с ног(+10% за 1 вын)",
+        "percentage": "10"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638518,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Jw854s6BLnS8YQoS",
+  "folder": "bwtndOBz5Q00m7So",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Jw854s6BLnS8YQoS"
+}

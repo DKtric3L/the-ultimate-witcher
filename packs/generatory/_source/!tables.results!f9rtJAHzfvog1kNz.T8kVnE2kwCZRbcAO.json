@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Большая палатка",
+  "img": "icons/environment/wilderness/camp-improvised.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "mZ4KuLgEDzTL0Myb",
+  "_id": "T8kVnE2kwCZRbcAO",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.T8kVnE2kwCZRbcAO"
+}

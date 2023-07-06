@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Оружие - Старшие народы",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "sq9Rv5iTIWK8NEBb",
+  "_id": "g46u2Rj5I5YBfdZn",
+  "flags": {},
+  "_key": "!tables.results!LHYC2pOz2YtuCn6c.g46u2Rj5I5YBfdZn"
+}

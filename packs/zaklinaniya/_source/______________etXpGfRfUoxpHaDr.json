@@ -1,0 +1,57 @@
+{
+  "name": "Поцелуй Песты",
+  "type": "spell",
+  "img": "icons/magic/acid/dissolve-bone-skull.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_inm2utr2uk"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Жертва ослабевает, не в силах сопротивляться болезням и тошноте. Когда жертва контактирует с заражённым, она заболевает с вероятностью 75 %. Если жертва чувствует хотя бы слегка тошнотворный запах, она должна пройти проверку Стойкости со СЛ 16 или же будет мучима тошнотой.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "High",
+    "liftRequirement": "Жертва должна собрать 3 единицы речной глины, 1 единицу угля, 3 единицы смолы и единицу дымной пыли. Сначала нужно вылепить из глины, смешанной с дымной пылью, тотем, покрытый смолой и с угольками вместо глаз. Для этого требуется совершить проверку Искусства со СЛ 14. Затем жертва должна наполнить тотем силой, произнеся магические слова. Сразу после этого тотем необходимо разбить, а глаза-угольки измельчить в порошок и съесть.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496637583,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "etXpGfRfUoxpHaDr",
+  "folder": "RHxFpTcBKBLrvsXh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!etXpGfRfUoxpHaDr"
+}

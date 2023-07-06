@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Вендиго",
+  "img": "modules/the-ultimate-witcher/assets/monsters/vendigo.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "h36v8BTXKysKCWgP",
+  "_id": "KF4RKuZ8j3evLkrL",
+  "flags": {},
+  "_key": "!tables.results!QlHGUejHno6ftM4n.KF4RKuZ8j3evLkrL"
+}

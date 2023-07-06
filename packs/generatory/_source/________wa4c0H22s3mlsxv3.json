@@ -1,0 +1,48 @@
+{
+  "name": "Ёмкости",
+  "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+  "results": [
+    "BqnwA5ib3ytYLApe",
+    "WQe173BHemfOCoap",
+    "rkUlJdNkQtYraShc",
+    "Eacjr2vBY0RmhDFH",
+    "cdCkNOwCAwaDg0Pr",
+    "FiYXan7pJXNrthnu",
+    "rT7GTBezaJDxr83e",
+    "jHgYpVkV46kxNJSU",
+    "wFZZLdcO6Vk2mImk",
+    "bIDOVni9HfPSOS7D",
+    "JmzVqFYNpYEi4NFC",
+    "coYsjssuX2osqu4r",
+    "apAcPwHLT5zpZDEr",
+    "m86OnVRyKIpy34LO"
+  ],
+  "formula": "1d14",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.BDyf6lVH1T6NUnD2"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932899,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wa4c0H22s3mlsxv3",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!wa4c0H22s3mlsxv3"
+}

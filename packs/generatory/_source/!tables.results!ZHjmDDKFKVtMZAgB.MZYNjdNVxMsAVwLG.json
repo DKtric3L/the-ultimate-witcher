@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Детали расследования",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "XHtyokqUQpH5tur0",
+  "_id": "MZYNjdNVxMsAVwLG",
+  "flags": {},
+  "_key": "!tables.results!ZHjmDDKFKVtMZAgB.MZYNjdNVxMsAVwLG"
+}

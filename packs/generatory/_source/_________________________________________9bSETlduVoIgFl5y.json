@@ -1,0 +1,39 @@
+{
+  "name": "Чертеж - усиления брони - Великий мастер",
+  "description": "A random table created from the contents of the Великий мастер Folder.",
+  "results": [
+    "gTkSpGgW2SzQeJiR"
+  ],
+  "formula": "1d1",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "f6c78369bd0281ae07f3a430f41434aeb7ec8fbb",
+      "sourceId": "RollTable.lKBnBaNydaD9VECs"
+    },
+    "core": {
+      "sourceId": "RollTable.lKBnBaNydaD9VECs"
+    },
+    "cf": {
+      "id": "temp_g53kcg75pyg"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672828405326,
+    "modifiedTime": 1685496644447,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "JQC1u6dxvrwQGnjp",
+  "sort": 0,
+  "_id": "9bSETlduVoIgFl5y",
+  "_key": "!tables!9bSETlduVoIgFl5y"
+}

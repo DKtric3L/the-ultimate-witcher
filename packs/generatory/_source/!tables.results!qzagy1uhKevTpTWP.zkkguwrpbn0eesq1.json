@@ -1,0 +1,16 @@
+{
+  "text": "Ожерелье с рубином",
+  "type": 2,
+  "img": "icons/equipment/neck/amulet-heart.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "_id": "zkkguwrpbn0eesq1",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "m2jRcv7w99b0E8DI",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.zkkguwrpbn0eesq1"
+}

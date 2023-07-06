@@ -1,0 +1,16 @@
+{
+  "_id": "HMOPPekiY08124lE",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Артисты. Вы выросли в актерской труппе. Возможно, вы вместе с ними странствовали или же выступали в театре. Начальное снаряжение - 1 музыкальный инструмент и 1 друг.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gYToKKwOpEYSEMIy.HMOPPekiY08124lE"
+}

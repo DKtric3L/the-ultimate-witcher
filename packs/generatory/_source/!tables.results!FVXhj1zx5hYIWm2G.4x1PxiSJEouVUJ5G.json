@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Эндриага-Рабочий",
+  "img": "modules/the-ultimate-witcher/assets/monsters/edriaga_worker.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "Mh1kQU9nEHBmWCLW",
+  "_id": "4x1PxiSJEouVUJ5G",
+  "flags": {},
+  "_key": "!tables.results!FVXhj1zx5hYIWm2G.4x1PxiSJEouVUJ5G"
+}

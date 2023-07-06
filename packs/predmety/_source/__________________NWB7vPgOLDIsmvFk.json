@@ -1,0 +1,44 @@
+{
+  "name": "Набедренные ножны",
+  "type": "valuable",
+  "img": "icons/equipment/wrist/bracer-white-armored.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_r3stwb3cdz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.RikSW58ux043N2Jn"
+    }
+  },
+  "system": {
+    "description": "Это как наручные ножны, только на бедре. Совет: всегда проверяй, нет ли под юбкой оружия. Наверняка там наткнёшься на ножны (проверка Внимания со СЛ 18 для обнаружения).",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 13,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1685496603596,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NWB7vPgOLDIsmvFk",
+  "folder": "mg1jdTvvbWMf4cYK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NWB7vPgOLDIsmvFk"
+}

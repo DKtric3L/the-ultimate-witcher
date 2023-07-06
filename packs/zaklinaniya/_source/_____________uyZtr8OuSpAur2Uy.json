@@ -1,0 +1,58 @@
+{
+  "name": "Танио Ильхар",
+  "type": "spell",
+  "img": "icons/magic/fire/flame-burning-skeleton-explosion.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_p8nj0svlvn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Танио Ильхар создаёт всполох пламени в зоне 2x2 метра со 100%-ным шансом поджечь цель, находящуюся в этой зоне.",
+    "range": "8м",
+    "duration": "мгновенное",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2х2",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "100"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892175,
+    "modifiedTime": 1685496637857,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "uyZtr8OuSpAur2Uy",
+  "folder": "FdN7jfCUOYKOAJAb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!uyZtr8OuSpAur2Uy"
+}

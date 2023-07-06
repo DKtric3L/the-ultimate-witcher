@@ -1,0 +1,26 @@
+{
+  "_id": "LY5LJmSWKsjWVLDv",
+  "name": "Огненное дыхание",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "После использования Огненного дыха\nния истинный дракон должен отдохнуть 5 раундов, прежде\nчем снова сможет воспользоваться этой способностью."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!WpoCsCHlFqTBkLcK.LY5LJmSWKsjWVLDv"
+}

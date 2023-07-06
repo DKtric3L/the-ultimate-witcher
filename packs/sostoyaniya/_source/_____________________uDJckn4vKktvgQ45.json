@@ -1,0 +1,74 @@
+{
+  "name": "Эффект: Активный щит",
+  "type": "armor",
+  "img": "modules/the-ultimate-witcher/assets/signs/magic_shield.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.nNxHON9ttxpaFRrR"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 10,
+    "reliabilityMax": 10,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Light",
+    "avail": "Rare",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "_j8oe1mwj5",
+        "name": "+10 пб за 1 вын",
+        "percentage": ""
+      },
+      {
+        "id": "_x2ciafcwg",
+        "name": "Нужно поддерживать каждый раунд в размере изначальной траты вын",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883181,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "uDJckn4vKktvgQ45",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!uDJckn4vKktvgQ45"
+}

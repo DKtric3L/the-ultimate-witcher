@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Котолак",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Kotolak_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "YLUpT7ABfY8VifAN",
+  "_id": "BFnwRyxBSBhZCnre",
+  "flags": {},
+  "_key": "!tables.results!faEhx9OFhWYrUiUw.BFnwRyxBSBhZCnre"
+}

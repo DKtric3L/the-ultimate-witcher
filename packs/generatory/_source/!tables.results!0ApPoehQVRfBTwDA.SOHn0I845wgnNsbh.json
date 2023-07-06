@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Хостел - Есть ли конюшня",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "yxBZJ5kugRr8jhfV",
+  "_id": "SOHn0I845wgnNsbh",
+  "flags": {},
+  "_key": "!tables.results!0ApPoehQVRfBTwDA.SOHn0I845wgnNsbh"
+}

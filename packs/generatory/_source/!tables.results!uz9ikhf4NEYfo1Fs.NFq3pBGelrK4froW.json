@@ -1,0 +1,16 @@
+{
+  "_id": "NFq3pBGelrK4froW",
+  "type": 2,
+  "text": "Жрец - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    3,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "BQnwhYLDPhlZmp69",
+  "_key": "!tables.results!uz9ikhf4NEYfo1Fs.NFq3pBGelrK4froW"
+}

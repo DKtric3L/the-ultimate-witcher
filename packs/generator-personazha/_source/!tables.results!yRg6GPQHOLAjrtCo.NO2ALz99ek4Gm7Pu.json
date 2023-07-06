@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Мужчина - Телосложение",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "jJqnqgeUQ5c4mIZv",
+  "_id": "NO2ALz99ek4Gm7Pu",
+  "flags": {},
+  "_key": "!tables.results!yRg6GPQHOLAjrtCo.NO2ALz99ek4Gm7Pu"
+}

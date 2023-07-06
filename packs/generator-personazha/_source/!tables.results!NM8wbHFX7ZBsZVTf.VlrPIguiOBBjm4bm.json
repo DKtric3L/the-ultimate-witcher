@@ -1,0 +1,16 @@
+{
+  "_id": "VlrPIguiOBBjm4bm",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Благородный воин. Вы дитя благородного воина. От вас ожидают, что вы оправдаете репутацию семьи и не опозорите своих предков. Начальное снаряжение - Личный герб(+1 к репутации)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NM8wbHFX7ZBsZVTf.VlrPIguiOBBjm4bm"
+}

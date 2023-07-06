@@ -1,0 +1,16 @@
+{
+  "_id": "OIyID7Rfg52LQViU",
+  "type": 2,
+  "text": "Порчи - Средняя опасность",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    6,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "uQUYJOzKwfcpm2yM",
+  "_key": "!tables.results!Rpp9t3tO312mCijo.OIyID7Rfg52LQViU"
+}

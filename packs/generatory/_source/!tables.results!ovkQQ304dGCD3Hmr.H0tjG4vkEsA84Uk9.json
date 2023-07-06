@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    91,
+    110
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "H0tjG4vkEsA84Uk9",
+  "text": "Частое нахождение цели - Заброшенное здание",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!ovkQQ304dGCD3Hmr.H0tjG4vkEsA84Uk9"
+}

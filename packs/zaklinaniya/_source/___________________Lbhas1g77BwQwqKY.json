@@ -1,0 +1,60 @@
+{
+  "name": "Природный камуфляж",
+  "type": "spell",
+  "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_hdxdzcj6mq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "druid",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Вы или цель, к которой вы прикасаетесь, становитесь невидимыми. Это дает цели бонус +10 к Скрытности и +5 к атаке и защите. Чтобы заметить существо под действием этого заклинания, необходимо совершить проверку Внимания, и успех уменьшает бонус вдвое. Ирден или бомба «Лунная пыль» прекращают действие заклинания.",
+    "range": "на себя/касание",
+    "duration": "2d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496639423,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Lbhas1g77BwQwqKY",
+  "folder": "QnbITPjEnnlusNC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Lbhas1g77BwQwqKY"
+}

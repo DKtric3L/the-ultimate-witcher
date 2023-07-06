@@ -1,0 +1,39 @@
+{
+  "name": "Siblings: Elves",
+  "img": "icons/sundries/flags/banner-worn-green.webp",
+  "description": "",
+  "results": [
+    "uZEDUG0b1QS3X7aE",
+    "owOV7YfwzHeKjQgE",
+    "cHIc5jk2KytQfMji"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.QzUqgzDS7UqXbA2X"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917382,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "hoXu1M1aZUTRHEB5",
+  "_key": "!tables!hoXu1M1aZUTRHEB5"
+}

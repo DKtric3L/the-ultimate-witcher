@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Драугр",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Draug_Nemanja_Stankovic.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "X1Y36RnnvQUsnBMC",
+  "_id": "eYg0Nx25YzxXA9gC",
+  "flags": {},
+  "_key": "!tables.results!Xqc5niSQ2i4iC98E.eYg0Nx25YzxXA9gC"
+}

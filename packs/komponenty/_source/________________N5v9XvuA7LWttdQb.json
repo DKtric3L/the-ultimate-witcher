@@ -1,0 +1,42 @@
+{
+  "name": "Наезанская соль",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/sub-03.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xvosmbgy3f",
+      "color": "#4ab2bf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 146,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Bruxa",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853703,
+    "modifiedTime": 1685496584189,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "N5v9XvuA7LWttdQb",
+  "folder": "AFuI03RtWy2s7Q7F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!N5v9XvuA7LWttdQb"
+}

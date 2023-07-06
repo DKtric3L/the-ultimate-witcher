@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Кровь горы",
+  "type": "effect",
+  "img": "icons/magic/nature/root-vine-entwined-thorns.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NWWP4pr734iZBbkY"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Атаки цели в ближнем бою нельзя парировать, они наносят двойной разрушающий урон оружию, щитам и доспехам. Кроме того, цель невосприимчива к любому эффекту, который может сбить ее с ног.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883183,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DMDaCSWAW99pZ4PD",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DMDaCSWAW99pZ4PD"
+}

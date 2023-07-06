@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Зелье берсерка",
+  "img": "modules/the-ultimate-witcher/assets/props/berserk_potion.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "I3gd2E7Jh9s0Fpu2",
+  "_id": "YWLy4cHQwXb3jgtR",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.YWLy4cHQwXb3jgtR"
+}

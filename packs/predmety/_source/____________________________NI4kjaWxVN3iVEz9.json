@@ -1,0 +1,44 @@
+{
+  "name": "Мутаген: Кладбищенская баба",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_fv6olz7y9lh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.CZW3iFBQcYTvVLXI"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Кладбищенская баба",
+    "effect": "+7 ПЗ",
+    "alchemyDC": "18",
+    "minorMutation": "Длинный серый язык"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868982,
+    "modifiedTime": 1685496603726,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NI4kjaWxVN3iVEz9",
+  "folder": "VRFufJJy36LEhABA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NI4kjaWxVN3iVEz9"
+}

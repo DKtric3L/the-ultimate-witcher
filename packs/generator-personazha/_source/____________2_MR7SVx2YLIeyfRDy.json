@@ -1,0 +1,43 @@
+{
+  "name": "Гетерохромия2",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "ZZqxs0jgtg0MPg4d",
+    "GtaHFVMGsPIjZawE",
+    "P5odagIoIZM4JLyK",
+    "61ZnBvJjbcHekgYI",
+    "6EbF5HNfJ4i2munx",
+    "ijF9PZ9UKsLOchrx",
+    "v32jP8fEe2HyVBrP",
+    "9PQtJD0fbwySFWnk",
+    "5jhwiQLDMf0Hg2wz"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "MR7SVx2YLIeyfRDy",
+  "_key": "!tables!MR7SVx2YLIeyfRDy"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Глифово слово: Заблуждение",
+  "type": "diagrams",
+  "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.d3bvZSJNwhw912SF"
+    },
+    "cf": {
+      "id": "temp_1r5chs154v7"
+    }
+  },
+  "system": {
+    "description": "<p>Ставится на шлем.&nbsp;</p>\n<p>Вы получаете бонус +1 к харизме, внешнему виду и лидерству.</p>\n<p>&nbsp;</p>\n<p>Занимает 2 ячейки улучшения</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 2300,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Глиф огня"
+      },
+      {
+        "id": "_4seiqyoth",
+        "name": "Глиф воды",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 1150,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848412,
+    "modifiedTime": 1685496579124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "FHjNUKssfa2w67ni",
+  "folder": "7ogE3cPtN4Xw0G1z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!FHjNUKssfa2w67ni"
+}

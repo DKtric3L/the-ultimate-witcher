@@ -1,0 +1,57 @@
+{
+  "name": "Кража заклинания",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-missile-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_e8hxoxvji0v"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "20",
+    "staminaIsVar": false,
+    "effect": "Кража заклинания позволяет вам взять под контроль заклинание другого мага и переназначить его цель. Когда другой маг произносит заклинание не уровня Мастера, вы можете немедленно заставить мага совершить против вас встречную проверку Сотворения Заклинания. Если вы преуспеваете в этой проверке, вы меняете цель заклинания на любого в пределах досягаемости первоначального заклинателя или на себя, если у заклинания была дальность до себя. Если заклинание требует проверки атаки, используйте проверку Сотворения заклинаний из встречной проверки. Если заклинание, которое вы украли, активно, вы сохраняете контроль над заклинанием, но должны оплатить его активную стоимость",
+    "range": "10м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496638078,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "iSkrIiQWikLot8LB",
+  "folder": "Zv5jElL7a6RPe9Ks",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!iSkrIiQWikLot8LB"
+}

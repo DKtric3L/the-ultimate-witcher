@@ -1,0 +1,16 @@
+{
+  "_id": "cQfRuoxqB1FI58LA",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли начальные тренировки - Лучший в классе(+1 к владению мечом). Вы были одним из лучших мечников среди сверстников, и с годами ваши навыки не притупились. Вы с лёгкостью выполняете сложные движения, пируэты и развороты.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!W1n2jEzpYw6WkR4q.cQfRuoxqB1FI58LA"
+}

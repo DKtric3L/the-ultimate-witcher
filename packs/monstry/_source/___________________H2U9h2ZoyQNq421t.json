@@ -1,0 +1,43 @@
+{
+  "_id": "H2U9h2ZoyQNq421t",
+  "name": "Мутаген: Дракопаха",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "folder": "za9MQKX6IGJQLkJy",
+  "sort": 2200000,
+  "flags": {
+    "core": {
+      "sourceId": "Item.FQe4Ke3f0pHAWXb4"
+    },
+    "cf": {
+      "id": "temp_loaduoyv3n"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Дракопахи",
+    "effect": "+2 тел",
+    "alchemyDC": "24",
+    "minorMutation": "Твердая чешуя на спине"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!9G89Oz9jiyxvu0lD.H2U9h2ZoyQNq421t"
+}

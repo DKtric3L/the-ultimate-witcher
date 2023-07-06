@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Капитан нильф",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "DzFDjXNy9KuZQjiZ",
+  "_id": "UxVQhlzHyeAJTtvj",
+  "flags": {},
+  "_key": "!tables.results!SjuCf7xOHUndymuN.UxVQhlzHyeAJTtvj"
+}

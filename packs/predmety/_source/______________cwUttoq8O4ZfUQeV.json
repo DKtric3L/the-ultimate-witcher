@@ -1,0 +1,44 @@
+{
+  "name": "Тёмная одежда",
+  "type": "valuable",
+  "img": "icons/equipment/back/cloak-hooded-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_as8hg69v7id",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.X7qq30gURf0a8HJI"
+    }
+  },
+  "system": {
+    "description": "Невзрачных цветов, с капюшоном, под которым можно спрятать лицо. Если тебе надо куда-то вломиться, лучше одежды не придумать (ночью +1 к Скрытности).",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "clothing",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868990,
+    "modifiedTime": 1685496603772,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cwUttoq8O4ZfUQeV",
+  "folder": "rISbW24lZ5ywMFGM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cwUttoq8O4ZfUQeV"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "J3D4onP3JSMrnTRI",
+  "text": "Этот дракон боролся с людьми и нападал на города. На его теле много шрамов и следов от сломавшегося оружия.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Gy4sJiEEweUOW1Jz.J3D4onP3JSMrnTRI"
+}

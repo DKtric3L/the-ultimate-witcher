@@ -1,0 +1,60 @@
+{
+  "name": "Лава",
+  "type": "spell",
+  "img": "icons/magic/earth/laval-stone-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lXoSKqVn8KoPQTiQ"
+    },
+    "cf": {
+      "id": "temp_4w8bxpjli5a"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "На земле появляются разломы, и из них выходит лава, покрывающая пространство размером 2х2 метра. Любой, кто проходит по лаве, получает 2d6 урона от горения и его СКОР на этой местности уменьшается вдвое. Через 1d10 раундов лава затвердевает, и действие эффектов заканчивается.",
+    "range": "10м",
+    "duration": "пока не затвердеет лава",
+    "defence": "изм поз",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2х2",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Через сколько затвердеет лава(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892163,
+    "modifiedTime": 1685496638757,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "dTOqc4NgBDa1DIxO",
+  "folder": "UWJmUntsU0DtqGaG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!dTOqc4NgBDa1DIxO"
+}

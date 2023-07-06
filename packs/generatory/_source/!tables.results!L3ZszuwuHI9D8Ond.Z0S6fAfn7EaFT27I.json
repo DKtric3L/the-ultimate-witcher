@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    34,
+    34
+  ],
+  "drawn": false,
+  "text": "Странные стихи",
+  "img": "icons/sundries/documents/document-writing-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "zDVsoexOJv3lX0x6",
+  "_id": "Z0S6fAfn7EaFT27I",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.Z0S6fAfn7EaFT27I"
+}

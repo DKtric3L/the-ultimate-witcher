@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "BXyzgOmQ65aqoty1",
+  "text": "Увлечения - Виноделие. У этого вампира есть виноградник, где он производит со ответствующий алкогольный напиток, зарабатывая на этом 600 крон в месяц.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!WcWqWv6QSr2Gwb2N.BXyzgOmQ65aqoty1"
+}

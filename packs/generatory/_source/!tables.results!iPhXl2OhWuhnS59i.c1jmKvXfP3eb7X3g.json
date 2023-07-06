@@ -1,0 +1,16 @@
+{
+  "text": "Зерриканское солнце",
+  "type": 2,
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "c1jmKvXfP3eb7X3g",
+  "documentId": "TlAcL81ROYmOWDLc",
+  "flags": {},
+  "_key": "!tables.results!iPhXl2OhWuhnS59i.c1jmKvXfP3eb7X3g"
+}

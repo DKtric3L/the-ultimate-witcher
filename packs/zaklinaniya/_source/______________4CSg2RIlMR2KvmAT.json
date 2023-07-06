@@ -1,0 +1,60 @@
+{
+  "name": "Язык растений",
+  "type": "spell",
+  "img": "icons/magic/nature/plant-sprout-snow-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_hdxdzcj6mq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "druid",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Заклинатель может соединить разум с любым растением, чтобы получить информацию о местности и о том, кто мог по ней пройти.",
+    "range": "на себя",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892180,
+    "modifiedTime": 1685496639423,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4CSg2RIlMR2KvmAT",
+  "folder": "QnbITPjEnnlusNC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4CSg2RIlMR2KvmAT"
+}

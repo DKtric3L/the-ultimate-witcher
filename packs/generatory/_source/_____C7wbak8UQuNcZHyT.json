@@ -1,0 +1,40 @@
+{
+  "name": "Вино",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "Z2qoRXXVdFVi9RvM",
+    "X6eUkncyc8z7LdhT",
+    "R8ewfKnhxQzXvmkL",
+    "JLkLGKVTB5ShxsMD",
+    "VS6hDFarM4H0XNkx",
+    "M7bKaI4onhS7aBVF"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_xters3vqr27"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644685,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TYaDuD5wiTFyeLxV",
+  "sort": 0,
+  "_id": "C7wbak8UQuNcZHyT",
+  "_key": "!tables!C7wbak8UQuNcZHyT"
+}

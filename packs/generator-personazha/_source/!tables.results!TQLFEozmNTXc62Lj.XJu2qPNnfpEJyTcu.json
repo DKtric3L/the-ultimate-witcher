@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "XJu2qPNnfpEJyTcu",
+  "text": "На ногах надеты тёплые штаны из мехов и шкур.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!TQLFEozmNTXc62Lj.XJu2qPNnfpEJyTcu"
+}

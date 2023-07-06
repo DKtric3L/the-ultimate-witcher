@@ -1,0 +1,68 @@
+{
+  "name": "Огненный поток",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/sweeping_fire.webp",
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "fire",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Игни теперь испускает постоянный поток огня и искр, наносящий 1d6 урона за каждое затраченное очко Вын с 75%- ным шансом поджечь противника. Огненный поток необходимо поддерживать, каждый раунд затрачивая количество Вын, равное 1/2 изначальной стоимости в Вын. В свой ход заклинатель может сменить цель. Поток можно прицельно направить на часть тела",
+    "range": "3м",
+    "duration": "Актив(1/2 ст заклинания)",
+    "defence": "укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "75"
+      },
+      {
+        "id": "_01ltt8gsn",
+        "name": "+1d6 урона за 1 вын",
+        "percentage": ""
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_by6qvwohmig"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.Pff8J5ydMvxG7dvk"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1671035673885,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "pqisl8Bjdu6n5Jvo",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!k7OKybGxBGmKX5AY.pqisl8Bjdu6n5Jvo"
+}

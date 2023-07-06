@@ -1,0 +1,55 @@
+{
+  "name": "Снежки Хевенна",
+  "type": "spell",
+  "img": "icons/magic/water/projectile-ice-snowball.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Yl12btqAEY4CQ3pb"
+    },
+    "cf": {
+      "id": "temp_7lfhbhcmv6t"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "Water",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Хевенн был цинтрийским магом, который изобрел это заклинание случайно, играя с усыновленным им ребенком. \nСнежки Хевенна швыряет в вашего противника крупные снежки. За каждый пункт, который вы выбросите свыше защиты противника (максимум 10), вы наносите 1d6 дробящего урона. Каждый бросок считается отдельной атакой.",
+    "range": "5м",
+    "duration": "Мгновенное",
+    "defence": "Укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496638667,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "fi9PiIJyj6vOFbuP",
+  "folder": "EFoMIiK5amh39PW9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!fi9PiIJyj6vOFbuP"
+}

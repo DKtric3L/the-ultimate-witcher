@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    31,
+    31
+  ],
+  "drawn": false,
+  "text": "Странное Сушеное мясо",
+  "img": "icons/consumables/meat/fillet-fish-purple-green.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "wE91YOuQaU3htOXf",
+  "_id": "WUJR8bRimPYNDqTJ",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.WUJR8bRimPYNDqTJ"
+}

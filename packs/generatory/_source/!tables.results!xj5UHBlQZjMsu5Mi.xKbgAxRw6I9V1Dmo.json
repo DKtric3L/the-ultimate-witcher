@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Архигрифон",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Arhigrifon_Oleksandr_Kozachenko.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "G2iHcber3UTGDIBu",
+  "_id": "xKbgAxRw6I9V1Dmo",
+  "flags": {},
+  "_key": "!tables.results!xj5UHBlQZjMsu5Mi.xKbgAxRw6I9V1Dmo"
+}

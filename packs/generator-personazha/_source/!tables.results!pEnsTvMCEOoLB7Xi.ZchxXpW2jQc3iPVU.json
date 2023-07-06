@@ -1,0 +1,16 @@
+{
+  "_id": "ZchxXpW2jQc3iPVU",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Артист. наибольшее влияние на вас оказал артист, что научил вас множеству способов привлечь к себе внимание. Снаряжение - Афиша или билет.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!pEnsTvMCEOoLB7Xi.ZchxXpW2jQc3iPVU"
+}

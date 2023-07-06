@@ -1,0 +1,26 @@
+{
+  "_id": "AxRbkWE2Nh0U4ur2",
+  "name": "Рудиментарные крылья",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Фледер не может летать, но замедляет своё падение, получая только половину положенного урона."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!k3JZYiQh1DzwWcMS.AxRbkWE2Nh0U4ur2"
+}

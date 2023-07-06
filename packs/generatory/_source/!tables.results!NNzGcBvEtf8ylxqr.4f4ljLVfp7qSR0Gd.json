@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "4f4ljLVfp7qSR0Gd",
+  "text": "Наниматель платит 5х сумму за монстра, торговаться не намерен(СЛ 20)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!NNzGcBvEtf8ylxqr.4f4ljLVfp7qSR0Gd"
+}

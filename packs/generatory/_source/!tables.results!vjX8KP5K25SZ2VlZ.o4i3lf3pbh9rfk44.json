@@ -1,0 +1,16 @@
+{
+  "text": "Клинок из виковаро",
+  "type": 2,
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "_id": "o4i3lf3pbh9rfk44",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "rhIFZ2sEjY1f3q7a",
+  "_key": "!tables.results!vjX8KP5K25SZ2VlZ.o4i3lf3pbh9rfk44"
+}

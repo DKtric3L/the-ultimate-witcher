@@ -1,0 +1,44 @@
+{
+  "name": "Склянка с кровью",
+  "type": "valuable",
+  "img": "icons/consumables/potions/vial-cork-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3c3due15ne4",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.2vsLb2EFjjDXXwux"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603524,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jNs4Hx9vSVQmbcrg",
+  "folder": "UbFFcpt1rc9xdlDQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jNs4Hx9vSVQmbcrg"
+}

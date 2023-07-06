@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Демон",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Kompanions_Iris_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "BqmyzLc4eMq4AAs4",
+  "_id": "E9H1bMbmIEfIYirj",
+  "flags": {},
+  "_key": "!tables.results!Py1eaPHfXVJvNA6s.E9H1bMbmIEfIYirj"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Неправильный путь",
+  "type": "spell",
+  "img": "icons/skills/movement/arrow-upward-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_kp5e8xlen2o"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Жертва теряет возможность идти вправо. Она физически не способна повернуть или и посмотреть направо, даже если от этого зависит ее жизнь.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "Жертва должна нарисовать мелком на земле пятиугольник, поворачивая налево после каждой точки. Пройти через пятиугольник, ставя зажженную свечу в каждой точке и сесть в центре, после чего ждать, пока свечи не погаснут. После этого жертва выходит спиной вперед, подбирая свечи.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496639494,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "euHbVhk60Kh6tHkF",
+  "folder": "Syi8vTbZZBjwpqCl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!euHbVhk60Kh6tHkF"
+}

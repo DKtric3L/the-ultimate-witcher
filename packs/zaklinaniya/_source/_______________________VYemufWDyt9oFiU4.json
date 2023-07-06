@@ -1,0 +1,60 @@
+{
+  "name": "Заразное прикосновение",
+  "type": "spell",
+  "img": "icons/magic/acid/dissolve-vomit-green-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.tQ5AiWGnENdFf7X8"
+    },
+    "cf": {
+      "id": "temp_emoosop9os6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d10.\nЗаразное прикосновение воздействует на существо, к которому вы прикасаетесь, вызывая у него симптомы болезни.(Используйте хоумрулл «Осложнения, Недуги и Лекарства»).",
+    "range": "касание",
+    "duration": "2d6 дней",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дней эффекта"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496638691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VYemufWDyt9oFiU4",
+  "folder": "pBF6Toru9LWVq3ep",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VYemufWDyt9oFiU4"
+}

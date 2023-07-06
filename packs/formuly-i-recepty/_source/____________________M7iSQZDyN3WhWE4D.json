@@ -1,0 +1,157 @@
+{
+  "name": "Гномий черный топор",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-axe-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.M7iSQZDyN3WhWE4D"
+    },
+    "cf": {
+      "id": "temp_o6021xqcjz"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.0HNJIjcdtIG5Hgne]{Гномий черный топор}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1376,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "13ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "4",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_lao9kxwur",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_r1hjlnq1s",
+        "name": "Двимерит",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_vvabyp88i",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_rj8ial87t",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_y0r0eycy8",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 688,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Гномий черный топор",
+      "type": "weapon",
+      "img": "icons/weapons/axes/axe-double-engraved-blue.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2.5,
+        "cost": 950,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее",
+          "slashing": true,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 2,
+        "avail": "Rare",
+        "damage": "6d6+2",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Melee",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.kfvYk6GXuxeJDtqe"
+        },
+        "cf": {
+          "id": "temp_o71fael2g4m"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863937,
+        "modifiedTime": 1672565253707,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848412,
+    "modifiedTime": 1685496579684,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "M7iSQZDyN3WhWE4D",
+  "folder": "CmRwhBGVa7PHSDao",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!M7iSQZDyN3WhWE4D"
+}

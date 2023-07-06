@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Благословение смерти(Львиноголовый паук)",
+  "img": "icons/magic/death/skull-horned-goat-pentagram-red.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "bxJPffHyNyrsowd6",
+  "_id": "3RuJuj3jWd3h9dA3",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.3RuJuj3jWd3h9dA3"
+}

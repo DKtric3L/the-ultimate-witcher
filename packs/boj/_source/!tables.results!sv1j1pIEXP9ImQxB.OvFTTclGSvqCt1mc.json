@@ -1,0 +1,16 @@
+{
+  "_id": "OvFTTclGSvqCt1mc",
+  "type": 0,
+  "text": "Ваш персонаж ранил ближайшего союзника в пределах своей дистанции.",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!sv1j1pIEXP9ImQxB.OvFTTclGSvqCt1mc"
+}

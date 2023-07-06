@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Замок",
+  "img": "icons/commodities/metal/clasp-steel-green.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "tRU2MmqJskZXBn0V",
+  "_id": "1QQOszMDojqWCfaV",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.1QQOszMDojqWCfaV"
+}

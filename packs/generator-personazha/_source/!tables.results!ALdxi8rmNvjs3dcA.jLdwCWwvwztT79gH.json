@@ -1,0 +1,16 @@
+{
+  "_id": "jLdwCWwvwztT79gH",
+  "type": 0,
+  "text": "Защитил деревню от чудовища. Вы использовали свою магию, чтобы отразить атаку монстра из деревни. Получите +1 к знаниям монстров. Вас взял в ученики маг.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ALdxi8rmNvjs3dcA.jLdwCWwvwztT79gH"
+}

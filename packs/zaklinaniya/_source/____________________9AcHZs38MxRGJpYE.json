@@ -1,0 +1,57 @@
+{
+  "name": "Управление природой",
+  "type": "spell",
+  "img": "icons/magic/nature/tree-animated-squint.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ncc4fdr6vur"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "druid",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Позволяет превратить ближайшее небольшое дерево в голема. Он служит заклинателю всё время действия заклинания, а потом превращается обратно в дерево. Если убить голема, с него можно получить только 2dl0 древесины. По остальным параметрам этот деревянный голем аналогичен нормальному.",
+    "range": "10м",
+    "duration": "1d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496638213,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9AcHZs38MxRGJpYE",
+  "folder": "kk7yYFo1jLfJxLeF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9AcHZs38MxRGJpYE"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Эффект - Целительный покой",
+  "type": "effect",
+  "img": "icons/magic/death/undead-skeleton-worn-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Вас ввели в глубокую кому. Пребывая в ней, вы заживляете свои раны. Вы не проснётесь даже если вас атакуют.\nПосле отдыха вы выходите из комы и восстанавливаете все ПЗ, вылечивая все травмы, кроме смертельных.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883178,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2nByAKccxgPOTLtw",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2nByAKccxgPOTLtw"
+}

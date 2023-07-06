@@ -1,0 +1,16 @@
+{
+  "text": "Спектральная связь",
+  "type": 2,
+  "img": "icons/magic/unholy/beams-impact-pink.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "GtLKf8qKpqchXkgl",
+  "documentId": "YmFAh5o6L7TMEZVV",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.GtLKf8qKpqchXkgl"
+}

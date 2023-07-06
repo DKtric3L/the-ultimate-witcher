@@ -1,0 +1,43 @@
+{
+  "name": "Письменные принадлежности",
+  "type": "valuable",
+  "img": "icons/tools/scribal/ink-quill-pink.webp",
+  "system": {
+    "description": "Позволяют писать письма, записки и тд.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 25,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.GzIj9duhasH2i8JV"
+    },
+    "cf": {
+      "id": "temp_zf5u6w9lv4"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663424667098,
+    "modifiedTime": 1670417070040,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "hxDes4SyhYf4MLc4",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!tXSRAIVui3uC4sEh.hxDes4SyhYf4MLc4"
+}

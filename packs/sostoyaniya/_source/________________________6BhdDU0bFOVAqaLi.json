@@ -1,0 +1,48 @@
+{
+  "name": "Инородный объект (стаб)",
+  "type": "effect",
+  "img": "icons/skills/ranged/projectile-strike-impale-gray.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wsN9088TSXbJbTpW"
+    },
+    "cf": {
+      "id": "temp_n2afsx7fi5j"
+    }
+  },
+  "system": {
+    "description": "В ране застрял кусок одежды или брони, что вызвало заражение.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "first",
+        "derivedStat": "WITCHER.Actor.CoreStat.Rec",
+        "modifier": "/2"
+      },
+      {
+        "id": "_q1ipxqidg",
+        "derivedStat": "WITCHER.Actor.CoreStat.woundTreshold",
+        "modifier": "/2"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883168,
+    "modifiedTime": 1685496621796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6BhdDU0bFOVAqaLi",
+  "folder": "i9IWaFNhx9E6aUgp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!6BhdDU0bFOVAqaLi"
+}

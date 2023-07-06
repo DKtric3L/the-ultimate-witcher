@@ -1,0 +1,47 @@
+{
+  "name": "Коротышка",
+  "type": "effect",
+  "img": "icons/environment/wilderness/cave-entrance-dwarven-hill.webp",
+  "system": {
+    "description": "Рост в среднем не превышает метра. -5 к телосложению, расчет урона в ближнем бою рассчитывается по таблице, как если бы у вас было на 3 очка ТЕЛ меньше. Взамен вы можете протиснуться в щель шириной до 50 см и успешно укрыться за объектом не меньше 1 метра",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "-5"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "be6f87d7daa183391726b3b5758177982249b18d",
+      "sourceId": "Item.h1omaJEBFy1Br7nT"
+    },
+    "core": {
+      "sourceId": "Item.h1omaJEBFy1Br7nT"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672537036294,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "sc8kxQj3FEXFzKwA",
+  "_key": "!items!sc8kxQj3FEXFzKwA"
+}

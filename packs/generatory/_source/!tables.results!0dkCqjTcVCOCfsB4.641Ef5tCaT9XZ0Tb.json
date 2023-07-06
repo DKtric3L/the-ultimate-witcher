@@ -1,0 +1,16 @@
+{
+  "_id": "641Ef5tCaT9XZ0Tb",
+  "type": 2,
+  "text": "Странные предметы",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "L3ZszuwuHI9D8Ond",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.641Ef5tCaT9XZ0Tb"
+}

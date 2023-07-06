@@ -1,0 +1,16 @@
+{
+  "text": "Клеймо увядания",
+  "type": 2,
+  "img": "icons/magic/symbols/circle-ouroboros.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "oijx763jb94p9x7k",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "agut5CBEY7ybbqCu",
+  "_key": "!tables.results!BQnwhYLDPhlZmp69.oijx763jb94p9x7k"
+}

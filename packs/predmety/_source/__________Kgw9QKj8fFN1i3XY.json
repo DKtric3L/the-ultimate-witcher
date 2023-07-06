@@ -1,0 +1,44 @@
+{
+  "name": "Наручники",
+  "type": "valuable",
+  "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.pma2XuZetQ5Q6RA1"
+    }
+  },
+  "system": {
+    "description": "Если нужно кого-то удержать, стоит воспользоваться наручниками, сковывающими запястья. Главное ключ не потерять.\nДля того чтобы высвободиться из наручников, требуется проверка Взлома замков со СЛ 16. Если вы хотите сломать наручники или кандалы, требуется совершить проверку Силы со СЛ 18.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868984,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Kgw9QKj8fFN1i3XY",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Kgw9QKj8fFN1i3XY"
+}

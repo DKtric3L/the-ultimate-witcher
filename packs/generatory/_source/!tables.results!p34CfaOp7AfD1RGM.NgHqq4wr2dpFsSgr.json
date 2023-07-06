@@ -1,0 +1,16 @@
+{
+  "text": "Телепатия",
+  "type": 2,
+  "img": "icons/magic/perception/hand-eye-black.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "NgHqq4wr2dpFsSgr",
+  "documentId": "8TsFgj5mV1YO5zYy",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.NgHqq4wr2dpFsSgr"
+}

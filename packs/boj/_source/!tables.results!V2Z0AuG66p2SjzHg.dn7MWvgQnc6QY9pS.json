@@ -1,0 +1,16 @@
+{
+  "_id": "dn7MWvgQnc6QY9pS",
+  "flags": {},
+  "type": 2,
+  "text": "Mounted Control Loss: Personal",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "aLBBrVnSsL3wqQUx",
+  "_key": "!tables.results!V2Z0AuG66p2SjzHg.dn7MWvgQnc6QY9pS"
+}

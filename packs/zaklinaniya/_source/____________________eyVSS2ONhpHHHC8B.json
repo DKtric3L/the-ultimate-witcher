@@ -1,0 +1,60 @@
+{
+  "name": "Некротическая бомба",
+  "type": "spell",
+  "img": "icons/magic/unholy/orb-glowing-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OrSnfwQopYA2snw7"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 4d10.\nНекротическая бомба наполняет черную жемчужину эссенцией смерти. При бросании в противника, она взрывается и наносит 4d6 некротического урона по всему телу. Урон наносится осколками жемчужины, поэтому броня может его поглощать.",
+    "range": "",
+    "duration": "Постоянный",
+    "defence": "",
+    "components": "Черная жемчужина (x1), Пятая эссенция (x5), Дымная пыль (x5), Лунная крошка (x4), Жемчужина (x2), Optima Mater (x1), Зерриканский порошок (x3)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "20",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eyVSS2ONhpHHHC8B",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eyVSS2ONhpHHHC8B"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Божественное вмешательство",
+  "type": "spell",
+  "img": "icons/magic/holy/saint-glass-portrait-halo.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_5mhkh1pc4g9"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Вы молите своего бога о помощи, и он отвечает на ваши молитвы. Божественное вмешательство позволяет вам убрать с цели один любой негативный эффект, от горения до слепоты.",
+    "range": "на себя/10м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892153,
+    "modifiedTime": 1685496639284,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aq0j7KvV691f4IQ4",
+  "folder": "PrxrgSnpsxbH7k6T",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!aq0j7KvV691f4IQ4"
+}

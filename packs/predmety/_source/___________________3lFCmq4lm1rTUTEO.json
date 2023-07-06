@@ -1,0 +1,43 @@
+{
+  "name": "Мешочек с шариками",
+  "type": "valuable",
+  "img": "icons/containers/bags/duffel-simple-leather.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.3lFCmq4lm1rTUTEO"
+    },
+    "cf": {
+      "id": "temp_witw8a9x5dh"
+    }
+  },
+  "system": {
+    "description": "Радиус действия - 2 метра.\nЛюбой, кто проходит через область ловушки, должен пройти проверку Атлетики, СЛ 14, иначе будет сбит с ног.\n\nЧетвероногие существа должны пройти проверку Атлетики СЛ 12 только при входе в область с раз-\nбросанными шариками, а существа без ног не попадают под эффект шариков.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 18,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868979,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3lFCmq4lm1rTUTEO",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3lFCmq4lm1rTUTEO"
+}

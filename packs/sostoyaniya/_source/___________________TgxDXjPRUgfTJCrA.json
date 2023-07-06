@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Трупный яд",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/corpse_poison.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    },
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.C6c9eod6aJzrtz6U"
+    }
+  },
+  "system": {
+    "description": "Тот, кому нанесли урон режущим или колющим оружием, смазанным трупным ядом, получает сразу отравление и тошноту. \nЧтобы избавиться от этих состояний, необходимо успешно пройти две отдельные проверки Стойкости со СЛ 16.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883187,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TgxDXjPRUgfTJCrA",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TgxDXjPRUgfTJCrA"
+}

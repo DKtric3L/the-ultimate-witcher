@@ -1,0 +1,26 @@
+{
+  "_id": "c9UZjNBSRvV5fCPO",
+  "name": "Вытягивание жизненной силы",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Находясь в пределах 2 метров от спящей цели, игоша может вытянуть из неё жизненную силу. Каждую ночь, когда игоша это делает, цель не восстанавливает Вын, а её максимальное значение Вын снижается на 5. Урон Вын суммируется, но она не может упасть ниже 5. Урон можно снять, проспав одну ночь вдали от игоши. "
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xwwlvxpawjpgC2ht.c9UZjNBSRvV5fCPO"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Кавалерийское седло",
+  "type": "valuable",
+  "img": "icons/equipment/shoulder/shoulderpad-quilted.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.Kw5ANdZtdLNmzwST"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "+1 к проверкам управления для атаки. Встроенные ножны для оружия.",
+    "quantity": 1,
+    "weight": 6,
+    "cost": 325,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "mount-accessories",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868975,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Kw5ANdZtdLNmzwST",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Kw5ANdZtdLNmzwST"
+}

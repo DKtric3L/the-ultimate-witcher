@@ -1,0 +1,40 @@
+{
+  "name": "Компоненты - Новичок",
+  "img": "icons/sundries/documents/blueprint-magical.webp",
+  "results": [
+    "tnkjl0kziv7b7ge8",
+    "p8bud6uk4uuu7kqq",
+    "3sxvgkltq0vc68ji",
+    "mkuuymc237mwmj7v",
+    "wmqq2vbmcvavomgk",
+    "h4pp75r83avh59su"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.0frFaGLK6z3XD9kL"
+    },
+    "cf": {
+      "id": "temp_fuglrnkv21v"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932903,
+    "modifiedTime": 1685496644503,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Tj2GArVExFFvU3zk",
+  "folder": "uaLngIyIaMEzpjcP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!Tj2GArVExFFvU3zk"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "2HRbGKJixPj7O58P",
+  "text": "Пикирующие удары - Этот дракон предпочитает держаться в воздухе и набрасы ваться сверху, а потом снова взмывать в воздух.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!WMdZgq3rq0eMhJo5.2HRbGKJixPj7O58P"
+}

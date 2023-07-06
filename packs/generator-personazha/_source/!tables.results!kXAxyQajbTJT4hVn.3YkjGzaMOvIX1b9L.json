@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "ИС Дракон - Что ненавидит",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "PPjsmbDY4TcHVKao",
+  "_id": "3YkjGzaMOvIX1b9L",
+  "flags": {},
+  "_key": "!tables.results!kXAxyQajbTJT4hVn.3YkjGzaMOvIX1b9L"
+}

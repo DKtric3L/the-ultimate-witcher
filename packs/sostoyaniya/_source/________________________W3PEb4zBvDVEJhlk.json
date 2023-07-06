@@ -1,0 +1,48 @@
+{
+  "name": "Эффект - Колодец знаний",
+  "type": "effect",
+  "img": "icons/magic/water/water-hand.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "1 день. +4 к инициативе, получаете невосприимчивость к ошеломлению, дезориентации, галлюцинациям, и можете видеть сквозь любые иллюзии. Магические существа получают +4 к энергии, но получаются штраф -4 к сопротивлению магии.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_sibm39xt8",
+        "skill": "WITCHER.SkIntAwareness",
+        "modifier": "4"
+      },
+      {
+        "id": "_ccy319fz6",
+        "skill": "WITCHER.SkWillResistMagLable",
+        "modifier": 0
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883177,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "W3PEb4zBvDVEJhlk",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!W3PEb4zBvDVEJhlk"
+}

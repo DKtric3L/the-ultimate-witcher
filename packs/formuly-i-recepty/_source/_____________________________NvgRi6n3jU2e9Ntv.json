@@ -1,0 +1,193 @@
+{
+  "name": "Стальной меч школы Мантикоры",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.CLjhAm6CLtCrslj8"
+    },
+    "cf": {
+      "id": "temp_ifjc7bnyz9"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.lBSmrcIF08UgtR1M]{Стальной меч школы мантикоры}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укреплённое дерево"
+      },
+      {
+        "id": "_mf0z5ibxu",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_odwdhank7",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_hc282dmdc",
+        "name": "Cталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_06gmm3iod",
+        "name": "Двимерит",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_deo960j1l",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_j10ovquw5",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_o5tdq44z4",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_xjy08l58d",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_crxdb9k55",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 656,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Стальной меч школы мантикоры",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard-worn-brown.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2.5,
+        "cost": null,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 1,
+        "avail": "Rare",
+        "damage": "4d6+2",
+        "reliable": 20,
+        "maxReliability": 20,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Пробивающее броню",
+            "percentage": ""
+          },
+          {
+            "id": "_4vugyiwbr",
+            "name": "Метеоритное",
+            "percentage": ""
+          },
+          {
+            "id": "_5wp5djp43",
+            "name": "Сбалансированное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_ub4c5p36xla"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887310,
+        "modifiedTime": 1668162887310,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848429,
+    "modifiedTime": 1685496579014,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NvgRi6n3jU2e9Ntv",
+  "folder": "60U2rqC71wZJrKoB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NvgRi6n3jU2e9Ntv"
+}

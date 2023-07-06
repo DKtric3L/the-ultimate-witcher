@@ -1,0 +1,16 @@
+{
+  "text": "Эльфское усиление",
+  "type": 2,
+  "img": "icons/sundries/books/book-symbol-leaf-green.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "LoBbcsJoMH7dOgRq",
+  "documentId": "yXjFs012VLpvlzsY",
+  "flags": {},
+  "_key": "!tables.results!utPyZzCM9Q5JApTo.LoBbcsJoMH7dOgRq"
+}

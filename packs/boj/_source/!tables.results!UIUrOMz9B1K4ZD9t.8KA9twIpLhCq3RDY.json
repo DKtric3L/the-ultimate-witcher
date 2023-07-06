@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "8KA9twIpLhCq3RDY",
+  "text": "+1 урон по надежности.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!UIUrOMz9B1K4ZD9t.8KA9twIpLhCq3RDY"
+}

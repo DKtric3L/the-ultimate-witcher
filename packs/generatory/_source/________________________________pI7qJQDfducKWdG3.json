@@ -1,0 +1,49 @@
+{
+  "name": "Алхимические пропитки и составы",
+  "img": "icons/commodities/materials/bowl-liquid-white.webp",
+  "description": "",
+  "results": [
+    "rsf0TzMHho2PlLwm",
+    "tNJqOgKfREhSJbs8",
+    "1vViRZQ6jRBbOSLA",
+    "F5LiB89fFK285MmW",
+    "iiOkGBqyjYhRhQ9Z",
+    "EiiKOrybTNev2gJ9",
+    "GHp5uk7yYiqMdpOi",
+    "Dj4wK2isptOh9p44",
+    "I3WzhJ1FK5lEdmMK",
+    "dqSZYcX4784hcTED",
+    "MC9vlrs1mqUYiMhG",
+    "XyBvD3htacos8bCd",
+    "iXiJcaIqQMSOD6sj",
+    "0UrRbYq1m5usyUW8",
+    "m44YRLyRAbIOkjQt"
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_gm7qf9vf4j"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644818,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "fp4Eoc9EiA3JJPL5",
+  "sort": 0,
+  "_id": "pI7qJQDfducKWdG3",
+  "_key": "!tables!pI7qJQDfducKWdG3"
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "X3JjIyLpccKf3Z3r",
+  "name": "Шкура Вепря",
+  "type": "component",
+  "img": "icons/commodities/leather/fur-pelt-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_ekdorqnkarh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.z16Ce9cFJ3cBV8Ja"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "1d6/3",
+    "weight": 2,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Common",
+    "location": "Вепри",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!zxnZgdDIs0ZNsM2P.X3JjIyLpccKf3Z3r"
+}

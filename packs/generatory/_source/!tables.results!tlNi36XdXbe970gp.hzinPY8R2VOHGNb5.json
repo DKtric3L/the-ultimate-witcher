@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Скеллигский лучник",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Pavko_Galie_by_Lorenzo_Mastroanni.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "yigzKdWovMwab1fX",
+  "_id": "hzinPY8R2VOHGNb5",
+  "flags": {},
+  "_key": "!tables.results!tlNi36XdXbe970gp.hzinPY8R2VOHGNb5"
+}

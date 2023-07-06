@@ -1,0 +1,16 @@
+{
+  "_id": "tfUjaxwfTwqW98vG",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли начальные тренировки - Завёл друга(+1 друг-ведьмак). Во время обучения вы сдружились с другим будущим ведьмаком. Суровые испытания и опасности лишь закалили вашу дружбу.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!W1n2jEzpYw6WkR4q.tfUjaxwfTwqW98vG"
+}

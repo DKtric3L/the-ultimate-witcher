@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Мужчина одежда сапоги",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "sEdNxvBmKUBaoH7w",
+  "_id": "Lvq20RAU2YtIevkQ",
+  "flags": {},
+  "_key": "!tables.results!oQhQ4TBjHnPZJ7DV.Lvq20RAU2YtIevkQ"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Мутаген: Хиронекс",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-red.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.JNbrCrFXPyCNzbpX"
+    },
+    "cf": {
+      "id": "temp_rbyx8aypau"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "red",
+    "source": "Хиронексы",
+    "effect": "+3 к урону в ближнем бою",
+    "alchemyDC": "20",
+    "minorMutation": "Бледная кожа и глаза"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868983,
+    "modifiedTime": 1685496626928,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "folder": "FtXLmapVkCPDlZcW",
+  "sort": 0,
+  "_id": "7cVnL1A2dXAxKOaf",
+  "_key": "!items!7cVnL1A2dXAxKOaf"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Мутаген: Сирена",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-blue.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_7lseofyafm",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.uOwPopIuBQshe3Rx"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Siren",
+    "effect": "+1 энергии",
+    "alchemyDC": "15",
+    "minorMutation": "Маленькие плавники"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868982,
+    "modifiedTime": 1685496603697,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "swqSPQE9AnDPirIC",
+  "folder": "rU236wKrAn06pnBh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!swqSPQE9AnDPirIC"
+}

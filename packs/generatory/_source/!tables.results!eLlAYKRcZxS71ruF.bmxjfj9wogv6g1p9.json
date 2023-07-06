@@ -1,0 +1,16 @@
+{
+  "text": "Стеклянные кости",
+  "type": 2,
+  "img": "icons/skills/wounds/bone-broken-marrow-red.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "bmxjfj9wogv6g1p9",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "wcZ8uXUY6lCI6fBF",
+  "_key": "!tables.results!eLlAYKRcZxS71ruF.bmxjfj9wogv6g1p9"
+}

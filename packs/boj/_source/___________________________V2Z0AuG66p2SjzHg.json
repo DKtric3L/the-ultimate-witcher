@@ -1,0 +1,37 @@
+{
+  "name": "Потеря управления скакуном",
+  "img": "icons/environment/creatures/horse-brown.webp",
+  "results": [
+    "dn7MWvgQnc6QY9pS",
+    "26LwnYmEgT6vWjyk"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.WDosBJwHrRL5DHYc"
+    },
+    "cf": {
+      "id": "temp_fwm9l8vsfd"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897077,
+    "modifiedTime": 1685496658067,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "V2Z0AuG66p2SjzHg",
+  "folder": "Wb6CKRNqRjBQl5Uy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!V2Z0AuG66p2SjzHg"
+}

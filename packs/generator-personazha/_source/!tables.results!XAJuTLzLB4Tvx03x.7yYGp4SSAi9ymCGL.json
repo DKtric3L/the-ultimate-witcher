@@ -1,0 +1,16 @@
+{
+  "_id": "7yYGp4SSAi9ymCGL",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Когда вы были совсем юны, ваша семья совершала набеги на человеческие поселения, чтобы добыть еду и, возможно, отомстить людям.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XAJuTLzLB4Tvx03x.7yYGp4SSAi9ymCGL"
+}

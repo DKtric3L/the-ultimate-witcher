@@ -1,0 +1,45 @@
+{
+  "name": "Эффект: Скверная кровать",
+  "type": "effect",
+  "img": "icons/environment/traps/pressure-plate.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_46rucrp9bac"
+    }
+  },
+  "system": {
+    "description": "Дешёвая комната или сон в спальнике в палатке. Длится до следующего отдыха.\nЕй-богу, на трупе коровы удобней спать. Но хотя бы получилось сомкнуть глаза.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "-1"
+      },
+      {
+        "id": "_2yqgnjeg6",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "daJC1MYeKlcIqJNe",
+  "folder": "l7uwC7s1P0YYqP4q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!daJC1MYeKlcIqJNe"
+}

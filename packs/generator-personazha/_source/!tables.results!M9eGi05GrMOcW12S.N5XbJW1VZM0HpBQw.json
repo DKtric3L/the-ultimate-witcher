@@ -1,0 +1,16 @@
+{
+  "_id": "N5XbJW1VZM0HpBQw",
+  "type": 0,
+  "text": "Ни один маг не взял вас в ученики.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!M9eGi05GrMOcW12S.N5XbJW1VZM0HpBQw"
+}

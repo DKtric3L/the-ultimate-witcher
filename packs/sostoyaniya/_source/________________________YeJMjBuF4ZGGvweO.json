@@ -1,0 +1,76 @@
+{
+  "name": "Эффект: Хорошая кровать",
+  "type": "effect",
+  "img": "icons/commodities/leather/fur-white-tan.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_46rucrp9bac"
+    }
+  },
+  "system": {
+    "description": "Хорошая комната. Длится до следующего отдыха.\nКроватка точно стоила своих денег, ты смог как следует отдохнуть, в коем-то веки.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "1"
+      },
+      {
+        "id": "_f0p8qupdt",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "1"
+      },
+      {
+        "id": "_krfzhnbiy",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "1"
+      },
+      {
+        "id": "_wrccoy9b1",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "1"
+      },
+      {
+        "id": "_gha6mo2n0",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "1"
+      }
+    ],
+    "derived": [
+      {
+        "id": "_nz07iqzl2",
+        "derivedStat": "WITCHER.Actor.DerStat.HP",
+        "modifier": "5"
+      },
+      {
+        "id": "_shgrnc1jk",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "5"
+      },
+      {
+        "id": "_2hklczzu9",
+        "derivedStat": "WITCHER.Actor.CoreStat.Stun",
+        "modifier": "1"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883187,
+    "modifiedTime": 1685496621691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YeJMjBuF4ZGGvweO",
+  "folder": "l7uwC7s1P0YYqP4q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YeJMjBuF4ZGGvweO"
+}

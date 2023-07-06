@@ -1,0 +1,43 @@
+{
+  "name": "Эффект - Жара",
+  "type": "effect",
+  "img": "icons/magic/fire/projectile-flaming-eyeball-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_m0e8p39jzoq"
+    }
+  },
+  "system": {
+    "description": "Вам очень жарко. Надеюсь, вы не одеты тепло?",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_xcn9540ki",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "/3"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883176,
+    "modifiedTime": 1685496622153,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "w5sRJwyynig8zdtK",
+  "folder": "l4TH4PkRbRSfAV7t",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!w5sRJwyynig8zdtK"
+}

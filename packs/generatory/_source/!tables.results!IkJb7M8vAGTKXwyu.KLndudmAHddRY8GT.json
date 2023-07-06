@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Листья Балиссы",
+  "img": "systems/TheWitcherTRPG/assets/images/quebrith.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "zJDU9b8HMjGgG2SO",
+  "_id": "KLndudmAHddRY8GT",
+  "flags": {},
+  "_key": "!tables.results!IkJb7M8vAGTKXwyu.KLndudmAHddRY8GT"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Случайный Ритуал",
+  "img": "icons/magic/symbols/runes-star-pentagon-orange-purple.webp",
+  "description": "",
+  "results": [
+    "5ncpLyjJ6Ho6m5Fe",
+    "HRQCRCNtACQ79gS7",
+    "4VUsCrDNrzdTxEdU"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.GlVRnXbbDAf0AtOE"
+    },
+    "cf": {
+      "id": "temp_ajkic29f266"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932919,
+    "modifiedTime": 1685496644591,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QQRrBSpygMunqWe0",
+  "folder": "o3sEoxIBdvOUItmm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!QQRrBSpygMunqWe0"
+}

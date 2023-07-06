@@ -1,0 +1,16 @@
+{
+  "_id": "V0Gu1GOY1KeosmYs",
+  "type": 2,
+  "text": "как вы встретились",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "B2QRYFvzDlMrlR51",
+  "_key": "!tables.results!PnqJflqfZsiQyIF1.V0Gu1GOY1KeosmYs"
+}

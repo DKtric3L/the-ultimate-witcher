@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Имлерих",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Imlerih_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "37nMYe6xX7A30dxu",
+  "_id": "rLUideDivDnqwdd2",
+  "flags": {},
+  "_key": "!tables.results!5tfGWAzBNqJfO1Gr.rLUideDivDnqwdd2"
+}

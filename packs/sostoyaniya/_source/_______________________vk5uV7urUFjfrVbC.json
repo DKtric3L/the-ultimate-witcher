@@ -1,0 +1,58 @@
+{
+  "name": "Симптом: Боль в животе",
+  "type": "effect",
+  "img": "icons/skills/wounds/injury-pain-body-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.F1r56YilMXw7NYfo"
+    },
+    "cf": {
+      "id": "temp_nxdlb2anpj"
+    }
+  },
+  "system": {
+    "description": "Ужасная режущая боль.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_lt9mznia0",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-1"
+      },
+      {
+        "id": "_x52r64geb",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-1"
+      },
+      {
+        "id": "_q8qqijmsv",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-1"
+      },
+      {
+        "id": "_5hip7mxg8",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621715,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vk5uV7urUFjfrVbC",
+  "folder": "gc7euHqdhcoTNbKd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vk5uV7urUFjfrVbC"
+}

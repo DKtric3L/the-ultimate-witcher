@@ -1,0 +1,16 @@
+{
+  "text": "Кожаный щит",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "vqgthamlw1q9zn74",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "vVFREP2w1XpuxUHz",
+  "_key": "!tables.results!6FchashfvTmUUXZQ.vqgthamlw1q9zn74"
+}

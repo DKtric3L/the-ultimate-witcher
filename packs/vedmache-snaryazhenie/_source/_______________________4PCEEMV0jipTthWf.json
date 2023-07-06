@@ -1,0 +1,65 @@
+{
+  "name": "Доспех школы мантикоры",
+  "type": "armor",
+  "img": "icons/equipment/chest/coat-collared-red-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0w1zqqbn8lrf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 10,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 12,
+    "torsoMaxStopping": 12,
+    "leftArmStopping": 12,
+    "leftArmMaxStopping": 12,
+    "rightArmStopping": 12,
+    "rightArmMaxStopping": 12,
+    "leftLegStopping": 12,
+    "leftLegMaxStopping": 12,
+    "rightLegStopping": 12,
+    "rightLegMaxStopping": 12,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Критический блок: Всякий раз, когда вы выбрасываете более чем на 4 очка больше, чем атакующий, при попытке Блока или Парирования своим щитом Мантикоры, вы можете немедленно выполнить Удар щитом, который отбрасывает атакующего на 4 м и сбивает его с ног без дополнительных штрафов и без каких-либо затрат. дополнительная выносливость."
+      }
+    ],
+    "encumb": 1,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1685496626987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4PCEEMV0jipTthWf",
+  "folder": "XIWiaRMuiNt3vpFW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4PCEEMV0jipTthWf"
+}

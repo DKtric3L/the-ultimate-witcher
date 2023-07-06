@@ -1,0 +1,176 @@
+{
+  "name": "Шприц полевого врача",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.DEZAFV2mKAiOPaNP"
+    },
+    "cf": {
+      "id": "temp_ddwqxocukpf"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.DWhTfbhx5Pd4OaER]{Шприц полевого врача}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 525,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "6ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Масло из дрейка"
+      },
+      {
+        "id": "_l5w4r0q0e",
+        "name": "Стекло",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_zqf23ctk4",
+        "name": "Укрепленная древесина",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_nm5ey5wwb",
+        "name": "Масло",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_4v6bb4hoa",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_inya0gtoo",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_lbaom9bmd",
+        "name": "Cталь",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 262,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Шприц полевого врача",
+      "type": "weapon",
+      "img": "icons/tools/fasteners/pin-spiked.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 350,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 1,
+        "avail": "Poor",
+        "damage": "1d6",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Шприц, действием заряжает любой яд или зелье. При атаке впрыскивает его.",
+            "percentage": ""
+          },
+          {
+            "id": "_sesl2xm6o",
+            "name": "Это оружие может быть заряжено действием любого яда или эликсира. Когда владелец наносит урон Шприцом Полевого Доктора, он впрыскивает этот яд или эликсир глубоко в организм цели. Это увеличивает СЛ для избавления от яда на 3 или увеличивает продолжительность действия эликсира на 3 раунда.",
+            "percentage": ""
+          },
+          {
+            "id": "_m5wn44wvb",
+            "name": "Пробивающее броню",
+            "percentage": ""
+          }
+        ],
+        "conceal": "T",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Melee",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_1jlhu26b32w"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863945,
+        "modifiedTime": 1672564831299,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848432,
+    "modifiedTime": 1685496579717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "obIguijdZm8vJI7z",
+  "folder": "b2anqQiTRYL0jSkN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!obIguijdZm8vJI7z"
+}

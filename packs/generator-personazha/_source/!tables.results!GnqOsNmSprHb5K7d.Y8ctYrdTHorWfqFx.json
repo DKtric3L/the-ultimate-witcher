@@ -1,0 +1,16 @@
+{
+  "_id": "Y8ctYrdTHorWfqFx",
+  "type": 0,
+  "text": "Обнаружен магом Когда вы были молоды, к вам домой пришел маг и поговорил наедине с вашими родителями. Он объяснили твоим родителям, что у тебя магический дар и без должной подготовки ты станешь опасен для всех.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GnqOsNmSprHb5K7d.Y8ctYrdTHorWfqFx"
+}

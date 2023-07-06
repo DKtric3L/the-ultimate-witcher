@@ -1,0 +1,60 @@
+{
+  "name": "Кольцо огня",
+  "type": "spell",
+  "img": "icons/magic/fire/barrier-wall-flame-ring-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NXySEIJw4eYUXXRe"
+    },
+    "cf": {
+      "id": "temp_rfqt1jg26l"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Огненное кольцо создает взрыв огня вокруг вас. Все, находящиеся в пределах дистанции ближнего боя от вас, должны совершить проверку Изменение позиции. При провале они получают 5d6 урона от магического огня по туловищу и загораются. После этого огонь рассеивается.",
+    "range": "радиус 2м",
+    "duration": "Мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496638991,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gpeGCA9G7173VxDk",
+  "folder": "cWM5V9rg32KY6LB7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gpeGCA9G7173VxDk"
+}

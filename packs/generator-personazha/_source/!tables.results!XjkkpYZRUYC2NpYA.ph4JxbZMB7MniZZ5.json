@@ -1,0 +1,16 @@
+{
+  "_id": "ph4JxbZMB7MniZZ5",
+  "flags": {},
+  "type": 2,
+  "text": "Enemies: Power",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "3jZiko2E0rue8mtE",
+  "_key": "!tables.results!XjkkpYZRUYC2NpYA.ph4JxbZMB7MniZZ5"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Постоялый двор - Есть ли частные кабинки",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "nVeiP58Et1ATwJJt",
+  "_id": "hIHylDep7TQf6tIm",
+  "flags": {},
+  "_key": "!tables.results!Uh01MqsAP1O2argZ.hIHylDep7TQf6tIm"
+}

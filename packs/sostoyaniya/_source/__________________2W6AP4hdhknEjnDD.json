@@ -1,0 +1,53 @@
+{
+  "name": "Трансмутация: Бес",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.UD4jG0vMt28ERHeu"
+    },
+    "cf": {
+      "id": "temp_njhvjakxvm"
+    }
+  },
+  "system": {
+    "description": "Ваши глаза незаметно меняются, взгляд становится зачаровывающим. Вы получаете +4 к Харизме, Соблазнению и Убеждению.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_mwvwzijej",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "4"
+      },
+      {
+        "id": "_rx43yecmt",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "4"
+      },
+      {
+        "id": "_1ittfhxic",
+        "skill": "WITCHER.SkEmpPersuasion",
+        "modifier": "4"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883174,
+    "modifiedTime": 1685496621920,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2W6AP4hdhknEjnDD",
+  "folder": "cY1sx3EFSRP3cq5q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2W6AP4hdhknEjnDD"
+}

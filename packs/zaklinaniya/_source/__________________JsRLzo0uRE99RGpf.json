@@ -1,0 +1,60 @@
+{
+  "name": "Нападение природы",
+  "type": "spell",
+  "img": "icons/magic/nature/root-vine-beanstolk-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lstnQ2w43Ki9gNBg"
+    },
+    "cf": {
+      "id": "temp_if9101fumkf"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "earth",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "Вы распространяете свою силу на окружающую вас природу, и она атакует каждое существо по вашему выбору в пределах зоны действия заклинания. \nТрава: Трава пытается охватить ноги вашего противника, и его СКОР уменьшается в два раза; \nДеревья: Каждое дерево находящееся в 4 метрах от цели атакует ее, нанося ей в сумме 4d6 режущего урона; \nКорни и лианы: Корни и лианы отрываются от земли и пытаются схватить цель за руку; \nКамни: Находясь на местности с большими камнями, в каждую цель прилетает по одному камню, нанося 4d6 дробящего урона. Для каждого эффекта по отдельности цель должна сделать проверку Уклонения/Изворотливости со СЛ равной изначальной проверке Сотворения заклинаний заклинателя.",
+    "range": "10м",
+    "duration": "мгновенное",
+    "defence": "Уклонение, блок(но не для травы)",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Режущий или дробящий урон"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496638930,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JsRLzo0uRE99RGpf",
+  "folder": "uqEc3vi7bmpL3P86",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!JsRLzo0uRE99RGpf"
+}

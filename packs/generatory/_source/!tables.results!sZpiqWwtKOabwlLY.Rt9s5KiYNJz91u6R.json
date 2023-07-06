@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Целительный покой(Мелитэле)",
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow-green.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "G8MGVy0R7WfhAPLV",
+  "_id": "Rt9s5KiYNJz91u6R",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.Rt9s5KiYNJz91u6R"
+}

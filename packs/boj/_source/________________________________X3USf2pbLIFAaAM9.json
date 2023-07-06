@@ -1,0 +1,41 @@
+{
+  "name": "Смертельные критические ранения",
+  "img": "icons/commodities/bones/skull-hollow-brown.webp",
+  "results": [
+    "md13gU5GXWqdSo3b",
+    "Kg6cLOw7bcrhf9zi",
+    "Aupjx9gqdL7IdDsG",
+    "dcTrmwGr6QqbwArw",
+    "8BDa9D8PpydHDt9F",
+    "H0XA02QcwUBIRRWa"
+  ],
+  "formula": "2d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.OjYr6hsVFix9aiUb"
+    },
+    "cf": {
+      "id": "temp_k8hwciyvpw"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897086,
+    "modifiedTime": 1685496658120,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "X3USf2pbLIFAaAM9",
+  "folder": "DL7m2vy4NZZYLWYk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!X3USf2pbLIFAaAM9"
+}

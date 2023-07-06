@@ -1,0 +1,16 @@
+{
+  "_id": "XEB17msQM6PA4Wl4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей похитили аристократы. Скорее всего, это была ваша мать, приглянувшаяся местному князьку или его сыну.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BVAifyDThmUYivmt.XEB17msQM6PA4Wl4"
+}

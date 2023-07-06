@@ -1,0 +1,51 @@
+{
+  "name": "Улучшенный ворот",
+  "type": "enhancement",
+  "img": "icons/tools/fasteners/pin-round.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.oyKsqGxVfwarEqMu"
+    },
+    "cf": {
+      "id": "temp_frzayswlhnf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 440,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Позволяет перезаряжать арбалет за счёт действия,либо за счёт действия перемещения в каждом раунде."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1685496603273,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "oyKsqGxVfwarEqMu",
+  "folder": "AVzS20lEfUPVxlW1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oyKsqGxVfwarEqMu"
+}

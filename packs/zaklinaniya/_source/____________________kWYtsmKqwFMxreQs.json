@@ -1,0 +1,57 @@
+{
+  "name": "Зачарованный амулет",
+  "type": "spell",
+  "img": "icons/equipment/neck/pendant-rough-gold-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_jng7v7c6yv"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Инкрустируя обычный амулет драгоценными камнями с выгравированными магическими символами, вы создаете зачарованный амулет, хранящий знания о наложении определенных заклинаний. При создании волшебного амулета персонаж должен тратить требуемое количество Вын на каждое произнесение заклинания. Если заклинание имеет активную длительность, заклинатель также должен потратить достаточно Вын, чтобы поддерживать его в течение 4 раундов. При создании амулета заклинатель не может использовать магическую фокусировку. Каждое заклинание, которое будет вложенно в амулет, должно быть произнесено быстро, без каких-либо промежуточных действий, иначе процесс Изготовления завершится неудачно.",
+    "range": "",
+    "duration": "Постоянное",
+    "defence": "",
+    "components": "Простой амулет (x1), Совершенный самоцвет (1 за каждое Заклинание/Инвокацию), Пятая эссенция (x2), Инструменты Рунописца",
+    "alternateComponents": "",
+    "preparationTime": "15 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496637493,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kWYtsmKqwFMxreQs",
+  "folder": "LEQUCMjLSMjWdmGB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kWYtsmKqwFMxreQs"
+}

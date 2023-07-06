@@ -1,0 +1,46 @@
+{
+  "name": "Фосфор",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/other/phosphorus.webp",
+  "system": {
+    "description": "",
+    "quantity": "2d6",
+    "weight": 0.5,
+    "cost": 20,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Горы и под землей",
+    "quantityObtainable": "1d6",
+    "forage": "15",
+    "substanceType": "vermilion"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_z2lk3hpfm4e",
+      "color": "#3b9b58"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.yK8skGpBFoHEoIW8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853706,
+    "modifiedTime": 1669965918906,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "6ipOcFWFSXdgV3Bz",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!Ul1wM3UdIe67k3Hk.6ipOcFWFSXdgV3Bz"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Кислотный раствор",
+  "img": "modules/the-ultimate-witcher/assets/props/acid.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "RCbUN73D1v2jN3bT",
+  "_id": "SLh4onDsbOGJTQI1",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.SLh4onDsbOGJTQI1"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Масло против реликтов",
+  "img": "icons/sundries/documents/document-symbol-skull-tan.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "7mKYuNNqw26VXbgS",
+  "_id": "4Dz7eJeXWlzHIy00",
+  "flags": {},
+  "_key": "!tables.results!S4FCgPes7Ai4jUAT.4Dz7eJeXWlzHIy00"
+}

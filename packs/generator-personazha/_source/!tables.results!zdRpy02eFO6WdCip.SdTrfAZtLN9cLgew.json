@@ -1,0 +1,16 @@
+{
+  "_id": "SdTrfAZtLN9cLgew",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Вашу семью казнили за государственную измену. Только вам удалось избежать этой участи.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.SdTrfAZtLN9cLgew"
+}

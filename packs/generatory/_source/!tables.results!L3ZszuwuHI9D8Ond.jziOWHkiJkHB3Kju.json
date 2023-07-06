@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    30,
+    30
+  ],
+  "drawn": false,
+  "text": "Странная статуэтка",
+  "img": "icons/commodities/treasure/figurine-idol.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "4NJoYSMPCxffzMnD",
+  "_id": "jziOWHkiJkHB3Kju",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.jziOWHkiJkHB3Kju"
+}

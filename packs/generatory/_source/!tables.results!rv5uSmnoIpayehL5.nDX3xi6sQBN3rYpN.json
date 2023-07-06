@@ -1,0 +1,16 @@
+{
+  "text": "Усиление запахов",
+  "type": 2,
+  "img": "icons/magic/air/fog-gas-smoke-swirling-pink.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "nDX3xi6sQBN3rYpN",
+  "documentId": "OZnUecdhSjOEv2HZ",
+  "flags": {},
+  "_key": "!tables.results!rv5uSmnoIpayehL5.nDX3xi6sQBN3rYpN"
+}

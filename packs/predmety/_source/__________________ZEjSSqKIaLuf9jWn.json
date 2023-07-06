@@ -1,0 +1,43 @@
+{
+  "name": "Алхимический клей",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/alchemical_glue.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.ZEjSSqKIaLuf9jWn"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 28,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Common",
+    "effect": "Алхимический клей можно нанести на любую поверхность. Через 2 раунда клей затвердевает, навсегда склеивая предметы и/или персонажей. Чтобы разъединить склеенное, потребуется проверка Силы со СЛ 16. Для броска склянки проведите атаку с проверкой Атлетики (Дис. равна Тел × 2 метров).",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868970,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ZEjSSqKIaLuf9jWn",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ZEjSSqKIaLuf9jWn"
+}

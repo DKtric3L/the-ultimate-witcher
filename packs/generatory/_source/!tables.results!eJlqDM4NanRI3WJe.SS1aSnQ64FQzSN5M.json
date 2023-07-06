@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Совершенный Янтарь",
+  "img": "modules/the-ultimate-witcher/assets/gems/perfect_amber.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "2wGcE2cYykH2TLsW",
+  "_id": "SS1aSnQ64FQzSN5M",
+  "flags": {},
+  "_key": "!tables.results!eJlqDM4NanRI3WJe.SS1aSnQ64FQzSN5M"
+}

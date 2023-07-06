@@ -1,0 +1,16 @@
+{
+  "_id": "26LwnYmEgT6vWjyk",
+  "flags": {},
+  "type": 2,
+  "text": "Mounted Control Loss: Mount",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "6FrD4tQuyJOICu5m",
+  "_key": "!tables.results!V2Z0AuG66p2SjzHg.26LwnYmEgT6vWjyk"
+}

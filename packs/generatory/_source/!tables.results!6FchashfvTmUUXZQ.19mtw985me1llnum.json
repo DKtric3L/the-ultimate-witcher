@@ -1,0 +1,16 @@
+{
+  "text": "Гамбезон",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "_id": "19mtw985me1llnum",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "v4TYucUZgfRtkprU",
+  "_key": "!tables.results!6FchashfvTmUUXZQ.19mtw985me1llnum"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "Kg6cLOw7bcrhf9zi",
+  "flags": {},
+  "type": 0,
+  "text": "Открытый перелом руки: Рукой невозможно двигать, из неё очень стрёмно торчит кость. Персонаж истекает кровью. Стабилизация: Рукой нельзя двигать. Лечение: Рука должна оставаться в перевязи, но ей уже можно держать предметы.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!dCJjGB6lKvY2je0y.Kg6cLOw7bcrhf9zi"
+}

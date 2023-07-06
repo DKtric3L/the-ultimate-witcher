@@ -1,0 +1,45 @@
+{
+  "name": "Характеристика семьи",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "dSkClk0QYBeBwhwE",
+    "tLw0a7eJU4QCO9fM",
+    "luVaHpd8tp4C3kzg",
+    "1OVR36lXLL6UsumI",
+    "X5ADdLa9GSq9khyR",
+    "VsV99ornFbgFcWf2",
+    "0Arc7FzdAXWgEHVd",
+    "rnrnUe99PNhdoenE",
+    "uS7uUXnVM9SgmTN0",
+    "ZkLsnf0gn9RPfRhf"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.QLzAoaLETPfALwmK"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901106,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "ig29nNCPzmr9uWO7",
+  "_key": "!tables!ig29nNCPzmr9uWO7"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Чёрный яд",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/dark_poison.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.CbQ9tN7Yz5rEn2cU"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 45,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Common",
+    "effect": "Чёрный яд немедленно отравляет цель при попадании в кровь или при проглатывании. Проверка Стойкости, СЛ 16, отменяет его эффект, но цель можно повторно отравить.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "CbQ9tN7Yz5rEn2cU",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!CbQ9tN7Yz5rEn2cU"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Эффект - Полиморфизм",
+  "type": "effect",
+  "img": "icons/creatures/amphibians/bullfrog-glowing-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Вы приняли облик животного(Змеи, кошки, собаки, крысы или птицы), переняв его параметры.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_x2kdfuw5c",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": 0
+      },
+      {
+        "id": "_xx0hj32dv",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": 0
+      },
+      {
+        "id": "_w11h103sp",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": 0
+      },
+      {
+        "id": "_mcr0cjhag",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": 0
+      },
+      {
+        "id": "_xaunvtmlr",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": 0
+      },
+      {
+        "id": "_wkd3slyyp",
+        "stat": "WITCHER.Actor.Stat.Cra",
+        "modifier": 0
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883178,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bt4xlglEysN3gV9F",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bt4xlglEysN3gV9F"
+}

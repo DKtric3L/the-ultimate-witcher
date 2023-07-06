@@ -1,0 +1,73 @@
+{
+  "name": "Холщовая дыхательная повязка",
+  "type": "armor",
+  "img": "icons/equipment/head/hood-purple-mask.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lY7VgDHD9WBLVOcS"
+    },
+    "cf": {
+      "id": "temp_mxldaj92pz"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 60,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 3,
+    "headMaxStopping": 3,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Light",
+    "avail": "Everywhere",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Прикрытие пропитанной лекарствами тканевой повязкой рта и носа на севере считается верным средством, при по- пытке уберечься от заражения болезнью. Доктора на собственном горьком опыте познали пользу использования сте- рилизующих жидкостей много лет назад, и теперь пришло время применить эти знания с пользой."
+      },
+      {
+        "id": "_srxa31bk8",
+        "name": "Снижает риск заражения на 5% в те- чение одного дня , если пропитать ее Стерилизующей жидкостью.",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "Head",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837869,
+    "modifiedTime": 1685496574789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WKOnJR8mlgfKqgaI",
+  "folder": "tJIMKEBfKhFRtsQQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WKOnJR8mlgfKqgaI"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "H0XA02QcwUBIRRWa",
+  "flags": {},
+  "type": 0,
+  "text": "Сломанная шея/Отсечённая голова: Персонаж немедленно умирает.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!X3USf2pbLIFAaAM9.H0XA02QcwUBIRRWa"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "aT8VnCMQud7VKIAe",
+  "name": "Бронвинский лук",
+  "type": "spell",
+  "img": "icons/magic/air/wind-swirl-gray-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.Ev5PAH6TbtvJdzBY"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Это заклинание, разработанное Бровин Мертвый глаз для бомбардировок нильфгаардского флота, позволяет вам вызвать мощный поток воздуха, чтобы метать Метательное оружие на большие расстояния. Применив это заклинание, вы можете совершить атаку любым Метательным оружием, Боеприпасами для ручного оружия дальнего боя (Стрелами или Болтами) или Бомбой по цели, используя Сотворение заклинаний в качестве основы. Если вы бросаете стрелу или болт, вы наносите урон 4d6.",
+    "range": "50м",
+    "duration": "мгновенная",
+    "defence": "укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!nRFMSVmn5tFxYySe.aT8VnCMQud7VKIAe"
+}

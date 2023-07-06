@@ -1,0 +1,60 @@
+{
+  "name": "Воскрешение",
+  "type": "spell",
+  "img": "icons/magic/death/hand-undead-skeleton-fire-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.vMWUNiaF2gmXI5cQ"
+    },
+    "cf": {
+      "id": "temp_yt9b8cjci6m"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 7d10.\nВы можете оживить существо, которое умерло 1 минуту (20 раундов) назад. Если пройдет еще одна секунда, оно окончательно умирает, если только вы не воспользуетесь ритуалом Истинного воскрешения. Если труп проходит ритуал Остановки разложения, то время до смерти останавливается.",
+    "range": "Касание",
+    "duration": "Мгновенное",
+    "defence": "Нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "7d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон заклинателю."
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892155,
+    "modifiedTime": 1685496639054,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "e4uHTZmHV9DvFyIm",
+  "folder": "61JxKnK4vxszNzbe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!e4uHTZmHV9DvFyIm"
+}

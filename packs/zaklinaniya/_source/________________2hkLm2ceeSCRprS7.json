@@ -1,0 +1,57 @@
+{
+  "name": "Голос советника",
+  "type": "spell",
+  "img": "icons/magic/control/control-influence-crown-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a1f9vxmt8yw"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "druid",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Голос Советника позволяет придать вдохновение вашим словам. Во время этого заклинания вы можете либо сделать свой голос достаточно громким, чтобы его можно было услышать издалека, либо прошептать на ухо одному человеку в пределах досягаемости. Кроме того, вы получаете +4 к проверкам Лидерства.",
+    "range": "10м",
+    "duration": "10 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892157,
+    "modifiedTime": 1685496638262,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2hkLm2ceeSCRprS7",
+  "folder": "KJ7hbWltUlxzYhEM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2hkLm2ceeSCRprS7"
+}

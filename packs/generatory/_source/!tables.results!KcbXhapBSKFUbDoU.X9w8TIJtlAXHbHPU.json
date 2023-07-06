@@ -1,0 +1,16 @@
+{
+  "text": "Тканевое усиление",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-shield.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "X9w8TIJtlAXHbHPU",
+  "documentId": "WGG7Z0IDRA8wV8gG",
+  "flags": {},
+  "_key": "!tables.results!KcbXhapBSKFUbDoU.X9w8TIJtlAXHbHPU"
+}

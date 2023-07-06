@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Кровосвёртывающий порошок",
+  "img": "modules/the-ultimate-witcher/assets/props/blood_clotting_solution.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "eWyMtrl9CweX6FXY",
+  "_id": "KET4NnackP6ymPfa",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.KET4NnackP6ymPfa"
+}

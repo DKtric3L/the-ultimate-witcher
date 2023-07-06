@@ -1,0 +1,37 @@
+{
+  "name": "Болезнь: Новиградский поцелуй(2 стадия, день 22-30)",
+  "type": "effect",
+  "img": "icons/commodities/biological/pustules-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.mOyPTZebuUzzl0O4"
+    },
+    "cf": {
+      "id": "temp_7y1wsf4jzmn"
+    }
+  },
+  "system": {
+    "description": "Опасность - высокая, риск заражения - 35%\nСимптомы первой стадии заканчиваются, уступая место для фирменных СТРУПЬЕВ И ЯЗВ на гениталиях, вызывающих УСТАЛОСТЬ и постоянную тупую БОЛЬ В МЫШЦАХ, ощущаемую по всему телу.\nЛЕЧЕНИЕ: Новиградский поцелуй трудно диагностировать на первой стадии. Провал при определении диагноза с более высокой СЛ, скорее всего, приведет к получению вводящей в заблуждение информации. Лечение на всех трех стадиях воз- можно с помощью редкого и рискованного средства - Слез суккуба (см. Лекарства). Ритуал очищения не может вылечить этот недуг на третьей стадии.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883165,
+    "modifiedTime": 1685496621758,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "zCjCg27yLzzTTrJ9",
+  "folder": "aql65wChKZ3qmDGb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zCjCg27yLzzTTrJ9"
+}

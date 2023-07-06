@@ -1,0 +1,40 @@
+{
+  "name": "Вывих руки (Лечено)",
+  "type": "effect",
+  "img": "icons/skills/wounds/anatomy-bone-joint.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_n2afsx7fi5j"
+    }
+  },
+  "system": {
+    "description": "После удара рука персонажа вывихнута и плохо слушается.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_mpyqwvghq",
+        "skill": "WITCHER.SkBodyPhys",
+        "modifier": "-1"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883167,
+    "modifiedTime": 1685496621796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "oMpTiux1qfoEsd3k",
+  "folder": "i9IWaFNhx9E6aUgp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oMpTiux1qfoEsd3k"
+}

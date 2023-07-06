@@ -1,0 +1,70 @@
+{
+  "name": "Порыв ветра",
+  "type": "spell",
+  "img": "icons/magic/air/wind-tornado-wall-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.1QvswniXcCl1ubOZ"
+    },
+    "cf": {
+      "id": "temp_rkoyph3dfy"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "air",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Вы создаете нисходящий порыв ветра в области радиусом 10 м с центром в пределах дистанции. Все источники огня тушатся. Каждое существо попавшее в зону действия заклинания сбивается с ног и получает 1d6 дробящего урона по туловищу. Они также теряют половину от своего максимума ВЫН. Летающие существа, попавшие в зону действия заклинания, падают и получают урон от падения +3d6 дробящего урона вместо 1d6.",
+    "range": "20м",
+    "duration": "Мгновенное",
+    "defence": "Нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Сбивает с ног"
+      },
+      {
+        "id": "_4mu2uzif1",
+        "name": "-1/2 от макс ВЫН",
+        "percentage": ""
+      },
+      {
+        "id": "_igzzbxs22",
+        "name": "Летающие враги падают и получают +3d6 дробящего урона",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638961,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "8lQ9s1RwI3fpGb9P",
+  "folder": "LTR8wJncOHVonFgc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8lQ9s1RwI3fpGb9P"
+}

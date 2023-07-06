@@ -1,0 +1,60 @@
+{
+  "name": "Зеленый хват",
+  "type": "spell",
+  "img": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.H2wotlmsoOPRhsq1"
+    },
+    "cf": {
+      "id": "temp_4w8bxpjli5a"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Когда заклинатель пытается схватить противника, виноградные лозы выходят из его рук и помогают ему. Вы можете совершить проверку Сотворения заклинаний, чтобы сделать захват, и при успехе, противник становится автоматически обездвижен.",
+    "range": "касание",
+    "duration": "пока не освободится из захвата",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496638757,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kkjpF57ild2Mfvtc",
+  "folder": "UWJmUntsU0DtqGaG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kkjpF57ild2Mfvtc"
+}

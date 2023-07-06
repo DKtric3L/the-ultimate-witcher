@@ -1,0 +1,16 @@
+{
+  "_id": "jPas5dJBZsFMDipX",
+  "type": 2,
+  "text": "Стиль одежды",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "0C5eu3vjjhPnNJ3q",
+  "_key": "!tables.results!zfAzg51mEWYmAY9B.jPas5dJBZsFMDipX"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "drawn": false,
+  "text": "Посох связывания",
+  "img": "icons/sundries/scrolls/scroll-bound-gold-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "lOLbiPiQB1eCuStF",
+  "_id": "rVtN2kxUeWciMvZv",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.rVtN2kxUeWciMvZv"
+}

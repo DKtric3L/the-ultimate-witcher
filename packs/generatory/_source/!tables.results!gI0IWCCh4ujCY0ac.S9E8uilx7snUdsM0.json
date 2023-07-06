@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Гончая дикой охоты",
+  "img": "modules/the-ultimate-witcher/assets/monsters/wild_hunt_hound.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "dYHSeCFWH3up0KFS",
+  "_id": "S9E8uilx7snUdsM0",
+  "flags": {},
+  "_key": "!tables.results!gI0IWCCh4ujCY0ac.S9E8uilx7snUdsM0"
+}

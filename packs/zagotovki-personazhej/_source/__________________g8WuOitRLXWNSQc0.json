@@ -1,0 +1,57 @@
+{
+  "_id": "g8WuOitRLXWNSQc0",
+  "name": "Магический барьер",
+  "type": "spell",
+  "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.3UYNyRt6f1YSFfHo"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Этот ритуал создаёт круглый барьер чистой энергии диаметром 10 метров. У барьера 50 ПЗ, после потери которых он уничтожается. В свой ход заклинатель может потратить дополнительные очки Вын для восстановления ПЗ барьера: по 5 ПЗ за 1 очко Вын. Барьер считается материальным и является непроходимой преградой для любого материального объекта. Как только барьер создан, ничто не может пройти за него. Воздух внутри барьера восполняется, позволяя тем, кто внутри, свободно дышать. При желании маг может прекратить восполнение запаса воздуха в пределах барьера — в таком случае воздуха хватит всего на 20 раундов. За каждого дополнительного персонажа в пределах барьера запасы воздуха снижаются на 1 раунд. Бесплотные существа могут проходить сквозь барьер, а персонажи могут телепортироваться как за его пределы, так и внутрь.",
+    "range": "",
+    "duration": "актив(2 вын)",
+    "defence": "",
+    "components": "пятая эссенция(х5), дымная пыль(х2), мелок(х4)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!3v0292IhRWNohwqu.g8WuOitRLXWNSQc0"
+}

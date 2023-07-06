@@ -1,0 +1,16 @@
+{
+  "text": "Эссенция зелья",
+  "type": 2,
+  "img": "icons/tools/laboratory/mortar-powder-green.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "M3Wx1x9ceOFD8M4t",
+  "documentId": "eVh6gfU4IB22Ztiw",
+  "flags": {},
+  "_key": "!tables.results!0kUdLuP1RmtDXNkK.M3Wx1x9ceOFD8M4t"
+}

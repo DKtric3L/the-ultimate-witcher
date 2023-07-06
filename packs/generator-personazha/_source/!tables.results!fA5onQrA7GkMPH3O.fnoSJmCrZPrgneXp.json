@@ -1,0 +1,16 @@
+{
+  "_id": "fnoSJmCrZPrgneXp",
+  "flags": {},
+  "type": 2,
+  "text": "Romance",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    8,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "1nW1pPKnFl1o3mvD",
+  "_key": "!tables.results!fA5onQrA7GkMPH3O.fnoSJmCrZPrgneXp"
+}

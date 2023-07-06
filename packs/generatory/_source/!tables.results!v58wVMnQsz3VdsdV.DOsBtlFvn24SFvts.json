@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Болезнь: Потливая горячка(1 стадия, день 1-3)",
+  "img": "icons/skills/wounds/blood-cells-vessel-red.webp",
+  "documentCollection": "the-ultimate-witcher.sostoyaniya",
+  "documentId": "NHbsYsoDGiQcOvoj",
+  "_id": "DOsBtlFvn24SFvts",
+  "flags": {},
+  "_key": "!tables.results!v58wVMnQsz3VdsdV.DOsBtlFvn24SFvts"
+}

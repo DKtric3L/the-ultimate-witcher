@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Благословение покоя",
+  "type": "effect",
+  "img": "icons/magic/nature/leaf-flower-wreath-glow-green-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.UCEvu9HKCheCCYo9"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Противник должен пройти проверку сопротивления магии против первоначального результата Сотворения этого заклинания, чтобы напасть на вас.(х)\nДлится 1d6 раундов",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883181,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5eVED8BKb7gzhnac",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5eVED8BKb7gzhnac"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Пиво",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "c3DLTwzVwXPjZniQ",
+    "Yo2QKMSCcfeUBAOQ",
+    "qCFv8PVaIS4grd0u",
+    "7FPtq7rALeXWndwp"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_xters3vqr27"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644685,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TYaDuD5wiTFyeLxV",
+  "sort": 0,
+  "_id": "FG86RJYCQc9nALr7",
+  "_key": "!tables!FG86RJYCQc9nALr7"
+}

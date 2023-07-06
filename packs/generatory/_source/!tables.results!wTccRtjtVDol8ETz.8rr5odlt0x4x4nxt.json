@@ -1,0 +1,16 @@
+{
+  "text": "Щит школы мантикоры",
+  "type": 2,
+  "img": "icons/sundries/books/book-symbol-triangle-blue.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "8rr5odlt0x4x4nxt",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "LPNuA6AGuI1diaDq",
+  "_key": "!tables.results!wTccRtjtVDol8ETz.8rr5odlt0x4x4nxt"
+}

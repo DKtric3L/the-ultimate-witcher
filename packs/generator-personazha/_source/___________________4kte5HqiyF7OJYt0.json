@@ -1,0 +1,38 @@
+{
+  "name": "Как прошла декада?",
+  "img": "icons/magic/control/buff-luck-fortune-clover-green.webp",
+  "description": "Бросай за каждые 10 лет после 29 лет своего персонажа.",
+  "results": [
+    "yKASe6coZNBWpkfP",
+    "EBq9aLmsmsEVNObC",
+    "HDpPlwI1lUuVleYl",
+    "t1bcbaRZwlzbqcKi"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.B6ueH6LpXITi7oeS"
+    },
+    "cf": {
+      "id": "temp_vvet5jvsxzm"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668582593056,
+    "modifiedTime": 1685496652320,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "iuGDUnyJfBDpmaqJ",
+  "sort": 0,
+  "_id": "4kte5HqiyF7OJYt0",
+  "_key": "!tables!4kte5HqiyF7OJYt0"
+}

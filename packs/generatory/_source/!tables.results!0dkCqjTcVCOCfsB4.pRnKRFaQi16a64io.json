@@ -1,0 +1,16 @@
+{
+  "_id": "pRnKRFaQi16a64io",
+  "type": 2,
+  "text": "Инструменты",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "4AYecdsS7Lk1Q27l",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.pRnKRFaQi16a64io"
+}

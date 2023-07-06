@@ -1,0 +1,42 @@
+{
+  "name": "Речная Глина",
+  "type": "component",
+  "img": "icons/commodities/stone/clay-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_sg5oias8hq",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 5,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Poor",
+    "location": "Реки и побережья",
+    "quantityObtainable": "1d6",
+    "forage": "14",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1685496584092,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NmT5NnqVHZCArORh",
+  "folder": "Yvm2f45VU7Uinqch",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NmT5NnqVHZCArORh"
+}

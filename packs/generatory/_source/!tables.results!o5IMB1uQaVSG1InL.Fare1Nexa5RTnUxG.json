@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Дешевое вино",
+  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "CDydqaL6h9C1WdJd",
+  "_id": "Fare1Nexa5RTnUxG",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.Fare1Nexa5RTnUxG"
+}

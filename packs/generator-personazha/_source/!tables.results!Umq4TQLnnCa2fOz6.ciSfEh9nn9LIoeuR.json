@@ -1,0 +1,16 @@
+{
+  "_id": "ciSfEh9nn9LIoeuR",
+  "flags": {},
+  "type": 0,
+  "text": "Желает вам смерти.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Umq4TQLnnCa2fOz6.ciSfEh9nn9LIoeuR"
+}

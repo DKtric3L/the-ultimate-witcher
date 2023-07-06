@@ -1,0 +1,16 @@
+{
+  "_id": "th9s2aW3pwS3ZZX2",
+  "flags": {},
+  "type": 0,
+  "text": "Вы и ваш возлюбленный - соперники в профессии. Вы часто уводите друг у друга клиентов",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NNIpGof44mDxP9nf.th9s2aW3pwS3ZZX2"
+}

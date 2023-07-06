@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Бумажка с одним числом",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "pf9oIpiZZK5ZVwfo",
+  "_id": "lhM4Qsl6O1DADXRG",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.lhM4Qsl6O1DADXRG"
+}

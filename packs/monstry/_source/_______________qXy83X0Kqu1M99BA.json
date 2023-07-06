@@ -1,0 +1,57 @@
+{
+  "_id": "qXy83X0Kqu1M99BA",
+  "name": "Сосуд заклятия",
+  "type": "spell",
+  "img": "icons/magic/unholy/orb-beam-pink.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.dkBxBQ60xXUB9uXZ"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Сосуд заклятия создаёт магический вихрь внутри запечатанного глиняного сосу да. Вихрь существует ld6 дней и активируется при разбивании сосуда, сотворяя случайное заклинание из приведённого ниже списка. Совершите бросок IdlO/2: \n1. Тюрьма Тальфрина \n2. Зефир \n3. Танио Ильхар \n4. Туман Дормина \n5. Статическая буря",
+    "range": "",
+    "duration": "1d6 дней",
+    "defence": "",
+    "components": "Речная глина(х5), пятая эссенция(xl), нитки(х2), мелок(xl), воск(xl), волокна хана(х2), дымная пыль(xl)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "15",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!b8AQXkKlq1bGf8Ej.qXy83X0Kqu1M99BA"
+}

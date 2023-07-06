@@ -1,0 +1,60 @@
+{
+  "name": "Поднятие трупа",
+  "type": "spell",
+  "img": "icons/magic/unholy/hand-fire-skeleton-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.5kgslvOmYCOFd88E"
+    },
+    "cf": {
+      "id": "temp_0t82pqg9kah"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 3d10.\nПоднятие трупа позволяет вам поднять груду костей или труп, наполнив их частью вашей собственной жизненной силы. Они получают характеристики скелета. Вы можете менять характеристики в зависимости от снаряжения трупа. У скелета или трупа продолжается естественный процесс разложения, поэтому, если труп следует за вами в течение некоторого времени, он получает 1d6 урона каждые 2 дня, если только это не находится под действием эффекта ритуала Остановка разложения. Скелеты и трупы можно исцелять только заклинанием Исцеление нежити.",
+    "range": "20м",
+    "duration": "Пока не убит",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "3d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон заклинателю"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496638860,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TyVwoeMUZSgNVq0G",
+  "folder": "oUploplKQy7OzcxK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TyVwoeMUZSgNVq0G"
+}

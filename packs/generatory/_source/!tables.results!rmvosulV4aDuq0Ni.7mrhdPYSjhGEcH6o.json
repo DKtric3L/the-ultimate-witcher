@@ -1,0 +1,16 @@
+{
+  "_id": "7mrhdPYSjhGEcH6o",
+  "type": 2,
+  "text": "Друид - Мастер",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "6VNOqS0gXJ7iK6Ub",
+  "_key": "!tables.results!rmvosulV4aDuq0Ni.7mrhdPYSjhGEcH6o"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Скользящий поток",
+  "type": 2,
+  "img": "icons/magic/water/strike-ice-blades.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "x0gcuO4IG8385Mmq",
+  "documentId": "yeCs8MBiTGywTfVa",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.x0gcuO4IG8385Mmq"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Siblings: Gender",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "ciSfEh9nn9LIoeuR",
+    "Gl1XVUlHbuQVyANO"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.4u81YQ3O7rLVcYTQ"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917383,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "x4yEh1l0N9GqXSZ9",
+  "_key": "!tables!x4yEh1l0N9GqXSZ9"
+}

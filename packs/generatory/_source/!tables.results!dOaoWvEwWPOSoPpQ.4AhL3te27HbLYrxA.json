@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Лунная крошка",
+  "img": "systems/TheWitcherTRPG/assets/images/rebis.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "bnWbuja0cg33UWPR",
+  "_id": "4AhL3te27HbLYrxA",
+  "flags": {},
+  "_key": "!tables.results!dOaoWvEwWPOSoPpQ.4AhL3te27HbLYrxA"
+}

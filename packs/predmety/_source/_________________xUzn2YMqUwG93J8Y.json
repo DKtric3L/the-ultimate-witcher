@@ -1,0 +1,43 @@
+{
+  "name": "Крепкий алкоголь",
+  "type": "valuable",
+  "img": "icons/consumables/drinks/alcohol-jar-spirits-gray.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.xUzn2YMqUwG93J8Y"
+    },
+    "cf": {
+      "id": "temp_9bempw9mh8g"
+    }
+  },
+  "system": {
+    "description": "Крепкая выпивка. На севере чаще встречается краснолюдская настойка, на юге — нильфгаардская лимонная, обе очень забористые.\n\nПройди проверку со сл. 14, при провале становишься зависим от алкоголя(не только крепкого).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 10,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496603795,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "xUzn2YMqUwG93J8Y",
+  "folder": "Wl7XwqKi0AbU85lU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!xUzn2YMqUwG93J8Y"
+}

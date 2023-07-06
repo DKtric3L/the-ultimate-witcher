@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "sUDkIFvnnDPRrRlM",
+  "text": "Стал тайным покровителем культа - Этот дракон собрал вокруг себя небольшую группу преданных последователей, верящих, что дракон даёт им силу. Всего у дракона 20 сектантов (выберите любых гуманоидов), которые выполняют его приказы и готовы рисковать жизнью.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Nk7xscPABXk5l6mM.sUDkIFvnnDPRrRlM"
+}

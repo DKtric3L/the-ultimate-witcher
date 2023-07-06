@@ -1,0 +1,53 @@
+{
+  "name": "2 порчи низкой опасности",
+  "type": "spell",
+  "system": {
+    "class": "Hexes",
+    "level": "",
+    "source": "",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": false,
+    "effect": "",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_id": "6vWoenvQS6DtNDzx",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663425348490,
+    "modifiedTime": 1663425355551,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!dOeQYcWPrnQjn0mK.6vWoenvQS6DtNDzx"
+}

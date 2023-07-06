@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Охотник за колдуньями",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Ohotnik_za_kolduniyami_Lorenzo_Mastroianni.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "lkMWeSbqECvEJaXH",
+  "_id": "bh4A3pMuM1PkD9He",
+  "flags": {},
+  "_key": "!tables.results!Qz8miDhG9hWzD1cg.bh4A3pMuM1PkD9He"
+}

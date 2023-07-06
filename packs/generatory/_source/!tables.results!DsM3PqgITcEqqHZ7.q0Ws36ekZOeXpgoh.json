@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Шарлей",
+  "img": "modules/the-ultimate-witcher/assets/monsters/sharlei.jpeg",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "ytUDI3WvlUdgLiG0",
+  "_id": "q0Ws36ekZOeXpgoh",
+  "flags": {},
+  "_key": "!tables.results!DsM3PqgITcEqqHZ7.q0Ws36ekZOeXpgoh"
+}

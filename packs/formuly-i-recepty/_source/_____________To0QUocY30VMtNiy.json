@@ -1,0 +1,157 @@
+{
+  "name": "Эльфский щит",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.To0QUocY30VMtNiy"
+    },
+    "cf": {
+      "id": "temp_7b35u0lwoec"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.MHhtAzOdPX6MtCot]{Эльфский щит}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1050,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-armor",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "5ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "5",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_n8lu9sto9",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_a9xlgvgx9",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_e4u6ouz2z",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_75qhkbbi8",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_kc44iaj1e",
+        "name": "component",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 528,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Эльфский щит",
+      "type": "armor",
+      "img": "icons/equipment/shield/heater-emossed-spiral-green.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3,
+        "cost": 700,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 25,
+        "reliabilityMax": 25,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Shield",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.dospehi-starshego-naroda.uOw5x91Cs28kr94r"
+        },
+        "cf": {
+          "id": "temp_njuve1krma"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837870,
+        "modifiedTime": 1668162837870,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848433,
+    "modifiedTime": 1685496579562,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "To0QUocY30VMtNiy",
+  "folder": "secIjsE1CHuBPLzz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!To0QUocY30VMtNiy"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Провал: Магия",
+  "img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+  "description": "",
+  "results": [
+    "ufQIfuCBqqU0jGVY",
+    "UQQy4HAiKYOFCiUM",
+    "BnlrvhE8KjrxF1BH",
+    "iHQbUMJ8WqRnGMCa"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.WmvkqpaEtQgrQPN2"
+    },
+    "cf": {
+      "id": "temp_fwm9l8vsfd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897082,
+    "modifiedTime": 1685496658067,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QzwkJ8llAA9WHg4m",
+  "folder": "Wb6CKRNqRjBQl5Uy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!QzwkJ8llAA9WHg4m"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Извержение",
+  "type": "spell",
+  "img": "icons/magic/fire/projectile-fireball-orange-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.37fWTPJY6jgJx8hM"
+    },
+    "cf": {
+      "id": "temp_rfqt1jg26l"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "28",
+    "staminaIsVar": false,
+    "effect": "Небольшое извержение лавы происходит в любой точке по вашему выбору в пределах дистанция. Если на месте извержения находится существо, оно получает 5d6 урона от магического огня по всему телу и загорается. После извержения лава падает и покрывает площадь 6х6 м с центром в точке извержения. Каждое существо в этой области получает 2d6 урона от магического огня по всему телу и имеет 50% шанс загореться. Через 10 раундов лава затвердевает. Любое существо, наступившее на нее до того, как она затвердеет, получает 2d6 урона от огня по ногам и имеет 25% шанс загореться.",
+    "range": "20м",
+    "duration": "мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "6х6",
+    "templateType": "circle",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение"
+      },
+      {
+        "id": "_kpcg26djq",
+        "name": "2d6 урона будучи в области, 50% шанс загореться",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496638991,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vsHmYsbD4J2F9dUh",
+  "folder": "cWM5V9rg32KY6LB7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vsHmYsbD4J2F9dUh"
+}

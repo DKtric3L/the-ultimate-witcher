@@ -1,0 +1,16 @@
+{
+  "text": "Когтезуб",
+  "type": 2,
+  "img": "icons/sundries/documents/document-letter-formal-tan.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "0m5WEmctCJj61L1R",
+  "documentId": "N4erCGivcvATcfUE",
+  "flags": {},
+  "_key": "!tables.results!pfvQJ4Ab5bIZaYOH.0m5WEmctCJj61L1R"
+}

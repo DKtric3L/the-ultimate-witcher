@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Мутант",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Mutant_Grafit_Studio.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "OEt2KJDhoZ84ODfm",
+  "_id": "T8A4L0hgB2mmLVk4",
+  "flags": {},
+  "_key": "!tables.results!GK4w5bIU4KsaLOFX.T8A4L0hgB2mmLVk4"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Аксий",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/signs/aksii.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.y7RjeXTiF3KCTEtD"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Аксий дезориентирует цель, пока та не совершит успешное испытание Устойчивости со штрафом -1. За каждые 2 дополнительно потраченных очка Вын (свыше 1) испытание Устойчивости становится сложнее на 1.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_y4rp9av58",
+        "derivedStat": "WITCHER.Actor.CoreStat.Stun",
+        "modifier": "-1"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883181,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tQjHcCanXeFRkYP2",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tQjHcCanXeFRkYP2"
+}

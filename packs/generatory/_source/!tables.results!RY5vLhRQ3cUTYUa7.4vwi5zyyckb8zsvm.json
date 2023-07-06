@@ -1,0 +1,16 @@
+{
+  "text": "Отрезанный язык",
+  "type": 2,
+  "img": "icons/commodities/biological/tongue-red.webp",
+  "weight": 1,
+  "range": [
+    19,
+    19
+  ],
+  "drawn": false,
+  "_id": "4vwi5zyyckb8zsvm",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "ZOZwW2Jm2OfeOa6R",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.4vwi5zyyckb8zsvm"
+}

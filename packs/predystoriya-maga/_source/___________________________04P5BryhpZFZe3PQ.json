@@ -1,0 +1,52 @@
+{
+  "name": "Жизнь в академии - Аретуза",
+  "img": "icons/environment/settlement/castle.webp",
+  "description": "Аретуза:",
+  "results": [
+    "XuZ6hadcSzQ0CeB8",
+    "BIZkyFsSSjZYHAPH",
+    "vMPt12mPWAYcNiEf",
+    "imnfoG2NAOil0tZe",
+    "ho07lF2z3FxWoe9w",
+    "wG6ksKtHAbBtbvqq",
+    "C0el5mhfsy6yaVwm",
+    "lwEb3sdHC6rvHaeK",
+    "UQCMOHd4WWPPyo32",
+    "YO4gBbVH60icQH1F",
+    "KorNwDb0lo00ODF3",
+    "IMhBXXZmwNY62zQt",
+    "UakYmcYZ0f950d9C",
+    "rY1d4fAauwZOmHpc",
+    "eCj4hHw3VCj9ZNdy",
+    "8JwjhjVaIbHB0n99",
+    "vik41NB3N55DvwVz",
+    "cBrHERi6OGzcBQx7",
+    "1XUyaLFv4eyv97gq",
+    "wls5XCNLjyDLQLfX",
+    "rLeQc1ATJG0ZKhqa"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.VUIaaZ8lBPNZF7oc"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668163139085,
+    "modifiedTime": 1668163203650,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_id": "04P5BryhpZFZe3PQ",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!04P5BryhpZFZe3PQ"
+}

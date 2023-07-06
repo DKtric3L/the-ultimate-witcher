@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Цеметавр",
+  "img": "modules/the-ultimate-witcher/assets/monsters/cemetavr.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "RaEhmZbi8A6jignV",
+  "_id": "GEw2QQDdf5lQYMFl",
+  "flags": {},
+  "_key": "!tables.results!gI0IWCCh4ujCY0ac.GEw2QQDdf5lQYMFl"
+}

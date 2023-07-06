@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Ремесленные материалы",
+  "img": "icons/commodities/materials/bowl-powder-yellow.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "UsMLn6LlS08K6zwk",
+  "_id": "KvIM6vcuc3dkoLIJ",
+  "flags": {},
+  "_key": "!tables.results!Aylgxm2XemLxSSOc.KvIM6vcuc3dkoLIJ"
+}

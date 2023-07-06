@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    30,
+    30
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "g700r7ypcFOcPJeM",
+  "text": "Использование благ местности(Бросок песка, пыли, использование ловушек, и пр.)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!TSiizjCPrhyprZeQ.g700r7ypcFOcPJeM"
+}

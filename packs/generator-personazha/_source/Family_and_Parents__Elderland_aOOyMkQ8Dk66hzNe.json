@@ -1,0 +1,41 @@
+{
+  "name": "Family and Parents: Elderland",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "FyjZwFRJUzcqDrwW",
+    "VySuFOPm5I8jY8r9",
+    "g4JnOCAOpDRIw8tQ",
+    "rx40q7d9iV7PIvy0",
+    "hNdtp3IHu6NaWkJo"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.xGKpYv3tSn01WYn8"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917368,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "aOOyMkQ8Dk66hzNe",
+  "_key": "!tables!aOOyMkQ8Dk66hzNe"
+}

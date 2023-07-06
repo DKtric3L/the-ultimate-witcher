@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Брезент",
+  "img": "icons/commodities/cloth/cloth-patterned-teal.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "sCoMUVQMtMtsepdK",
+  "_id": "PGwUpMBUsLFST4og",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.PGwUpMBUsLFST4og"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Призыв элементаля",
+  "type": "spell",
+  "img": "icons/creatures/magical/construct-golem-stone-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OrSnfwQopYA2snw7"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Наполняет камень стихий силой выбранной стихии, в процессе создавая элементаль Земли, Льда или Огня, в зависимости от вы- бранного заклинателем предмета. Полученный элементаль во всем подчиняется воле заклинателя, но не может думать и выполнять точные действия, требующие использования пальцев или поднятия не- больших предметов. Элементаль исполняет последний отданный ему приказ. При провале он будет повторять попытки до тех пор, пока не достигнет успеха или пока ему не прикажут остановиться. Если приказ бессрочный («носи воду»), элементаль будет выполнять его до тех пор, пока ему не прикажут остановиться или пока он не умрет.",
+    "range": "",
+    "duration": "постоянный",
+    "defence": "",
+    "components": "Мелок (x2), Совершенный самоцвет (x1), Укрепленное дерево (x10), Камень (x10), Дымная пыль (x5), Пятая эссенция (x2), Камень стихий (x1), Метеорит для элементаля Земли (x5), Огненная эссенция для элементаля Огня (x5), Водная эссенция для элементаля Льда (x5)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "20",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SYyNtqy51rpvWAWm",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SYyNtqy51rpvWAWm"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Грибы - шибальцы",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/sewant_64x64.png.6687.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ziaiccs2az",
+      "color": "#af76b7"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 17,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Пещеры",
+    "quantityObtainable": "1d6",
+    "forage": "15",
+    "substanceType": "vitriol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1685496583932,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "GH0OYt5DlJwKEJGL",
+  "folder": "iAQw57FKsEj08T4b",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!GH0OYt5DlJwKEJGL"
+}

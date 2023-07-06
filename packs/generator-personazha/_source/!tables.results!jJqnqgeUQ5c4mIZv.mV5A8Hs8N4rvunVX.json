@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "mV5A8Hs8N4rvunVX",
+  "text": "Очень худое, истощённое тело.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!jJqnqgeUQ5c4mIZv.mV5A8Hs8N4rvunVX"
+}

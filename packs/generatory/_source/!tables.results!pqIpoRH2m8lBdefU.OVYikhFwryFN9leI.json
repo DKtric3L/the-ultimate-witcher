@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Амулет с самоцветом",
+  "img": "icons/equipment/neck/necklace-faceted-gold-green.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "a9Ph00V1ID1AAQU9",
+  "_id": "OVYikhFwryFN9leI",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.OVYikhFwryFN9leI"
+}

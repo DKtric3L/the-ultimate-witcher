@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Danger - Enemies: How Did They Die?",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    30
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "baJHK3FQGSSwMWSo",
+  "_key": "!tables.results!tnwYpfMGVnD8BKWS.kQX7ZeIIWKy5yTPF"
+}

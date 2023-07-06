@@ -1,0 +1,26 @@
+{
+  "_id": "36LKxq6NyOP48rb1",
+  "name": "Полуденный танец",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Полуденница может создать 3 танцующие копии себя как минимум в 5 метрах от цели. Эти копии не нападают, но для защиты используют те же параметры, что и полуденница. Каждая оставшаяся копия каждый раунд вытягивает у ближайшей цели 3 ПЗ, которые исцеляют полуденницу. Попадание по копии уничтожает её"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TsyopxebmCzKSeqj.36LKxq6NyOP48rb1"
+}

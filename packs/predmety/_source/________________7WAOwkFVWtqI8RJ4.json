@@ -1,0 +1,40 @@
+{
+  "name": "Усилитель звука",
+  "type": "valuable",
+  "img": "icons/commodities/bones/horn-curved-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zf5u6w9lv4"
+    }
+  },
+  "system": {
+    "description": "Небольшой металлический рожок, который можно приложить к поверхности, такой как стена или дверь, чтобы усилить любой звук, исходящий с другой стороны. Когда пользователь прикладывает ухо к Усилителю звука, он может слышать любые звуки, исходящие с другой стороны поверхности средней толщины, как если бы он находился на другой стороне поверхности.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868993,
+    "modifiedTime": 1685496603881,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7WAOwkFVWtqI8RJ4",
+  "folder": "q1ZDZnYV2jrmlqwx",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7WAOwkFVWtqI8RJ4"
+}

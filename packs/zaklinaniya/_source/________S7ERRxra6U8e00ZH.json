@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Новичок",
+  "sorting": "m",
+  "type": "Item",
+  "folder": "kcscNm2Q6htfoqB3",
+  "_id": "S7ERRxra6U8e00ZH",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!S7ERRxra6U8e00ZH"
+}

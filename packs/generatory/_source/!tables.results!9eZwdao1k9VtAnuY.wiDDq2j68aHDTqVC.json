@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "wiDDq2j68aHDTqVC",
+  "text": "Монстра нужно поймать живым и привести заказчику.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.wiDDq2j68aHDTqVC"
+}

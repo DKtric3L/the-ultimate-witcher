@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Скрытый",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Skritii_Diego_de_Almeida_Peres.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "Nt58X2Wk7Oveh4My",
+  "_id": "7AdiU03TPOwANtmw",
+  "flags": {},
+  "_key": "!tables.results!4iNJUoQumJ4PqAVp.7AdiU03TPOwANtmw"
+}

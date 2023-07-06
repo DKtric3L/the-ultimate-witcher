@@ -1,0 +1,65 @@
+{
+  "name": "Божественное слово",
+  "type": "spell",
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_is3veqhvm7"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Вы выкрикиваете слово или небольшое предложение, связанное с выбранным вами богом. Каждое существо, по вашему выбору в пределах дистанции, получает 1d6 психического урона, который не поглощается броней. Если существо обладает чувствительностью к звукам, оно получает 4d6 психического урона и любой другой эффект, который дает чувствительность. Для Божественного слова не существует языкового барьера, как для телепатии.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Психический урон цели"
+      },
+      {
+        "id": "_fm3uzo26m",
+        "name": "4d6 если уязвим к звукам",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892153,
+    "modifiedTime": 1685496639230,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "I3pJyeodp2FiOacX",
+  "folder": "AiaCKaRBEzYvKxYK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!I3pJyeodp2FiOacX"
+}

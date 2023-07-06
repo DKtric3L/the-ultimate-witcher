@@ -1,0 +1,26 @@
+{
+  "name": "Уязвимость - двимерит",
+  "type": "note",
+  "_id": "0bKLHGzfzJ4AYOwX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "При попадании двимеритом, живая броня разрушается и становится вялой. Они не могут использовать свою способность Переусердствование и получают -2 ко всем броскам, находясь в зоне действия бомбы."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680483734812,
+    "modifiedTime": 1680483760415,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!VbTqxwnvdGPEOxXG.0bKLHGzfzJ4AYOwX"
+}

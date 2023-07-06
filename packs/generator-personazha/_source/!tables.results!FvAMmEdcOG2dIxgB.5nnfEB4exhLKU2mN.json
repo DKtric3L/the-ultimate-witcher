@@ -1,0 +1,16 @@
+{
+  "_id": "5nnfEB4exhLKU2mN",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Аристократия. Вы выросли в богатом особняке, где вас неплохо научили выживать в мире придворных интриг - роскошь служила лишь стимулом к обучению. Начальное снаряжение - Дворянская грамота(+2 к репутации).",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!FvAMmEdcOG2dIxgB.5nnfEB4exhLKU2mN"
+}

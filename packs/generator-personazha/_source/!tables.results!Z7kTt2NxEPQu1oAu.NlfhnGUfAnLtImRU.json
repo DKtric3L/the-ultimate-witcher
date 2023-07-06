@@ -1,0 +1,16 @@
+{
+  "_id": "NlfhnGUfAnLtImRU",
+  "flags": {},
+  "type": 0,
+  "text": "Полуглухой(-1 к слуховому вниманию). Многие чудовища используют смертоносные звуковые атаки. Вам повезло пережить подобное нападение, но с тех пор вы плохо слышите.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Z7kTt2NxEPQu1oAu.NlfhnGUfAnLtImRU"
+}

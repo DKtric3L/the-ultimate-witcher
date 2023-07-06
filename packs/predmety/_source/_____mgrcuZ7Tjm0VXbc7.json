@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Вина",
+  "sorting": "m",
+  "type": "Item",
+  "folder": "Wl7XwqKi0AbU85lU",
+  "_id": "mgrcuZ7Tjm0VXbc7",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!mgrcuZ7Tjm0VXbc7"
+}

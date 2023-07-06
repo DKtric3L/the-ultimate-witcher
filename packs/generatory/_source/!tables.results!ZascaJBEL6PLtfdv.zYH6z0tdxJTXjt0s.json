@@ -1,0 +1,16 @@
+{
+  "text": "Коди Бивид",
+  "type": 2,
+  "img": "icons/magic/nature/plant-sprout-coconut-brown.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "zYH6z0tdxJTXjt0s",
+  "documentId": "rLBmsjb4uhQQPSWJ",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.zYH6z0tdxJTXjt0s"
+}

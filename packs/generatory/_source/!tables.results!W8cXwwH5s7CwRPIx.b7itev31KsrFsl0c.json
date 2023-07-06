@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    17,
+    17
+  ],
+  "drawn": false,
+  "text": "Молния",
+  "img": "icons/consumables/potions/bottle-corked-blue.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "5YolPiH5AluS4OIr",
+  "_id": "b7itev31KsrFsl0c",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.b7itev31KsrFsl0c"
+}

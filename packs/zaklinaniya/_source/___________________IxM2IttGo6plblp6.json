@@ -1,0 +1,60 @@
+{
+  "name": "Управление памятью",
+  "type": "spell",
+  "img": "icons/magic/control/energy-stream-link-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.fhkLaLjFjjt9COPm"
+    },
+    "cf": {
+      "id": "temp_us19yfvyiqk"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Управление памятью позволяет заклинателю скрыть или внедрить воспоминание в сознание цели. Ритуал очищения устраняет действие этого заклинания",
+    "range": "6м",
+    "duration": "Пока не рассеяно ритуалом очищения",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496638732,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IxM2IttGo6plblp6",
+  "folder": "4Mo6Z1BVdYem2KKc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IxM2IttGo6plblp6"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "gKdeWrIHn4YYLmxV",
+  "type": 2,
+  "text": "Случайный Ритуал",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "QQRrBSpygMunqWe0",
+  "_key": "!tables.results!jAFqojKwTbbcNIUx.gKdeWrIHn4YYLmxV"
+}

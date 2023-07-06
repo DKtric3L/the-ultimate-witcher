@@ -1,0 +1,60 @@
+{
+  "name": "Жужжащее проклятие",
+  "type": "spell",
+  "img": "icons/creatures/invertebrates/spider-skull-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_zddgrx43hr"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "За жертвой повсюду следуют насекомые, пауки и другие членистоногие, куда бы она ни пошла. Это дает ей штраф -2 к Скрытности и всем социальным проверкам. Это проклятие также привлекает к жертве чудовищ инсектоидного класса.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "High",
+    "liftRequirement": "Жертва должна собрать 10 различных видов насекомых в отдельные горшки. Затем жуков необходимо умертвить не повредив, и аккуратно поместить в энтомологический короб. Это должно быть сделано осторожно, чтобы не повредить насекомых, и может занять даже несколько дней. Когда короб готов и запечатан, проклятие снимается.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496639550,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Dpet4oc4jonLYbvg",
+  "folder": "lW53bm1IAmX8PNXP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Dpet4oc4jonLYbvg"
+}

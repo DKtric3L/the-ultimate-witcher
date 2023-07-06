@@ -1,0 +1,171 @@
+{
+  "name": "Отравленный коготь гарпии",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.DEZAFV2mKAiOPaNP"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.formuly-i-recepty.CXZS5ppm1ClTnd7g]{Отравленный коготь гарпии}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 675,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "5ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Темная сталь"
+      },
+      {
+        "id": "_l5w4r0q0e",
+        "name": "Чернящее масло",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_zqf23ctk4",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_xjs37gnql",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_4abiqf34m",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_0sllspaxf",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_fjkq1ewlj",
+        "name": "Экстракт яда",
+        "percentage": "",
+        "quantity": "3"
+      }
+    ],
+    "investment": 337,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Отравленный коготь гарпии",
+      "type": "weapon",
+      "img": "icons/weapons/thrown/dart-feathered.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 450,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 1,
+        "avail": "Everywhere",
+        "damage": "1d6",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "Тел*4м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Отравленное",
+            "percentage": "90"
+          },
+          {
+            "id": "_az0iv3ba0",
+            "name": "Сбалансированное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "T",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Athletics",
+        "rollOnlyDmg": false,
+        "isThrowable": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_5fd8qju81pt"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863941,
+        "modifiedTime": 1672542501657,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848425,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "CXZS5ppm1ClTnd7g",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!CXZS5ppm1ClTnd7g"
+}

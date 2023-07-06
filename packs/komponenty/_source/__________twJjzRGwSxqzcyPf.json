@@ -1,0 +1,42 @@
+{
+  "name": "Древесина",
+  "type": "component",
+  "img": "icons/commodities/wood/lumber-stack-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0cj8i72dlee",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 3,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "crafting-material",
+    "rarity": "Everywhere",
+    "location": "Леса",
+    "quantityObtainable": "2d6",
+    "forage": "8",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1685496584059,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "twJjzRGwSxqzcyPf",
+  "folder": "NvmlG8RLYf1RMTuR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!twJjzRGwSxqzcyPf"
+}

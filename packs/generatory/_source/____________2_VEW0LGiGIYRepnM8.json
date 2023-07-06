@@ -1,0 +1,44 @@
+{
+  "name": "Особенности 2",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "PBYauU4hV9q7Y4yv",
+    "lFJRY4QfNUZNgW22",
+    "12haAIJVpV2xBzjS",
+    "cuZ7XmF9UpAZjhIZ",
+    "D8Eb50479cpszbDZ",
+    "HC08OotrFrLW6U6H",
+    "RLn2TENJ3Ca83nNE",
+    "Ne8LnRuKuohbxBJS",
+    "3vu1ldJcT4F8etff",
+    "lk7FBvgQ5aCjL8Lx"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_lweiuy9o7ir"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644548,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "7CLIzku4T5AvrotT",
+  "sort": 0,
+  "_id": "VEW0LGiGIYRepnM8",
+  "_key": "!tables!VEW0LGiGIYRepnM8"
+}

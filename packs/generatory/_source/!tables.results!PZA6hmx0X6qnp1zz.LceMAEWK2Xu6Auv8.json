@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Формула: Слёзы тальгара",
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "VrOg8zB2rTQH8Vr3",
+  "_id": "LceMAEWK2Xu6Auv8",
+  "flags": {},
+  "_key": "!tables.results!PZA6hmx0X6qnp1zz.LceMAEWK2Xu6Auv8"
+}

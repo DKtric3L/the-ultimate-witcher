@@ -1,0 +1,16 @@
+{
+  "text": "Благословение богатства",
+  "type": 2,
+  "img": "icons/commodities/currency/coin-embossed-ruby-gold.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "hdh1krwf20ufnb2o",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "g0LnWWKBQBUKMJLn",
+  "_key": "!tables.results!BQnwhYLDPhlZmp69.hdh1krwf20ufnb2o"
+}

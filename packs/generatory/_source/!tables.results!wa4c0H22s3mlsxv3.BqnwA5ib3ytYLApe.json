@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Бандольера",
+  "img": "icons/commodities/leather/leather-buckle-steel-tan.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "yVulXHk5Dvqxwf5o",
+  "_id": "BqnwA5ib3ytYLApe",
+  "flags": {},
+  "_key": "!tables.results!wa4c0H22s3mlsxv3.BqnwA5ib3ytYLApe"
+}

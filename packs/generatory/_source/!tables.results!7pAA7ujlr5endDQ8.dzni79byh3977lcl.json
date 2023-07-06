@@ -1,0 +1,16 @@
+{
+  "text": "Создание хрустального черепа",
+  "type": 2,
+  "img": "icons/commodities/treasure/token-white-skull.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "_id": "dzni79byh3977lcl",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "It3YUCdeeGi2c3wh",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.dzni79byh3977lcl"
+}

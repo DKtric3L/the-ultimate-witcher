@@ -1,0 +1,16 @@
+{
+  "text": "Гололёд",
+  "type": 2,
+  "img": "icons/magic/water/barrier-ice-wall-snow.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "ulIwi8BlbDLQUxYu",
+  "documentId": "bvY3F1Nu9ETQoOzd",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.ulIwi8BlbDLQUxYu"
+}

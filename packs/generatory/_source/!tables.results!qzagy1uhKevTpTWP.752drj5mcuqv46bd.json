@@ -1,0 +1,16 @@
+{
+  "text": "Плащ с карманами",
+  "type": 2,
+  "img": "icons/equipment/back/cloak-hooded-green-gold.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "752drj5mcuqv46bd",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "va8YF2ZRkF544aeA",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.752drj5mcuqv46bd"
+}

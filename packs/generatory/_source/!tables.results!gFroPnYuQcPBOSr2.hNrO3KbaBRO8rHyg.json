@@ -1,0 +1,16 @@
+{
+  "text": "Темное зеркало Беккера",
+  "type": 2,
+  "img": "icons/magic/control/energy-stream-link-spiral-teal.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "hNrO3KbaBRO8rHyg",
+  "documentId": "YWKlAwhM4ItGwXEv",
+  "flags": {},
+  "_key": "!tables.results!gFroPnYuQcPBOSr2.hNrO3KbaBRO8rHyg"
+}

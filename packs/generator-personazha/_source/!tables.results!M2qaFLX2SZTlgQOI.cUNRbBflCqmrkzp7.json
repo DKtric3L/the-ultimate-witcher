@@ -1,0 +1,16 @@
+{
+  "_id": "cUNRbBflCqmrkzp7",
+  "flags": {},
+  "type": 2,
+  "text": "Allies: Generator",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "kE2xg2nNmg3tiylb",
+  "_key": "!tables.results!M2qaFLX2SZTlgQOI.cUNRbBflCqmrkzp7"
+}

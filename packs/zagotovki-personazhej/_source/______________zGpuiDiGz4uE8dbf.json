@@ -1,0 +1,44 @@
+{
+  "name": "Отвар виверны",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/cotolak_potion.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 69,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "avail": "Rare",
+    "effect": "После успешного попадания вы получаете +1 урон к своему следующему удару. Бонусы суммируются и увеличиваются при каждом попадании, действуя до окончания боя или пока вам не нанесут урон.",
+    "time": "30 минут",
+    "toxicity": "75%"
+  },
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_adni0hxf6rb"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.M6tU2zCGD2YY5YjR"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887308,
+    "modifiedTime": 1671035439233,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "zGpuiDiGz4uE8dbf",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!KGltdXgAyNR4yViS.zGpuiDiGz4uE8dbf"
+}

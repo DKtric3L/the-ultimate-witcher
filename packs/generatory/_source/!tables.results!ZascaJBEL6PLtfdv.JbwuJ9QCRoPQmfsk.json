@@ -1,0 +1,16 @@
+{
+  "text": "Обострение чувств",
+  "type": 2,
+  "img": "icons/magic/perception/eye-ringed-glow-angry-large-red.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "JbwuJ9QCRoPQmfsk",
+  "documentId": "0QcJvPcy5PM0cHsC",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.JbwuJ9QCRoPQmfsk"
+}

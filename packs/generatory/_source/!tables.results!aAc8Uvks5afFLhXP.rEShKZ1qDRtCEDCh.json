@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Боеприпасы - обычные - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "NreQJ2AseIdpbtJT",
+  "_id": "rEShKZ1qDRtCEDCh",
+  "flags": {},
+  "_key": "!tables.results!aAc8Uvks5afFLhXP.rEShKZ1qDRtCEDCh"
+}

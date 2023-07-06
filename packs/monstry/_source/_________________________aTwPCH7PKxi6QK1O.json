@@ -1,0 +1,26 @@
+{
+  "_id": "aTwPCH7PKxi6QK1O",
+  "name": "Превосходная невидимость",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "В качестве действия скрытый может стать невидимым. Это дает +10 к Скрытности и +5 к атаке и защите. Даже если вы успешно прошли проверку Внимания, чтобы заметить скрытого, он получает бонус +3 к атаке и защите. Знак Ирден или бомба «Лунная пыль» делает скрытого частично видимым, снижая его бонус к Скрытности до +5 и бонус к атаке до +3. Если по скрытому нанесен удар, он лишается невидимости."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!Nt58X2Wk7Oveh4My.aTwPCH7PKxi6QK1O"
+}

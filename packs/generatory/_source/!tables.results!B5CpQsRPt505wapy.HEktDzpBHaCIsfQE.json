@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "HEktDzpBHaCIsfQE",
+  "text": "Причуды - Есть странное домашнее животное, такое как монстр или экзотическое животное.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!B5CpQsRPt505wapy.HEktDzpBHaCIsfQE"
+}

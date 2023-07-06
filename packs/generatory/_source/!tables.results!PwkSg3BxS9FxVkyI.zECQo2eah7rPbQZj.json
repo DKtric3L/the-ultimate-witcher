@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Пиромант",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Kudesnik_iz_Cintri_Alicja_Kapustka.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "18gHB3Adpvb9PMks",
+  "_id": "zECQo2eah7rPbQZj",
+  "flags": {},
+  "_key": "!tables.results!PwkSg3BxS9FxVkyI.zECQo2eah7rPbQZj"
+}

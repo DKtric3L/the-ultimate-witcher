@@ -1,0 +1,76 @@
+{
+  "name": "Затупленное копье",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-orb-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_upy3ob71tu"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3.5,
+    "cost": 500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Poor",
+    "damage": "2d6",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Несмертельное",
+        "percentage": ""
+      },
+      {
+        "id": "_ndo0n94yq",
+        "name": "Разбег",
+        "percentage": ""
+      },
+      {
+        "id": "_36jrftfnp",
+        "name": "Длинное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Staff/Spear",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863938,
+    "modifiedTime": 1685496598757,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "azYn2wOQcpPvbd5o",
+  "folder": "MDcHQ3f7IkYwcIqy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!azYn2wOQcpPvbd5o"
+}

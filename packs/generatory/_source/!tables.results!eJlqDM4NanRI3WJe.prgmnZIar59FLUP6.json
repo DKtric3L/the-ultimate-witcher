@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Совершенный Сапфир",
+  "img": "modules/the-ultimate-witcher/assets/gems/perfect_sapphire.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "5WcTB59EBHaOLxHZ",
+  "_id": "prgmnZIar59FLUP6",
+  "flags": {},
+  "_key": "!tables.results!eJlqDM4NanRI3WJe.prgmnZIar59FLUP6"
+}

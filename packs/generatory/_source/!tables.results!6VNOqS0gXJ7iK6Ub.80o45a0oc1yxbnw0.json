@@ -1,0 +1,16 @@
+{
+  "text": "Гнев природы",
+  "type": 2,
+  "img": "icons/magic/nature/plant-vines-skull-green.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "80o45a0oc1yxbnw0",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "bh1Kfu35OlDXaJWj",
+  "_key": "!tables.results!6VNOqS0gXJ7iK6Ub.80o45a0oc1yxbnw0"
+}

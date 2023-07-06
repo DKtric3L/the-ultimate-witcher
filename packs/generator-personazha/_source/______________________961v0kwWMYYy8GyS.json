@@ -1,0 +1,45 @@
+{
+  "name": "Мужчина - Одежда торс",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "YH0FLPKaQ326bP7L",
+    "QKmSnUeKVvRj9i6a",
+    "7GzsvNVe0QvgYNoB",
+    "Zn5iH3uOEzIW2pkL",
+    "gSqdWs2QPUUUxwrD",
+    "LuZy0XQXev8nmnXm",
+    "Wwib6yEz2sO4vHnu",
+    "KZT1o0T2AFzrm69z",
+    "u8OVWHbbXLcpmgye",
+    "eJivcLpyQO9LfE1C",
+    "z3N9VPPqQISU15Ma"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "961v0kwWMYYy8GyS",
+  "_key": "!tables!961v0kwWMYYy8GyS"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Замена Де Клаудинса",
+  "type": "spell",
+  "img": "icons/magic/movement/portal-vortex-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zpcw9i6ph2"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Популярная у алхимиков и полезная при поиске\nредких веществ в регионе, замена позволяет вам\nпостоянно менять Алхимическое вещество одной единицы\nалхимического ингредиента на другое Алхимическое\nвещество. Только одна единица любого такого\nпреобразованного Алхимического Вещества может быть\nиспользована в Алхимической Формуле, не разрушая смесь.",
+    "range": "2м",
+    "duration": "Постоянный",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496637955,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tSFNKnOfn88FE7QI",
+  "folder": "b6tCkgZmKMYSuvxl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tSFNKnOfn88FE7QI"
+}

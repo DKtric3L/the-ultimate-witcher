@@ -1,0 +1,46 @@
+{
+  "name": "Слюна альпа",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_vampire_64x64.png.6940.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.1,
+    "cost": 250,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Альп",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "hydragenum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_qvpxq7w0ybj",
+      "color": "#5c65e6"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.v35o1YdtaF53hN1R"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853705,
+    "modifiedTime": 1669888715319,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "10GqgBirIhJluXKq",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!OCFTKPm3wTOGWxot.10GqgBirIhJluXKq"
+}

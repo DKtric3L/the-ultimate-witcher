@@ -1,0 +1,128 @@
+{
+  "name": "Метка",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-formal-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.1erx7MgIYWrZl7L9"
+    },
+    "cf": {
+      "id": "temp_qcbrs1shnce"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.dUcydvEDj40FHDnQ]{Метка}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "traps",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 14,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Древесина"
+      },
+      {
+        "id": "_e0fdzpghk",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_kurxmmmxm",
+        "name": "Сера",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_evntwyy5d",
+        "name": "Лепестки гинации",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_isfmgfs8m",
+        "name": "Пепел",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 38,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Метка",
+      "type": "valuable",
+      "img": "modules/the-ultimate-witcher/assets/bombs/fire_mark.png",
+      "system": {
+        "description": "Радиус - 8 метров. Тип - Стихийная ловушка.\nПокрывает попавших в зону взрыва яркой краской с мощным запахом,который чувствуется за милю. Краска держится 1 полный день и даёт +5 к выслеживанию цели.\nЕсли вы доберётесь до достаточно крупного водоёма или реки, то можете смыть с себя краску из\nловушки-метки. На это потребуется 3 полных раунда — в результате бонус к выслеживанию снизится до +2. Запах нельзя смыть, но нанесение духов/одеколона или же валяние в грязи снизит бонус к выслеживанию до +2.",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 57,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "toolkit",
+        "avail": "Poor",
+        "effect": "",
+        "conceal": "S",
+        "quality": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_5rbvvy0nejs"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887308,
+        "modifiedTime": 1668182799532,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848421,
+    "modifiedTime": 1685496579796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1erx7MgIYWrZl7L9",
+  "folder": "vIuywOMpy1LOwsfX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1erx7MgIYWrZl7L9"
+}

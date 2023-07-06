@@ -1,0 +1,65 @@
+{
+  "name": "Кольцо льда",
+  "type": "spell",
+  "img": "icons/magic/water/orb-ice-web.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wWNmmteoI6ye3Xtt"
+    },
+    "cf": {
+      "id": "temp_julrnar8td"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Кольцо льда позволяет вам создать кольцо из острых кусков льда вокруг вас. Все находящиеся в пределах дистанции, должны совершить проверку Изменения позиции. При провале они получают 6d6 дробящего урона по туловищу и замораживаются. После этого кольцо льда рассеивается.",
+    "range": "радиус 2м",
+    "duration": "Мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "6d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дробящий урон"
+      },
+      {
+        "id": "_qq19sc0e2",
+        "name": "Замораживание",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496639018,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "phOzIw7ANeETTBsU",
+  "folder": "9PhFPu32x5yVnicQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!phOzIw7ANeETTBsU"
+}

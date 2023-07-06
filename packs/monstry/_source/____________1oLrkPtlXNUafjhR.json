@@ -1,0 +1,26 @@
+{
+  "_id": "1oLrkPtlXNUafjhR",
+  "name": "Ассортимент",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "У торговцев, помимо снаряжения, всегда есть товары, которые они продают. Прилавок или лавка выглядят по-разному в зависимости от положения торговца, но там всегда есть инструменты торговца, гроссбух и письменные при надлежности, а также товары на сумму не менее 3000 крон."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!uH6asBCZxU63JhGq.1oLrkPtlXNUafjhR"
+}

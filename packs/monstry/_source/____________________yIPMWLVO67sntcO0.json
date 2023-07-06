@@ -1,0 +1,26 @@
+{
+  "_id": "yIPMWLVO67sntcO0",
+  "name": "Магическое внушение",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "В качестве действия высший вампир может повлиять на разум любого, кто его слышит. Цель внушения должна пройти встречную проверку Сопротивления магии против атаки вампира с основой 20. При провале цель соглашается с высшим вампиром и думает так, как он ей велит. Эффект действует 10 минут или пока цель, потратив действие, не совершит успешную встречную проверку Сопротивления магии против изначального броска высшего вампира."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!tTfwvCdrxkKSAc86.yIPMWLVO67sntcO0"
+}

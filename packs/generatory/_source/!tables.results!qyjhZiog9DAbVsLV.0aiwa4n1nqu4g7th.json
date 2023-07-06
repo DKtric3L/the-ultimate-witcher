@@ -1,0 +1,16 @@
+{
+  "text": "Эсбода",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "0aiwa4n1nqu4g7th",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "i50hsIkFjtbzvEed",
+  "_key": "!tables.results!qyjhZiog9DAbVsLV.0aiwa4n1nqu4g7th"
+}

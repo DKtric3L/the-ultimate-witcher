@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "lyMklz6dZSngSUll",
+  "text": "Этот вампир рос, охотясь на других разумных существ, и редко пытался походить на окружающих, так что от него ощутимо веет опасностью. Ему трудно видеть в не-вампирах что-либо кроме добычи.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!V13T3gYVhMU5gOK0.lyMklz6dZSngSUll"
+}

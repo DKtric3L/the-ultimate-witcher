@@ -1,0 +1,60 @@
+{
+  "name": "Магическая защита",
+  "type": "spell",
+  "img": "icons/magic/defensive/shield-barrier-flaming-pentagon-teal.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.gk9d2JYgTRhtzoYI"
+    },
+    "cf": {
+      "id": "temp_us19yfvyiqk"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Магическая защита дает заклинателю дополнительные 5 ПБ к каждому участку тела на время действия заклинания.",
+    "range": "на себя",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892163,
+    "modifiedTime": 1685496638732,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "17isMIRYLlJGFotY",
+  "folder": "4Mo6Z1BVdYem2KKc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!17isMIRYLlJGFotY"
+}

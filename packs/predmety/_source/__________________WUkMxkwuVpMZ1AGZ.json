@@ -1,0 +1,46 @@
+{
+  "name": "Стальное усиление",
+  "type": "enhancement",
+  "img": "icons/equipment/shoulder/pauldron-segmented-steel-worn.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.WUkMxkwuVpMZ1AGZ"
+    },
+    "cf": {
+      "id": "temp_58lmmpxrkto"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3.5,
+    "cost": 145,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "applied": "",
+    "avail": "Poor",
+    "effects": [],
+    "stopping": 4,
+    "bludgeoning": false,
+    "slashing": true,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WUkMxkwuVpMZ1AGZ",
+  "folder": "tRUr0kPpmp01LWJ6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WUkMxkwuVpMZ1AGZ"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "ИС дракон - Сокровища",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "NlIHNjh0E1fet1Uo",
+    "XK62MKGFQDfm2VU5",
+    "82s9Mde0kpraB8wN",
+    "lEmntyiZWvaoWBWt",
+    "BPbPUdPwPpNxLV7K",
+    "mlfYKl9lZPr9TAVz",
+    "p53JCe1sfNWVNHr1",
+    "6GhtcplwXI9jzAkE",
+    "HcmkAwk9PCLjr863",
+    "vMmmlovAHEw7iQr9"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "AFmA1RAMOsPkWB4r",
+  "_key": "!tables!AFmA1RAMOsPkWB4r"
+}

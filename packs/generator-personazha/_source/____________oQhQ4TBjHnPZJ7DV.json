@@ -1,0 +1,46 @@
+{
+  "name": "Женщина нпс",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "OUlVwLFoFL0cACmI",
+    "sxIeQdvdkJSYyKaV",
+    "QXwQ1UpRAtIWSd3x",
+    "b82vJMeAwpNA5Mlc",
+    "frvbQHBs4tBNGPla",
+    "zyObpQmfDy3pXA7h",
+    "4p9Dem9BVDT0slt3",
+    "Lvq20RAU2YtIevkQ",
+    "lyQFoRUgpXNFr3av",
+    "dFGFp2Q7HeblizQ9",
+    "Yu3r56IeMuhEceXg",
+    "kkO0gZjGGgihKHUt"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "oQhQ4TBjHnPZJ7DV",
+  "_key": "!tables!oQhQ4TBjHnPZJ7DV"
+}

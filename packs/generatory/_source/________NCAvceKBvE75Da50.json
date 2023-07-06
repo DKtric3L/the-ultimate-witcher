@@ -1,0 +1,39 @@
+{
+  "name": "Солдаты",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "wq8LcVTWdQwCZJRC",
+    "0mdugFx78pFCMfyU",
+    "03aAqaibIyJoCJp8",
+    "9o5sbkCum9dIuDuO",
+    "1vSTwQI0DOLHdD11"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "NCAvceKBvE75Da50",
+  "_key": "!tables!NCAvceKBvE75Da50"
+}

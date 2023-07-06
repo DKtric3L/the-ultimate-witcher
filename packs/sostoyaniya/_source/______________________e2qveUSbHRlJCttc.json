@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Порча объятий",
+  "type": "effect",
+  "img": "icons/skills/social/diplomacy-handshake.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.N00AZHuJdq7ndXCp"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Жертва вынуждена обнимать всех, кого встретит, даже в самой неловкой, неудобной или неподходящей ситуации.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "e2qveUSbHRlJCttc",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!e2qveUSbHRlJCttc"
+}

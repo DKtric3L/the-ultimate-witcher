@@ -1,0 +1,56 @@
+{
+  "name": "Эффект: Фисштех",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/fischteh.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    }
+  },
+  "system": {
+    "description": "1d10 часов. Притупляет боль от ранений. Соверши проверку Стойкости со СЛ 18. При провале ты зависим от фисштеха.\nСкажу тебе честно - это лютая хрень. Но как же она расслабляет нервы...",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_4cv48mk5i",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "3"
+      }
+    ],
+    "derived": [
+      {
+        "id": "_va8k2fa9c",
+        "derivedStat": "WITCHER.Actor.CoreStat.Rec",
+        "modifier": "2"
+      },
+      {
+        "id": "_nsggfr8fb",
+        "derivedStat": "WITCHER.Actor.DerStat.HP",
+        "modifier": "5"
+      },
+      {
+        "id": "_cil5l2c7h",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "-5"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883187,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "C6c9eod6aJzrtz6U",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!C6c9eod6aJzrtz6U"
+}

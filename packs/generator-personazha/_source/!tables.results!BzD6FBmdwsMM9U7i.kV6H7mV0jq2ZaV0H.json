@@ -1,0 +1,16 @@
+{
+  "_id": "kV6H7mV0jq2ZaV0H",
+  "type": 0,
+  "text": "Твоя семья немедленно отправила тебя в Гвейсон Хайль. Совершите броски по доп. таблице, опираясь от своей школы.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BzD6FBmdwsMM9U7i.kV6H7mV0jq2ZaV0H"
+}

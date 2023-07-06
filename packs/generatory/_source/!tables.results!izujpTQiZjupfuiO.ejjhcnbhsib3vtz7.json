@@ -1,0 +1,16 @@
+{
+  "text": "Проклятие трезвости",
+  "type": 2,
+  "img": "icons/consumables/drinks/tea-jug-gourd-brown.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "ejjhcnbhsib3vtz7",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "lamyIypFj7v0pmOo",
+  "_key": "!tables.results!izujpTQiZjupfuiO.ejjhcnbhsib3vtz7"
+}

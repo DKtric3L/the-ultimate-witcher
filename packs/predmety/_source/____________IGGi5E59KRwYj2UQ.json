@@ -1,0 +1,44 @@
+{
+  "name": "Летняя мазь",
+  "type": "alchemical",
+  "img": "icons/tools/laboratory/bowl-mixing.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_d3zai9b3nmq",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.RVorVv82J5WxnLBS"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 22,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Common",
+    "effect": "Втерев в шею и запястья, удваивает количество часов, которые персонаж может провести в условиях экстремального холода, снижает штраф к Вын от экстремальной жары до четверти, вместо трети. И трети, вместо 1/2, если ты одет тепло.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868978,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IGGi5E59KRwYj2UQ",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IGGi5E59KRwYj2UQ"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "8xjxSL98xtBBuCOu",
+  "text": "Блокирование",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!gcl12vpGR6fJhh9L.8xjxSL98xtBBuCOu"
+}

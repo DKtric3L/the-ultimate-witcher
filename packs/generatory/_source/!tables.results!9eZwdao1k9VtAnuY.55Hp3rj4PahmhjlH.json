@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Необычный заказ - перечень монстров.",
+  "img": "icons/commodities/claws/claws-plain-white.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "8agTRt5Fn18mmyex",
+  "_id": "55Hp3rj4PahmhjlH",
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.55Hp3rj4PahmhjlH"
+}

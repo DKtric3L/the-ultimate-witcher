@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    40,
+    40
+  ],
+  "drawn": false,
+  "text": "Свечи(5х)",
+  "img": "icons/sundries/lights/candle-unlit-grey.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "n3QmBM28MVhJTZ6z",
+  "_id": "yJX2vCDTRo403XLM",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.yJX2vCDTRo403XLM"
+}

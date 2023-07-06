@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Разбойник с парным оружием",
+  "img": "modules/the-ultimate-witcher/assets/monsters/bandit_2.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "WY0nrO6v6qfvxdbB",
+  "_id": "wi0QIbiRX9cvQe3B",
+  "flags": {},
+  "_key": "!tables.results!SWeee5GD01wxOXAy.wi0QIbiRX9cvQe3B"
+}

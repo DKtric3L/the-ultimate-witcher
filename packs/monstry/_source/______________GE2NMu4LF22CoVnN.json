@@ -1,0 +1,75 @@
+{
+  "_id": "GE2NMu4LF22CoVnN",
+  "name": "Кольцо камней",
+  "type": "weapon",
+  "img": "icons/magic/earth/explosion-lava-stone-yellow-orange.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.VZfbDGzBaNhHQnHP"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "4d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "В качестве действия полного хода элементаль земли может подпрыгнуть, и когда он приземлится, вокруг вырастет кольцо острых камней. Все на дистанции ближнего боя от элементаля земли должны совершить проверку изменения позиции (СА 18) или попы таться блокировать камни щитом (СЛ та же). После этого камни уходят обратно в землю.",
+        "percentage": ""
+      },
+      {
+        "id": "_t7yhff4cn",
+        "name": "Кровотечение",
+        "percentage": ""
+      },
+      {
+        "id": "_nkjl1uymj",
+        "name": "Цель отлетает на 2 метра",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!DCPM1xtFpJXDAswL.GE2NMu4LF22CoVnN"
+}

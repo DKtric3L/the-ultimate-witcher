@@ -1,0 +1,16 @@
+{
+  "_id": "V4XCCxRer5DCmiFy",
+  "type": 0,
+  "text": "+7 урона по надежности.",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!C24pzvJ8fXlr4Q8I.V4XCCxRer5DCmiFy"
+}

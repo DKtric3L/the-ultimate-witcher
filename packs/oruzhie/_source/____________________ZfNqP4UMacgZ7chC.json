@@ -1,0 +1,79 @@
+{
+  "name": "Зерриканское солнце",
+  "type": "weapon",
+  "img": "icons/weapons/thrown/bomb-fuse-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ZfNqP4UMacgZ7chC"
+    },
+    "cf": {
+      "id": "temp_5fd8qju81pt"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 120,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Любое способное видеть существо, попавшее в радиус действия бомбы, ослепляется на 5 раундов.",
+        "percentage": ""
+      },
+      {
+        "id": "_eecy42bzm",
+        "name": "Любое существо с ночным видением, попавшее в радиус действия бомбы, ослепляет на 10 раундов и получает Ошеломление.",
+        "percentage": ""
+      },
+      {
+        "id": "_pagmvib1w",
+        "name": "Любое существо с Улучшенным ночным зрением ослепляется на 10 раундов, а также оглушается.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "S",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863938,
+    "modifiedTime": 1685496598744,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ZfNqP4UMacgZ7chC",
+  "folder": "0NR1thozchDVQIHT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ZfNqP4UMacgZ7chC"
+}

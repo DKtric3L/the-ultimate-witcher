@@ -1,0 +1,26 @@
+{
+  "_id": "C7Jr3unrbqTC4UxF",
+  "name": "Порча еды",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "В качестве действия вендиго может испортить не более 1 квадратного метра еды и питья, находящихся не более чем в 10 метрах от него. Любой, кто съест эту еду, должен совершить проверку Стойкости со СЛ 18. При провале жертву тошнит. Двимеритовые бомбы не дают использо вать эту способность."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!h36v8BTXKysKCWgP.C7Jr3unrbqTC4UxF"
+}

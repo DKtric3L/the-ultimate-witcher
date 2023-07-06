@@ -1,0 +1,60 @@
+{
+  "name": "Стальной баклер",
+  "type": "armor",
+  "img": "icons/equipment/shield/buckler-wooden-boss-brown.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 150,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 6,
+    "reliabilityMax": 6,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Light",
+    "avail": "Common",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_yulv4k2lkie"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663422711718,
+    "modifiedTime": 1663422711718,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "0BOBoEeSlF7bTx29",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!TbDY7PdVyaA6e4ar.0BOBoEeSlF7bTx29"
+}

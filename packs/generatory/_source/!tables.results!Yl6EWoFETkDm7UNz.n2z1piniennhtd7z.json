@@ -1,0 +1,16 @@
+{
+  "text": "Воды очищения",
+  "type": 2,
+  "img": "icons/magic/water/water-drop-swirl-blue.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "n2z1piniennhtd7z",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "znM3gKFe7mkHaAqN",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.n2z1piniennhtd7z"
+}

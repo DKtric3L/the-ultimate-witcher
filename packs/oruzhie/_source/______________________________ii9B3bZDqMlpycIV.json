@@ -1,0 +1,84 @@
+{
+  "name": "Эльфский взвинчивающийся болт",
+  "type": "weapon",
+  "img": "icons/weapons/ammunition/arrow-broadhead-bent-teal.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.ruo3lfICxDqIiIvu"
+    },
+    "cf": {
+      "id": "temp_wqarogwgy4k"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "100"
+      },
+      {
+        "id": "_xq5wajo3x",
+        "name": "Для извлечения наконечника и остановки",
+        "percentage": ""
+      },
+      {
+        "id": "_ln2d6iz2e",
+        "name": "кровотечения нужно совершить проверку",
+        "percentage": ""
+      },
+      {
+        "id": "_paj7i9llc",
+        "name": "Первой помощи, СЛ 16.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863945,
+    "modifiedTime": 1685496598706,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ii9B3bZDqMlpycIV",
+  "folder": "Af4Fdawq6CeqRn8S",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ii9B3bZDqMlpycIV"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Шкура тролля",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/hide_troll.dds_.6922.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 4.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Горные тролли",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.NLIPozLkYYeApAI7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853708,
+    "modifiedTime": 1669964628364,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "scNbeZ7KAlR4x5SC",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!bAEOLxHJhoAM8XVN.scNbeZ7KAlR4x5SC"
+}

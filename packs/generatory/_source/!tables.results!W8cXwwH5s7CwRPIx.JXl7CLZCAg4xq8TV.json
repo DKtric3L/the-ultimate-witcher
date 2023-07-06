@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "text": "Летняя мазь",
+  "img": "icons/tools/laboratory/bowl-mixing.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "IGGi5E59KRwYj2UQ",
+  "_id": "JXl7CLZCAg4xq8TV",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.JXl7CLZCAg4xq8TV"
+}

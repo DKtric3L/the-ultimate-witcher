@@ -1,0 +1,64 @@
+{
+  "_id": "pr5FXu1QZ5JNwBFq",
+  "name": "Хиндарсфьяльские тяжелые шоссы",
+  "type": "armor",
+  "img": "icons/equipment/leg/pants-tasset-leather-steel-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi.NiHFvkdd7f6vHUDe"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 5,
+    "cost": 650,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 25,
+    "leftLegMaxStopping": 25,
+    "rightLegStopping": 25,
+    "rightLegMaxStopping": 25,
+    "type": "Heavy",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [
+      {},
+      {},
+      {}
+    ],
+    "effects": [],
+    "encumb": 1,
+    "location": "Leg",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!yigzKdWovMwab1fX.pr5FXu1QZ5JNwBFq"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Плащ с карманами",
+  "type": "valuable",
+  "img": "icons/equipment/back/cloak-hooded-green-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_as8hg69v7id",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.AmnPbVJdqU6WCFHe"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2.5,
+    "cost": 60,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "clothing",
+    "avail": "Poor",
+    "effect": "Contains 6 secret pockets placed throughout the cloak.",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603772,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "va8YF2ZRkF544aeA",
+  "folder": "rISbW24lZ5ywMFGM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!va8YF2ZRkF544aeA"
+}

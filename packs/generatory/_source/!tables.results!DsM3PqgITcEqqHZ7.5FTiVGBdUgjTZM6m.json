@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Дриада",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Morenn_Bryan_Sola.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "mzLvpWjcjx1a20dS",
+  "_id": "5FTiVGBdUgjTZM6m",
+  "flags": {},
+  "_key": "!tables.results!DsM3PqgITcEqqHZ7.5FTiVGBdUgjTZM6m"
+}

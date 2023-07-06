@@ -1,0 +1,43 @@
+{
+  "name": "Боеприпасы - обычные - Новичок",
+  "description": "A random table created from the contents of the Новичок Folder.",
+  "results": [
+    "FzhOms9i8RBRZ0fT",
+    "ZS581Kv876c7NYy9",
+    "SNtU4bbSornNlvkT",
+    "7HvR4zjYfYNfoioI",
+    "NF4zfCz5myteyiiI"
+  ],
+  "formula": "1d5",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b8a983d0412d6bcd88a648dd3b0964bc99acbf6e",
+      "sourceId": "RollTable.cuII1abclJXFGpxY"
+    },
+    "core": {
+      "sourceId": "RollTable.cuII1abclJXFGpxY"
+    },
+    "cf": {
+      "id": "temp_cdl3vwuxc69"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672829120873,
+    "modifiedTime": 1685496644432,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "0AbuyKzqZg8gmn41",
+  "sort": 0,
+  "_id": "GEoWOk0rs1JiUSAB",
+  "_key": "!tables!GEoWOk0rs1JiUSAB"
+}

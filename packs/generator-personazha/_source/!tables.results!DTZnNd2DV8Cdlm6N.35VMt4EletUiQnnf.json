@@ -1,0 +1,16 @@
+{
+  "_id": "35VMt4EletUiQnnf",
+  "type": 0,
+  "text": "Твоя семья пыталась игнорировать твой дар.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!DTZnNd2DV8Cdlm6N.35VMt4EletUiQnnf"
+}

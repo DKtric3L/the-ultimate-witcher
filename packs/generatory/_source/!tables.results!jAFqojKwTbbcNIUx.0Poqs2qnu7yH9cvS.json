@@ -1,0 +1,16 @@
+{
+  "_id": "0Poqs2qnu7yH9cvS",
+  "type": 2,
+  "text": "Случайная Инвокация друида",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "rmvosulV4aDuq0Ni",
+  "_key": "!tables.results!jAFqojKwTbbcNIUx.0Poqs2qnu7yH9cvS"
+}

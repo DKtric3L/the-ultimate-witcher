@@ -1,0 +1,42 @@
+{
+  "name": "Кровь дагона",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/blood_nekker_64x64.png.6864.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 10000,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Дагон",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.world.komponenty.FvJXWT2vbxoXGIvd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853701,
+    "modifiedTime": 1669964483772,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "L7GCzbBFSeT5Dl6X",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!2GRLJVzFLq294ovd.L7GCzbBFSeT5Dl6X"
+}

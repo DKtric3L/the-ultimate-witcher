@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Лось",
+  "img": "modules/the-ultimate-witcher/assets/monsters/deer_2.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "QTqB8zGOqj7jdJHu",
+  "_id": "GTHN1BBXicZtxDth",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.GTHN1BBXicZtxDth"
+}

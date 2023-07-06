@@ -1,0 +1,45 @@
+{
+  "name": "Опасность - экспе",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "kV5DvYglBgPDYqy4",
+    "H1VsTX9oMaqkTlbw",
+    "zRhLKNWp2b9D5Mki",
+    "jeyBQNjbKPhixtsv",
+    "vDpeglIaDxZfuiZd",
+    "0JP1du0FyYx38y7A",
+    "lEj4wcsT0yiCLEAx",
+    "l5SfmfHRYJSBMI4d",
+    "xRSmgkjngPIw247A",
+    "J6vTTi0huM1GkcLM"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.KiaQZRr4QLgGDQzW"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901102,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "4dpnBG7SV5On0Q30",
+  "_key": "!tables!4dpnBG7SV5On0Q30"
+}

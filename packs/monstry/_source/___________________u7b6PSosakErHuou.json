@@ -1,0 +1,75 @@
+{
+  "_id": "u7b6PSosakErHuou",
+  "name": "Арбалет школы кота",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-heavy-black.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.tTt1f6OWXMOF7JnT"
+    },
+    "cf": {
+      "id": "temp_jncnssgiate"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 1,
+    "avail": "Everywhere",
+    "damage": "2d6+2",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "50м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Медленная перезарядка",
+        "percentage": ""
+      },
+      {
+        "id": "_hpir8721x",
+        "name": "Сбалансированное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Crossbow",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!5LLHqstrIQe4XKBE.u7b6PSosakErHuou"
+}

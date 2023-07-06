@@ -1,0 +1,42 @@
+{
+  "name": "Усики Археспоры",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/arhespore.webp",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.5,
+    "cost": 44,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Археспоры",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.z1wsJOVzn7qmZLTc"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853706,
+    "modifiedTime": 1669964826822,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "iwzCFNd2Bppwn8ow",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!13Rvoq4ea3GV51vn.iwzCFNd2Bppwn8ow"
+}

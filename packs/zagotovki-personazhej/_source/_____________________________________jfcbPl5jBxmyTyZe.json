@@ -1,0 +1,49 @@
+{
+  "name": "Жрецом может быть человек, либо эльф",
+  "type": "race",
+  "_id": "jfcbPl5jBxmyTyZe",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "",
+      "description": ""
+    },
+    "perk2": {
+      "name": "",
+      "description": ""
+    },
+    "perk3": {
+      "name": "",
+      "description": ""
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "",
+      "nilfgaard": "",
+      "skellige": "",
+      "dolBlathanna": "",
+      "mahakam": ""
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663423090353,
+    "modifiedTime": 1663423101558,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!QCJUoRqklmUYaicw.jfcbPl5jBxmyTyZe"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "p97NI5rXugYqLgs8",
+  "name": "Чувства",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Нет штрафов от плохого освещения, видит невидимых существ и чувствует магию в радиусе 20м, внимание и выживание получают 7 инт."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!bTblXyf2CicWhGLj.p97NI5rXugYqLgs8"
+}

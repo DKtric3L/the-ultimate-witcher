@@ -1,0 +1,154 @@
+{
+  "name": "Реданские поножи",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.AFNs54f7HFQEQLpw"
+    },
+    "cf": {
+      "id": "temp_ixu4y0oihop"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.nUFi0tgfD8nZC7ke]{реданские поножи}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 600,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Укрепленная кожа"
+      },
+      {
+        "id": "_6g8h0rtdz",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_yilnf7wfw",
+        "name": "Третогорская сталь",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_a6ikuyosq",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_8f8rrjseo",
+        "name": "Дубильные травы",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_k2u6lad36",
+        "name": "Хлопок",
+        "percentage": "",
+        "quantity": "3"
+      }
+    ],
+    "investment": 295,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Реданские поножи",
+      "type": "armor",
+      "img": "icons/equipment/leg/pants-tasset-leather-red.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 4,
+        "cost": 400,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 14,
+        "leftLegMaxStopping": 14,
+        "rightLegStopping": 14,
+        "rightLegMaxStopping": 14,
+        "type": "Medium",
+        "avail": "Poor",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Leg",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_4zb4x6lgt3c"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162837868,
+        "modifiedTime": 1672568425402,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848426,
+    "modifiedTime": 1685496579461,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AFNs54f7HFQEQLpw",
+  "folder": "xCYuH6Lu3RuqOi5r",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AFNs54f7HFQEQLpw"
+}

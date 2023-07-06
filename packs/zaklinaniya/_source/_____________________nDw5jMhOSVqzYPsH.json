@@ -1,0 +1,60 @@
+{
+  "name": "Анти-магическое поле",
+  "type": "spell",
+  "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.bgFYe0j72SNWMPml"
+    },
+    "cf": {
+      "id": "temp_ox1dmapord"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "28",
+    "staminaIsVar": false,
+    "effect": "Вокруг заклинателя образуется шар радиусом 10 м. Любая магия, кроме этого заклинания, блокируется. Пользователи магии теряют всю свою Энергию, призванные существа теряют свою магию, а магические предметы теряют магические свойства. Заклинания, произносимые вне сферы, но нацеленные на нее, не имеют эффекта.",
+    "range": "на себя",
+    "duration": "1d6 раундов",
+    "defence": "Изм поз",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496638904,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nDw5jMhOSVqzYPsH",
+  "folder": "FompVpMZkGLpN1Nf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nDw5jMhOSVqzYPsH"
+}

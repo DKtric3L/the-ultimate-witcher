@@ -1,0 +1,16 @@
+{
+  "text": "Двойственная тьма",
+  "type": 2,
+  "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "_id": "gypj0h503v44k2ir",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "P4kWAoByjrQh8sVP",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.gypj0h503v44k2ir"
+}

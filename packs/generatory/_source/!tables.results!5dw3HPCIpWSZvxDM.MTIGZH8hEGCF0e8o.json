@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Гибриды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Hybrids.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "CaWvkFJhEL5QWzb5",
+  "_id": "MTIGZH8hEGCF0e8o",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.MTIGZH8hEGCF0e8o"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Адреналиновый эликсир",
+  "img": "icons/consumables/potions/potion-bottle-corked-labeled-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "1iKHCJD8cYyMsVBi",
+  "_id": "u4RvmQR0utdArdGi",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.u4RvmQR0utdArdGi"
+}

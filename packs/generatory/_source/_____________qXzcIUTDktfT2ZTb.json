@@ -1,0 +1,39 @@
+{
+  "name": "Маг - Мастер",
+  "img": "icons/magic/control/buff-flight-wings-runes-red-yellow.webp",
+  "description": "",
+  "results": [
+    "yqwDEv7tculy12Cf",
+    "ilVQi8hP5rjYH0dq",
+    "SrmjQno6zM50jzT1",
+    "XQrrlSb4nu5ZRaCS",
+    "M4O6ZzA9grp6W1D0"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.z1bYmdrv3E7ulQhX"
+    },
+    "cf": {
+      "id": "temp_h10nponc3b"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932904,
+    "modifiedTime": 1685496644866,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qXzcIUTDktfT2ZTb",
+  "folder": "mmgJeU18B00wxANi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!qXzcIUTDktfT2ZTb"
+}

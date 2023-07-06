@@ -1,0 +1,130 @@
+{
+  "name": "Махакамская сталь",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.ohgMFAXgLsrhkU9w"
+    },
+    "cf": {
+      "id": "temp_ceg4eiua7p"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.komponenty.lbUH5LeHtbSEucA8]{Махакамская сталь}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 152,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Железо"
+      },
+      {
+        "id": "_wzfhaam9x",
+        "name": "Уголь",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_3386kao3i",
+        "name": "Пепел",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_4cj8l4tbc",
+        "name": "Речная глина",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_7llm6dqr2",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "3"
+      }
+    ],
+    "investment": 76,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Махакамская сталь",
+      "type": "component",
+      "img": "icons/commodities/metal/ingot-stamped-steel.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 114,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "minerals",
+        "rarity": "Poor",
+        "location": "Покупается и создается",
+        "quantityObtainable": "N/A",
+        "forage": "N/A",
+        "substanceType": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_sg5oias8hq",
+          "color": "#000000"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162853702,
+        "modifiedTime": 1668162853702,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848421,
+    "modifiedTime": 1685496579289,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ohgMFAXgLsrhkU9w",
+  "folder": "dkAnRzLxnKAUHXkR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ohgMFAXgLsrhkU9w"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "f4Yyj8ljvDXRnGxi",
+  "name": "Волна огня",
+  "type": "spell",
+  "img": "icons/magic/fire/blast-jet-stream-splash.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.Otl2IDoKJmGOIgCk"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Выпускает в одном направлении 3-метровый конус огня, наносящий 2d6 урона любому, кто не сумеет уклониться или блокировать поток огня, с шансом поджечь цель 50 %.",
+    "range": "",
+    "duration": "мгновенное",
+    "defence": "укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "3",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "50"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!ctnZdItFrR5kV9N2.f4Yyj8ljvDXRnGxi"
+}

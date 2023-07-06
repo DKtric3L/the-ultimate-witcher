@@ -1,0 +1,16 @@
+{
+  "text": "Извлечение Айфры",
+  "type": 2,
+  "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "5zOBIy5NUjaCOqnB",
+  "documentId": "hToukx5AaNx9GT59",
+  "flags": {},
+  "_key": "!tables.results!lpcKCRY2iQvW7IvZ.5zOBIy5NUjaCOqnB"
+}

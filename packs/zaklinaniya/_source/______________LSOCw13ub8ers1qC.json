@@ -1,0 +1,60 @@
+{
+  "name": "Порча объятий",
+  "type": "spell",
+  "img": "icons/skills/social/diplomacy-handshake.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_kp5e8xlen2o"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Жертва вынуждена обнимать всех, кого встретит, даже в самой неловкой, неудобной или неподходящей ситуации.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "Руки жертвы должны быть связаны за спиной веревкой, обмытой Царской водкой. Затем жертва поворачивается лицом к северу, востоку, югу и западу, представляясь каждый раз. И так 5 раз.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496639494,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LSOCw13ub8ers1qC",
+  "folder": "Syi8vTbZZBjwpqCl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LSOCw13ub8ers1qC"
+}

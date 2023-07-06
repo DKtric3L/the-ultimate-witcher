@@ -1,0 +1,42 @@
+{
+  "name": "Дубильные травы",
+  "type": "component",
+  "img": "icons/commodities/flowers/cornflower-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_6wiprjs4cn6",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 3,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "rarity": "Common",
+    "location": "Поля и леса",
+    "quantityObtainable": "1d10",
+    "forage": "14",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1685496584108,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4Ll65phX32gRmTf3",
+  "folder": "6BFPONCFK3fKFLQr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4Ll65phX32gRmTf3"
+}

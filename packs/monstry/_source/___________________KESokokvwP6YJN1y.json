@@ -1,0 +1,42 @@
+{
+  "name": "Выделения Кикиморы",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_vampire_64x64.png.6940.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.1,
+    "cost": 55,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Кикиморы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.world.komponenty.WAc2psBNJXoZEU6v"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853698,
+    "modifiedTime": 1669963794697,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "KESokokvwP6YJN1y",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!RLNXSrJYWdFHbKvT.KESokokvwP6YJN1y"
+}

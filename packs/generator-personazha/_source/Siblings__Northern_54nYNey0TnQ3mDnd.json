@@ -1,0 +1,46 @@
+{
+  "name": "Siblings: Northern",
+  "img": "icons/sundries/flags/banner-worn-blue.webp",
+  "description": "",
+  "results": [
+    "uZEDUG0b1QS3X7aE",
+    "owOV7YfwzHeKjQgE",
+    "5qNX6NeAArgThim7",
+    "nIYe2CnYdX2javLK",
+    "r1LxXfZHW30aoSVf",
+    "RBBFLtK9dH9FBcyJ",
+    "H0o6cOQwByLAlDxW",
+    "pWN64mjZ9JqI6UZR",
+    "kfXUMiqdlmBeSlbX",
+    "cHIc5jk2KytQfMji"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.e0FCywGmdvglKb0V"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917384,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "54nYNey0TnQ3mDnd",
+  "_key": "!tables!54nYNey0TnQ3mDnd"
+}

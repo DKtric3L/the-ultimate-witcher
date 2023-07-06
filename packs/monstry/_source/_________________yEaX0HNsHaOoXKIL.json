@@ -1,0 +1,43 @@
+{
+  "_id": "yEaX0HNsHaOoXKIL",
+  "name": "Мутаген: Альгуль",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-red.png",
+  "effects": [],
+  "folder": "za9MQKX6IGJQLkJy",
+  "sort": 1900000,
+  "flags": {
+    "core": {
+      "sourceId": "Item.JNbrCrFXPyCNzbpX"
+    },
+    "cf": {
+      "id": "temp_loaduoyv3n"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "red",
+    "source": "Альгули",
+    "effect": "+1 к урону в ближнем бою",
+    "alchemyDC": "15",
+    "minorMutation": "Маленькие шипы на спине"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!flelUO6fj7eLVAJc.yEaX0HNsHaOoXKIL"
+}

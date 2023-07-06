@@ -1,0 +1,38 @@
+{
+  "name": "Кровотечение",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.lhZ5jMSTI1P1dY6i"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "При ранении был задет крупный сосуд, из-за чего рана сильно кровоточит. Пер сонаж получает 2 урона каждый ход до тех пор, пока кровотечение не будет остановлено. Для этого необходимо либо сотворить исцеляющее заклинание, либо со вершить успешную проверку Первой помощи со СЛ 15, потратив одно действие.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883169,
+    "modifiedTime": 1688508879426,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "lhZ5jMSTI1P1dY6i",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lhZ5jMSTI1P1dY6i"
+}

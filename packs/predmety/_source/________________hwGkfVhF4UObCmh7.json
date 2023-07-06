@@ -1,0 +1,43 @@
+{
+  "name": "Друг отравителя",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/poison.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.hwGkfVhF4UObCmh7"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 16,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Common",
+    "effect": "Друг отравителя – прозрачная жидкость, которую можно добавлять в еду или питьё, чтобы придать им остроту или сладость. Повышает СЛ обнаружения яда до 20.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868973,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hwGkfVhF4UObCmh7",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hwGkfVhF4UObCmh7"
+}

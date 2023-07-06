@@ -1,0 +1,65 @@
+{
+  "name": "Доспех школы грифона",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0w1zqqbn8lrf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 4,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 16,
+    "torsoMaxStopping": 16,
+    "leftArmStopping": 16,
+    "leftArmMaxStopping": 16,
+    "rightArmStopping": 16,
+    "rightArmMaxStopping": 16,
+    "leftLegStopping": 16,
+    "leftLegMaxStopping": 16,
+    "rightLegStopping": 16,
+    "rightLegMaxStopping": 16,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Критическое колдовство: Всякий раз, когда вы наносите Критическое ранение с помощью одного из ваших ведьмачьих оружий, вы можете немедленно совершить проверку Сотворения заклинаний, чтобы наложить Знак без дополнительных штрафов и без затрат Выносливости, кроме той Выносливости, которая требуется для наложения знака."
+      }
+    ],
+    "encumb": 1,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1685496626987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XQyqj0ET0wtotCx4",
+  "folder": "XIWiaRMuiNt3vpFW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!XQyqj0ET0wtotCx4"
+}

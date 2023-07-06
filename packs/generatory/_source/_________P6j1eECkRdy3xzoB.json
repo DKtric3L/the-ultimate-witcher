@@ -1,0 +1,40 @@
+{
+  "name": "Ведьмаки",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "uOvsYp6BMm1WPgzn",
+    "k9Hwib8WF84A2UGv",
+    "CRNWDHAaKVGsXfr1",
+    "RHGeuFxgll3s8uMf",
+    "t9oqLuetIlVSXL6g",
+    "MMP5fIthih9DJTZG"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "P6j1eECkRdy3xzoB",
+  "_key": "!tables!P6j1eECkRdy3xzoB"
+}

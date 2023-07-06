@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "tLghZLDkS13YuMjN",
+  "text": "Туловище, Штраф -1, Урон 1х.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!CRzkFzGgCYfqFjaW.tLghZLDkS13YuMjN"
+}

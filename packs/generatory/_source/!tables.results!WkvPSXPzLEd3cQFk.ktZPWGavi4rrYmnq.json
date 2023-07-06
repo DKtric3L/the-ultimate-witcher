@@ -1,0 +1,16 @@
+{
+  "text": "Глиф воздуха",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/air.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "ktZPWGavi4rrYmnq",
+  "documentId": "P27l79LKhfGSsEFb",
+  "flags": {},
+  "_key": "!tables.results!WkvPSXPzLEd3cQFk.ktZPWGavi4rrYmnq"
+}

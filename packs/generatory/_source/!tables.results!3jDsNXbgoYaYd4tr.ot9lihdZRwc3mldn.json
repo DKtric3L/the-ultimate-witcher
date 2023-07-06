@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Разделяющиеся боеприпасы(5х)",
+  "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "Dn5JFo7vpXeNAPWH",
+  "_id": "ot9lihdZRwc3mldn",
+  "flags": {},
+  "_key": "!tables.results!3jDsNXbgoYaYd4tr.ot9lihdZRwc3mldn"
+}

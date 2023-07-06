@@ -1,0 +1,16 @@
+{
+  "_id": "ThVlcMolBmiOPDs1",
+  "type": 0,
+  "text": "2 метра от цели.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XQ23ScFs1U0dXWID.ThVlcMolBmiOPDs1"
+}

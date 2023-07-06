@@ -1,0 +1,16 @@
+{
+  "_id": "Pb7ZN8skZA1mdL9j",
+  "type": 0,
+  "text": "Заученные формулы Вы потратили десятилетие на заучивание формул заклинаний. Выберите одно заклинание новичка и одно заклинание подмастерья. Вы начинаете игру, зная оба этих заклинания.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!LiPUuGFfXbdWlnAd.Pb7ZN8skZA1mdL9j"
+}

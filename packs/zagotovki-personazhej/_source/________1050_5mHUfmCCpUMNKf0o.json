@@ -1,0 +1,36 @@
+{
+  "name": "среднее 1050",
+  "type": "valuable",
+  "_id": "5mHUfmCCpUMNKf0o",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "",
+    "avail": "",
+    "effect": "",
+    "conceal": "",
+    "quality": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663424997583,
+    "modifiedTime": 1663425013645,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!TbDY7PdVyaA6e4ar.5mHUfmCCpUMNKf0o"
+}

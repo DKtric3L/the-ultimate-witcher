@@ -1,0 +1,26 @@
+{
+  "_id": "MyQJ4EquFkMR0dkp",
+  "name": "Запах леса",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Другие чудовища и животные почти не замечают при божков. Если прибожек не станет активно злить или атаковать чудовище или существо, то оно его игнорирует."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!If6bwQ8QCz4Vq3VR.MyQJ4EquFkMR0dkp"
+}

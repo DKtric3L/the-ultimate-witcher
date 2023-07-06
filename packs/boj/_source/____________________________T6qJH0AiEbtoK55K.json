@@ -1,0 +1,39 @@
+{
+  "name": "Провал: Дистанционная атака",
+  "img": "icons/weapons/bows/longbow-recurve-skull-brown.webp",
+  "description": "",
+  "results": [
+    "rSuC1pQXrE7ncdOg",
+    "J4OxjQdMtIafp2tT",
+    "TSDfCEgafVQ25S8q",
+    "cImzzQVvwc5xYqEW",
+    "pD4mMuTMSmunf6FP"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.hqN2DLx6NSbW1aqO"
+    },
+    "cf": {
+      "id": "temp_fwm9l8vsfd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897080,
+    "modifiedTime": 1685496658067,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "T6qJH0AiEbtoK55K",
+  "folder": "Wb6CKRNqRjBQl5Uy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!T6qJH0AiEbtoK55K"
+}

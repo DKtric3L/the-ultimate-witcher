@@ -1,0 +1,60 @@
+{
+  "_id": "JwTp9FxiHLLbNRyI",
+  "name": "Метод Саволлы",
+  "type": "spell",
+  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.9wSgKJimDq0raCa7"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Являясь эволюцией древних техник, метод Саволлы разрушает ткани и слизистые оболочки трупа и упрощает поиск и извлечение мутагенных соединений. После применения этого заклинания мутаген внутри трупа отделяется и излучает легкое свечение, что позволяет извлечь его с помощью проверки алхимии с СЛ:14 или проверки Ведьмовского обучения.",
+    "range": "2м",
+    "duration": "мгновенная",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!KAhtipbo9AjyZASy.JwTp9FxiHLLbNRyI"
+}

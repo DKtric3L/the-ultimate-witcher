@@ -1,0 +1,16 @@
+{
+  "text": "Гром Альзура",
+  "type": 2,
+  "img": "icons/magic/lightning/bolt-strike-blue.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "R5dCKTWXVqUEEIPR",
+  "documentId": "91LxJqLMU6BxLwEJ",
+  "flags": {},
+  "_key": "!tables.results!jwNLKKU8qFbzLhTY.R5dCKTWXVqUEEIPR"
+}

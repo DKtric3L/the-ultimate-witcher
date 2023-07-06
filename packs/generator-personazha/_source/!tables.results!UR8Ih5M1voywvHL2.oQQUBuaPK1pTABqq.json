@@ -1,0 +1,16 @@
+{
+  "_id": "oQQUBuaPK1pTABqq",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Во время странствий, Один или оба ваших родителей стали жертвами людского расизма. После погрома их трупы выставили на пиках на всеобщее обозрение.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UR8Ih5M1voywvHL2.oQQUBuaPK1pTABqq"
+}

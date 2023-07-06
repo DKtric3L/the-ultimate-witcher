@@ -1,0 +1,74 @@
+{
+  "_id": "2eZTJwJNtgUmej8I",
+  "name": "Волк",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-flanged-lightning.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-oruzhiya.atXOxWRdKfMQ7BUx"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 4,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 2,
+    "avail": "Rare",
+    "damage": "7d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "2",
+    "range": "",
+    "equiped": "/",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пробивающее броню",
+        "percentage": ""
+      },
+      {
+        "id": "_pho6fzodk",
+        "name": "Кровопускающее",
+        "percentage": "75"
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 3,
+    "enhancementItems": [
+      {},
+      {},
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671032530452,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!KGltdXgAyNR4yViS.2eZTJwJNtgUmej8I"
+}

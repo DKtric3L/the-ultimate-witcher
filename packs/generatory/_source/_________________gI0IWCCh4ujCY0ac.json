@@ -1,0 +1,49 @@
+{
+  "name": "Заказ - Трупоеды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Necrophages.png",
+  "description": "",
+  "results": [
+    "dUqI4xdI6nvmAn8C",
+    "DOozIgx7MC55NsvO",
+    "Jn1jyC4kEcT7V1Ci",
+    "S9E8uilx7snUdsM0",
+    "H86EUKd0hy5PiSFx",
+    "VyI8fR5ffBjswlJl",
+    "UAJMfoGfVnnUeQXj",
+    "1zMhZeeeTsHOjG3y",
+    "GEw2QQDdf5lQYMFl",
+    "SABYUy52vf6k50rW",
+    "ToFP6TkM1XdxdhzF",
+    "msAau1C1JlpHcU5v",
+    "ZPdkZc5PGyNYWeDL",
+    "Uu3CsfPEEZ9PQTBD",
+    "AfJtCZMNSOPa1yZO"
+  ],
+  "formula": "1d15",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_fs1p2hgxhmu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644753,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ZZd02IQkbh9qxG3G",
+  "sort": 0,
+  "_id": "gI0IWCCh4ujCY0ac",
+  "_key": "!tables!gI0IWCCh4ujCY0ac"
+}

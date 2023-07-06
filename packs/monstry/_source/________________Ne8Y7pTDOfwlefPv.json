@@ -1,0 +1,60 @@
+{
+  "_id": "Ne8Y7pTDOfwlefPv",
+  "name": "Оживление трупа",
+  "type": "spell",
+  "img": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.SlK9lnvmYl1aYMXQ"
+    },
+    "cf": {
+      "id": "temp_oqoqbffm5o"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ. Если не знаешь, что делать из-за этого предупреждения, не лезь сюда.\n\nПоднятие трупа насильно вызывает душу и заключает ее в свое мертвое тело. Во время оживления, труп ведет себя так, как будто он живой, но испытывает мучительную боль, которая не дает ему двигаться и накладывает -3 на проверки Сопротивления Принуждению. Однако, чтобы труп мог отвечать на любые вопросы, у него должны быть все части, необходимые для речи, включая легкие, голосовые связки, рот и язык. Кроме того, его мозг должен быть неповрежденным как минимум на 50%. В рамках Словесной дуэли, Пытки и Мучения не будут работать на трупе, возрожденном с помощью некромантии, поскольку он уже испытывает невообразимую боль.",
+    "range": "",
+    "duration": "Актив(3 вын в мин)",
+    "defence": "",
+    "components": "труп (с работающими голосовыми связками, легкими, мозгом и ртом), мелок (x4), Пятая эссенция (x5), свечи (x5), вороний глаз (x2), Призрачная пыль (x5), Эссенция призрака (x2)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TAgpqRjhqjZdQ6fL.Ne8Y7pTDOfwlefPv"
+}

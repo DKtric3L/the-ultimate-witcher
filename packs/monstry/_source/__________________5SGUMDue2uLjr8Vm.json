@@ -1,0 +1,26 @@
+{
+  "_id": "5SGUMDue2uLjr8Vm",
+  "name": "Репейная слабость",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "опух, или репей, ядовит для прибожков. Если лопух каким-то образом попадёт прибожку в кровь (с едой или через рану), тот отравится. Чтобы выйти из этого состояния, он должен успешно пройти проверку Стойкости со СЛ 18. Прибожек не выносит запах этого растения: чтобы оставаться в пределах 20 метров от горящего лопуха, он должен успешно пройти проверку Стойкости со СЛ 14."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!If6bwQ8QCz4Vq3VR.5SGUMDue2uLjr8Vm"
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Стандартное снаряжение",
+  "img": "icons/sundries/survival/rope-wrapped-brown.webp",
+  "results": [
+    "gUGCwapgh8Lwc8or",
+    "ybHnE7U1zcUznrdi",
+    "PGwUpMBUsLFST4og",
+    "T8kVnE2kwCZRbcAO",
+    "ZonSi2oxERl8ONpn",
+    "lfwMxGvzOXUToTDX",
+    "8pYy4XNmkZ3tmQ5j",
+    "4VyA1e32YIq7lNVC",
+    "38gZTPi0IzV8SabS",
+    "qtLbV4tMIuAr2m1f",
+    "VmkNr4EswAo0ZCRj",
+    "1QQOszMDojqWCfaV",
+    "hxH2KllDhk335J5X",
+    "emIYb1utxfR2VDk5",
+    "FTX7fyeDiCdmqQwW",
+    "pLqwUnDnE56Xe6pt",
+    "7j0it0ZOX9SrAS7J",
+    "4XwcBMVJFAivhYQ2",
+    "zkPG4wQ8l5PCCjjQ",
+    "Q16FfSlkNLuSx7kv",
+    "Z1WycGjJ0yrvuvwl",
+    "fbPEIizzQdm5Rgd1",
+    "NAa3F5UUJ6uQqruq",
+    "kkFrRZugVQnihTBZ",
+    "6jN4VM6qbqZwVg8G",
+    "UuTzaG3xDihvC6J2",
+    "ETuyj28WjumV0Hxb",
+    "avKFGUOxSbFdpveM",
+    "rZb6sUXoUc40BK37",
+    "FS4UC0uVPWvn5qTp",
+    "k2MPzYXcEqFrMDwV",
+    "RF9NyfCZaHeG7EU6",
+    "TrlDDk2ufyEfTL9Y",
+    "wPXcOZhDfa40Camf",
+    "HwvQh3rleSZczli0",
+    "WgvQekSivjbTOjyq",
+    "lWZtlDb0jWKAlSCI",
+    "MkeNfHnC9TCkPLj6",
+    "K7LZBsOQYlbTDAGu",
+    "yJX2vCDTRo403XLM",
+    "5nvCUg5lb3v3TIUK",
+    "u4o614JqoQSGTG2N",
+    "XXwzcoZUvlhzJLGu",
+    "AU3HgzFi6mgCclKv",
+    "8CSimGceSYDryKx5",
+    "gxEaD3IyD9n2nwmr",
+    "qNYJ1lmrvRlaKP2r"
+  ],
+  "formula": "1d47",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Sd5ArSSxEC8Ttck8"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932921,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "f9rtJAHzfvog1kNz",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!f9rtJAHzfvog1kNz"
+}

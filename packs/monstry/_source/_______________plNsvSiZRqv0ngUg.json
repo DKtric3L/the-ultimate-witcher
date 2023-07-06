@@ -1,0 +1,42 @@
+{
+  "name": "Слюна берсерка",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/saliva_monstrous_64x64.png.6939.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 60,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Берсерки",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.world.komponenty.Up4kKSr4Qplm778I"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853705,
+    "modifiedTime": 1669964856310,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "plNsvSiZRqv0ngUg",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!SfCCPw4qmzAvKDLh.plNsvSiZRqv0ngUg"
+}

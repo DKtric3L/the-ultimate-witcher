@@ -1,0 +1,57 @@
+{
+  "name": "Генератор Таверн",
+  "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+  "description": "",
+  "results": [
+    "fIdLcKDlqxyyAFVJ",
+    "nEhsnUoKLd9LP7LF",
+    "xQskuj5DGIIneY6A",
+    "WnB5nt3Jja0TxPvl",
+    "3CtvLYx2r8gkcizW",
+    "9xPCnTss13bPfZnm",
+    "NSwyni9V6bP71ACl",
+    "5M4yibuuhyIcG396",
+    "zOgXFiaPAvsdzOIS",
+    "HbQakSzDlcnrakJJ",
+    "ySqSO0HhqKBbpdT9",
+    "xR7vIT8Fvei4s3Er",
+    "rh0fOjcOFzOXfOSL",
+    "63iQBMQF2sljKXVa",
+    "dp25PahegLNmBxrl",
+    "DYalCOXNeiFCFa3J",
+    "Ja3cMXdI2vTNEHl5",
+    "PqK1WLEPAjkRUHjS",
+    "nQTI0nKqH3H88gAL",
+    "6PuCRRQCTIjm0aiE",
+    "3dz63aWqSXYH1Nvg",
+    "0Qx1mNClq0NgbuzS",
+    "p7WBZcBnSaB7lcft",
+    "swG91KMFvP1bwkhR",
+    "0D19pY1MQZhyYI05",
+    "ESrlmsUABnW1Y8eJ"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1672592351846,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "aWowh4i4QMPO10vA",
+  "_key": "!tables!aWowh4i4QMPO10vA"
+}

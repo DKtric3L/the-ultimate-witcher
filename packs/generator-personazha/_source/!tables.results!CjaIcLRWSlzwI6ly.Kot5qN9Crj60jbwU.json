@@ -1,0 +1,16 @@
+{
+  "_id": "Kot5qN9Crj60jbwU",
+  "flags": {},
+  "type": 2,
+  "text": "Style: Hair Style",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "SsbYv46UjVGJEkyY",
+  "_key": "!tables.results!CjaIcLRWSlzwI6ly.Kot5qN9Crj60jbwU"
+}

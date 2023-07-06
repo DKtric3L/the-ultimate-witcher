@@ -1,0 +1,16 @@
+{
+  "text": "Карта неизвестного места",
+  "type": 2,
+  "img": "icons/tools/navigation/map-marked-red.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "_id": "faxx4ugjq8hr2sch",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "FYQyaIt72PVkPTty",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.faxx4ugjq8hr2sch"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    81,
+    90
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "mWxa5ouheK9NIBjH",
+  "text": "Цель - Самая опасная(Будет бить его, пока не получит от него любой урон, или кто-то не спровоцирует на себя)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!nowTZyYNAOpvTX5B.mWxa5ouheK9NIBjH"
+}

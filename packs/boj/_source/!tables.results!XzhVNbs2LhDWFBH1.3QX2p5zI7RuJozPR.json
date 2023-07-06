@@ -1,0 +1,16 @@
+{
+  "_id": "3QX2p5zI7RuJozPR",
+  "flags": {},
+  "type": 0,
+  "text": "Снаряд упал по правую сторону прямо от цели.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XzhVNbs2LhDWFBH1.3QX2p5zI7RuJozPR"
+}

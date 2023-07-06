@@ -1,0 +1,16 @@
+{
+  "_id": "L8reTnv3nbQNgi0e",
+  "flags": {},
+  "type": 0,
+  "text": "Ваши родители живы.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!K8YRwSkTOLF4VhvG.L8reTnv3nbQNgi0e"
+}

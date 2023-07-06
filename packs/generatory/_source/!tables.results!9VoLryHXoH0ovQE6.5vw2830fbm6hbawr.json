@@ -1,0 +1,16 @@
+{
+  "text": "Усиленная тетива",
+  "type": 2,
+  "img": "icons/sundries/survival/rope-wrapped-loops-grey.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "5vw2830fbm6hbawr",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "HTgqIJLZ3d7KE1is",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.5vw2830fbm6hbawr"
+}

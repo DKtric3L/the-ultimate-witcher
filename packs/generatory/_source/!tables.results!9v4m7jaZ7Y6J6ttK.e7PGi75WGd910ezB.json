@@ -1,0 +1,16 @@
+{
+  "text": "Бастион Элгана",
+  "type": 2,
+  "img": "icons/magic/defensive/shield-barrier-glowing-triangle-green.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "e7PGi75WGd910ezB",
+  "documentId": "GHQaWhZwQUmlYoal",
+  "flags": {},
+  "_key": "!tables.results!9v4m7jaZ7Y6J6ttK.e7PGi75WGd910ezB"
+}

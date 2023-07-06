@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "by6XuGRTCnce7ctN",
+  "text": "Вид татуировки - Мифическое",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!smHaC9uyeNmi54Es.by6XuGRTCnce7ctN"
+}

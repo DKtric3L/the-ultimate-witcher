@@ -1,0 +1,16 @@
+{
+  "_id": "p0WUkxWYGUPh4gEB",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Преступник. Наибольшее влияние на вас оказал преступник, Научивший вас, как о себе позаботиться. Снаряжение - Маска.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!pEnsTvMCEOoLB7Xi.p0WUkxWYGUPh4gEB"
+}

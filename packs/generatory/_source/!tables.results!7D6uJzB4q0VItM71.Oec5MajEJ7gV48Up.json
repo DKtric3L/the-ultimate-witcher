@@ -1,0 +1,16 @@
+{
+  "text": "Полиморфизм",
+  "type": 2,
+  "img": "icons/creatures/amphibians/bullfrog-glowing-green.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "Oec5MajEJ7gV48Up",
+  "documentId": "DniFo8UjEjwBwwo6",
+  "flags": {},
+  "_key": "!tables.results!7D6uJzB4q0VItM71.Oec5MajEJ7gV48Up"
+}

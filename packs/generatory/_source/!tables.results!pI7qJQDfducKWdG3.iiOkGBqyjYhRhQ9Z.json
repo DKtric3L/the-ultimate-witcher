@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Точильный порошок",
+  "img": "icons/commodities/stone/masonry-block-cube-grey.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "WYpOjBrn9QiTkjmo",
+  "_id": "iiOkGBqyjYhRhQ9Z",
+  "flags": {},
+  "_key": "!tables.results!pI7qJQDfducKWdG3.iiOkGBqyjYhRhQ9Z"
+}

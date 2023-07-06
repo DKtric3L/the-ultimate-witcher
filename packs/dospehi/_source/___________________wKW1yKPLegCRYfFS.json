@@ -1,0 +1,68 @@
+{
+  "name": "Махакамская павеза",
+  "type": "armor",
+  "img": "icons/equipment/shield/heater-steel-boss-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi-starshego-naroda.gvrcPbhgMpLUjAOb"
+    },
+    "cf": {
+      "id": "temp_njuve1krma"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 5.5,
+    "cost": 1050,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 35,
+    "reliabilityMax": 35,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Heavy",
+    "avail": "Everywhere",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Можно поставить на землю"
+      }
+    ],
+    "encumb": 1,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837867,
+    "modifiedTime": 1685496574746,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wKW1yKPLegCRYfFS",
+  "folder": "l7EsfQL6fGwe66qi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!wKW1yKPLegCRYfFS"
+}

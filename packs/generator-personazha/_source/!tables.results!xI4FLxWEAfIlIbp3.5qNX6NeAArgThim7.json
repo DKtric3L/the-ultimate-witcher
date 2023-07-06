@@ -1,0 +1,16 @@
+{
+  "_id": "5qNX6NeAArgThim7",
+  "flags": {},
+  "type": 0,
+  "text": "У вас 3 брата или/и сестры.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!xI4FLxWEAfIlIbp3.5qNX6NeAArgThim7"
+}

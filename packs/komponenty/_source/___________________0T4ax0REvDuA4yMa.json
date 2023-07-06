@@ -1,0 +1,42 @@
+{
+  "name": "Лепестки морозника",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/hellebore_petals_64x64.png.6674.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4o2s0rjm0j",
+      "color": "#4ab2bf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 19,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Леса",
+    "quantityObtainable": "1d6",
+    "forage": "15",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1685496583962,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0T4ax0REvDuA4yMa",
+  "folder": "7pzVeEMkxc9TrnPt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0T4ax0REvDuA4yMa"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Кожа Врана",
+  "type": "armor",
+  "img": "icons/commodities/metal/mail-chain-steel.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.M4Z7mAcrpGIeoopq"
+    },
+    "cf": {
+      "id": "temp_q7eun34w9an"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 4,
+    "headMaxStopping": 4,
+    "torsoStopping": 4,
+    "torsoMaxStopping": 4,
+    "leftArmStopping": 4,
+    "leftArmMaxStopping": 4,
+    "rightArmStopping": 4,
+    "rightArmMaxStopping": 4,
+    "leftLegStopping": 4,
+    "leftLegMaxStopping": 4,
+    "rightLegStopping": 4,
+    "rightLegMaxStopping": 4,
+    "type": "Natural",
+    "avail": "Rare",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883168,
+    "modifiedTime": 1685496621600,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "m2faW5sJsRKBxOVl",
+  "folder": "SZ0J6KDZWpPprI2E",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!m2faW5sJsRKBxOVl"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Один из джиннов",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "xdsYXDWKvEv6VXlg",
+  "_id": "zddIocn1v8vDYSSn",
+  "flags": {},
+  "_key": "!tables.results!cAmaEjjM3LddHHTP.zddIocn1v8vDYSSn"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Заказ - Реликты",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Relicts.png",
+  "description": "",
+  "results": [
+    "QLHnSYqaGTHqxP7P",
+    "DCNRxvuaPumcj2SO",
+    "DfU0gNEsKvxk4BEx",
+    "ckb7BSXYsxNRoIni",
+    "5FTiVGBdUgjTZM6m",
+    "rK8PszXiN45N6Oie",
+    "izOvhWTD3gKc62on",
+    "eWmQEcPBiKLlZs44",
+    "q0Ws36ekZOeXpgoh"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_fs1p2hgxhmu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644753,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ZZd02IQkbh9qxG3G",
+  "sort": 0,
+  "_id": "DsM3PqgITcEqqHZ7",
+  "_key": "!tables!DsM3PqgITcEqqHZ7"
+}

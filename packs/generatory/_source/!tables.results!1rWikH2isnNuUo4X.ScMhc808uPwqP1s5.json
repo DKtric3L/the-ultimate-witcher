@@ -1,0 +1,16 @@
+{
+  "_id": "ScMhc808uPwqP1s5",
+  "type": 2,
+  "text": "Маг - Новичок",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    6,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "sgbHp1FLCjvxzyZO",
+  "_key": "!tables.results!1rWikH2isnNuUo4X.ScMhc808uPwqP1s5"
+}

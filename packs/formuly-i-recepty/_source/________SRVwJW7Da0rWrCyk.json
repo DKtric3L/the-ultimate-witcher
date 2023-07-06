@@ -1,0 +1,160 @@
+{
+  "name": "Гледдиф",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.SRVwJW7Da0rWrCyk"
+    },
+    "cf": {
+      "id": "temp_698q1rns3gh"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.U9cLGsJ17pLaX48w]{Гледдиф}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 426,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 14,
+    "alchemyDC": 0,
+    "craftingTime": "7ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Древесина"
+      },
+      {
+        "id": "_fdw58ef4n",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_iuopctl27",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_6cc54ebk4",
+        "name": "Железо",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_b9wwxktle",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_56ibp1pjm",
+        "name": "Масло",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_d37mezknj",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 210,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Гледдиф",
+      "type": "weapon",
+      "img": "icons/weapons/swords/greatsword-flamberge.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3,
+        "cost": 285,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Рубящее, Колющее",
+          "slashing": true,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Common",
+        "damage": "3d6+2",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "2",
+        "range": "",
+        "equiped": false,
+        "effects": [],
+        "conceal": "L",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Swordsmanship",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_2ps351j34un"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863937,
+        "modifiedTime": 1672565125679,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848411,
+    "modifiedTime": 1685496579636,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SRVwJW7Da0rWrCyk",
+  "folder": "Evqg8WLTqPSee5Jc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SRVwJW7Da0rWrCyk"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "drawn": false,
+  "text": "Невидимые чернила",
+  "img": "icons/tools/scribal/ink-quill-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "2DqDsY2y53BMk7xn",
+  "_id": "LfY3VvXFmldZV4Jr",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.LfY3VvXFmldZV4Jr"
+}

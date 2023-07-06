@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "3tyPgh5kWW16TKm2",
+  "text": "Руки покрыты сильными ожогами.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!H9xXdQ6h1dtR9QIe.3tyPgh5kWW16TKm2"
+}

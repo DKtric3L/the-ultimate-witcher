@@ -1,0 +1,191 @@
+{
+  "name": "Арбалет школы Кота",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-magical-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.7f7UbfvdIoJ7WZqj"
+    },
+    "cf": {
+      "id": "temp_eejrxmr7tpm"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.1tCDBPApdpiDbffr]{Арбалет школы кота}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "8ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укреплённое дерево"
+      },
+      {
+        "id": "_t94coy1mb",
+        "name": "Волосы стучака",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ghtxnsatd",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_z26djgbag",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ta4lpxxjo",
+        "name": "Укреплённая кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_xggzkbb56",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_u10c4g6i3",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_f6iyc6tvt",
+        "name": "Тёмное железо",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_qstlib7if",
+        "name": "Тёмная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_s6so7eexk",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 346,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Арбалет школы кота",
+      "type": "weapon",
+      "img": "icons/weapons/crossbows/crossbow-heavy-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": 1,
+        "avail": "Everywhere",
+        "damage": "2d6+2",
+        "reliable": 5,
+        "maxReliability": 5,
+        "hands": "1",
+        "range": "50м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Медленная перезарядка",
+            "percentage": ""
+          },
+          {
+            "id": "_hpir8721x",
+            "name": "Сбалансированное",
+            "percentage": ""
+          }
+        ],
+        "conceal": "L",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Crossbow",
+        "rollOnlyDmg": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.tTt1f6OWXMOF7JnT"
+        },
+        "cf": {
+          "id": "temp_bej0ldlpz"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887304,
+        "modifiedTime": 1668162887304,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848408,
+    "modifiedTime": 1685496578946,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "whmG8XpGolqvyVuQ",
+  "folder": "JeCUXNH29x3KI0jS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!whmG8XpGolqvyVuQ"
+}

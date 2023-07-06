@@ -1,0 +1,89 @@
+{
+  "_id": "n9riziTXdZsuuc4h",
+  "name": "Кости неверных",
+  "type": "armor",
+  "img": "icons/equipment/head/mask-horned-skull.webp",
+  "effects": [],
+  "folder": "C2UQErrpoEVHimgN",
+  "sort": 100000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-dospehov.xAwmCJqpLvrJw2cM"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 20,
+    "headMaxStopping": 20,
+    "torsoStopping": 20,
+    "torsoMaxStopping": 20,
+    "leftArmStopping": 20,
+    "leftArmMaxStopping": 20,
+    "rightArmStopping": 20,
+    "rightArmMaxStopping": 20,
+    "leftLegStopping": 20,
+    "leftLegMaxStopping": 20,
+    "rightLegStopping": 20,
+    "rightLegMaxStopping": 20,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 3,
+    "enhancementItems": [
+      {},
+      {},
+      {}
+    ],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Ограничение зрения"
+      },
+      {
+        "id": "_4dh36h781",
+        "name": "Соц статус - ненависть и опасение",
+        "percentage": ""
+      },
+      {
+        "id": "_45wln8kjm",
+        "name": "Хил +5 пз за каждого побеждённого врага",
+        "percentage": ""
+      },
+      {
+        "id": "_5p43tppqv",
+        "name": "2х кости адреналина",
+        "percentage": ""
+      },
+      {
+        "id": "_jgug2xnlx",
+        "name": "Невосприимчивость к любым манипуляциям разумом, даже магическим",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "Head",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": true,
+    "piercing": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!1VRg5jPCpWr7i58R.n9riziTXdZsuuc4h"
+}

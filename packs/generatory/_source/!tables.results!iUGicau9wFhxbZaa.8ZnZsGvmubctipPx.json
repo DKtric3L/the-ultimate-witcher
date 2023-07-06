@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Кожа",
+  "img": "icons/commodities/leather/leather-scrap-brown.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "D8PcaCjQEFWuYYuo",
+  "_id": "8ZnZsGvmubctipPx",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.8ZnZsGvmubctipPx"
+}

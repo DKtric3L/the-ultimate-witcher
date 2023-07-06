@@ -1,0 +1,46 @@
+{
+  "name": "Янтарь",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/gems/amber.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_exyfhhk7kbp",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.yyAJYmwhVpaJizRt"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Rare",
+    "location": "Горы и под землей",
+    "quantityObtainable": "1d6/2",
+    "forage": "24",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1685496584124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "UnzMAmD10NPYMZyU",
+  "sort": 0,
+  "_id": "jpV6CMUpg2JheRjA",
+  "_key": "!items!jpV6CMUpg2JheRjA"
+}

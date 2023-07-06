@@ -1,0 +1,40 @@
+{
+  "name": "Замок-ловушка",
+  "type": "valuable",
+  "img": "icons/commodities/bones/skull-bat-grey.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh"
+    }
+  },
+  "system": {
+    "description": "Сложный механический замок, оснащенный иглой, в которую пользователь может зарядить пузырек с ядом. Взлом замка требует проверки Взлома Сл: 17. Если персонажу не удается взломать замок, игла в замке высовывается, вонзаясь в руку вора, вызывая эффекты яда, загруженного в замок. После срабатывания замка-ловушки его необходимо перезарядить новым флаконом с ядом.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 85,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868973,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "x0i5Y4PwhGj5JKB0",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!x0i5Y4PwhGj5JKB0"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "XEB17msQM6PA4Wl4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей погибли в результате \"Несчастного случая\". Скорее всего, от них наконец избавился могущественный враг.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UR8Ih5M1voywvHL2.XEB17msQM6PA4Wl4"
+}

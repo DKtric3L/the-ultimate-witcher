@@ -1,0 +1,16 @@
+{
+  "_id": "3K1jam0ISPD3EKNg",
+  "flags": {},
+  "type": 0,
+  "text": "Место попадания - Левая конечность | Урон = x1/2",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BifjYX8DwwEvIA9t.3K1jam0ISPD3EKNg"
+}

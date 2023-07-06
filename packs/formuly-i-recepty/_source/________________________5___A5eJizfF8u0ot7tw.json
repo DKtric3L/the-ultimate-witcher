@@ -1,0 +1,157 @@
+{
+  "name": "Краснолюдские пробивные(5х)",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-rune-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.A5eJizfF8u0ot7tw"
+    },
+    "cf": {
+      "id": "temp_z9owbmvcylj"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.aaCIpAmS0Zj3zssZ]{Краснолюдские пробивные}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "Ammunition",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Махакамская сталь"
+      },
+      {
+        "id": "_md32grpi0",
+        "name": "Укрепленное дерево",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_qwxzsvrkk",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_gqxolh27d",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_77d446xdg",
+        "name": "Железо",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 184,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Краснолюдские пробивные",
+      "type": "weapon",
+      "img": "icons/weapons/ammunition/arrows-bodkin-yellow-red.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 5,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Дробящее",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": true,
+          "elemental": false
+        },
+        "isAmmo": true,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Разрушающее",
+            "percentage": ""
+          }
+        ],
+        "conceal": "L",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Brawling",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.oruzhie-starshih-narodov.ygGwTLqRmvoMsAfU"
+        },
+        "cf": {
+          "id": "temp_rol4jixhdr"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863940,
+        "modifiedTime": 1672564370744,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848418,
+    "modifiedTime": 1685496579403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "A5eJizfF8u0ot7tw",
+  "folder": "GbYEL4Tu4Aa8pGnG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!A5eJizfF8u0ot7tw"
+}

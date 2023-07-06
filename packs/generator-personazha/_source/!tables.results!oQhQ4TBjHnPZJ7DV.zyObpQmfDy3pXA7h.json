@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Мужчина нпс - ладони",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "H9xXdQ6h1dtR9QIe",
+  "_id": "zyObpQmfDy3pXA7h",
+  "flags": {},
+  "_key": "!tables.results!oQhQ4TBjHnPZJ7DV.zyObpQmfDy3pXA7h"
+}

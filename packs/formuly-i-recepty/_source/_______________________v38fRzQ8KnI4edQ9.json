@@ -1,0 +1,148 @@
+{
+  "name": "Щит налётчика скеллиге",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.v38fRzQ8KnI4edQ9"
+    },
+    "cf": {
+      "id": "temp_ixu4y0oihop"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.oRipAlvLOWl8Omjg]{Щит налетчика скеллиге}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 486,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "5ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "5",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_1uz1ou4ca",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_huooe4f7x",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_a0vd4x93h",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_wxjvx5icg",
+        "name": "component",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 250,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Щит налетчика скеллиге",
+      "type": "armor",
+      "img": "icons/equipment/shield/kite-wooden-boss-steel-red.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 325,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 10,
+        "reliabilityMax": 10,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Medium",
+        "avail": "Poor",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Shield",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_yulv4k2lkie"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837870,
+        "modifiedTime": 1668162837870,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848432,
+    "modifiedTime": 1685496579461,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "v38fRzQ8KnI4edQ9",
+  "folder": "xCYuH6Lu3RuqOi5r",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!v38fRzQ8KnI4edQ9"
+}

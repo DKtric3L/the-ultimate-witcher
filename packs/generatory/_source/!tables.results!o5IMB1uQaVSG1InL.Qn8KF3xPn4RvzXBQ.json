@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    24,
+    24
+  ],
+  "drawn": false,
+  "text": "Ручное зеркальце",
+  "img": "icons/sundries/survival/mirror-plain.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "3hPxiCJfICL4N5ym",
+  "_id": "Qn8KF3xPn4RvzXBQ",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.Qn8KF3xPn4RvzXBQ"
+}

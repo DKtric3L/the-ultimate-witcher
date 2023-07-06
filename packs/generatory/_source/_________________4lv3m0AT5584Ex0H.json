@@ -1,0 +1,38 @@
+{
+  "name": "Таверна - Услуги",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "bNBADw4hhllkBSkY",
+    "uoWmYY1xZBGAW6ig",
+    "fyXcHLWuoZNweJ1H",
+    "2iG3LwZxTbpmK9Fl"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_tydad1d5ono"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644521,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "kf9IUy3zD5qIiqc7",
+  "sort": 0,
+  "_id": "4lv3m0AT5584Ex0H",
+  "_key": "!tables!4lv3m0AT5584Ex0H"
+}

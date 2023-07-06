@@ -1,0 +1,137 @@
+{
+  "name": "Формула: Эликсир Мец",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.AO2qnbfPuEj2zRyc"
+    },
+    "cf": {
+      "id": "temp_gdc4u8gm3ct"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.fUGTU33cMWNtHnmL]{Эликсир Мец}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Темная пыль"
+      },
+      {
+        "id": "_7ylc1uw2b",
+        "name": "Кровь гернихоры",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_hcgwkmjmg",
+        "name": "Яд кракена",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_3thnw3fle",
+        "name": "Кости херикки",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_111kfews8",
+        "name": "Слюна котолака",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_aczoq71ir",
+        "name": "Краснолюдский бессмертник",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Эликсир Мец",
+      "type": "alchemical",
+      "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 1000,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Rare",
+        "effect": "Лечит бич катрионы.",
+        "time": "",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.vgiTABvmA1RTVXLL"
+        },
+        "cf": {
+          "id": "temp_6q0b5iuuekf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868995,
+        "modifiedTime": 1668162868995,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848432,
+    "modifiedTime": 1685496578772,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "K7y2FDlKNGScx7JO",
+  "folder": "kXqf2g6KkXUbdZHs",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!K7y2FDlKNGScx7JO"
+}

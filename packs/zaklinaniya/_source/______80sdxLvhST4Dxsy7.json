@@ -1,0 +1,65 @@
+{
+  "name": "Поток",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/moakh2.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_7aea2ggiqyw"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "Water",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Моахк теперь испускает постоянный поток воды, который наносит 1d6 дробящего урона за каждое затраченное очко Вын и сбивает противника с ног. Поток необходимо поддерживать, каждый раунд затрачивая количество Вын, равное 1/2 изначальной стоимости в Вын. В свой ход заклинатель может сменить цель. Струю можно прицельно направить на часть тела. Любой, попавший под эффект действия знака, становится восприимчив к урону электричеством в течение 5 раундов.",
+    "range": "3 метра",
+    "duration": "Актив(1/2 затрат вын)",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1d6 дробящего урона за каждое вын"
+      },
+      {
+        "id": "_jahgwn5xr",
+        "name": "Сбивает с ног",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638489,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "80sdxLvhST4Dxsy7",
+  "folder": "QhyjillGyHuKzXly",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!80sdxLvhST4Dxsy7"
+}

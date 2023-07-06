@@ -1,0 +1,44 @@
+{
+  "name": "Инструменты торговца",
+  "type": "valuable",
+  "img": "icons/tools/hand/scale-balances-merchant-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zf5u6w9lv4",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.dguSXoyY1gfLZKC3"
+    }
+  },
+  "system": {
+    "description": "+2 к торговле при оценке товара",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 60,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868975,
+    "modifiedTime": 1685496603881,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vwqbNMAQpPLcR9ri",
+  "folder": "q1ZDZnYV2jrmlqwx",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vwqbNMAQpPLcR9ri"
+}

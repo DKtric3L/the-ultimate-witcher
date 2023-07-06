@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Головоломка",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "IkXZJwcIqtxc2rII",
+  "_id": "KcFQoRBLiKae0wcj",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.KcFQoRBLiKae0wcj"
+}

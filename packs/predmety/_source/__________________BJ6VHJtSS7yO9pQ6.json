@@ -1,0 +1,45 @@
+{
+  "name": "Реданское Светлое",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/redanian_light.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_7d9yudez35r",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.ZrGTiOXDbSiT0DVX"
+    }
+  },
+  "system": {
+    "description": "Пройди проверку со сл. 8, при провале становишься зависим от алкоголя(Не только пива).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 9,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868985,
+    "modifiedTime": 1685496603817,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "sVw80ybQgEHBQgD3",
+  "sort": 0,
+  "_id": "BJ6VHJtSS7yO9pQ6",
+  "_key": "!items!BJ6VHJtSS7yO9pQ6"
+}

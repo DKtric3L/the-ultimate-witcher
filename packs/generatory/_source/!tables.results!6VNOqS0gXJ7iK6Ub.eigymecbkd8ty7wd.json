@@ -1,0 +1,16 @@
+{
+  "text": "Песнь небес",
+  "type": 2,
+  "img": "icons/magic/air/weather-sunlight-sky.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "eigymecbkd8ty7wd",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "dH4e8HltoLYTEgG5",
+  "_key": "!tables.results!6VNOqS0gXJ7iK6Ub.eigymecbkd8ty7wd"
+}

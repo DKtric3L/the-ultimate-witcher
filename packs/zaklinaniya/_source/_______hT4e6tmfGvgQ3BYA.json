@@ -1,0 +1,57 @@
+{
+  "name": "Дервиш",
+  "type": "spell",
+  "img": "icons/magic/air/wind-tornado-cyclone-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_o81kbs4tuef"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "air",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Это заклинание разработано таинственным волшебником из Офира. Оно создаёт вокруг заклинателя 2-метровый торнадо, который перенаправляет дистанционные атаки аналогично заклинанию Гвинт Троэлли и действует подобно Зефиру против любого, кто находится в пределах 2 метров от заклинателя. Заклинатель не может бегать во время действия торнадо или совершать из него атаки. Но если заклинатель окажется в пределах 2 метров от цели, на неё будет действовать эффект заклинания Зефир\n\nЗефир создаёт порыв ветра, отталкивающий любого в пределах 2 метров от заклинателя на б метров. Атака наносит ld6 урона, а если цель с чем-то столкнётся, она получит урон от таранящего удара.",
+    "range": "радиус 2м",
+    "duration": "актив(6 вын)",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496638125,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hT4e6tmfGvgQ3BYA",
+  "folder": "KLhC0N9SxeP4F8bD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hT4e6tmfGvgQ3BYA"
+}

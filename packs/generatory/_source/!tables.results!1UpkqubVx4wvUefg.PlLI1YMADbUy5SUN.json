@@ -1,0 +1,16 @@
+{
+  "text": "Волна огня",
+  "type": 2,
+  "img": "icons/magic/fire/blast-jet-stream-splash.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "PlLI1YMADbUy5SUN",
+  "documentId": "Otl2IDoKJmGOIgCk",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.PlLI1YMADbUy5SUN"
+}

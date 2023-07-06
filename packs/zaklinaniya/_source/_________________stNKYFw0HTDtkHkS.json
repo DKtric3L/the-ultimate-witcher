@@ -1,0 +1,60 @@
+{
+  "name": "Кинетический щит",
+  "type": "spell",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.RGBDAoRiFtiX2N2j"
+    },
+    "cf": {
+      "id": "temp_if9101fumkf"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "earth",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Пока действует заклинание вы поглощаете часть энергии любых нанесенных вам ударов. Вы можете перенаправить энергию полученную в этот ход, в физическую атаку, нанося половину полученного вами урона в качестве дополнительного урона. Кинетический щит поглощает половину нанесенного урона, остальной урон приходится на броню.",
+    "range": "на себя",
+    "duration": "1d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496638930,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "stNKYFw0HTDtkHkS",
+  "folder": "uqEc3vi7bmpL3P86",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!stNKYFw0HTDtkHkS"
+}

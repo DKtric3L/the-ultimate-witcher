@@ -1,0 +1,46 @@
+{
+  "name": "Призрачная пыль",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/dust_specter_64x64.png.6880.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Wraiths",
+    "quantityObtainable": "1d6",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_7waal2pnsr2",
+      "color": "#ff0000"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.6D7ZGHixSRNUM5JT"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1680488079234,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_id": "kRfIxT4ymq4xAEuh",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!oCbHun9dgPjg8pCX.kRfIxT4ymq4xAEuh"
+}

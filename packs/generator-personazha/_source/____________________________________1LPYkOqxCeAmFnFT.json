@@ -1,0 +1,47 @@
+{
+  "name": "Как люди реагировали на вашу магию?",
+  "img": "icons/svg/circle.svg",
+  "description": "Как люди реагировали на вашу магию?",
+  "results": [
+    "ML6exM9YEcmbbONG",
+    "B0MRz86JSCgntnXM",
+    "1NJ9VgT3A9eFV84Z",
+    "sZcigQAskVBYdziA",
+    "L5fGktXkvL6165E9",
+    "0DKFBRghyTRVLWSl",
+    "J5rIqBrCuKQHvkDw",
+    "2ZRRjQduURjThndR",
+    "zUggffnYi9jLPzc6",
+    "bwYnDwBwLVsVoQx5",
+    "NyXVKZbfZ7AiRLKe",
+    "MeTmUrfZnLLxzGiR"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Fm1HdC3W7hJimgjo"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901093,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "1LPYkOqxCeAmFnFT",
+  "_key": "!tables!1LPYkOqxCeAmFnFT"
+}

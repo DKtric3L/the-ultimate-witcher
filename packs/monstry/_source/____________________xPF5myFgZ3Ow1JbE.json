@@ -1,0 +1,60 @@
+{
+  "_id": "xPF5myFgZ3Ow1JbE",
+  "name": "Ритуал козьей шкуры",
+  "type": "spell",
+  "img": "icons/creatures/mammals/goat-horned-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.Ac90vL0IVsFeYcIH"
+    },
+    "cf": {
+      "id": "temp_oqoqbffm5o"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "ГОЭТИЯ! Если не знаешь о чем речь, не лезь сюда.\n\nПроцесс: Ритуал козьей шкуры — это сложный ритуал, используемый для создания Мантии из козьей шкуры, которая защищает практикующих гоетиков во время их ритуалов. Во время этого ритуала практикующий, который должен воздерживаться от всех плотских удовольствий и предварительно поститься в течение двух недель, должен помазать козу маслом, настоянным на лепестках гинации и морозника, и возложить на ее голову венок из вербены и шелка. В начале ритуала практикующий должен убить козу, снять с нее кожу и бросить тело в горящий костер из дерева и костей животных. Пока коза горит, практикующий должен читать непрерывную серию защитных молитв. Когда огонь догорит, практикующий должен взять пепел от костра и втереть его в шкуру козы, а затем обжечь ее и прикрепить застежки, сделанные из козьих костей.\n\nЭффект: Вы создаете одну мантию из козьей кожи",
+    "range": "",
+    "duration": "мгновенное",
+    "defence": "",
+    "components": "коза (x1), масло (x5), уголь (x1), Кинжал из кровавого камня, лепестки гинации (x2), лепестки морозника (x3), дубильные травы (x3), вербена (x4), древесина (x10), кости животных (x3), шелк (x1). ДОПЛАТА - 639 крон.",
+    "alternateComponents": "",
+    "preparationTime": "30 раундов",
+    "dificultyCheck": "16",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TAgpqRjhqjZdQ6fL.xPF5myFgZ3Ow1JbE"
+}

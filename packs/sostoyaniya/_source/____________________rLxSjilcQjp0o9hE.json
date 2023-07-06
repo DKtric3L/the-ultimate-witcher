@@ -1,0 +1,34 @@
+{
+  "name": "Проклятье странника",
+  "type": "effect",
+  "img": "icons/magic/death/skeleton-reptile-while-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Одно из самых жестоких проклятий. Самой жертве оно вреда не причиняет, но даже самый верный друг, близкий родственник или товарищ от неё отвернётся. Постепенно люди по­кидают жертву из-за разногласий, ссор, по есте­ственным причинам или из-за похищений, пока (если носитель проклятия дольше месяца оста­ётся на одном месте) сама судьба не попытается убить несчастного.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rLxSjilcQjp0o9hE",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rLxSjilcQjp0o9hE"
+}

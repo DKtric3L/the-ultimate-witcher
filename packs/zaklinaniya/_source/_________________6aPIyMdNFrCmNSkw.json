@@ -1,0 +1,60 @@
+{
+  "name": "Хождение по воде",
+  "type": "spell",
+  "img": "icons/magic/water/bubbles-air-water-light.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.gTWEU3sjizBXpebs"
+    },
+    "cf": {
+      "id": "temp_m5jdkghug28"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "До 5 существ по выбору заклинателя, получают способность ходить по жидким поверхностям в течение 1d10 часов.",
+    "range": "",
+    "duration": "1d10 часов",
+    "defence": "",
+    "components": "Пятая эссенция (x5), Дымная пыль (x2), Мелок (x4), Водная эссенция (x5)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Часы)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496639124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6aPIyMdNFrCmNSkw",
+  "folder": "9Po5TIJ5gLDJqbWG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!6aPIyMdNFrCmNSkw"
+}

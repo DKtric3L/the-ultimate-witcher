@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "nzuOEXdX7j79RBSy",
+  "text": "Наниматель платит тройную сумму за монстра, торгуется неохотно(СЛ 18)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!NNzGcBvEtf8ylxqr.nzuOEXdX7j79RBSy"
+}

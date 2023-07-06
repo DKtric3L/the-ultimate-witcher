@@ -1,0 +1,60 @@
+{
+  "name": "Портал в элементальный план",
+  "type": "spell",
+  "img": "icons/magic/control/debuff-chains-ropes-net-red-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.enZ98FaDSLuCAuyE"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Портал на элементальный план позволяет призвать джинна любого типа (Д‘йин, Д’ао, Марид, Ифрит). Призыв джина не означает контроль над ним.",
+    "range": "",
+    "duration": "одно использование",
+    "defence": "",
+    "components": "Идеальный драгоценный камень (x1), Пятая эссенция (x5), Мелок (x4), Дымная пыль (x1), Любая руна (x2)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "25",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Kd4iR0TQZSuajC6c",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Kd4iR0TQZSuajC6c"
+}

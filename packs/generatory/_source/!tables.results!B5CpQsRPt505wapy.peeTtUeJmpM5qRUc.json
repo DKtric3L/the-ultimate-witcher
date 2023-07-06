@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "peeTtUeJmpM5qRUc",
+  "text": "Причуды - Выставленно странное чучело животного или монстра.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!B5CpQsRPt505wapy.peeTtUeJmpM5qRUc"
+}

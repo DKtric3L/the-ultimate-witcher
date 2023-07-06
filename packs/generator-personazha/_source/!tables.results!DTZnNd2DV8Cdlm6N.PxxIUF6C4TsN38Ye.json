@@ -1,0 +1,16 @@
+{
+  "_id": "PxxIUF6C4TsN38Ye",
+  "type": 0,
+  "text": "Твоя семья немедленно отправила тебя тренироваться.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!DTZnNd2DV8Cdlm6N.PxxIUF6C4TsN38Ye"
+}

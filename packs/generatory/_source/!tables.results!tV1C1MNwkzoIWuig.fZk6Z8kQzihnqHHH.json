@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Катакан",
+  "img": "modules/the-ultimate-witcher/assets/monsters/katakan.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "BwzFiQgQv7tG3Kvb",
+  "_id": "fZk6Z8kQzihnqHHH",
+  "flags": {},
+  "_key": "!tables.results!tV1C1MNwkzoIWuig.fZk6Z8kQzihnqHHH"
+}

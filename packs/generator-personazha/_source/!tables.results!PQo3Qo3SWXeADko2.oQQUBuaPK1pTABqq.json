@@ -1,0 +1,16 @@
+{
+  "_id": "oQQUBuaPK1pTABqq",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей убил мятежный маг. Скорее всего, они хотели сдать его империи, но за это и поплатились.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!PQo3Qo3SWXeADko2.oQQUBuaPK1pTABqq"
+}

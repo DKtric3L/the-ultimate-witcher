@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Плохо гнётся рука(-1 к ближнему бою этой рукой). После удара по руке вы много недель лечились, но в итоге рука плохо гнется. Вы можете держать меч и сражаться, но снижение подвижности вам мешает.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Z7kTt2NxEPQu1oAu.kQX7ZeIIWKy5yTPF"
+}

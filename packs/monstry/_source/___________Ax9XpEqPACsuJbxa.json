@@ -1,0 +1,60 @@
+{
+  "_id": "Ax9XpEqPACsuJbxa",
+  "name": "Тиромантия",
+  "type": "spell",
+  "img": "icons/consumables/food/cheese-wedge-swiss-yellow.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.cCuabL0ttkiaK5eq"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Магическим образом выдерживая или плавя сыр и внимательно наблюдая за его качествами, Тиромантия позволяет вам угадать, будет ли курс действий иметь положительный или отрицательный результат. Когда ритуал проводится, мастер бросает 1d6 и либо прибавляет, либо вычитает полученное значение из 13, чтобы определить СЛ ритуала. Если используемый сыр стандартного качества или ниже (10 крон за единицу), d6 прибавляется к 13. Если используемый сыр высокого качества (30 крон за единицу), d6 вычитается. Затем вы совершаете проверку Наложения ритуала против этой СЛ. После проверки вы можете спросить Мастера, будет ли курс действий иметь положительный или отрицательный результат. Если ваша проверка прошла успешно, Мастер должен ответить правдиво. Если результат действия будет как положительным, так и отрицательным, ответ будет тот, который будет более быстрым. Если вы потерпите неудачу, Мастер даст вам ложный ответ, основанный на частном броске его d6. Если число было нечетным, ложный ответ отрицательный, если число четное, ложный ответ положительны",
+    "range": "",
+    "duration": "Мгновенная",
+    "defence": "",
+    "components": "Сыр(2х)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "13+-1d6",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!xZuE8ZwVG8NresXh.Ax9XpEqPACsuJbxa"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "KIEjDit1lRWSQZfY",
+  "type": 0,
+  "text": "Фамильяр. Вы приобрели дружбу животного, которое следует за вами повсюду. Это может быть кошка, собака, птица или змея. Это животное обучено и следует вашим командам, если вы не злоупотребляете им.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ENltA9xkbh8cljBm.KIEjDit1lRWSQZfY"
+}

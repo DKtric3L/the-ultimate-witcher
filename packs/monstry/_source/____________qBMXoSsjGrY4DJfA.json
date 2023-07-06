@@ -1,0 +1,80 @@
+{
+  "_id": "qBMXoSsjGrY4DJfA",
+  "name": "Волна углей",
+  "type": "weapon",
+  "img": "icons/magic/fire/flame-burning-campfire-rocks.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Everywhere",
+    "damage": "1d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "В качестве действия полного хода феникс может пролететь не более 30 метров, оставляя за собой полосу тлеющих углей длиной 30 метров и шириной 6 метров. Все в этой зоне должны совершить проверку защиты со СЛ 18.",
+        "percentage": ""
+      },
+      {
+        "id": "_0km5o78iz",
+        "name": "Горение",
+        "percentage": "75"
+      },
+      {
+        "id": "_1ndou43cb",
+        "name": "Урон 1d6 в каждую часть тела",
+        "percentage": ""
+      },
+      {
+        "id": "_ekicklhbj",
+        "name": "По окончании хода феникса землю в зоне поражения охватывает пламя. Любой, кто завершит свой ход в этой зоне, может заго реться с вероятностью 75 %. Двимеритовые бомбы не дают использовать эту способность.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!fDqDFVREsbBM9EX9.qBMXoSsjGrY4DJfA"
+}

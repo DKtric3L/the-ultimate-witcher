@@ -1,0 +1,16 @@
+{
+  "_id": "LEz6AVGxGmTiJS5K",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Вы очернили свою семью перед империей. То, что вы сделали(или не смогли сделать), запятнало ваше имя и навредило семье.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.LEz6AVGxGmTiJS5K"
+}

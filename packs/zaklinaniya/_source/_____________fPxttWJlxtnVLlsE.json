@@ -1,0 +1,60 @@
+{
+  "name": "Тьма Диндаха",
+  "type": "spell",
+  "img": "icons/magic/light/orb-shadow-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.qWavPhyjZSVa2egC"
+    },
+    "cf": {
+      "id": "temp_1ldq6zu6i6ej"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Диндах была могущественным магом огня темных эльфов. Темнота \n\nДиндаха покрывает область в 10 м вокруг заклинателя густым дымом. Из-за этого дыма в зоне действия царит полная темнота, и любой, кто проведет в нем больше одного раунда, начинает задыхаться. На самого заклинателя этот эффект не действует.",
+    "range": "на себя",
+    "duration": "2d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496638808,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "fPxttWJlxtnVLlsE",
+  "folder": "ZcfqdHfSUvKAeyeQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!fPxttWJlxtnVLlsE"
+}

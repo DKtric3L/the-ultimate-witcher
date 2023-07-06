@@ -1,0 +1,37 @@
+{
+  "name": "Случайная Порча",
+  "img": "icons/magic/death/skeleton-worn-skull-tan.webp",
+  "description": "",
+  "results": [
+    "F59eSlfD3K7bSvPN",
+    "OIyID7Rfg52LQViU",
+    "O4YP7jHb6WAabiz7"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.JTK8aDoURnuaqxES"
+    },
+    "cf": {
+      "id": "temp_oddsyf39dc"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932919,
+    "modifiedTime": 1685496644606,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Rpp9t3tO312mCijo",
+  "folder": "uKGFgwngm5WaWid7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!Rpp9t3tO312mCijo"
+}

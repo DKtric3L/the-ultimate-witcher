@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Какой медальон",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "R1Wim2doKrS6CgFI",
+  "_id": "FrUO2hx42n4coeHI",
+  "flags": {},
+  "_key": "!tables.results!qLkYfaLWMyANz8k4.FrUO2hx42n4coeHI"
+}

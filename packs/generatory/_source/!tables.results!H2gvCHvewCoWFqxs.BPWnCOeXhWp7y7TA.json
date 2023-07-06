@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Формула: Обеззараживающая жидкость",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "6NBFHMVI2u0GiOuo",
+  "_id": "BPWnCOeXhWp7y7TA",
+  "flags": {},
+  "_key": "!tables.results!H2gvCHvewCoWFqxs.BPWnCOeXhWp7y7TA"
+}

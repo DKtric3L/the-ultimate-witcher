@@ -1,0 +1,16 @@
+{
+  "text": "Скеллигское стремя",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-anchor.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "CVXx45xRNl43IUjU",
+  "documentId": "LLOvHDJ2bigvMB0F",
+  "flags": {},
+  "_key": "!tables.results!9Fa3nd8m3uM9BUPi.CVXx45xRNl43IUjU"
+}

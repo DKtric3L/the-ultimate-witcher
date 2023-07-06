@@ -1,0 +1,63 @@
+{
+  "name": "Кожа краснолюда",
+  "type": "armor",
+  "img": "icons/commodities/metal/mail-chain-steel.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.pJSqBmRDQkoiH9TC"
+    },
+    "cf": {
+      "id": "temp_q7eun34w9an"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 2,
+    "headMaxStopping": 2,
+    "torsoStopping": 2,
+    "torsoMaxStopping": 2,
+    "leftArmStopping": 2,
+    "leftArmMaxStopping": 2,
+    "rightArmStopping": 2,
+    "rightArmMaxStopping": 2,
+    "leftLegStopping": 2,
+    "leftLegMaxStopping": 2,
+    "rightLegStopping": 2,
+    "rightLegMaxStopping": 2,
+    "type": "Natural",
+    "avail": "Rare",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883168,
+    "modifiedTime": 1685496621600,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "12ZgJTFeSa6RPbKQ",
+  "folder": "SZ0J6KDZWpPprI2E",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!12ZgJTFeSa6RPbKQ"
+}

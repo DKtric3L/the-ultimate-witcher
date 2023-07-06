@@ -1,0 +1,57 @@
+{
+  "name": "Удержание языка",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_dpnqmwag5w"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Удержание языка позволяет вам волшебным образом склеить губы цели и парализовать ее язык, лишив ее возможности говорить. Под действием этого заклинания цель не может открыть рот и может издавать только приглушенные звуки. Если маг, жрец или друид со значением навыка сотворения заклинаний ниже 7 находятся под действием этого заклинания, они не могут использовать магию. В конце каждого раунда цель может сделать еще одну проверку Сопротивления Магии против новой проверки Сотворения Заклинаний, чтобы закончить эффект.",
+    "range": "10м",
+    "duration": "10 мин",
+    "defence": "сопр кагии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496637764,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nR1DW6lbgcG6vGK1",
+  "folder": "cnIlwgnwtzSIOWjW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nR1DW6lbgcG6vGK1"
+}

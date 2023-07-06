@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Трупоеды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Necrophages.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "ZAJL98P2snJZYjgf",
+  "_id": "m4NKThaDeDnk03MP",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.m4NKThaDeDnk03MP"
+}

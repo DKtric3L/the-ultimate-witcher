@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "OiDNe4K18R8RtoiH",
+  "text": "Толчок ногой.(Половина урона, отталкивание на Тел/3)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Wlkm7eNQxzlm5Zlf.OiDNe4K18R8RtoiH"
+}

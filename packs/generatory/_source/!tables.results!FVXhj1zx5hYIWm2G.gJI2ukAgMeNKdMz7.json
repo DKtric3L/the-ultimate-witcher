@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Барбегаз",
+  "img": "modules/the-ultimate-witcher/assets/monsters/barbegaz.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "qOeshE5agSB5fBgv",
+  "_id": "gJI2ukAgMeNKdMz7",
+  "flags": {},
+  "_key": "!tables.results!FVXhj1zx5hYIWm2G.gJI2ukAgMeNKdMz7"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Крылья песчанного червя",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/hide_ekimma_64x64.png.6919.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rcov954udlf",
+      "color": "#3b9b58"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.xMNtsOc8lEkeScaW"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 254,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Песчаные черви",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853701,
+    "modifiedTime": 1685496584251,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "soKFenHYMDdNTn6j",
+  "folder": "k0WBGxAKzk1zxRGK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!soKFenHYMDdNTn6j"
+}

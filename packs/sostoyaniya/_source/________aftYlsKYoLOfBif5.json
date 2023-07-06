@@ -1,0 +1,57 @@
+{
+  "name": "Доверие",
+  "type": "effect",
+  "img": "icons/skills/social/diplomacy-handshake.webp",
+  "system": {
+    "description": "В мире, где нелюдям не доверяют, людям довериться куда проще. У людей есть врожденный бонус +1 к проверкам Харизмы, Соблазнения и Убеждения против других людей.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "1"
+      },
+      {
+        "id": "_oud8ibqhj",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "1"
+      },
+      {
+        "id": "_161f13f61",
+        "skill": "WITCHER.SkEmpPersuasion",
+        "modifier": "1"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "400bd94251d27961bb21ae7a95cfb5ddb82c8d97",
+      "sourceId": "Item.4WmN72Ptay5Zk65j"
+    },
+    "core": {
+      "sourceId": "Item.4WmN72Ptay5Zk65j"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672503606471,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "aftYlsKYoLOfBif5",
+  "_key": "!items!aftYlsKYoLOfBif5"
+}

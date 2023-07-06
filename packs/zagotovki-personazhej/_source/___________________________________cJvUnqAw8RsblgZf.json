@@ -1,0 +1,40 @@
+{
+  "_id": "cJvUnqAw8RsblgZf",
+  "name": "Инструменты для творчества(ювелир)",
+  "type": "valuable",
+  "img": "icons/tools/laboratory/bowl-liquid-pink-yellow-green.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.bNVxMwvXwDQKJhLc"
+    }
+  },
+  "system": {
+    "description": "Позволяют создавать предметы искусства(Картины, скульптуры, украшения и тд.)",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 55,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671035499544,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!1vDqhyNaFcTqTS7f.cJvUnqAw8RsblgZf"
+}

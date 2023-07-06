@@ -1,0 +1,16 @@
+{
+  "_id": "OAW3DJizEEzA919s",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Cautious Outcome",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    91,
+    100
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "Cu6cvsExH9Rczjn4",
+  "_key": "!tables.results!09MXduRik0BKuUqa.OAW3DJizEEzA919s"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Песочные часы, минута",
+  "type": "valuable",
+  "img": "icons/tools/navigation/hourglass-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.UPPvTyRLmEB93F0e"
+    }
+  },
+  "system": {
+    "description": "Точный отсчёт времени для таких занятий, как алхимия или закаливание клинков, требует песочных часов поменьше.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 18,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868985,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vZMNbiCDtyUDc7yu",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vZMNbiCDtyUDc7yu"
+}

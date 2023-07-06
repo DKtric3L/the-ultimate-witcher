@@ -1,0 +1,42 @@
+{
+  "name": "Хитин",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/plate_monstrous_64x64.png.6934.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 5,
+    "cost": 106,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Главоглазы и эндриаги",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.vWUsM0gT1pCtlWXq"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853706,
+    "modifiedTime": 1669963842357,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "upAvItRzn8mAD7zg",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!pRqHtrCy0XKnoDcw.upAvItRzn8mAD7zg"
+}

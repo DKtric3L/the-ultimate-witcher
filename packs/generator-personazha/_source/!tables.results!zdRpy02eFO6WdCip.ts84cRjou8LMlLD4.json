@@ -1,0 +1,16 @@
+{
+  "_id": "ts84cRjou8LMlLD4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Ваш родственник-маг запятнал имя семьи, выставляя напоказ свой магический дар, словно какой-то северянин.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.ts84cRjou8LMlLD4"
+}

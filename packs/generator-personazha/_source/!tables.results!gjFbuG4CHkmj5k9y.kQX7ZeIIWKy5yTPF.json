@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Самое важное событие - Сражался плечом к плечу с рыцарем. Возможно, вы оба этого не хотели. Возможно, это была случайность, но битва плечом в плечу с аристократом изменила ваш взгляд на рыцарей и работу ведьмака.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gjFbuG4CHkmj5k9y.kQX7ZeIIWKy5yTPF"
+}

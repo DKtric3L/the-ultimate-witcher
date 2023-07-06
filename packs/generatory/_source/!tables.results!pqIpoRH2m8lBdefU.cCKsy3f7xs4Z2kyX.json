@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "text": "Кольцо благосклонности",
+  "img": "icons/equipment/finger/ring-ball-leaves-green.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "I2QiNKnb2ZzR6vna",
+  "_id": "cCKsy3f7xs4Z2kyX",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.cCKsy3f7xs4Z2kyX"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Зелье берсерка",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/berserk_potion.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    },
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.C6c9eod6aJzrtz6U"
+    }
+  },
+  "system": {
+    "description": "Выпив это зелье, цель должна каждый ход совершать проверку\nСтойкости со СЛ 16. При провале она обязана атаковать ближайшего персонажа. При успехе исступление утихает до следующего хода.\nЗелье берсерка действует 1d10 раундов.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IbUWt2Wip3nuvtGS",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IbUWt2Wip3nuvtGS"
+}

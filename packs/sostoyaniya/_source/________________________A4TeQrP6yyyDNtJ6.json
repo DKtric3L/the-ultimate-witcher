@@ -1,0 +1,34 @@
+{
+  "name": "Разрыв селезёнки (стаб)",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0okd4sumrx3o"
+    }
+  },
+  "system": {
+    "description": "У персонажа разрыв селезёнки, из-за чего он чувствует слабость. Совершайте испытание Устойчивости каждые 10 раундов.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621814,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "A4TeQrP6yyyDNtJ6",
+  "folder": "popcTSR0VPsBTxwV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!A4TeQrP6yyyDNtJ6"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    33,
+    33
+  ],
+  "drawn": false,
+  "text": "Учётная книга",
+  "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "IpqFIZYxvg2JmM7G",
+  "_id": "eItQjka7Huayo94w",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.eItQjka7Huayo94w"
+}

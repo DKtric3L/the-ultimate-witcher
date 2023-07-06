@@ -1,0 +1,16 @@
+{
+  "_id": "aLWilOjK1d94Rr0Y",
+  "flags": {},
+  "type": 2,
+  "text": "Генератор: Ведьмак",
+  "img": "icons/sundries/scrolls/scroll-worn-beige.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "C5d6zkIMvS9gDWEN",
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.aLWilOjK1d94Rr0Y"
+}

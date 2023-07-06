@@ -1,0 +1,44 @@
+{
+  "name": "Мутаген: Бес",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_fv6olz7y9lh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.iidEEijGbOKLhlej"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Бес",
+    "effect": "+1 ТЕЛ",
+    "alchemyDC": "22",
+    "minorMutation": "Маленькие рога"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868980,
+    "modifiedTime": 1685496603726,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "OR0mKyfwobtnlWRq",
+  "folder": "VRFufJJy36LEhABA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OR0mKyfwobtnlWRq"
+}

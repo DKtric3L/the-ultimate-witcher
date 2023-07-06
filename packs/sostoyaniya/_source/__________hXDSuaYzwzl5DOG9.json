@@ -1,0 +1,54 @@
+{
+  "name": "Опьянение",
+  "type": "effect",
+  "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.hXDSuaYzwzl5DOG9"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонаж пьян. Он получает штраф -2 к Реа, Лвк и Инт, а также -3 в Словесной дуэли. Есть шанс 25 %, что персонаж будет плохо помнить, что делал в состоянии опьянения",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-2"
+      },
+      {
+        "id": "_tu2oqy47p",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-2"
+      },
+      {
+        "id": "_art2i1w7y",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "-2"
+      }
+    ],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883170,
+    "modifiedTime": 1688508891852,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "hXDSuaYzwzl5DOG9",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hXDSuaYzwzl5DOG9"
+}

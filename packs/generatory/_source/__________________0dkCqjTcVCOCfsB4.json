@@ -1,0 +1,46 @@
+{
+  "name": "Случайный предмет",
+  "img": "icons/sundries/gaming/dice-pair-white-green.webp",
+  "description": "",
+  "results": [
+    "6yhRugh54Y9zTtaT",
+    "beTBKwyEd8vOFnXd",
+    "o4guVI9BxG9ZSXDT",
+    "pRnKRFaQi16a64io",
+    "yjbzsLsqpeOBJFHM",
+    "fjaO59giadl5KiU0",
+    "hv7Z86QPEjPicvj6",
+    "lVSavxEyOP0F2ftl",
+    "PGdksTccurwp2qsO",
+    "JBbR1JdZQzU92Pn3",
+    "641Ef5tCaT9XZ0Tb",
+    "Kjjnr1y9pjfvWagN"
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.KQS3HtWRY1zpSqYA"
+    },
+    "cf": {
+      "id": "temp_o8v204tslw"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932916,
+    "modifiedTime": 1685496644573,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0dkCqjTcVCOCfsB4",
+  "folder": "Xh9XSSmbD1c7r9vq",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!0dkCqjTcVCOCfsB4"
+}

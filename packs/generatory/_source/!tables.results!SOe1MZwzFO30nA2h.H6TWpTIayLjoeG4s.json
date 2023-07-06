@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Разбойник с посохом",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Dimun_smuggler_Grafit_Studio.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "3yhpYb0pZd1ZwlDe",
+  "_id": "H6TWpTIayLjoeG4s",
+  "flags": {},
+  "_key": "!tables.results!SOe1MZwzFO30nA2h.H6TWpTIayLjoeG4s"
+}

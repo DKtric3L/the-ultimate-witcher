@@ -1,0 +1,16 @@
+{
+  "_id": "oKZeEBIq2FLMNk2e",
+  "flags": {},
+  "type": 0,
+  "text": "Самое важное событие - Нападение разумного чудовища. В ходе охоты ситуация обернулась против вас. Разумные чудовища вроде кладбищенских баб или катаканов могут быть очень опасны, и в итоге добычей чуть не стали вы сами.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gjFbuG4CHkmj5k9y.oKZeEBIq2FLMNk2e"
+}

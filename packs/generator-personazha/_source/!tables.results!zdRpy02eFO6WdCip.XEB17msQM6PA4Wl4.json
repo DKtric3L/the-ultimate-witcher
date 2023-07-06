@@ -1,0 +1,16 @@
+{
+  "_id": "XEB17msQM6PA4Wl4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Вашу семью убили. Возможно, они встали у кого-то на пути, или же через них пытались подобраться к кому-то более могущественному. Так или иначе, ваши родные мертвы.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.XEB17msQM6PA4Wl4"
+}

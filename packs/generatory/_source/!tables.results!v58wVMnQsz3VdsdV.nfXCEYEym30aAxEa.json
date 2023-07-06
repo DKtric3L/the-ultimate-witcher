@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Болезнь: Вши(1 стадия, 5-12 день)",
+  "img": "icons/creatures/invertebrates/spider-beetle-runed-green.webp",
+  "documentCollection": "the-ultimate-witcher.sostoyaniya",
+  "documentId": "3WHZjCnmRyygN25k",
+  "_id": "nfXCEYEym30aAxEa",
+  "flags": {},
+  "_key": "!tables.results!v58wVMnQsz3VdsdV.nfXCEYEym30aAxEa"
+}

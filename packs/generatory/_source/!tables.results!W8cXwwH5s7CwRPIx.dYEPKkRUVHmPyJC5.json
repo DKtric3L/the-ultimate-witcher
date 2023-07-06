@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    27,
+    27
+  ],
+  "drawn": false,
+  "text": "Слёзы Тальгара",
+  "img": "modules/the-ultimate-witcher/assets/props/talgars_tears.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "gzbwqWmRjZYzS9x3",
+  "_id": "dYEPKkRUVHmPyJC5",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.dYEPKkRUVHmPyJC5"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Маги",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "0oVQUIuNxyqB74LN",
+    "ueQhTFbguOMJNIs6",
+    "8M5QH1YgDPnwCSWs",
+    "QRXKe5PG7TJmsC7N",
+    "zECQo2eah7rPbQZj",
+    "EVmpmGUblDEVlTwY",
+    "n3ZAy4nQgNZ4QKYR"
+  ],
+  "formula": "1d7",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_vq8su69r1f"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644307,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ldQY0gGf4z766agB",
+  "sort": 0,
+  "_id": "PwkSg3BxS9FxVkyI",
+  "_key": "!tables!PwkSg3BxS9FxVkyI"
+}

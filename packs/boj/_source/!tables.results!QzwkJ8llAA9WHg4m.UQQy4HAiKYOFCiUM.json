@@ -1,0 +1,16 @@
+{
+  "_id": "UQQy4HAiKYOFCiUM",
+  "type": 0,
+  "text": "Частично прошедшая через персонажа магия загорается внутри него. Заклинание не срабатывает, и персонаж испытывает стихийный эффект критического провала своего заклинания.",
+  "weight": 1,
+  "range": [
+    7,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!QzwkJ8llAA9WHg4m.UQQy4HAiKYOFCiUM"
+}

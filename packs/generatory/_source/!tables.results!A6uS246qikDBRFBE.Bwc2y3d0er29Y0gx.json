@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    68,
+    100
+  ],
+  "drawn": false,
+  "text": "Эликсиры",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "rzZkJtuOclU4tD3E",
+  "_id": "Bwc2y3d0er29Y0gx",
+  "flags": {},
+  "_key": "!tables.results!A6uS246qikDBRFBE.Bwc2y3d0er29Y0gx"
+}

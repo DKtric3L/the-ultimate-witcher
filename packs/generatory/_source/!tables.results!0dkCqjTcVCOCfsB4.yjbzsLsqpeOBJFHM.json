@@ -1,0 +1,16 @@
+{
+  "_id": "yjbzsLsqpeOBJFHM",
+  "type": 2,
+  "text": "Магические предметы",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "pqIpoRH2m8lBdefU",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.yjbzsLsqpeOBJFHM"
+}

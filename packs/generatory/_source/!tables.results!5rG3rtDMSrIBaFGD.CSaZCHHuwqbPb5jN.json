@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "_id": "CSaZCHHuwqbPb5jN",
+  "text": "Паршивец",
+  "img": "modules/the-ultimate-witcher/assets/monsters/brat.webp",
+  "documentId": "nIjkDAEWYAz03ks1",
+  "flags": {},
+  "_key": "!tables.results!5rG3rtDMSrIBaFGD.CSaZCHHuwqbPb5jN"
+}

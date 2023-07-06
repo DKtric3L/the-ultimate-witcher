@@ -1,0 +1,26 @@
+{
+  "_id": "2Ooj3VXoyGm2CBWm",
+  "name": "Бесплотность",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Полуденница всегда бесплотна, что делает её невосприимчивой к физическим атакам, кровотечению и яду."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TsyopxebmCzKSeqj.2Ooj3VXoyGm2CBWm"
+}

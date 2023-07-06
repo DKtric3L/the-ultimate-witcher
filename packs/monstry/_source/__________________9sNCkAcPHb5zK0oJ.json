@@ -1,0 +1,46 @@
+{
+  "_id": "9sNCkAcPHb5zK0oJ",
+  "name": "Камень Элементаля",
+  "type": "component",
+  "img": "systems/TheWitcherTRPG/assets/images/quebrith.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wknbvmdbjsd",
+      "color": "#e7c61d"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.07FzhHnMOl8d0ujp"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 134,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Все элементали",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!hTcTCWMsqHdGmI3M.9sNCkAcPHb5zK0oJ"
+}

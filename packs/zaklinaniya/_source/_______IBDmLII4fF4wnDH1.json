@@ -1,0 +1,60 @@
+{
+  "name": "Аэтрик",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/aetrick.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_o2pfhdxk2ma"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "basic",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Аэтрик выпускает из руки заклинателя поток чистого хаоса. Этот поток взаимодействует с тонкими материями, позволяя распознавать магию, иллюзии, проклятия и призраков в виде красочных узоров. Только заклинатель, знающий этот знак, может интерпретировать то, что видит. Дистанция - это конус длина которого увеличивается на 1 м за каждое затраченное очко Вын.",
+    "range": "1м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496638464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IBDmLII4fF4wnDH1",
+  "folder": "7aDTE4Bqwe5aou9p",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IBDmLII4fF4wnDH1"
+}

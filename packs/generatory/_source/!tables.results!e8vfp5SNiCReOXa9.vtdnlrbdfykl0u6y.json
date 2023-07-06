@@ -1,0 +1,16 @@
+{
+  "text": "Вино",
+  "type": 2,
+  "img": "icons/containers/barrels/barrel-hogshead-cask-oak-brown.webp",
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "_id": "vtdnlrbdfykl0u6y",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Z0YnzLlMOLs1EvZC",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.vtdnlrbdfykl0u6y"
+}

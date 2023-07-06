@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    36,
+    36
+  ],
+  "drawn": false,
+  "text": "Уздечка",
+  "img": "icons/commodities/leather/leather-buckle-clip-steel.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "g2XnaH5r7VVFgnCW",
+  "_id": "fbZW23AxcKKdLDfN",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.fbZW23AxcKKdLDfN"
+}

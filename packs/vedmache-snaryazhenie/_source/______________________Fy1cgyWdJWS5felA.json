@@ -1,0 +1,73 @@
+{
+  "name": "Арбалет школы грифона",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-loaded-black.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.tTt1f6OWXMOF7JnT"
+    },
+    "cf": {
+      "id": "temp_bej0ldlpz"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 1,
+    "avail": "Everywhere",
+    "damage": "2d6+2",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "50м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Медленная перезарядка",
+        "percentage": ""
+      },
+      {
+        "id": "_hpir8721x",
+        "name": "Улучшенное пробивающее броню",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Crossbow",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887304,
+    "modifiedTime": 1685496626829,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Fy1cgyWdJWS5felA",
+  "folder": "9BJJQ3mEqZ0XIJYh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Fy1cgyWdJWS5felA"
+}

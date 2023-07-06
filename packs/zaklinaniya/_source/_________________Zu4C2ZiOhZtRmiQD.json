@@ -1,0 +1,60 @@
+{
+  "name": "Воздушный пузырь",
+  "type": "spell",
+  "img": "icons/magic/water/orb-water-bubbles.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.2scS9zxSEtkvPBZh"
+    },
+    "cf": {
+      "id": "temp_rkoyph3dfy"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "air",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Воздушный пузырь позволяет вам создать сферу чистого ветра, которая вытягивает из окружающей среды любой газ, по вашему выбору. Таким образом вы можете вытянуть что угодно, от ядовитого газа до тумана. После того, как сфера вытягивает газ, она поднимается в небо.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892155,
+    "modifiedTime": 1685496638961,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Zu4C2ZiOhZtRmiQD",
+  "folder": "LTR8wJncOHVonFgc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Zu4C2ZiOhZtRmiQD"
+}

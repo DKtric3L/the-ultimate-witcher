@@ -1,0 +1,16 @@
+{
+  "text": "Шторм Ван Аделаиды",
+  "type": 2,
+  "img": "icons/magic/air/wind-vortex-swirl-blue-purple.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "rb9KGaiQm9nwAwX5",
+  "documentId": "w60vQdigzIiONomS",
+  "flags": {},
+  "_key": "!tables.results!jwNLKKU8qFbzLhTY.rb9KGaiQm9nwAwX5"
+}

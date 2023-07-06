@@ -1,0 +1,16 @@
+{
+  "text": "Нитки",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-magical.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "mkuuymc237mwmj7v",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "HtHEE9c3yeGZweNG",
+  "_key": "!tables.results!Tj2GArVExFFvU3zk.mkuuymc237mwmj7v"
+}

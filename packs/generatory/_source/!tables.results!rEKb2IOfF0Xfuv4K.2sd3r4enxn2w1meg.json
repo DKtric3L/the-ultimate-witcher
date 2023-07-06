@@ -1,0 +1,16 @@
+{
+  "text": "Глифово слово: Сияние",
+  "type": 2,
+  "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "_id": "2sd3r4enxn2w1meg",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "cmeOsbkEopunBWUy",
+  "_key": "!tables.results!rEKb2IOfF0Xfuv4K.2sd3r4enxn2w1meg"
+}

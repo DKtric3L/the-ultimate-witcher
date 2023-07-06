@@ -1,0 +1,16 @@
+{
+  "_id": "PI8nDwYW2aMcYmnK",
+  "type": 0,
+  "text": "Персонаж не только сбит с ног, но и получает урон по голове. Пройдите проверку устойчивости, чтобы избежать дезориентации.",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ZkJPLpOcg5KIqbps.PI8nDwYW2aMcYmnK"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Железо",
+  "img": "icons/commodities/metal/ingot-iron.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "4kt9b4XRkme0fmtr",
+  "_id": "GtpK6d48DjjnDPtt",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.GtpK6d48DjjnDPtt"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Неожиданная удача - За это десятилетие вам удалось заработать неожиданно крупную сумму. Вы смогли не только оплатить алхимические ингредиенты и починку снаряжения, но и отложили немного денег на будущее. Получите 1d10*100 крон.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Fh8VJ3C7tUE27Cc9.kQX7ZeIIWKy5yTPF"
+}

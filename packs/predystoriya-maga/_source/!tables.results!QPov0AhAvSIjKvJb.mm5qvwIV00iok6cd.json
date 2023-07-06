@@ -1,0 +1,16 @@
+{
+  "_id": "mm5qvwIV00iok6cd",
+  "type": 0,
+  "text": "Сделали собственную фокусировку. Вы создали свой первый предмет фокусировки. Вы получаете Амулет, который считается для вас предметом Фокусировки (2). Вас взял в ученики маг.",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!QPov0AhAvSIjKvJb.mm5qvwIV00iok6cd"
+}

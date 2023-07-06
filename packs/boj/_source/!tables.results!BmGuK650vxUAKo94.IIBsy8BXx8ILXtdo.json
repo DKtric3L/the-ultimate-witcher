@@ -1,0 +1,16 @@
+{
+  "_id": "IIBsy8BXx8ILXtdo",
+  "type": 0,
+  "text": "10 урона сквозь броню",
+  "weight": 1,
+  "range": [
+    1,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BmGuK650vxUAKo94.IIBsy8BXx8ILXtdo"
+}

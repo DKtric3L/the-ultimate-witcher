@@ -1,0 +1,16 @@
+{
+  "text": "Усиленная тетива",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-anchor.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "dthZ7zAl88Ob9byb",
+  "documentId": "4iuCvnGSwRq4qUuK",
+  "flags": {},
+  "_key": "!tables.results!d4MIY08Ac2P9727q.dthZ7zAl88Ob9byb"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    17,
+    17
+  ],
+  "drawn": false,
+  "text": "Магический компас",
+  "img": "icons/tools/navigation/compass-chain-blue.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "LsX0j8X46e6g9Ne6",
+  "_id": "FDI3VBZ6e3oMxYkP",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.FDI3VBZ6e3oMxYkP"
+}

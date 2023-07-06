@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Анаболические стероиды",
+  "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "2YSVIXvpcWw1bRbM",
+  "_id": "A31ReA0TqJlplVFI",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.A31ReA0TqJlplVFI"
+}

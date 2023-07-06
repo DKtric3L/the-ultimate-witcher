@@ -1,0 +1,168 @@
+{
+  "name": "Махакамская павеза",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-tree-silver-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.Pe6SiwdrGifBjV4k"
+    },
+    "cf": {
+      "id": "temp_qyydi88el9s"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.wKW1yKPLegCRYfFS]{Махакамская павеза}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1574,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-armor",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": 26,
+    "alchemyDC": 0,
+    "craftingTime": "7ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "10",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_k1reivjc2",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_ooh1g88fb",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "11"
+      },
+      {
+        "id": "_zncqhj3wc",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_trz3fqyy1",
+        "name": "Махакамская сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_cknwyrbmf",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_mm34emxuh",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 788,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Махакамская павеза",
+      "type": "armor",
+      "img": "icons/equipment/shield/heater-steel-boss-red.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 5.5,
+        "cost": 1050,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 35,
+        "reliabilityMax": 35,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Heavy",
+        "avail": "Everywhere",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Можно поставить на землю"
+          }
+        ],
+        "encumb": 1,
+        "location": "Shield",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.dospehi-starshego-naroda.gvrcPbhgMpLUjAOb"
+        },
+        "cf": {
+          "id": "temp_njuve1krma"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837867,
+        "modifiedTime": 1668162837867,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848420,
+    "modifiedTime": 1685496579540,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Pe6SiwdrGifBjV4k",
+  "folder": "1rLi9NNO3m4tNUPN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Pe6SiwdrGifBjV4k"
+}

@@ -1,0 +1,195 @@
+{
+  "id": "the-ultimate-witcher",
+  "title": "Ультимативный Сборник По Ведьмаку",
+  "description": "<p>Здесь ты найдёшь всё, что тебе когда либо требовалось для комфортной игры в Ведьмака, и даже больше.</p><p>Заходи на наш дискорд-канал <a href=\"https://discord.gg/scgKeUhNet\">https://discord.gg/scgKeUhNet</a></p>",
+  "authors": [
+    {
+      "name": "Daekatriel",
+      "discord": "Daekatriel#8765",
+      "url": "https://boosty.to/daekatrielmalinaproject",
+      "flags": {}
+    }
+  ],
+  "version": "1.2.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "dospehi",
+      "label": "Доспехи",
+      "path": "packs/dospehi",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "formuly-i-recepty",
+      "label": "Формулы и Рецепты",
+      "path": "packs/formuly-i-recepty",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "komponenty",
+      "label": "Компоненты",
+      "path": "packs/komponenty",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "monstry",
+      "label": "Монстры",
+      "path": "packs/monstry",
+      "type": "Actor",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "oruzhie",
+      "label": "Оружие",
+      "path": "packs/oruzhie",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "predmety",
+      "label": "Предметы",
+      "path": "packs/predmety",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "prochee",
+      "label": "Прочее",
+      "path": "packs/prochee",
+      "type": "Actor",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "rasy-i-professii",
+      "label": "Расы и Профессии",
+      "path": "packs/rasy-i-professii",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "relikvii",
+      "label": "Реликвии",
+      "path": "packs/relikvii",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "sostoyaniya",
+      "label": "Состояния",
+      "path": "packs/sostoyaniya",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "vedmache-snaryazhenie",
+      "label": "Ведьмачье Снаряжение",
+      "path": "packs/vedmache-snaryazhenie",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "zagotovki-personazhej",
+      "label": "Заготовки Персонажей",
+      "path": "packs/zagotovki-personazhej",
+      "type": "Actor",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "zaklinaniya",
+      "label": "Заклинания",
+      "path": "packs/zaklinaniya",
+      "type": "Item",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "generatory",
+      "label": "Генераторы",
+      "path": "packs/generatory",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "predystoriya-maga",
+      "label": "Предистория мага",
+      "path": "packs/predystoriya-maga",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "generator-personazha",
+      "label": "Генераторы персонажа",
+      "path": "packs/generator-personazha",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "poleznye-materialy",
+      "label": "Полезные Материалы",
+      "path": "packs/poleznye-materialy",
+      "type": "JournalEntry",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "boj",
+      "label": "Таблицы для боя",
+      "path": "packs/boj",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "TheWitcherTRPG",
+        "type": "system",
+        "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/DKtric3L/the-ultimate-witcher.git",
+  "manifest": "https://raw.githubusercontent.com/DKtric3L/the-ultimate-witcher/master/module.json",
+  "download": "https://github.com/DKtric3L/the-ultimate-witcher/archive/refs/heads/main.zip"
+}

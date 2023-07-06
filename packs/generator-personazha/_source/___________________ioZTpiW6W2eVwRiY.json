@@ -1,0 +1,46 @@
+{
+  "name": "Генератор: Низушки",
+  "img": "icons/svg/cave.svg",
+  "results": [
+    "rGAJedctF1vHUm0t",
+    "0dQ3NR8YsZjPzHul",
+    "L1KBkf196CGL9GXv",
+    "dsneFT5aK1HggTKQ",
+    "pbEqX2RnJhB453Ch",
+    "obUPNuwQ20fRhtom",
+    "NQvQKUljwbGcZKIk",
+    "Lq6SDOHwOyB0ZrZt"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {
+      "table-type": "none",
+      "loot-amount-key": ""
+    },
+    "core": {
+      "sourceId": "RollTable.2fQwpgAKFqEzT5uq"
+    },
+    "cf": {
+      "id": "temp_viybqj0tbyk"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926177,
+    "modifiedTime": 1685496652558,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ioZTpiW6W2eVwRiY",
+  "folder": "8Q5kbNQc52bcIHVJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!ioZTpiW6W2eVwRiY"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Доспехи - Мастер",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "results": [
+    "l1wtb9rqsrfjdtar",
+    "20xf7rf2kbzjuwcs",
+    "awo0c0rdkskdu6kx",
+    "in0ndokjbkctmvm4",
+    "elw0cgh9vya2tr6n",
+    "dzh3ctu0gibyx1m6",
+    "a2757hu8jsd6s5q0",
+    "jc4bc4fcy4aapbc7",
+    "d6tvshygw2phu4fh",
+    "fdcspsqzehe22guv",
+    "7xlxcrc00n539o00",
+    "ajik87off4m9b4tw"
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Pcdz7dBQWDUAZS6G"
+    },
+    "cf": {
+      "id": "temp_xhd9ad4pt09"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932895,
+    "modifiedTime": 1685496644464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "iVdkzHObzqQ4015l",
+  "folder": "Nb1YtBTsoOm2aQtL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!iVdkzHObzqQ4015l"
+}

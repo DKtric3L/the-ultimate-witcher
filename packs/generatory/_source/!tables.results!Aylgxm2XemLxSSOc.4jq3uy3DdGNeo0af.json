@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Шкуры и Части животных",
+  "img": "icons/commodities/leather/fur-simple-brown.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "iUGicau9wFhxbZaa",
+  "_id": "4jq3uy3DdGNeo0af",
+  "flags": {},
+  "_key": "!tables.results!Aylgxm2XemLxSSOc.4jq3uy3DdGNeo0af"
+}

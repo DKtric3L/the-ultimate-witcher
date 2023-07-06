@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Высший вампир - манера боя",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "Bed4im3bPyQSRfGC",
+  "_id": "gSwwVRzKzUhQkVlc",
+  "flags": {},
+  "_key": "!tables.results!73eYLoI7SwGYMM3U.gSwwVRzKzUhQkVlc"
+}

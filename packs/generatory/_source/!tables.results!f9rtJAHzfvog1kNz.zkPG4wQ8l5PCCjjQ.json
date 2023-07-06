@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    19,
+    19
+  ],
+  "drawn": false,
+  "text": "Колода для игры в гвинт",
+  "img": "icons/sundries/gaming/playing-cards-black.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "K7QssOXTDwZcJhhp",
+  "_id": "zkPG4wQ8l5PCCjjQ",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.zkPG4wQ8l5PCCjjQ"
+}

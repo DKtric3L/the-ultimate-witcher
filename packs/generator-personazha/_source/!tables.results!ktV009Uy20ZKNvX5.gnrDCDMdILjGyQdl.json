@@ -1,0 +1,16 @@
+{
+  "_id": "gnrDCDMdILjGyQdl",
+  "flags": {},
+  "type": 0,
+  "text": "В этом десятилетии ничего значимого не произошло.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ktV009Uy20ZKNvX5.gnrDCDMdILjGyQdl"
+}

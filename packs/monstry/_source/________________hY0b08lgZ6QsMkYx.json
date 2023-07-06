@@ -1,0 +1,46 @@
+{
+  "_id": "hY0b08lgZ6QsMkYx",
+  "name": "Чешуя драконида",
+  "type": "component",
+  "img": "icons/commodities/leather/scale-chitin-grey.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_ekdorqnkarh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.EhVnm6BnJyFTXX7e"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "1d10",
+    "weight": 5,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Rare",
+    "location": "Виверны",
+    "quantityObtainable": "1d6",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!AEkJbzVAFn9Su5f6.hY0b08lgZ6QsMkYx"
+}

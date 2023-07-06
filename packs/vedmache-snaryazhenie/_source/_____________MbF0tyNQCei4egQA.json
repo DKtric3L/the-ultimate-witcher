@@ -1,0 +1,40 @@
+{
+  "name": "Чёрная кровь",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/dark_blood.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 37,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Ваша кровь отравляет любое существо, испив-\nшее её, нанося 3 урона за раунд до тех пор, пока\nсущество не пройдёт проверку Стойкости со СЛ\n20. Существо также вынуждено отскочить на 2 м",
+    "time": "20 раундов",
+    "toxicity": "25%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887310,
+    "modifiedTime": 1685496626799,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "MbF0tyNQCei4egQA",
+  "folder": "QxSFI02IPk07KY7Y",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!MbF0tyNQCei4egQA"
+}

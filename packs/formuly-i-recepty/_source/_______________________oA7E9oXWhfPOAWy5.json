@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Быстрый огонь",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.oA7E9oXWhfPOAWy5"
+    },
+    "cf": {
+      "id": "temp_uu87z6q9p5a"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.35nVptdeXLDPQvuP]{Быстрый огонь}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 67,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "journeyman",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 16,
+    "craftingTime": "15 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 1,
+      "rebis": 2,
+      "aether": 0,
+      "quebrith": 1,
+      "hydragenum": 0,
+      "vermilion": 1,
+      "sol": 0,
+      "caelum": 1,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Быстрый огонь",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/props/immediate_fire.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 45,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Poor",
+        "effect": "При разлитии состава он быстро высохнет. Всё, что обработано\nбыстрым огнём имеет 50%-ный шанс возгорания при контакте с\nогнём или при попадании искры",
+        "time": "",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.35nVptdeXLDPQvuP"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868971,
+        "modifiedTime": 1668171318396,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848410,
+    "modifiedTime": 1685496578745,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "oA7E9oXWhfPOAWy5",
+  "folder": "TXoqSw4OOX255Z4E",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oA7E9oXWhfPOAWy5"
+}

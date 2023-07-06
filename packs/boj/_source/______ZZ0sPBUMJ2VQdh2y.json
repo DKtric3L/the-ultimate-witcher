@@ -1,0 +1,44 @@
+{
+  "name": "Износ",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "I8WYHArTwnnT46y7",
+    "Ryt9sMkxmm5ArxXy",
+    "EgvzY7kvmxgVSmN9",
+    "2ADoW5IyDpRGOOK1",
+    "7KIFJziUuP3rx8ms",
+    "ENQIXxDDmjvCjQEM",
+    "7fGby3uMqJ9sgxil",
+    "TL11etKtEObZvX8g",
+    "XWKja6dL27rUa2Nc",
+    "XqiyKoPXnw2v2RV0"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.8WZdWhM1lLhooWlS"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897067,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ZZ0sPBUMJ2VQdh2y",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!ZZ0sPBUMJ2VQdh2y"
+}

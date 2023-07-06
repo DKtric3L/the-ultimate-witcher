@@ -1,0 +1,78 @@
+{
+  "name": "Стальной меч школы змеи",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-crossguard-barbed.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.FHhh72xYLHhEzH7X"
+    },
+    "cf": {
+      "id": "temp_ub4c5p36xla"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 2,
+    "avail": "Rare",
+    "damage": "4d6+2",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Пробивающее броню",
+        "percentage": ""
+      },
+      {
+        "id": "_4fa7fdq92",
+        "name": "Отравление",
+        "percentage": "30"
+      },
+      {
+        "id": "_ykumjodpt",
+        "name": "Метеоритное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887310,
+    "modifiedTime": 1685496626852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Msx6Kc3DLFicb0DI",
+  "folder": "Lk96M8TXGicgbRqb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Msx6Kc3DLFicb0DI"
+}

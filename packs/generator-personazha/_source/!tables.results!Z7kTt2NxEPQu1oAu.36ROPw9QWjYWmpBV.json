@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Повреждённые пальцы(Нельзя сотворять знаки этой рукой). Возможно, это следствие пытки или очень неудачного удара по руке в бою - в любом случае, пальцы плохо гнутся.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Z7kTt2NxEPQu1oAu.36ROPw9QWjYWmpBV"
+}

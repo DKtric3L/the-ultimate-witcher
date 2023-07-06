@@ -1,0 +1,60 @@
+{
+  "name": "Обман Гелвида",
+  "type": "spell",
+  "img": "icons/magic/sonic/explosion-impact-shock-wave.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_is3veqhvm7"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Обман Гелвида позволяет вам создать звуковую иллюзию. Это может быть естественный звук, такой как рычание животного или раскаты грома, или звук голоса человека, который вы слышали. Звук не может исходить от вас, только от вашего окружения. Его слышат все в пределах дистанции вокруг вас.",
+    "range": "20м",
+    "duration": "Мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1685496639230,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "467Qzdyi2DKGZP1P",
+  "folder": "AiaCKaRBEzYvKxYK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!467Qzdyi2DKGZP1P"
+}

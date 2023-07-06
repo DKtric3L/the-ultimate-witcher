@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Двимерит",
+  "img": "icons/commodities/metal/ingot-stamped-steel-purple.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "AgbKqOOw0jo5yp7Y",
+  "_id": "YO48FhiuH84P2y9M",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.YO48FhiuH84P2y9M"
+}

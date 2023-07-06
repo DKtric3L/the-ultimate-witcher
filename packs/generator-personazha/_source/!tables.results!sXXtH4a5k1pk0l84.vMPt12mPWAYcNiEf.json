@@ -1,0 +1,16 @@
+{
+  "_id": "vMPt12mPWAYcNiEf",
+  "type": 0,
+  "text": "Выгнали соперника. Из Аретузы выгнали твоего соперника. Вы получаете врага-мага. Сделайте бросок по таблице Обиды, чтобы увидеть, как это обострилось и какова их сила.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!sXXtH4a5k1pk0l84.vMPt12mPWAYcNiEf"
+}

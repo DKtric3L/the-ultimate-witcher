@@ -1,0 +1,107 @@
+{
+  "name": "Формула: Селестин",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.1BuOIjpSDCxsxJGm"
+    },
+    "cf": {
+      "id": "temp_uu87z6q9p5a"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.tLVHcVBNplZrhnWC]{Селестин}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 93,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "level": "journeyman",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 16,
+    "craftingTime": "15 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 2,
+      "quebrith": 0,
+      "hydragenum": 2,
+      "vermilion": 1,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Селестин",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/props/selestin.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 64,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Poor",
+        "effect": "После употребления, вам начнут мерещиться цветные огни и приятные звуки. Это мешает сосредоточиться и даёт штраф -2 к Вниманию и к любой деятельности, требующей сосредоточения. Действие селестина заканчивается через 2d10 минут, но можно прекратить его и раньше успешной проверкой Стойкости со СЛ 14",
+        "time": "2d10 минут",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.tLVHcVBNplZrhnWC"
+        },
+        "cf": {
+          "id": "temp_d3zai9b3nmq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868988,
+        "modifiedTime": 1668171472923,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848427,
+    "modifiedTime": 1685496578745,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1BuOIjpSDCxsxJGm",
+  "folder": "TXoqSw4OOX255Z4E",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1BuOIjpSDCxsxJGm"
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "EnUYoXkBFqwma0Wu",
+  "name": "Кости животного",
+  "type": "component",
+  "img": "icons/commodities/bones/bone-broken-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_ekdorqnkarh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.IrTJdvRa14Sj5m81"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 4,
+    "cost": 8,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Common",
+    "location": "Монстры и животные",
+    "quantityObtainable": "Variable",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!bTblXyf2CicWhGLj.EnUYoXkBFqwma0Wu"
+}

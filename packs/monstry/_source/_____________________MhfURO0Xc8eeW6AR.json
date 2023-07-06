@@ -1,0 +1,60 @@
+{
+  "_id": "MhfURO0Xc8eeW6AR",
+  "name": "Синий сон Ханмарвина",
+  "type": "spell",
+  "img": "icons/magic/unholy/hand-light-green.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.sgODUHqNUWKRJBg6"
+    },
+    "cf": {
+      "id": "temp_2xb521l7ywx"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ. Если не знаешь, что делать из-за этого предупреждения, не лезь сюда.\n\nСиний сон Ханмарвина позволяет одному человеку стать свидетелем последних мгновений жизни трупа. После проведения ритуала выберите одного человека в пределах 4 м, чтобы получить воспоминания о трупе. Этот человек должен пройти проверку Стойкости СЛ:24, чтобы выдержать шок от этого события. Если им это удается, начинают действовать эффекты ритуала. Если они терпят неудачу, они немедленно вводятся в состояние при смерти, но эффекты ритуала все равно начинают действовать. На время ритуала пострадавший теряет сознание и становится свидетелем последних 10 минут жизни трупа. Они переживают эти воспоминания как свои собственные, даже чувствуя эмоции этого человека. Если человек находится под действием Галлюциногена, продолжительность этого ритуала увеличивается до 20 минут.",
+    "range": "",
+    "duration": "10 минут",
+    "defence": "",
+    "components": "труп, Пятая эссенция(x10), лунный осколок (x2), Эссенция призрака (x3), лепестки гинации (x2), ртутный раствор (x1), зеленая плесень (x2), корень мандрагоры (x1), фосфор (x3), Призрачная пыль (x2)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!KAhtipbo9AjyZASy.MhfURO0Xc8eeW6AR"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "ph4JxbZMB7MniZZ5",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Allies - Where Are They?",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "5c0JBOcc4NCRd2nK",
+  "_key": "!tables.results!tg3h9EldldgJBadD.ph4JxbZMB7MniZZ5"
+}

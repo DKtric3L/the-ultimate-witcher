@@ -1,0 +1,16 @@
+{
+  "_id": "g4JnOCAOpDRIw8tQ",
+  "flags": {},
+  "type": 0,
+  "text": "Что-то случилось с вашей семьей",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!wqWRoxahz1C3uOd8.g4JnOCAOpDRIw8tQ"
+}

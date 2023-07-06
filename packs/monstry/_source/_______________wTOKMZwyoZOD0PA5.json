@@ -1,0 +1,26 @@
+{
+  "_id": "wTOKMZwyoZOD0PA5",
+  "name": "Уязвимое место",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Живот не имеет сопротивления, а пб равно всего 5"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!9G89Oz9jiyxvu0lD.wTOKMZwyoZOD0PA5"
+}

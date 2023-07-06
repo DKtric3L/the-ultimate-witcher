@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    2,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "Hb1wxufLewpEQKvU",
+  "text": "Молодой - Этому дракону несколько столетий, и в его жизни было 2 крупных события. Он может вложить 10 очков в освоенные навыки. Его сокровища стоят 10 000 крон",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!l8RIVaoAazPAKOTN.Hb1wxufLewpEQKvU"
+}

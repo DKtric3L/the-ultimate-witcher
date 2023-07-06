@@ -1,0 +1,16 @@
+{
+  "text": "Сырое мясо",
+  "type": 2,
+  "img": "icons/consumables/meat/shank-bone-red.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "zq8smcbxgykzfd2k",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "5j4ZVvIOPBPXxMiq",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.zq8smcbxgykzfd2k"
+}

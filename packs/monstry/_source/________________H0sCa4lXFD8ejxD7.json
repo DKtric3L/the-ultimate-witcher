@@ -1,0 +1,42 @@
+{
+  "name": "Водная эссенция",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/essence_water.dds_.6895.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.1,
+    "cost": 46,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Утопцы и сирены",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "hydragenum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.nMzWWn5YMVmR8UwA"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853698,
+    "modifiedTime": 1669963778887,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "H0sCa4lXFD8ejxD7",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!Sm1snYC5s1biVBbj.H0sCa4lXFD8ejxD7"
+}

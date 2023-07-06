@@ -1,0 +1,43 @@
+{
+  "name": "Украшения",
+  "type": "valuable",
+  "img": "icons/equipment/finger/ring-faceted-ornate-silver-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.LfnCgZR2jFuvekP2"
+    },
+    "cf": {
+      "id": "temp_as8hg69v7id"
+    }
+  },
+  "system": {
+    "description": "Бывают всяких форм и размеров. Единственное требование — блестеть должны.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "clothing",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1685496603772,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Yh7QBtv6ZreOEaVh",
+  "folder": "rISbW24lZ5ywMFGM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Yh7QBtv6ZreOEaVh"
+}

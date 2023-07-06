@@ -1,0 +1,16 @@
+{
+  "text": "Дар природы",
+  "type": 2,
+  "img": "icons/magic/nature/plant-sproud-hands-dirt-green.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "_id": "7gxg0yk90hogoj0u",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "ogkGb6osKAgRqXdZ",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.7gxg0yk90hogoj0u"
+}

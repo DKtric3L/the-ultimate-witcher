@@ -1,0 +1,41 @@
+{
+  "name": "Чистое Солнце",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/sub-08.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_hubyuiz96fq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Создается",
+    "quantityObtainable": "",
+    "forage": "14",
+    "substanceType": "sol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853707,
+    "modifiedTime": 1685496584012,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "HSVtEqFZ8lyarRjv",
+  "folder": "E7aIomlKmy635Yco",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!HSVtEqFZ8lyarRjv"
+}

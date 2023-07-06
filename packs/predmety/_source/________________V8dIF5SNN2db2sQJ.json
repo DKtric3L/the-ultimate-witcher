@@ -1,0 +1,40 @@
+{
+  "name": "Потестаквизитор",
+  "type": "valuable",
+  "img": "icons/tools/hand/wrench-iron-grey.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "Портативное устройство, способное обнаруживать магические возмущения в пределах 20 м. Потестаквизитор издает гул, который перерастает в визг по мере того, как пользователь приближается к помехе. Потестаквизитор может обнаруживать присутствие темной магии, включая порчи, проклятия, проклятые предметы и демонов, а также призраков, димеритий, настоящих драконов и котов.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 1000,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "V8dIF5SNN2db2sQJ",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!V8dIF5SNN2db2sQJ"
+}

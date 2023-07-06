@@ -1,0 +1,43 @@
+{
+  "name": "Симптом: Одышка",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-vessel-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.0HmrReR6tzhjUPEE"
+    },
+    "cf": {
+      "id": "temp_nxdlb2anpj"
+    }
+  },
+  "system": {
+    "description": "Тяжело дышать, воздуха словно не хватает.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_j7lgsp6vj",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "/2"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1685496621715,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TSnf2xvoKcLeApT2",
+  "folder": "gc7euHqdhcoTNbKd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TSnf2xvoKcLeApT2"
+}

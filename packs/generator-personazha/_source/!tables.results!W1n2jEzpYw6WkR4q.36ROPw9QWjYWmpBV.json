@@ -1,0 +1,16 @@
+{
+  "_id": "36ROPw9QWjYWmpBV",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли начальные тренировки - Легкие мутации(+2 к испытанию травами). Вы хорошо приспособились к малым мутациям и действию мутагенных грибов, которыми вас кормили в начале обучения. Когда пришло время испытания травами, вы были готовы.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!W1n2jEzpYw6WkR4q.36ROPw9QWjYWmpBV"
+}

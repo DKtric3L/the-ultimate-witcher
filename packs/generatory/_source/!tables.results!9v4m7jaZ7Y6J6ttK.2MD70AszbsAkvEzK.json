@@ -1,0 +1,16 @@
+{
+  "text": "Обвал Беккера",
+  "type": 2,
+  "img": "icons/magic/earth/explosion-lava-stone-yellow.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "2MD70AszbsAkvEzK",
+  "documentId": "BxSVz8FqMjNa4Pi6",
+  "flags": {},
+  "_key": "!tables.results!9v4m7jaZ7Y6J6ttK.2MD70AszbsAkvEzK"
+}

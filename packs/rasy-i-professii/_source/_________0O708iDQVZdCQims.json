@@ -1,0 +1,56 @@
+{
+  "name": "Боболаки",
+  "type": "race",
+  "img": "modules/the-ultimate-witcher/assets/professions/bobolak.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.i1hujtQLhQSehYHh"
+    },
+    "cf": {
+      "id": "temp_rwe5bpoyvsp"
+    }
+  },
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Львиное сердце",
+      "description": "+1 к храбрости."
+    },
+    "perk2": {
+      "name": "Странная физиология",
+      "description": "Получая критическое ранение, вы можете пройти проверку стойкости со сл, равной сл. стабилизации ранения. В случае успеха рана считается стабилизированной. Работает только когда ранение наносится."
+    },
+    "perk3": {
+      "name": "Зубы-Бритвы",
+      "description": "Зубы наносит 2d6 урона, пробивая броню врага."
+    },
+    "perk4": {
+      "name": "Плохое зрение",
+      "description": "-4 к вниманию, если только проверка не касается слуха боболака. В этом случае штраф не накладывается."
+    },
+    "socialStanding": {
+      "north": "tolerated",
+      "nilfgaard": "tolerated",
+      "skellige": "tolerated",
+      "dolBlathanna": "tolerated",
+      "mahakam": "equal"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162873439,
+    "modifiedTime": 1685496612239,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0O708iDQVZdCQims",
+  "folder": "32GHdDmc9HcJHQ9n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0O708iDQVZdCQims"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Метка",
+  "type": 2,
+  "img": "icons/sundries/documents/document-letter-formal-tan.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "AzjS1o7aKwQHF4Sq",
+  "documentId": "1erx7MgIYWrZl7L9",
+  "flags": {},
+  "_key": "!tables.results!pfvQJ4Ab5bIZaYOH.AzjS1o7aKwQHF4Sq"
+}

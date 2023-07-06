@@ -1,0 +1,43 @@
+{
+  "name": "Кожаные доспехи",
+  "type": "valuable",
+  "img": "icons/equipment/shoulder/shoulderguard-segmented-studded-leather-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.lhXF6FOLxxqD6pyX"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "10 прочности всех частей тела скакуна.",
+    "quantity": 1,
+    "weight": 10,
+    "cost": 550,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "mount-accessories",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lhXF6FOLxxqD6pyX",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lhXF6FOLxxqD6pyX"
+}

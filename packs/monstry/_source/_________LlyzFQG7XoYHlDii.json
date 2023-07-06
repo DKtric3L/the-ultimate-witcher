@@ -1,0 +1,84 @@
+{
+  "_id": "LlyzFQG7XoYHlDii",
+  "name": "Каролина",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-gold-holy.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-oruzhiya.E4xydAi8JqI0xv8q"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 3,
+    "avail": "Rare",
+    "damage": "9d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "75"
+      },
+      {
+        "id": "_5a5l90lyo",
+        "name": "+25 ПЗ",
+        "percentage": ""
+      },
+      {
+        "id": "_2qubds8wy",
+        "name": "Сбалансированное",
+        "percentage": ""
+      },
+      {
+        "id": "_lxmjye651",
+        "name": "Улучшенный фокус(Вода)",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 3,
+    "enhancementItems": [
+      {},
+      {},
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!X1Y36RnnvQUsnBMC.LlyzFQG7XoYHlDii"
+}

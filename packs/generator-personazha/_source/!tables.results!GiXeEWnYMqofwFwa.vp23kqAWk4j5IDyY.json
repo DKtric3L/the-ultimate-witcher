@@ -1,0 +1,16 @@
+{
+  "_id": "vp23kqAWk4j5IDyY",
+  "type": 0,
+  "text": "Вы родились в Нильфгаарде (Гесо, Эббинг, или Мехт)",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GiXeEWnYMqofwFwa.vp23kqAWk4j5IDyY"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "06sbQkJI6FafCDa0",
+  "type": 0,
+  "text": "20 метров",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!wIAVgmaqvIq6ordZ.06sbQkJI6FafCDa0"
+}

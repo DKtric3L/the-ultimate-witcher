@@ -1,0 +1,43 @@
+{
+  "name": "Позолота",
+  "type": "valuable",
+  "img": "icons/commodities/stone/ore-pile-nuggets-gold.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.8hee2zAyyBlV9JDc"
+    },
+    "cf": {
+      "id": "temp_o9qp5pd3li"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "8hee2zAyyBlV9JDc",
+  "folder": "Y27EgvFkpvqgYHAE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8hee2zAyyBlV9JDc"
+}

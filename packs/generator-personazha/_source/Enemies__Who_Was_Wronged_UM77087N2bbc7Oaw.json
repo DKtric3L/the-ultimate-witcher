@@ -1,0 +1,37 @@
+{
+  "name": "Enemies: Who Was Wronged",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "ciSfEh9nn9LIoeuR",
+    "Gl1XVUlHbuQVyANO"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.bQCkevVF4lB1hMBd"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668288155746,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "UM77087N2bbc7Oaw",
+  "_key": "!tables!UM77087N2bbc7Oaw"
+}

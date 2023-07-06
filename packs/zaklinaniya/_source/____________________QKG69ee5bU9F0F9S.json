@@ -1,0 +1,65 @@
+{
+  "name": "Задержка разложения",
+  "type": "spell",
+  "img": "icons/magic/death/hand-undead-skeleton-fire-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6ofjw1Zx1UrY59iK"
+    },
+    "cf": {
+      "id": "temp_fxqdiplgtgg"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d10.\nЗаклинатель переносит часть своей жизненной силы в разлагающуюся цель. На время действия эффекта ритуала цель перестает разлагаться.",
+    "range": "",
+    "duration": "2d10 дней",
+    "defence": "",
+    "components": "Кладбищенская пыль (x5), Пятая эссенция (x1), Нитки (x2), Мелок (x1), Краснолюдский бессмертник (x1), Вербена (x2), Дымная пыль (x3)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "12",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "2d10 - длительность эффекта(дней)"
+      },
+      {
+        "id": "_5y7zwtoel",
+        "name": "1d6 - некротический урон заклинателю",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496639098,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "QKG69ee5bU9F0F9S",
+  "folder": "frZElF7gtXj0TtZt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!QKG69ee5bU9F0F9S"
+}

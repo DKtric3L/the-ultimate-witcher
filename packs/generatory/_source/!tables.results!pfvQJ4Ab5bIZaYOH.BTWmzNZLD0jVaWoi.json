@@ -1,0 +1,16 @@
+{
+  "text": "Чёртов гриб",
+  "type": 2,
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "BTWmzNZLD0jVaWoi",
+  "documentId": "aTWp7L1XSSyyB7dI",
+  "flags": {},
+  "_key": "!tables.results!pfvQJ4Ab5bIZaYOH.BTWmzNZLD0jVaWoi"
+}

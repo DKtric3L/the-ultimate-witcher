@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Махакамский двимерит",
+  "img": "icons/commodities/metal/ingot-stamped-purple.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "TTdMj48B1537c9GH",
+  "_id": "C2eJ2f6oLm5eI0Cd",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.C2eJ2f6oLm5eI0Cd"
+}

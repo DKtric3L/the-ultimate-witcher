@@ -1,0 +1,16 @@
+{
+  "_id": "R36SexxMtQ1y3Mct",
+  "flags": {},
+  "type": 2,
+  "text": "Family Status: Nilfgaard",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "FvAMmEdcOG2dIxgB",
+  "_key": "!tables.results!PQo3Qo3SWXeADko2.R36SexxMtQ1y3Mct"
+}

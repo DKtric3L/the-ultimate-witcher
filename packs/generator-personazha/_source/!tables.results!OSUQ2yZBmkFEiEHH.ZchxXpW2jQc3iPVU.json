@@ -1,0 +1,16 @@
+{
+  "_id": "ZchxXpW2jQc3iPVU",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Мудрец. Наибольшее влияние на вас оказал мудрец, благодаря которому вы познали важность истории старших народов. Снаряжение - Книга сказок.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!OSUQ2yZBmkFEiEHH.ZchxXpW2jQc3iPVU"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Style: Affectations",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "q0DM4FW7XCnFdKZu",
+    "oKZeEBIq2FLMNk2e",
+    "kQX7ZeIIWKy5yTPF",
+    "36ROPw9QWjYWmpBV",
+    "9kVdEtFeX4a3nAoe",
+    "cQfRuoxqB1FI58LA",
+    "th9s2aW3pwS3ZZX2",
+    "tfUjaxwfTwqW98vG",
+    "XFy2l49tSxFMwvUu",
+    "NlfhnGUfAnLtImRU"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.MZIEW8pxcOEojTs0"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162965869,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "YteBMR3Arfy3K9SZ",
+  "_key": "!tables!YteBMR3Arfy3K9SZ"
+}

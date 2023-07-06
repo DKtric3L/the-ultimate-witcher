@@ -1,0 +1,26 @@
+{
+  "_id": "uCUzOIYs4J2bCPzp",
+  "name": "Связь с птицами",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "У дома бруксы свили гнёзда несколько мелких птиц. Все, кто окажется в пределах 20 метров от её жилища, должны совершить проверку Скрытности со СЛ 18. При провале птицы начинают щебетать, предупреждая бруксу об опасности. Брукса не знает, кто и в каком количестве к ней при шёл, но знает, с какой стороны."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!peBJcF5diDknACSa.uCUzOIYs4J2bCPzp"
+}

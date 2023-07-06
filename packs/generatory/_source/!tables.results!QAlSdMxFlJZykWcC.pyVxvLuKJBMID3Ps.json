@@ -1,0 +1,16 @@
+{
+  "text": "Дыхание Авроры",
+  "type": 2,
+  "img": "icons/magic/water/orb-water-bubbles-teal.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "pyVxvLuKJBMID3Ps",
+  "documentId": "PKtW2MQlV8QoLFFA",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.pyVxvLuKJBMID3Ps"
+}

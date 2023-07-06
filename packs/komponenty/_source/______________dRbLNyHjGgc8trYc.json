@@ -1,0 +1,45 @@
+{
+  "name": "Сердце агуары",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/heart_monstrous_64x64.png.6915.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_79u2kp2qn4d",
+      "color": "#d2ab1e"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.wz8wLHpc8OcoMqQ0"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 125,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Агуары",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "sol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1685496584269,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "dRbLNyHjGgc8trYc",
+  "folder": "wZNnZXg87AFfT9W9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!dRbLNyHjGgc8trYc"
+}

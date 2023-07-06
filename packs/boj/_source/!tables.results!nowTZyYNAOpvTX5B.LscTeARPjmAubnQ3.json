@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    61,
+    80
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "LscTeARPjmAubnQ3",
+  "text": "Цель - Самая дальняя.(Будет бить его, пока кто-то не спровоцирует его на себя или пока не будет серьезно ранен)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!nowTZyYNAOpvTX5B.LscTeARPjmAubnQ3"
+}

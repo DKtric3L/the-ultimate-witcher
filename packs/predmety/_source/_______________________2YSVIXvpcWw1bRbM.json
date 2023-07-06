@@ -1,0 +1,43 @@
+{
+  "name": "Анаболические стероиды",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.V3pLIPSd73DbPjQ9"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 165,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Poor",
+    "effect": "Употребление Анаболических Стероидов дает персонажу +10 к\nмаксимуму хитов и +2 к Стойкости и Силе. С другой\nстороны, это делает пьющего невероятно агрессивным по\nотношению ко всем на 1 час.",
+    "time": "1 час",
+    "toxicity": "50%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868970,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2YSVIXvpcWw1bRbM",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2YSVIXvpcWw1bRbM"
+}

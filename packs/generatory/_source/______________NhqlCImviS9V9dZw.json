@@ -1,0 +1,38 @@
+{
+  "name": "Жрец - Мастер",
+  "img": "icons/magic/life/heart-cross-strong-flame-green.webp",
+  "description": "",
+  "results": [
+    "cfg0rdcffrwetlg1",
+    "5qx0rvxdrqx1nfjt",
+    "ve4aq39r0lxvlpcu",
+    "tq9zup3fassb7056"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.x6qac9A7RINiO4Op"
+    },
+    "cf": {
+      "id": "temp_s23761z2tk"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932900,
+    "modifiedTime": 1685496644216,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NhqlCImviS9V9dZw",
+  "folder": "UBZ0NONtvUbanf9g",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!NhqlCImviS9V9dZw"
+}

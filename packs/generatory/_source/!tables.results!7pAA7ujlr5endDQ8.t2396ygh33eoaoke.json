@@ -1,0 +1,16 @@
+{
+  "text": "Пиромантия",
+  "type": 2,
+  "img": "icons/magic/fire/flame-burning-campfire-rocks.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "t2396ygh33eoaoke",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "nNH7cKxh8eYcFetw",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.t2396ygh33eoaoke"
+}

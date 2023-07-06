@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Галлюциноген",
+  "img": "icons/consumables/potions/bottle-conical-corked-cyan.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "nwA5diyMV0WVVd4U",
+  "_id": "KfZLIeyTqiWTAebm",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.KfZLIeyTqiWTAebm"
+}

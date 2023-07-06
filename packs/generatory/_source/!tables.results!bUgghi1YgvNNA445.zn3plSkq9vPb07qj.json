@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    4
+  ],
+  "drawn": false,
+  "text": "Случайный материал",
+  "img": "icons/commodities/materials/powder-red-green-yellow.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "Aylgxm2XemLxSSOc",
+  "_id": "zn3plSkq9vPb07qj",
+  "flags": {},
+  "_key": "!tables.results!bUgghi1YgvNNA445.zn3plSkq9vPb07qj"
+}

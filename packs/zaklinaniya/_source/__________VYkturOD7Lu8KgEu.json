@@ -1,0 +1,57 @@
+{
+  "name": "Телекинез",
+  "type": "spell",
+  "img": "icons/magic/movement/chevrons-down-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_cilmpkpuxju"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Позволяет поднять предмет и манипулировать им (до 5 кг за 1 пункт Сотворения заклинаний), как если бы заклинатель держал этот предмет в руках.",
+    "range": "5м",
+    "duration": "актив(2 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892175,
+    "modifiedTime": 1685496637828,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VYkturOD7Lu8KgEu",
+  "folder": "wsj51D7oIARoDcDr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VYkturOD7Lu8KgEu"
+}

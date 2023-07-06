@@ -1,0 +1,43 @@
+{
+  "name": "Деревянная ложка О’Дима",
+  "type": "valuable",
+  "img": "icons/tools/cooking/fork-steel-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.vDy31e0FAsCeDtOD"
+    },
+    "cf": {
+      "id": "temp_2vzp4o52vxp"
+    }
+  },
+  "system": {
+    "description": "Фокус(5), Сотворение заклинаний (+2) Наведение порчи (+2) Проведение ритуалов (+2), использований за сессию - 1.\nМагическая энергия О'Дима остается в этой ложке, и, прежде чем произносить заклинание, проводить ритуал или наводить порчу, силой своего желания вы можете добиться успеха без броска.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "clothing",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877954,
+    "modifiedTime": 1685496616914,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NSkFSdLgq3vP8NXK",
+  "folder": "vnVc4zbuh56yjRrm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NSkFSdLgq3vP8NXK"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Тёплая одежда",
+  "type": "valuable",
+  "img": "icons/equipment/back/cloak-heavy-collared-fur-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_as8hg69v7id",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.6mX3RMn81K8KSl8e"
+    }
+  },
+  "system": {
+    "description": "Когда забираешься высоко в горы, приодеться стоит потеплее — в меха, шерстяной плащ и тому подобное (+5 к проверкам Стойкости в холодных погодных условиях).",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 45,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "clothing",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1685496603772,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JMYiW7kBz3vPmVZS",
+  "folder": "rISbW24lZ5ywMFGM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!JMYiW7kBz3vPmVZS"
+}

@@ -1,0 +1,160 @@
+{
+  "name": "Длинный лук",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.x9rLBg5xyrcU0oOB"
+    },
+    "cf": {
+      "id": "temp_ddwqxocukpf"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.NDK6ylZgj9DNXXZD]{Длинный лук}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 712,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "8ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "6",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_ev28g0wgl",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "8"
+      },
+      {
+        "id": "_guh48ivhe",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_n1s428wrx",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_wxmi3z0x3",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_jsowwzfe9",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_ny4c5959a",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 252,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Длинный лук",
+      "type": "weapon",
+      "img": "icons/weapons/bows/longbow-recurve-leather-brown.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 475,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": 0,
+        "avail": "Everywhere",
+        "damage": "4d6",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "2",
+        "range": "200",
+        "equiped": false,
+        "effects": [],
+        "conceal": "NA",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Archery",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rpglc34ihvo"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863938,
+        "modifiedTime": 1672564872476,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848414,
+    "modifiedTime": 1685496579717,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "x9rLBg5xyrcU0oOB",
+  "folder": "b2anqQiTRYL0jSkN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!x9rLBg5xyrcU0oOB"
+}

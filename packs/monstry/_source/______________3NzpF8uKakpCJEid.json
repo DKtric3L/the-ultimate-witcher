@@ -1,0 +1,26 @@
+{
+  "_id": "3NzpF8uKakpCJEid",
+  "name": "Любовь к руде",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "У стучаков есть особое чувство, помогающее искать руду. В качестве действия стучак может автоматически найти любой повсеместный или обычный минерал или руду, которые встречаются в этом регионе. Кроме того, стучаки получают бонус +3 к поиску минералов или руды при собирании."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!zrsfICVeO2fXpp6W.3NzpF8uKakpCJEid"
+}

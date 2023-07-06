@@ -1,0 +1,66 @@
+{
+  "name": "Серп",
+  "type": "weapon",
+  "img": "icons/weapons/sickles/sickle-hooked-worn.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2jbgazraiwc"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 76,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "1d6+2",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Захватное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Small Blades",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863943,
+    "modifiedTime": 1685496598603,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SR6bXNkwLTa21R0j",
+  "folder": "3BjANa0nnKl5rxLI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SR6bXNkwLTa21R0j"
+}

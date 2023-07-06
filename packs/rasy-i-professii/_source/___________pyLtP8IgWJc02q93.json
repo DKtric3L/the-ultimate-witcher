@@ -1,0 +1,56 @@
+{
+  "name": "Маг - Эльф",
+  "type": "race",
+  "img": "modules/the-ultimate-witcher/assets/professions/mage.webp",
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Чувство прекрасного",
+      "description": "<p>+1 к искусству</p>"
+    },
+    "perk2": {
+      "name": "Стрелок",
+      "description": "<p>+2 к стрельбе, вы способны выхватывать и натягивать лук, не тратя на это действие.</p>"
+    },
+    "perk3": {
+      "name": "Единение с природой",
+      "description": "<p>Дикие животные не нападут без причины и будут относиться дружелюбно. Также вы автоматически находите субстанции-растения, если им свойственно расти на выбранной территории.</p>"
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "hatedFeared",
+      "nilfgaard": "tolerated",
+      "skellige": "tolerated",
+      "dolBlathanna": "equal",
+      "mahakam": "tolerated"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.j66Jtjx7zt3NCVt3"
+    },
+    "cf": {
+      "id": "temp_rwe5bpoyvsp"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1663424295025,
+    "modifiedTime": 1685496612239,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pyLtP8IgWJc02q93",
+  "folder": "32GHdDmc9HcJHQ9n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pyLtP8IgWJc02q93"
+}

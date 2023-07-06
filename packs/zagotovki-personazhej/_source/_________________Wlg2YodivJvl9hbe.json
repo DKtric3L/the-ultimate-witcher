@@ -1,0 +1,44 @@
+{
+  "name": "Священный символ",
+  "type": "valuable",
+  "img": "icons/commodities/wood/blocks-cut-brown.webp",
+  "system": {
+    "description": "Символы бывают разные, но все они сделаны из дерева и украшены знаком одной из религий.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 14,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_qtp9pduhxta",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.raljgrJ8JnVauOSo"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663422889160,
+    "modifiedTime": 1670417129338,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "Wlg2YodivJvl9hbe",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!QCJUoRqklmUYaicw.Wlg2YodivJvl9hbe"
+}

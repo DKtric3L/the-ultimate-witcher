@@ -1,0 +1,43 @@
+{
+  "name": "Молния",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-corked-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wb2TpGzwv2CgaQLz"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 75,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Poor",
+    "effect": "Молния — результат попытки воссоздать ведьмачье\nзелье «Гром». Он дает пьющему +3 к урону при\nвашей следующей физической атаке.",
+    "time": "-",
+    "toxicity": "75%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868980,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5YolPiH5AluS4OIr",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5YolPiH5AluS4OIr"
+}

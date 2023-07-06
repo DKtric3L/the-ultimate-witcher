@@ -1,0 +1,44 @@
+{
+  "name": "Пир",
+  "type": "valuable",
+  "img": "icons/consumables/food/cooked-ribs-rack-glazed-bones-brown-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_9bempw9mh8g",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.fkCIy8ltAlWdlYWX"
+    }
+  },
+  "system": {
+    "description": "Настоящее чудо. Столько еды, что помереть можно, если попытаться всё это съесть. Подобное изобилие разве что на помпезных приёмах увидеть можно.",
+    "quantity": 1,
+    "weight": 5,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868985,
+    "modifiedTime": 1685496603795,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Sk2RBXuSEcDEJRLW",
+  "folder": "Wl7XwqKi0AbU85lU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Sk2RBXuSEcDEJRLW"
+}

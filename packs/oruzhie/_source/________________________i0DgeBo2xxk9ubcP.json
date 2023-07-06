@@ -1,0 +1,74 @@
+{
+  "name": "Двимеритовые боеприпасы",
+  "type": "weapon",
+  "img": "icons/skills/ranged/arrow-gem-flying-poisoned-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rol4jixhdr"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.DC48zepBJGPL7evf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "_cwn6g32nm",
+        "name": "-1 к энергии за попадание",
+        "percentage": ""
+      },
+      {
+        "id": "_6io38xfl5",
+        "name": "Таблица эффектов двимерита магической жертве",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863938,
+    "modifiedTime": 1685496598693,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "i0DgeBo2xxk9ubcP",
+  "folder": "6VRzYzYvkVscR6OQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!i0DgeBo2xxk9ubcP"
+}

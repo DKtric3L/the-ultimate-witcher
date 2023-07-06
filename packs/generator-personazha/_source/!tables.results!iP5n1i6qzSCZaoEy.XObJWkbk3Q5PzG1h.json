@@ -1,0 +1,16 @@
+{
+  "_id": "XObJWkbk3Q5PzG1h",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Следователь. Наибольшее влияние на вас оказал имперский детектив. Вы провели много времени в разгадывании тайн. Снаряжение - Лупа.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!iP5n1i6qzSCZaoEy.XObJWkbk3Q5PzG1h"
+}

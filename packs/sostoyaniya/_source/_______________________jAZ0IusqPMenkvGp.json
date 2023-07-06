@@ -1,0 +1,37 @@
+{
+  "name": "Эффект трофея - Тролль",
+  "type": "effect",
+  "img": "icons/commodities/bones/skull-feline-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lZTRxOAm7FAy4aI5"
+    },
+    "cf": {
+      "id": "temp_mgri5lboda"
+    }
+  },
+  "system": {
+    "description": "Чтобы опьянеть, требуется в два раза больше алкоголя, и у вас никогда не будет похмелья.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883180,
+    "modifiedTime": 1685496622016,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jAZ0IusqPMenkvGp",
+  "folder": "Ny5twfeEX4VEIr47",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jAZ0IusqPMenkvGp"
+}

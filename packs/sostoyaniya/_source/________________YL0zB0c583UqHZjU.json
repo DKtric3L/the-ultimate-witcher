@@ -1,0 +1,47 @@
+{
+  "name": "Наметанный глаз",
+  "type": "effect",
+  "img": "icons/tools/hand/scale-balances-merchant-brown.webp",
+  "system": {
+    "description": "+1 к торговле",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkIntBusiness",
+        "modifier": "1"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1b2720db2dab0d852bf86a9bd48d80b350129f31",
+      "sourceId": "Item.komMAgRqsEvfKfAN"
+    },
+    "core": {
+      "sourceId": "Item.komMAgRqsEvfKfAN"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672536531995,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "YL0zB0c583UqHZjU",
+  "_key": "!items!YL0zB0c583UqHZjU"
+}

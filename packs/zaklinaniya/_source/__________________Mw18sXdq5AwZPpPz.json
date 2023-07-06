@@ -1,0 +1,65 @@
+{
+  "name": "Полная дегидрация",
+  "type": "spell",
+  "img": "icons/magic/water/tendrils-ice-growth.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NPhjAeBFjroyBb1a"
+    },
+    "cf": {
+      "id": "temp_julrnar8td"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "Заклинатель вытягивает почти всю жидкость из тела противника. Он получает 8d6 не поглощаемого броней урон от обезвоживания, и теряет 8d6 очков ВЫН.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "8d6+8d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "8d6 - Урон, игнорирующий броню."
+      },
+      {
+        "id": "_ja67orqn7",
+        "name": "8d6 - урон выносливости.",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496639018,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Mw18sXdq5AwZPpPz",
+  "folder": "9PhFPu32x5yVnicQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Mw18sXdq5AwZPpPz"
+}

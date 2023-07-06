@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Рабочий с лопатой",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Mikel_iz_lisiih_yam_Lorenzo_Mastroiann.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "8zKBTB7tKyZUdhNH",
+  "_id": "lqEf9MDRod7YiGSL",
+  "flags": {},
+  "_key": "!tables.results!DU4VuDlgT5vQFOWs.lqEf9MDRod7YiGSL"
+}

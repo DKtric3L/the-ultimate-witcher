@@ -1,0 +1,26 @@
+{
+  "_id": "yUxQnyw7wfLO4tQp",
+  "name": "Альпинист",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Фледер лазает по стенам на всё значение своей скорости, если только наклонная поверхность не идеально ровная."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!k3JZYiQh1DzwWcMS.yUxQnyw7wfLO4tQp"
+}

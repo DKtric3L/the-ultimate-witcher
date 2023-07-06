@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Некромант",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Proklataya_charodeyka_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "KAhtipbo9AjyZASy",
+  "_id": "QRXKe5PG7TJmsC7N",
+  "flags": {},
+  "_key": "!tables.results!PwkSg3BxS9FxVkyI.QRXKe5PG7TJmsC7N"
+}

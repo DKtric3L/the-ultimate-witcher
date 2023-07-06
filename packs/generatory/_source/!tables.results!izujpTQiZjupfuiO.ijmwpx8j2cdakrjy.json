@@ -1,0 +1,16 @@
+{
+  "text": "Теневая порча",
+  "type": 2,
+  "img": "icons/magic/death/skull-energy-light-white.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "ijmwpx8j2cdakrjy",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "p4t8sRDghWeZlBKW",
+  "_key": "!tables.results!izujpTQiZjupfuiO.ijmwpx8j2cdakrjy"
+}

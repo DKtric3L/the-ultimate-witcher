@@ -1,0 +1,76 @@
+{
+  "_id": "GY7kdf6MvtPaCJSy",
+  "name": "Молот горца",
+  "type": "weapon",
+  "img": "icons/weapons/hammers/hammer-double-engraved-gold.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_2nu7s87th96"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.03P3k3rzN4r5hYCq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 1100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "6d6+2",
+    "reliable": 20,
+    "maxReliability": 20,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дезориентирующее(-2)",
+        "percentage": ""
+      },
+      {
+        "id": "_vqfp1ex12",
+        "name": "Метеоритное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": null,
+    "modifiedTime": 1672759401185,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_key": "!actors.items!8yLvFKBzBj7aB2a2.GY7kdf6MvtPaCJSy"
+}

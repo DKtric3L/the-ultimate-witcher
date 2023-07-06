@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Стрыга",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Adda_striga_Bartlomiej_Gawel.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "v155BtUkTfW4ZwiD",
+  "_id": "fnPefuFYHvbpFIWT",
+  "flags": {},
+  "_key": "!tables.results!faEhx9OFhWYrUiUw.fnPefuFYHvbpFIWT"
+}

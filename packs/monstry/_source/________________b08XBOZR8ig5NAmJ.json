@@ -1,0 +1,46 @@
+{
+  "_id": "b08XBOZR8ig5NAmJ",
+  "name": "Водная эссенция",
+  "type": "component",
+  "img": "systems/TheWitcherTRPG/assets/images/hydragenum.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_lt8vyki9dr",
+      "color": "#5c65e6"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.nMzWWn5YMVmR8UwA"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "2d6",
+    "weight": 0.1,
+    "cost": 46,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Утопцы и сирены",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "hydragenum"
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!gRWJO9MGbYg3KEGq.b08XBOZR8ig5NAmJ"
+}

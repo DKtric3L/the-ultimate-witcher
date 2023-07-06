@@ -1,0 +1,16 @@
+{
+  "_id": "7yYGp4SSAi9ymCGL",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Ваша семья в ссоре с другой семьей. Возможно, вы даже не помните, когда всё это началось.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!eitdqoqbBaHut7oL.7yYGp4SSAi9ymCGL"
+}

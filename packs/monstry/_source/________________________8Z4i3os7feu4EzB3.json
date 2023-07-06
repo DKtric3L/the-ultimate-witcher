@@ -1,0 +1,42 @@
+{
+  "name": "Зубы кладбищенской бабы",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tooth_necrophage.dds_.6950.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 90,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Grave Hags",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "rebis"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.NbRWWDG1zjJGwe2M"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1669965775422,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "8Z4i3os7feu4EzB3",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!b15jAZtqwI2QqRYf.8Z4i3os7feu4EzB3"
+}

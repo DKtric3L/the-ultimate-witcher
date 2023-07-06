@@ -1,0 +1,16 @@
+{
+  "text": "Зеркальный эффект",
+  "type": 2,
+  "img": "icons/magic/light/beam-rays-red-small.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "cjhpiUlN8uU5d2Td",
+  "documentId": "n1arcVFULjnU4zoa",
+  "flags": {},
+  "_key": "!tables.results!MSvx4NoGMyd3Bmbo.cjhpiUlN8uU5d2Td"
+}

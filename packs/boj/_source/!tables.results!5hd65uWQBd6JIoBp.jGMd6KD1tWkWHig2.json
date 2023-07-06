@@ -1,0 +1,16 @@
+{
+  "_id": "jGMd6KD1tWkWHig2",
+  "type": 0,
+  "text": "2 нелетального урона.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5hd65uWQBd6JIoBp.jGMd6KD1tWkWHig2"
+}

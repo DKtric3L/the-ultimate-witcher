@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Мужчина - особые признаки",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "qLkYfaLWMyANz8k4",
+  "_id": "dFGFp2Q7HeblizQ9",
+  "flags": {},
+  "_key": "!tables.results!oQhQ4TBjHnPZJ7DV.dFGFp2Q7HeblizQ9"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Личность",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "9DWBzUb7DwpoHImm",
+    "5uFgphQ7uhYi4c0k",
+    "V7l9meKESnvQU7Dq",
+    "02qlWs2zy3ttFqeK",
+    "QPMh6kB3IbSO2un7",
+    "pqzL43biIVXZcwLg",
+    "9wt4grMPWn7XFB1j",
+    "HIuOkrQi7Hd1xgNW",
+    "IGT7JDy7e6IIVlmv",
+    "8eX6fE7L35LdBhRv"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.wMwwaKAQXDPudOOq"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901099,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "02qLarv2lPUxQtvN",
+  "_key": "!tables!02qLarv2lPUxQtvN"
+}

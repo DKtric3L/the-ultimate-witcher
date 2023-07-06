@@ -1,0 +1,16 @@
+{
+  "_id": "th9s2aW3pwS3ZZX2",
+  "flags": {},
+  "type": 0,
+  "text": "Неудача - Предательство. Бросьте 1d10: 1-3 вас шантажируют, 4-7 ваша тайна раскрыта, 8-10 вас предал кто-то из близких.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!9o6mv4oWPX8BCCTQ.th9s2aW3pwS3ZZX2"
+}

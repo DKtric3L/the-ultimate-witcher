@@ -1,0 +1,57 @@
+{
+  "name": "Раступление вод",
+  "type": "spell",
+  "img": "icons/magic/water/wave-water-teal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_nmw89gwa8c"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Позволяет создать посреди водного массива открытое пространство вплоть до 10x100x10 метров. Рыба, чудовища и прочие находящиеся в воде существа отступают вместе с водой. Заклинатель может проходить сквозь стену воды с той же лёгкостью, как если бы проходил сквозь воду, при этом стена не разрушается. Если сотворить заклинание, находясь в воде, то заклинателя отталкивает вместе с водой. Свободное от воды пространство может быть ориентировано как угодно, в том числе вертикально.",
+    "range": "Радиус 10м",
+    "duration": "Актив(6 Вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496638173,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nwno5SnLumTrwPs6",
+  "folder": "mb94aj9wcpO0oNvy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nwno5SnLumTrwPs6"
+}

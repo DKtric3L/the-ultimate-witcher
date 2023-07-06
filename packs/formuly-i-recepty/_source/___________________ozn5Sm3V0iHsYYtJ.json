@@ -1,0 +1,72 @@
+{
+  "name": "Глифово слово: Вес",
+  "type": "diagrams",
+  "img": "icons/commodities/materials/feather-red-.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.e7uIqG43o3OAHMde"
+    },
+    "cf": {
+      "id": "temp_1r5chs154v7"
+    }
+  },
+  "system": {
+    "description": "<p>+2 к ПБ доспеха, но его вес удваивается. Использование глифа на доспехе с весом 0, вес остается равным 0.</p>\n<p>Занимает 2 ячейки улучшения</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Глиф восстановления"
+      },
+      {
+        "id": "_rkpol25f4",
+        "name": "Глиф укрепления",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 550,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848411,
+    "modifiedTime": 1685496579124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ozn5Sm3V0iHsYYtJ",
+  "folder": "7ogE3cPtN4Xw0G1z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ozn5Sm3V0iHsYYtJ"
+}

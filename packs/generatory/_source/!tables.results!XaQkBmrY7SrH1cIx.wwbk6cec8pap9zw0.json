@@ -1,0 +1,16 @@
+{
+  "text": "Броня Скоя'таэля",
+  "type": 2,
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "wwbk6cec8pap9zw0",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "z6pX6wLR4lXMuTiJ",
+  "_key": "!tables.results!XaQkBmrY7SrH1cIx.wwbk6cec8pap9zw0"
+}

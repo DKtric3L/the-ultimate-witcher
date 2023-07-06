@@ -1,0 +1,43 @@
+{
+  "name": "Путник",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ljSjDzeNuogkkekQ"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 64,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Poor",
+    "effect": "Пьющий отказывается от сна на 24 часа. Раньше солдатам давали дозу Путника, чтобы они могли пересечь большую территорию без особых усилий. Стоимость этого зелья быстро сделала его нежизнеспособным для больших армий.",
+    "time": "24 часа",
+    "toxicity": "50%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868987,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tqrh4j6fO81kLcDA",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tqrh4j6fO81kLcDA"
+}

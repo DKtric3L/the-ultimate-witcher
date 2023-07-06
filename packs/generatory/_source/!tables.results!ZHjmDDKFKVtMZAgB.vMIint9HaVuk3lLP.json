@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    6
+  ],
+  "drawn": false,
+  "text": "Виды препятствий",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "xuzjTXTUEcDG5KXw",
+  "_id": "vMIint9HaVuk3lLP",
+  "flags": {},
+  "_key": "!tables.results!ZHjmDDKFKVtMZAgB.vMIint9HaVuk3lLP"
+}

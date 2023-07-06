@@ -1,0 +1,16 @@
+{
+  "text": "Дервиш",
+  "type": 2,
+  "img": "icons/magic/air/wind-tornado-cyclone-white.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "QBTEe7VeveEEul7D",
+  "documentId": "hT4e6tmfGvgQ3BYA",
+  "flags": {},
+  "_key": "!tables.results!mI8Ec3b8W4soIHvY.QBTEe7VeveEEul7D"
+}

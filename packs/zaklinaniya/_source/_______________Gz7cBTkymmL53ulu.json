@@ -1,0 +1,60 @@
+{
+  "name": "Иллюзия голоса",
+  "type": "spell",
+  "img": "icons/magic/air/wind-swirl-gray-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.KCic2K5RxNDo77Cl"
+    },
+    "cf": {
+      "id": "temp_01h4gyhswg6t"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Иллюзия голоса заставляет хаос пробежаться по вашим голосовым связкам. Заклинатель может управлять звучанием своего голоса, пока действует заклинание. Заклинатель может изменить свой голос на более успокаивающий тон, что дает ему +3 к Харизме, или на более пугающий, что даст + 3 к Запугиванию и другим навыкам, которые позволит ГМ. Заклинатель также может говорить, не шевеля губами.",
+    "range": "На себя",
+    "duration": "2d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496638575,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Gz7cBTkymmL53ulu",
+  "folder": "ndviRHoqdpigGVTn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Gz7cBTkymmL53ulu"
+}

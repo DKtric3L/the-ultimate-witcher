@@ -1,0 +1,16 @@
+{
+  "text": "Рыболовные снасти",
+  "type": 2,
+  "img": "icons/tools/fishing/rod-brown-gold.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "fai5w1rloz8izqmt",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "jJYdtJe0pkHbMdoY",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.fai5w1rloz8izqmt"
+}

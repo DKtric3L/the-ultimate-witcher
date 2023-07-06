@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    4,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "hQ0lBZA6iMDYe0zF",
+  "text": "Взрослый - Этому дракону несколько тысячелетий, и в его жизни было 3 крупных события. Он может вложить 15 очков в освоенные навыки. Его сокровищ а стоят 15 000 крон.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!l8RIVaoAazPAKOTN.hQ0lBZA6iMDYe0zF"
+}

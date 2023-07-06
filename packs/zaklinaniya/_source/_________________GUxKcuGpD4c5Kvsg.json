@@ -1,0 +1,65 @@
+{
+  "name": "Поглощение жизни",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-smoke-trail-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.8Lsm4kJa4jjKvRnn"
+    },
+    "cf": {
+      "id": "temp_yt9b8cjci6m"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "28",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 6d10.\nПоглощение жизни создает сферу полной темноты радиусом 20 метров вокруг вас. Все, находящиеся внутри сферы, получают 4d6 некротического урона, и вы восстанавливаете ПЗ в размере половины этого урона. Если существо попытается покинуть сферу, оно должно совершить проверку Сопротивления магии. При провале существо не может уйти. Выбраться можно пробовать сколько угодно раз, но после первого хода это будет стоить траты действия.",
+    "range": "20м",
+    "duration": "Актив(20 вын+3d10 пз)",
+    "defence": "Сопротивление магии или Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "20",
+    "templateType": "circle",
+    "causeDamages": true,
+    "damage": "6d10+4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "6d10 - Некротический урон заклинателю"
+      },
+      {
+        "id": "_u9audofc2",
+        "name": "4d6 - Некротический урон жертве. Половина значения восстанавливает ПЗ заклинателю.",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496639054,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "GUxKcuGpD4c5Kvsg",
+  "folder": "61JxKnK4vxszNzbe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!GUxKcuGpD4c5Kvsg"
+}

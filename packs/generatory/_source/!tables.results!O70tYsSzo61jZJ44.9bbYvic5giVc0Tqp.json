@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Формула: Кислотный раствор",
+  "img": "icons/sundries/documents/document-brown.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "7Rg04LbhYcabeQPt",
+  "_id": "9bbYvic5giVc0Tqp",
+  "flags": {},
+  "_key": "!tables.results!O70tYsSzo61jZJ44.9bbYvic5giVc0Tqp"
+}

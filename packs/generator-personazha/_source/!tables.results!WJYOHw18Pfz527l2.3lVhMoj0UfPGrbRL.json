@@ -1,0 +1,16 @@
+{
+  "_id": "3lVhMoj0UfPGrbRL",
+  "type": 0,
+  "text": "Профессия врага - Наемник",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!WJYOHw18Pfz527l2.3lVhMoj0UfPGrbRL"
+}

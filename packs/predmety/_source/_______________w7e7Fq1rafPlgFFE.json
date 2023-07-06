@@ -1,0 +1,40 @@
+{
+  "name": "Скрытый сундук",
+  "type": "valuable",
+  "img": "icons/commodities/treasure/bust-carved-stone.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_r3stwb3cdz"
+    }
+  },
+  "system": {
+    "description": "Деревянный сундук, спрятанный в другом объекте, например, в статуе или предмете мебели. Сундук может вместить до 30 кг Крошечных или Маленьких предметов, и любой наблюдатель должен сделать проверку Восприятия Сл:18, чтобы понять, что у предмета есть отделение.",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 40,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603596,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "w7e7Fq1rafPlgFFE",
+  "folder": "mg1jdTvvbWMf4cYK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!w7e7Fq1rafPlgFFE"
+}

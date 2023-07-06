@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Кладбищенская баба",
+  "img": "modules/the-ultimate-witcher/assets/monsters/cemetery_woman.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "b15jAZtqwI2QqRYf",
+  "_id": "mj9DSnVOjqs6NZrV",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.mj9DSnVOjqs6NZrV"
+}

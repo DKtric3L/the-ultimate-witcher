@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Шкура Коровы",
+  "img": "icons/commodities/leather/fur-pelt-spotted-tan.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "JGZgSmtCjrx3fiR6",
+  "_id": "DHLBRdtivc8tupIX",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.DHLBRdtivc8tupIX"
+}

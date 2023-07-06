@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "1BsGllUePRC5ZvTi",
+  "text": "Препятствие - Неудачное место. Преступление произошло в зоне активных боевых действий.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!xuzjTXTUEcDG5KXw.1BsGllUePRC5ZvTi"
+}

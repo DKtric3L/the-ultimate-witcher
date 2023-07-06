@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    4,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "ek3RXhUjbCM99SaY",
+  "text": "Этот дракон рос далеко в горах и редко видел других существ. Он с подозрением относится к гостям.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Gy4sJiEEweUOW1Jz.ek3RXhUjbCM99SaY"
+}

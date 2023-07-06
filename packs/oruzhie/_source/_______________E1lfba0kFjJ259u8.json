@@ -1,0 +1,71 @@
+{
+  "name": "Топор берсерка",
+  "type": "weapon",
+  "img": "icons/weapons/axes/axe-battle-skull-black.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_o71fael2g4m"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 960,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее",
+      "slashing": true,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Poor",
+    "damage": "6d6",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровопускающее",
+        "percentage": "25"
+      },
+      {
+        "id": "_4iyuevx0a",
+        "name": "Разрушающее",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863944,
+    "modifiedTime": 1685496598627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "E1lfba0kFjJ259u8",
+  "folder": "k6LftIuVVZqjx3rb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!E1lfba0kFjJ259u8"
+}

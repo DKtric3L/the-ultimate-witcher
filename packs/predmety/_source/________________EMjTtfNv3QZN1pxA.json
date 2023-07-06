@@ -1,0 +1,44 @@
+{
+  "name": "Реданская крона",
+  "type": "valuable",
+  "img": "icons/commodities/currency/coin-inset-crown-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_o9qp5pd3li",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.sWHpq9OZ9rL6lfu3"
+    }
+  },
+  "system": {
+    "description": "Обмен:\nЗа 1 Темерский Орен дадут 1 крону.\nЗа 1 Нильфгаардский Флорен дадут 3 кроны, и наоборот.\nЗа 3 Дуката дадут 1 Крону, и наоборот.\nЗа 1 Бизанту дадут 4 кроны.\nЗа 1 Линтар дадут 2 Кроны.",
+    "quantity": 1,
+    "weight": 0.01,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868987,
+    "modifiedTime": 1685496603327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EMjTtfNv3QZN1pxA",
+  "folder": "Y27EgvFkpvqgYHAE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!EMjTtfNv3QZN1pxA"
+}

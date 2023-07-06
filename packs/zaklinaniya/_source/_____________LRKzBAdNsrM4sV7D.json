@@ -1,0 +1,60 @@
+{
+  "name": "Армия нежити",
+  "type": "spell",
+  "img": "icons/magic/death/skull-pile-glowing-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wUHptKrWh9x1NiB3"
+    },
+    "cf": {
+      "id": "temp_yt9b8cjci6m"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 6d10.\nАрмия нежити позволяет вам взаимодействуя с грудой костей или трупов поднимать до пяти из них, наполняя их частью вашей собственной жизненной силы. Они получают характеристики скелета. Вы можете изменить характеристики в зависимости от снаряжения трупа. Скелеты или трупы продолжают разлагаться естественным путем, поэтому, если они следуют за вами в течение некоторого времени, они получают 1d6 урона каждые 2 дня, если только это не находятся под действием эффекта ритуала Остановка разложения. Скелеты и трупы можно исцелять только заклинанием Исцеление нежити.",
+    "range": "20м",
+    "duration": "пока не убиты",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "6d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон заклинателю"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496639054,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LRKzBAdNsrM4sV7D",
+  "folder": "61JxKnK4vxszNzbe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LRKzBAdNsrM4sV7D"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "EtpCf3hXPUBaYDL3",
+  "name": "Мутаген: Утковол",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_loaduoyv3n",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.HS6VzLci9Dp4JtQg"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Утковолы",
+    "effect": "+1d6 к макс. урону с разбега",
+    "alchemyDC": "20",
+    "minorMutation": "Твердые наросты по всему телу"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!GyTbTuPSLT9hameg.EtpCf3hXPUBaYDL3"
+}

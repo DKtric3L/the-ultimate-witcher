@@ -1,0 +1,16 @@
+{
+  "_id": "d6KS3R5eEDFIeMmw",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Семья мастеров. Вы выросли в мастерской, учась создавать вещи, которые продавались бы по всему миру. Так вы и узнали цену мастерству. Начальное снаряжение - 3 обычных чертежа/Формулы.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!FvAMmEdcOG2dIxgB.d6KS3R5eEDFIeMmw"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Покров",
+  "type": 2,
+  "img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "gJBcceNBSq3yUMyY",
+  "documentId": "zJqtxdrq6ovynuhU",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.gJBcceNBSq3yUMyY"
+}

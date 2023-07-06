@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Где предмет?",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "2nPZyx6jaWlSsu2G",
+  "_id": "CtxTFmTAzYv9TWY1",
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.CtxTFmTAzYv9TWY1"
+}

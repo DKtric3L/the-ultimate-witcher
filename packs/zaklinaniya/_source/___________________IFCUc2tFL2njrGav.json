@@ -1,0 +1,70 @@
+{
+  "name": "Психические помехи",
+  "type": "spell",
+  "img": "icons/magic/control/silhouette-hold-beam-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.rcQXYIwlTNj4RPlP"
+    },
+    "cf": {
+      "id": "temp_ox1dmapord"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Прикасаясь к разумному существу, вы перегружаете его воспоминаниями. Если цель проваливает проверку Сопротивления магии, она получает 8d6 психического урона, не поглощаемого броней, и дезориентирована.",
+    "range": "Касание",
+    "duration": "Мгновенное",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "8d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Психический урон"
+      },
+      {
+        "id": "_nr9ojc842",
+        "name": "Не снижается броней",
+        "percentage": ""
+      },
+      {
+        "id": "_xfy2vtlbq",
+        "name": "Дезориентация",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496638904,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IFCUc2tFL2njrGav",
+  "folder": "FompVpMZkGLpN1Nf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IFCUc2tFL2njrGav"
+}

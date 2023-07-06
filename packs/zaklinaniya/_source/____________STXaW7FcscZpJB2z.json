@@ -1,0 +1,60 @@
+{
+  "name": "Стена ветра",
+  "type": "spell",
+  "img": "icons/magic/air/air-wave-gust-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.r7745RrV9LNYBaY4"
+    },
+    "cf": {
+      "id": "temp_2gfz0e4391q"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Заклинатель создает стену ветра, чтобы защититься от атак. Стена представляет собой квадрат 2х2 м, толщиной в 0,5 м. Для уничтожения нужно нанести стене 20 пунктов урона. Это заклинание может быть использовано в качестве защитного действия (блокирования). Стена блокирует количество атак ближнего боя, равное 2-кратному значению вашего навыка Со- творения заклинаний.",
+    "range": "6м",
+    "duration": "Актив(4 вын), или пока не уничтожено",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2х2",
+    "templateType": "rect",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892175,
+    "modifiedTime": 1685496638783,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "STXaW7FcscZpJB2z",
+  "folder": "xxARWgvfAzQOH2sZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!STXaW7FcscZpJB2z"
+}

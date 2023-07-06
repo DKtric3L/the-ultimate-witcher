@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Гернихора",
+  "img": "modules/the-ultimate-witcher/assets/monsters/gerniwhore.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "BbAJA9EIBfnBzcEE",
+  "_id": "CFUaVJXBIt3nX0Eg",
+  "flags": {},
+  "_key": "!tables.results!tQLIS5MUN5FQSzDC.CFUaVJXBIt3nX0Eg"
+}

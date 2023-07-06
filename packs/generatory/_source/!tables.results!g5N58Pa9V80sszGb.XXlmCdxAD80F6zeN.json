@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Квен",
+  "img": "modules/the-ultimate-witcher/assets/signs/kven.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "C3m2aIWLwGLZg7rP",
+  "_id": "XXlmCdxAD80F6zeN",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.XXlmCdxAD80F6zeN"
+}

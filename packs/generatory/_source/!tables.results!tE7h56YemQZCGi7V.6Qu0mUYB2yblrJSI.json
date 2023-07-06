@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "6Qu0mUYB2yblrJSI",
+  "text": "За дверью - Разыскиваемый преступник, отчаянно нуждающийся в последнем напитке перед приходом стражи.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!tE7h56YemQZCGi7V.6Qu0mUYB2yblrJSI"
+}

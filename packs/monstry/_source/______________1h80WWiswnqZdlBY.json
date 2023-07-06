@@ -1,0 +1,44 @@
+{
+  "name": "Трофей шарлея",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/sharlei.webp",
+  "system": {
+    "description": "Вы добавляете +2 к Сотворению заклинаний при использовании заклинаний и знаков, основанных на земле.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.GmksSU7fob3kZSy8"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1669965457710,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "1h80WWiswnqZdlBY",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!ytUDI3WvlUdgLiG0.1h80WWiswnqZdlBY"
+}

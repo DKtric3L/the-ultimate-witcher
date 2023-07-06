@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Пятнистый вихт",
+  "img": "modules/the-ultimate-witcher/assets/monsters/viht.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "sEUAWeP8l4b1waqn",
+  "_id": "MdtVN6EGO1OICZG2",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.MdtVN6EGO1OICZG2"
+}

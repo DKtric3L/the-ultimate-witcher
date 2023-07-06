@@ -1,0 +1,43 @@
+{
+  "name": "Трупный яд",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/corpse_poison.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.Hy5FS8y6XgHVJJuV"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 76,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "Тот, кому нанесли урон режущим или колющим оружием, смазан-\nным трупным ядом, получает сразу отравление и тошноту. \nЧтобы избавиться от этих состояний, необходимо успешно пройти две отдельные проверки Стойкости со СЛ 16.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Hy5FS8y6XgHVJJuV",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Hy5FS8y6XgHVJJuV"
+}

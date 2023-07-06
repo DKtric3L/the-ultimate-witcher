@@ -1,0 +1,42 @@
+{
+  "name": "Пыль шарлея",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/dust_gargoyle_64x64.png.6878.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.1,
+    "cost": 79,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Shaelmaars",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "rebis"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.vKvjcBH0LLNeVBQb"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1669965438924,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "0b6cG9lD6Yws7aJP",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!ytUDI3WvlUdgLiG0.0b6cG9lD6Yws7aJP"
+}

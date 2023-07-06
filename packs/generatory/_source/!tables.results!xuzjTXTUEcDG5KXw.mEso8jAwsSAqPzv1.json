@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "mEso8jAwsSAqPzv1",
+  "text": "Препятствие - Ход времени. С момента преступления прошло много времени, и это затрудняет поиск улик и расспрос очевидцев.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!xuzjTXTUEcDG5KXw.mEso8jAwsSAqPzv1"
+}

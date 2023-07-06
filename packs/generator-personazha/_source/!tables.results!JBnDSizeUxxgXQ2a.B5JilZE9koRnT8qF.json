@@ -1,0 +1,16 @@
+{
+  "_id": "B5JilZE9koRnT8qF",
+  "type": 0,
+  "text": "Предательство. Вас предал друг или знакомый. Выберите друга и сделайте его врагом. Если у вас в настоящее время нет друзей, создайте нового, а затем отметьте его как врага.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!JBnDSizeUxxgXQ2a.B5JilZE9koRnT8qF"
+}

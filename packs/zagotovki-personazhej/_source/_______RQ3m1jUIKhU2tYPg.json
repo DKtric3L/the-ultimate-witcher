@@ -1,0 +1,62 @@
+{
+  "name": "Эсбода",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-crossguard-embossed-gold.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 650,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Poor",
+    "damage": "5d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_2ps351j34un"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1663424680340,
+    "modifiedTime": 1672566741567,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "RQ3m1jUIKhU2tYPg",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!tXSRAIVui3uC4sEh.RQ3m1jUIKhU2tYPg"
+}

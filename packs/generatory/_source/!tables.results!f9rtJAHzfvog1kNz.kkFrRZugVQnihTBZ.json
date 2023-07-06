@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    24,
+    24
+  ],
+  "drawn": false,
+  "text": "Лира",
+  "img": "icons/tools/instruments/harp-gold-glowing.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "CbyvAonWNkVRdP2U",
+  "_id": "kkFrRZugVQnihTBZ",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.kkFrRZugVQnihTBZ"
+}

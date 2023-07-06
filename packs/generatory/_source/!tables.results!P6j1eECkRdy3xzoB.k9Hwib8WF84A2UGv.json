@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Ведьмак школы Грифона",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Vedmak_shkoli_grifona_Katarzyna_Bekus.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "N7nQOFSsbexXyUCv",
+  "_id": "k9Hwib8WF84A2UGv",
+  "flags": {},
+  "_key": "!tables.results!P6j1eECkRdy3xzoB.k9Hwib8WF84A2UGv"
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Испытание снами",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zhest.HOStN3aKeMJ5bk2M"
+    },
+    "cf": {
+      "id": "temp_5fs5k8llj4f"
+    }
+  },
+  "system": {
+    "description": "<p>Испытуемый ввергается в серию психоделических видений, которые создаются магом при помощи заклинаний и галлюциногенов. После чего жертве вводится в глаза смесь чистого эфира, гидрагена и водной эссенции, чтобы обострить её чувства. Помимо этого, глаза испытуемого становятся подобными кошачьим или змеиным, и они больше никогда не смогут иметь детей. Мутация повышает реакцию и ловкость жертвы на +1, позволяя повышать эти параметры выше 10 уровня, также даруя невосприимчивость к запугиванию. Провал проверки помимо бонусов выше, снижает эмпатию жертвы на -4(Но не может опустить ниже 1.). Критический провал снизит эмпатию до единицы, жертва в дальнейшем будет страдать от неконтролируемых приступов ярости и гнева, её психика станет нестабильной.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": null,
+    "alchemyDC": 0,
+    "craftingTime": "",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "_kzr83qrno",
+        "name": "Талант мутации 10 уровня(Маг)",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_vjn03d631",
+        "name": "Чистый эфир",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_mnvypzcje",
+        "name": "Чистый гидраген",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_766uqb9b9",
+        "name": "Алкагест",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_efoom5tc2",
+        "name": "Водная эссенция",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_quuamudnp",
+        "name": "Галлюциноген",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": null,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496639186,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vwqS4QBwDaWLh5vl",
+  "folder": "MoEHlU2BhTZKp1h3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!vwqS4QBwDaWLh5vl"
+}

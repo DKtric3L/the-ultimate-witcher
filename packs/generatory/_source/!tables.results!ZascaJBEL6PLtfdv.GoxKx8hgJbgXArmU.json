@@ -1,0 +1,16 @@
+{
+  "text": "Перо Лютиэнь",
+  "type": 2,
+  "img": "icons/magic/symbols/triangle-glowing-green.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "GoxKx8hgJbgXArmU",
+  "documentId": "GZYrNz5jQ0xyMt0y",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.GoxKx8hgJbgXArmU"
+}

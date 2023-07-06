@@ -1,0 +1,160 @@
+{
+  "name": "Нильфгаардский латный доспех",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.Gi4wwKAEcjsA44Id"
+    },
+    "cf": {
+      "id": "temp_3txx1gexsa4"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.Wwm3VseFbhwi1jXT]{Нильфгаардский латный доспех}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1274,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 24,
+    "alchemyDC": 0,
+    "craftingTime": "12ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "5",
+        "name": "Темная сталь"
+      },
+      {
+        "id": "_qh5v1tdji",
+        "name": "Полотно",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_w3u31d5hp",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_3o6d23amx",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_l9sv9yb9h",
+        "name": "Чернящее масло",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_jwrmbi83j",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_8wn3pxqyc",
+        "name": "Пепел",
+        "percentage": "",
+        "quantity": "10"
+      }
+    ],
+    "investment": 637,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Нильфгаардский латный доспех",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-collared-steel.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 12,
+        "cost": 850,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 30,
+        "torsoMaxStopping": 30,
+        "leftArmStopping": 30,
+        "leftArmMaxStopping": 30,
+        "rightArmStopping": 30,
+        "rightArmMaxStopping": 30,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Heavy",
+        "avail": "Rare",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 2,
+        "location": "Torso",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_1fv367gt0a6"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837868,
+        "modifiedTime": 1668162837868,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848422,
+    "modifiedTime": 1685496579515,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Gi4wwKAEcjsA44Id",
+  "folder": "oTSsG7E8jPWX0U0p",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Gi4wwKAEcjsA44Id"
+}

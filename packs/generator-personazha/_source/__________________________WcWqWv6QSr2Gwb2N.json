@@ -1,0 +1,44 @@
+{
+  "name": "Высший вампир - увлечения",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "gZnjF8rcSsa8xso2",
+    "gqWcNTrF6jkxCuQM",
+    "8DanrEaog7ctIneU",
+    "j3AeN3yMsGTxUWRz",
+    "PhoJyCD9kbGtCNCg",
+    "Sus4Ow3xtKNGPxZD",
+    "RlvEl95djpxFIWqI",
+    "FKFlZDWoMB3heyZf",
+    "BXyzgOmQ65aqoty1",
+    "k1NcsjiX8xyWAqXt"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "WcWqWv6QSr2Gwb2N",
+  "_key": "!tables!WcWqWv6QSr2Gwb2N"
+}

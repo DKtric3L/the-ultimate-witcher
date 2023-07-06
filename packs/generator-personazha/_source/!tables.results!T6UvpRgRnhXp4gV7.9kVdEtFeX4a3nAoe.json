@@ -1,0 +1,16 @@
+{
+  "_id": "9kVdEtFeX4a3nAoe",
+  "flags": {},
+  "type": 0,
+  "text": "Ложное обвинение - Либо кто-то захотел от вас избавиться, либо вы оказались удобным козлом отпущения. Сделайте бросок 1d10: 1-3 воровство, 4-5 трусость или предательство, 6-8 убийство, 9 изнасилование, 10 - нелегальное колдовство.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!T6UvpRgRnhXp4gV7.9kVdEtFeX4a3nAoe"
+}

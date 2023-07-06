@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Клуб - Есть ли Завсегдатай",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "Q0haHWxQhirPckeb",
+  "_id": "U0j8JnHvGnndf8RF",
+  "flags": {},
+  "_key": "!tables.results!hI72n8qVQg77ev8U.U0j8JnHvGnndf8RF"
+}

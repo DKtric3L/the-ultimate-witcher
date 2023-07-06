@@ -1,0 +1,56 @@
+{
+  "name": "Эффект: Табак",
+  "type": "effect",
+  "img": "icons/consumables/plants/dried-leaf-stem-herb-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_et1htt64j0c"
+    }
+  },
+  "system": {
+    "description": "1d6 часов. Пройди проверку со сл. 12, при провале становишься зависим от табака.\nИногда, это единственный способ, чтобы расслабиться.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_7123xo401",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "3"
+      },
+      {
+        "id": "_4cv48mk5i",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "3"
+      }
+    ],
+    "derived": [
+      {
+        "id": "_va8k2fa9c",
+        "derivedStat": "WITCHER.Actor.CoreStat.Rec",
+        "modifier": "1"
+      },
+      {
+        "id": "_nsggfr8fb",
+        "derivedStat": "WITCHER.Actor.DerStat.Sta",
+        "modifier": "-5"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "8ZVB50Bp3DXk1CVP",
+  "folder": "FcoowEm4mYGPMieN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8ZVB50Bp3DXk1CVP"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Кошмар",
+  "type": 2,
+  "img": "icons/magic/control/fear-fright-monster-grin-red-orange.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "t9cg25ct2ydh2rok",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "S54WWNplVzbLISeP",
+  "_key": "!tables.results!uQUYJOzKwfcpm2yM.t9cg25ct2ydh2rok"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Слово вдохновения",
+  "type": "spell",
+  "img": "icons/skills/social/diplomacy-writing-letter.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_2p80iyngdu1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Вы выкрикиваете вдохновляющую фразу, направленную вам вашим богом. Все союзники в пределах дистанции получают 1 кость адреналина.",
+    "range": "5м",
+    "duration": "Мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892173,
+    "modifiedTime": 1685496639258,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "KpYKwz6pH0pv17dJ",
+  "folder": "7qXEELZDYM9OW2E6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!KpYKwz6pH0pv17dJ"
+}

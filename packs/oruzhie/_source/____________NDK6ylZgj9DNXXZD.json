@@ -1,0 +1,60 @@
+{
+  "name": "Длинный лук",
+  "type": "weapon",
+  "img": "icons/weapons/bows/longbow-recurve-leather-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rpglc34ihvo"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 475,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "4d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "200",
+    "equiped": false,
+    "effects": [],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Archery",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863938,
+    "modifiedTime": 1685496598663,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NDK6ylZgj9DNXXZD",
+  "folder": "2IkNgpEkJTz0CRQl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NDK6ylZgj9DNXXZD"
+}

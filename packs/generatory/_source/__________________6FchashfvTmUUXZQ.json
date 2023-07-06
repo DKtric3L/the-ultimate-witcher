@@ -1,0 +1,46 @@
+{
+  "name": "Доспехи - новичок",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "results": [
+    "s9wxhtmtp5eyr5m0",
+    "86duba4lcg9l4qz2",
+    "5r4g285xrtoaytjw",
+    "vqgthamlw1q9zn74",
+    "9uijfe8f029tun0n",
+    "lf9ustn7n8off8f0",
+    "vykr8xnn27dsgbs5",
+    "56yiw6xw08l5r2nf",
+    "nefbxijbbpgbohfa",
+    "2qcnbaohprfxk8c0",
+    "19mtw985me1llnum",
+    "q0101svvgphyb8nj"
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.6y4K5DZvKb2S032i"
+    },
+    "cf": {
+      "id": "temp_xhd9ad4pt09"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932896,
+    "modifiedTime": 1685496644464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6FchashfvTmUUXZQ",
+  "folder": "Nb1YtBTsoOm2aQtL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!6FchashfvTmUUXZQ"
+}

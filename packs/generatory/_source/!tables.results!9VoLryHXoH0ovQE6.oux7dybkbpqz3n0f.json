@@ -1,0 +1,16 @@
+{
+  "text": "Краснолюдский точильный камень",
+  "type": 2,
+  "img": "icons/commodities/stone/ore-chunk-magma-brown.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "_id": "oux7dybkbpqz3n0f",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "P1h2IpYEks3TlsXE",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.oux7dybkbpqz3n0f"
+}

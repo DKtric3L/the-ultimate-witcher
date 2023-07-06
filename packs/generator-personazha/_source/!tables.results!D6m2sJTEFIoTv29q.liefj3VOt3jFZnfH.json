@@ -1,0 +1,16 @@
+{
+  "_id": "liefj3VOt3jFZnfH",
+  "flags": {},
+  "type": 0,
+  "text": "Что-то случилось с вашими родителями.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!D6m2sJTEFIoTv29q.liefj3VOt3jFZnfH"
+}

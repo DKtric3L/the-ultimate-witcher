@@ -1,0 +1,63 @@
+{
+  "_id": "Tsqwuyh4KOoXY2mh",
+  "name": "Двуслойные штаны",
+  "type": "armor",
+  "img": "icons/equipment/leg/pants-cloth-tasset-green-grey.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_4zb4x6lgt3c"
+    },
+    "core": {
+      "sourceId": "Compendium.world.dospehi.3F5QHDQQCTRMsg8k"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 225,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 8,
+    "leftLegMaxStopping": 8,
+    "rightLegStopping": 8,
+    "rightLegMaxStopping": 8,
+    "type": "Light",
+    "avail": "Poor",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "Leg",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!5LLHqstrIQe4XKBE.Tsqwuyh4KOoXY2mh"
+}

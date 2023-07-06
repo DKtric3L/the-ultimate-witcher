@@ -1,0 +1,16 @@
+{
+  "_id": "ciSfEh9nn9LIoeuR",
+  "flags": {},
+  "type": 0,
+  "text": "Случился внезапный поворот событий.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!U3EGBmrhFdcItow3.ciSfEh9nn9LIoeuR"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Духи",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Specters.png",
+  "description": "",
+  "results": [
+    "bn5GbKHhfzNXRAsk",
+    "dxvbDHo262vqL46i",
+    "eYg0Nx25YzxXA9gC",
+    "8qMfzvjskeomFsDW",
+    "gf5n3qPZsXBvb1Z4",
+    "AdzXxIHAKozYLh0d",
+    "odUPQqXJI7rusj2T",
+    "JfO0bpF6P6sXczci",
+    "JMEF3HosUJSrDsQB",
+    "E1nYwjPKZKDIYha0",
+    "kwNi09Szx4gn1D45",
+    "mbEJeUFkQ4isEtjf",
+    "cm153J05D7KhOZwz",
+    "kTZBNBJc7JpGawcQ",
+    "xTX6nyr3SUgnrxgY",
+    "gXYviNXO3u3AxD3e",
+    "b6Js0KMZDEcCtzkY",
+    "oc7WGWz4kbGJ98Vl",
+    "G5WMsrRyCZFBogls",
+    "UqD6klQhp1lWa9IU"
+  ],
+  "formula": "1d14",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "Xqc5niSQ2i4iC98E",
+  "_key": "!tables!Xqc5niSQ2i4iC98E"
+}

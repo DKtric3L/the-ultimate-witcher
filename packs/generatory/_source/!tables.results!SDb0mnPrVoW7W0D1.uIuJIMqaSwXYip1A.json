@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Солдат синих полосок",
+  "img": "modules/the-ultimate-witcher/assets/monsters/blue_stripe.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "odFTsFEj7GxvhSWc",
+  "_id": "uIuJIMqaSwXYip1A",
+  "flags": {},
+  "_key": "!tables.results!SDb0mnPrVoW7W0D1.uIuJIMqaSwXYip1A"
+}

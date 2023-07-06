@@ -1,0 +1,45 @@
+{
+  "name": "Ценит",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "jGHDLFHcgFsE7ctq",
+    "8QhSphcwKYHHnCda",
+    "cDIiudM4RWon3No8",
+    "nTi8Nyb5Z54CP3lN",
+    "qJmon3SUDVhw4yIv",
+    "Ky9eFTG618wlzyJd",
+    "QodpkEvUFgz3e0D0",
+    "QBBhnGJhMnLrS7Gz",
+    "NBLwleTwBnUaNrF4",
+    "R9RoksWvvyva0iYb"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.38g1FgLXj0HesFjy"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901107,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "M7yuCNfkpcAHRnfk",
+  "_key": "!tables!M7yuCNfkpcAHRnfk"
+}

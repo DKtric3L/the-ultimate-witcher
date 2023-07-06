@@ -1,0 +1,16 @@
+{
+  "_id": "mq2PwohwHs5RnB5N",
+  "flags": {},
+  "type": 0,
+  "text": "Твоя профессия: Торговец",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!eFUwBmwjr69MzDEv.mq2PwohwHs5RnB5N"
+}

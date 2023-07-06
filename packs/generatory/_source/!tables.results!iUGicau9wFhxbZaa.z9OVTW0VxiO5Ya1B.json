@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Чешуя драконида",
+  "img": "icons/commodities/leather/scale-chitin-grey.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "EhVnm6BnJyFTXX7e",
+  "_id": "z9OVTW0VxiO5Ya1B",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.z9OVTW0VxiO5Ya1B"
+}

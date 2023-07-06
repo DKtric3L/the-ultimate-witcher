@@ -1,0 +1,77 @@
+{
+  "name": "Рунное слово: Размещение",
+  "type": "diagrams",
+  "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.jDDTWtUDMcLn4PsH"
+    },
+    "cf": {
+      "id": "temp_1r5chs154v7"
+    }
+  },
+  "system": {
+    "description": "<p>Используя с данным оружием кость адреналина, вы тратите не 10 вын, а всего 5.</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 2150,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Морана"
+      },
+      {
+        "id": "_xg0xkdhnl",
+        "name": "Стрибог",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_yw4gc0wue",
+        "name": "component",
+        "percentage": ""
+      }
+    ],
+    "investment": 1175,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848427,
+    "modifiedTime": 1685496579124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ET1LwDDFQOWQMA9G",
+  "folder": "7ogE3cPtN4Xw0G1z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ET1LwDDFQOWQMA9G"
+}

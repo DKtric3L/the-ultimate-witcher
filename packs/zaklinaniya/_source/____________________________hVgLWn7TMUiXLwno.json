@@ -1,0 +1,65 @@
+{
+  "name": "Вампирическое прикосновение",
+  "type": "spell",
+  "img": "icons/magic/unholy/hand-light-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wdVmn4IOQUknBiAi"
+    },
+    "cf": {
+      "id": "temp_yt9b8cjci6m"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 3d6.\nВы прикасаетесь к существу и поглощаете его жизненную силу. Вы наносите 5d10 некротического урона и восстанавливаете себе такое же количество ПЗ, за вычетом отданных вами Затрат ПЗ.",
+    "range": "Касание",
+    "duration": "Мгновенное",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "3d6+5d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "3d6 - Некротический урон заклинателю"
+      },
+      {
+        "id": "_doceafw0s",
+        "name": "5d10 - Некротический урон жертве и лечение для заклинателя",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496639054,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hVgLWn7TMUiXLwno",
+  "folder": "61JxKnK4vxszNzbe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hVgLWn7TMUiXLwno"
+}

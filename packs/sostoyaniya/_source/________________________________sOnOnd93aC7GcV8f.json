@@ -1,0 +1,37 @@
+{
+  "name": "Эффект Трофея - Скальный тролль",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/trophy/troll.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.sOnOnd93aC7GcV8f"
+    },
+    "cf": {
+      "id": "temp_mgri5lboda"
+    }
+  },
+  "system": {
+    "description": "Вы добавляете 1 к множителю дальности метательного оружия, которым вы владеете.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883180,
+    "modifiedTime": 1685496622016,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sOnOnd93aC7GcV8f",
+  "folder": "Ny5twfeEX4VEIr47",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!sOnOnd93aC7GcV8f"
+}

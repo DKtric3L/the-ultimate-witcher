@@ -1,0 +1,44 @@
+{
+  "name": "Фляга с крепким алкоголем",
+  "type": "valuable",
+  "img": "icons/containers/kitchenware/jug-wrapped-red.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 5,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_9bempw9mh8g",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.6TwuKOEurARdSVnR"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663422417260,
+    "modifiedTime": 1663422417260,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "JgZNuHnMTO1tlXKz",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!CAccIpkamqCyBDi7.JgZNuHnMTO1tlXKz"
+}

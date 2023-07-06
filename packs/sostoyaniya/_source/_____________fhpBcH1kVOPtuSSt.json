@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Гром",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/potions/thunder.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.fhpBcH1kVOPtuSSt"
+    },
+    "cf": {
+      "id": "temp_d24zge9h815"
+    }
+  },
+  "system": {
+    "description": "+3 к урону физическими атаками на 15 раундов. Токсичность 75%.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496622135,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "fhpBcH1kVOPtuSSt",
+  "folder": "LzDekdlbqkuddQPT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!fhpBcH1kVOPtuSSt"
+}

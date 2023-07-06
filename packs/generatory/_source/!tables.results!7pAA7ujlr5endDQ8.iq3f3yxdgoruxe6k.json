@@ -1,0 +1,16 @@
+{
+  "text": "Наполнить трофей",
+  "type": 2,
+  "img": "icons/commodities/gems/pearl-fire-swirl.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "_id": "iq3f3yxdgoruxe6k",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "p4ACQtlBKOIqWXJ0",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.iq3f3yxdgoruxe6k"
+}

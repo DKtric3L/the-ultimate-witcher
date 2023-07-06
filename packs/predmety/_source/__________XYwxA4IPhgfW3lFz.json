@@ -1,0 +1,40 @@
+{
+  "name": "Пара скоб",
+  "type": "valuable",
+  "img": "icons/tools/fasteners/washer-square-steel-grey.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zf5u6w9lv4"
+    }
+  },
+  "system": {
+    "description": "Пара прочных деревянных и металлических скоб, которые можно прикрепить к укрытию, потратив полный ход. После установки скобы дают дополнительные 3 очка ПБ Укрытия. Скобы можно снять, выполнив еще одно действие полного хода. Скобы уничтожаются, если Укрытие будет разрушено. К Укрытию можно добавить только одну пару скоб.",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 45,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868985,
+    "modifiedTime": 1685496603881,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XYwxA4IPhgfW3lFz",
+  "folder": "q1ZDZnYV2jrmlqwx",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!XYwxA4IPhgfW3lFz"
+}

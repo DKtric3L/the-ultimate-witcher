@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "text": "Пиво",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "FG86RJYCQc9nALr7",
+  "_id": "Mx2gpYeqDPgkz81z",
+  "flags": {},
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.Mx2gpYeqDPgkz81z"
+}

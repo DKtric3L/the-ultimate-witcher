@@ -1,0 +1,16 @@
+{
+  "_id": "GWLnoefEQAIyOBLG",
+  "type": 0,
+  "text": "Огонь: Тело персонажа охватывает пламя, нанося ему урон в зависимости от величины провала. Персонаж горит.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5GizfY2uVTqNHbxZ.GWLnoefEQAIyOBLG"
+}

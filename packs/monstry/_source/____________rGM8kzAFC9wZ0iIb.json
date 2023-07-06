@@ -1,0 +1,80 @@
+{
+  "name": "Сон дракона",
+  "type": "weapon",
+  "img": "modules/the-ultimate-witcher/assets/bombs/dragon_dream.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "Тел*4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Радиус - 8 метров",
+        "percentage": ""
+      },
+      {
+        "id": "_au6gi04f4",
+        "name": "Горение",
+        "percentage": "75"
+      },
+      {
+        "id": "_jkiskn6su",
+        "name": "Создает облако горючего газа, Которое двигается в случайное направление 3 хода, после рассеивается. Возгорая, наносит 5d6 урона",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_rads4wdft3r"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.SgMtprI6P3OXLMPG"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1668162887310,
+    "modifiedTime": 1672739396883,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "rGM8kzAFC9wZ0iIb",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!4AIajYIPFFjscffC.rGM8kzAFC9wZ0iIb"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Аньяльх",
+  "type": "spell",
+  "img": "icons/skills/wounds/blood-cells-vessel-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zj30gssz7x"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Позволяет частично вытянуть жидкость из тела цели, истощая её. Заклинание наносит 4d6 урона, не блокируемого щитами или бронёй. Также крайнее обезвоживание изнуряет цель, снижая её текущее значение Вын на 4d6.",
+    "range": "10м",
+    "duration": "мгновенное",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6+4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "4d6 - урон от заклинания"
+      },
+      {
+        "id": "_eetnd0rv9",
+        "name": "4d6 - урон по выносливости",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496638034,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Sy7yJK2U1ldUJ26l",
+  "folder": "hCWlGuK2kocnUbkH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Sy7yJK2U1ldUJ26l"
+}

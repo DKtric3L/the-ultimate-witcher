@@ -1,0 +1,40 @@
+{
+  "name": "Ядовитая помада",
+  "type": "alchemical",
+  "img": "icons/commodities/materials/bowl-liquid-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 80,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "Небольшой горшочек с губной помадой, настоянной на ядовитых травах. Одно применение этой помады сохраняет эффект в течение 1 часа. Следующий человек, которого пользователь целует в течение этого периода времени, немедленно получает состояние отравления со следующими отличиями: цель также находится в состоянии опьянения на время действия яда. Ядовитую помаду можно нанести 3 раза, прежде чем оно будет израсходована.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868996,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XdpIOiKw607o6E37",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!XdpIOiKw607o6E37"
+}

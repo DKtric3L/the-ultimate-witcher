@@ -1,0 +1,16 @@
+{
+  "_id": "WzVg5EOltLV3dAVI",
+  "type": 0,
+  "text": "Перевел фолиант. Вы помогли перевести старый эльфийский фолиант. Вы получаете +2 к Старшей речи.",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!0EnpFO2kISAVuMcR.WzVg5EOltLV3dAVI"
+}

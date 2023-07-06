@@ -1,0 +1,16 @@
+{
+  "text": "Топор",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "hmtectudror2ldew",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "NYBHhOXQ9V7IFKKE",
+  "_key": "!tables.results!nLFXPW04rBbZ5DaP.hmtectudror2ldew"
+}

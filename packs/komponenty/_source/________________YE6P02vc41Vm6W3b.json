@@ -1,0 +1,44 @@
+{
+  "name": "Эссенция смерти",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/pheromones_endriag_queen.dds_.6930.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.q3xPTGNAbZ7VbcGy"
+    },
+    "cf": {
+      "id": "temp_7waal2pnsr2"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 155,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Poor",
+    "location": "Монстры",
+    "quantityObtainable": "",
+    "forage": "",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853708,
+    "modifiedTime": 1685496584304,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YE6P02vc41Vm6W3b",
+  "folder": "yikOWioIDUj6aZ72",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YE6P02vc41Vm6W3b"
+}

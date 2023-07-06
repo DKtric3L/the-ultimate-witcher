@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Крысолак",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Krisolak_Maciej_Laszkiewicz.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "LG88ioWNtaQH6C25",
+  "_id": "IP9GASHcHpEWqNwH",
+  "flags": {},
+  "_key": "!tables.results!faEhx9OFhWYrUiUw.IP9GASHcHpEWqNwH"
+}

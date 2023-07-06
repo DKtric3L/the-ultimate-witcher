@@ -1,0 +1,44 @@
+{
+  "_id": "IpghwNFzfX4jlxjb",
+  "name": "Мутаген: Котолак",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-red.png",
+  "effects": [],
+  "folder": "za9MQKX6IGJQLkJy",
+  "sort": 2600000,
+  "flags": {
+    "cf": {
+      "id": "temp_loaduoyv3n",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.C8OQtqEpP9GkNl4H"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "red",
+    "source": "Котолаки",
+    "effect": "+3 к урону в ближнем бою",
+    "alchemyDC": "20",
+    "minorMutation": "Светящиеся в темноте глаза"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!YLUpT7ABfY8VifAN.IpghwNFzfX4jlxjb"
+}

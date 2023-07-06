@@ -1,0 +1,42 @@
+{
+  "name": "Исключительные",
+  "img": "icons/svg/biohazard.svg",
+  "description": "",
+  "results": [
+    "ookNp9i4HU6cZMGx",
+    "u0YYJ4w8kZvvt7HJ",
+    "iCrqkQbA7TyzZTJL",
+    "ySuuF1RU8To8aCjW",
+    "KtkBDONPh7Zl2mwh",
+    "qc47Jt7289YycMds",
+    "HMRhYJtQHWbCbnPY",
+    "jf2AZHSEvjQcGWFg"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "YGJTmsJ1rLJSj7Kh",
+  "_key": "!tables!YGJTmsJ1rLJSj7Kh"
+}

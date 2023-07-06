@@ -1,0 +1,45 @@
+{
+  "name": "За дверью",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "DDDIuKMWY6vwNqoE",
+    "eYcA13TyhbCIb8Hj",
+    "aHe5FaugFDQb9Mw3",
+    "6Qu0mUYB2yblrJSI",
+    "a3zjBofkl9gmaMGL",
+    "XMDZ9sux4Gatsdfr",
+    "Wo7XrZGdo09ml9r7",
+    "PhO7zzqaPnEqlQ0R",
+    "7NfTV6bFSq76jwnT",
+    "XsmLq4svwwV86TZJ",
+    "lAWSUOSNEASjW9Lb"
+  ],
+  "formula": "2d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_tydad1d5ono"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644521,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "kf9IUy3zD5qIiqc7",
+  "sort": 0,
+  "_id": "tE7h56YemQZCGi7V",
+  "_key": "!tables!tE7h56YemQZCGi7V"
+}

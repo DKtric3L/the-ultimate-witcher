@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "drawn": false,
+  "text": "Колышки(5х)",
+  "img": "icons/tools/scribal/pen-stylus-pencil.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "1gxXECuxK2niCR9f",
+  "_id": "Q16FfSlkNLuSx7kv",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.Q16FfSlkNLuSx7kv"
+}

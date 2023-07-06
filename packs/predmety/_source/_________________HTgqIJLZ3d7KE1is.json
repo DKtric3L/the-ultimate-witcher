@@ -1,0 +1,51 @@
+{
+  "name": "Усиленная тетива",
+  "type": "enhancement",
+  "img": "icons/sundries/survival/rope-wrapped-loops-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.HTgqIJLZ3d7KE1is"
+    },
+    "cf": {
+      "id": "temp_frzayswlhnf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 425,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "Everywhere",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Повышает урон от выстрела\nиз арбалета на +1d6."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868993,
+    "modifiedTime": 1685496603273,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "HTgqIJLZ3d7KE1is",
+  "folder": "AVzS20lEfUPVxlW1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!HTgqIJLZ3d7KE1is"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Кристаллический Стазис",
+  "type": "spell",
+  "img": "icons/magic/water/barrier-ice-crystal-wall-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ay4624k8l6q"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "earth",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Кристаллический стазис позволяет вам заставить кристаллы расти вокруг цели и полностью окружить её, помещая её в нестареющее, похожее на кому состояние. Эти кристаллы растут быстро, но не мгновенно, и заклинание должно поддерживаться в соответствии с активным заклинанием в течение трех раундов. На следующем ходу тело цели становится вялым и жестким, что дает -3 к атаке и защите и -3 к ее скорости. На втором ходу их тело начинает поглощать кристалл, и они также не могут двигаться с того места, где стоят. На третьем ходу цель полностью погребается в кристаллическом столбе, в результате чего она теряет сознание. Если маг вынужден прекратить поддерживать это заклинание до третьего раунда, заклинание заканчивается, а эффекты меняются местами. В противном случае единственный способ отменить эффекты — использовать заклинание Рассеивание.",
+    "range": "6м",
+    "duration": "актив(вын 6)",
+    "defence": "Сопр маг или укл",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496638102,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "txqPy3qXKymaE04h",
+  "folder": "aPtAcy2MErYLuZbi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!txqPy3qXKymaE04h"
+}

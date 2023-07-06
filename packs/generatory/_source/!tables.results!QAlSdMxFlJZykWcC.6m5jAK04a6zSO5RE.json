@@ -1,0 +1,16 @@
+{
+  "text": "Проклятие Седны",
+  "type": 2,
+  "img": "icons/magic/water/vortex-water-whirlpool.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "6m5jAK04a6zSO5RE",
+  "documentId": "8Hl5HXyFJXobi5rc",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.6m5jAK04a6zSO5RE"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Двимеритовые оковы",
+  "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "CNBDmrIHu3ipqQ8W",
+  "_id": "8pYy4XNmkZ3tmQ5j",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.8pYy4XNmkZ3tmQ5j"
+}

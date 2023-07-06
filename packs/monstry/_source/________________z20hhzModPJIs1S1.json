@@ -1,0 +1,46 @@
+{
+  "name": "Кости животного",
+  "type": "component",
+  "img": "icons/commodities/bones/bone-broken-brown.webp",
+  "system": {
+    "description": "",
+    "quantity": "1d10",
+    "weight": 4,
+    "cost": 8,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Common",
+    "location": "Монстры и животные",
+    "quantityObtainable": "Variable",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_fd6i44q3pyb",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.IrTJdvRa14Sj5m81"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1668162853701,
+    "modifiedTime": 1680484899043,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_id": "z20hhzModPJIs1S1",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!oUDoU5on0nbVcv4Z.z20hhzModPJIs1S1"
+}

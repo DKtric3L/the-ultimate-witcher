@@ -1,0 +1,16 @@
+{
+  "_id": "stqYpfeWRkQbQuce",
+  "type": 2,
+  "text": "Опасность - экспе",
+  "weight": 1,
+  "range": [
+    31,
+    100
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "4dpnBG7SV5On0Q30",
+  "_key": "!tables.results!s9cYIwhQJhSEN5sV.stqYpfeWRkQbQuce"
+}

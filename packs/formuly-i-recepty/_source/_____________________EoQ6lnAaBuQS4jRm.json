@@ -1,0 +1,168 @@
+{
+  "name": "Щит из чешуи виверны",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.DEZAFV2mKAiOPaNP"
+    },
+    "cf": {
+      "id": "temp_3txx1gexsa4"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.Pg55gKJEt2sfujxC]{Щит из чешуи виверны}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 750,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "5ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Темное железо"
+      },
+      {
+        "id": "_l5w4r0q0e",
+        "name": "Кожа драконида",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_zqf23ctk4",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_2sj912vpg",
+        "name": "Укрепленная древесина",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_qm0bgb7u7",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_o7f0p29l3",
+        "name": "Дубильные травы",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_m18m7lozj",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 375,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Щит из чешуи виверны",
+      "type": "armor",
+      "img": "icons/equipment/shield/kite-decorative-steel-claws.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2.5,
+        "cost": 500,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 18,
+        "reliabilityMax": 18,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Огнеупорный (щит)"
+          }
+        ],
+        "encumb": 0,
+        "location": "Shield",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.Pg55gKJEt2sfujxC"
+        },
+        "cf": {
+          "id": "temp_yulv4k2lkie"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162837870,
+        "modifiedTime": 1670457788460,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848432,
+    "modifiedTime": 1685496579515,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EoQ6lnAaBuQS4jRm",
+  "folder": "oTSsG7E8jPWX0U0p",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!EoQ6lnAaBuQS4jRm"
+}

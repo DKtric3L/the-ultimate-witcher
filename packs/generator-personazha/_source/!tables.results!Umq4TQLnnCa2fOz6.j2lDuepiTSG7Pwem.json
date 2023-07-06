@@ -1,0 +1,16 @@
+{
+  "_id": "j2lDuepiTSG7Pwem",
+  "flags": {},
+  "type": 0,
+  "text": "Завидует вам.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Umq4TQLnnCa2fOz6.j2lDuepiTSG7Pwem"
+}

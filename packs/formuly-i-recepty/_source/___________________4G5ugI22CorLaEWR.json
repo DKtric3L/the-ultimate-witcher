@@ -1,0 +1,169 @@
+{
+  "name": "Краснолюдский плащ",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.4G5ugI22CorLaEWR"
+    },
+    "cf": {
+      "id": "temp_7b35u0lwoec"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.YINoB5GaSXnMeIzD]{Краснолюдский плащ}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 2100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-armor",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "9ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "12",
+        "name": ""
+      },
+      {
+        "id": "_lg85hwt0l",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_3a27tjint",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_poeyw0vvt",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_fmpo3fhit",
+        "name": "Кожа",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_mghxgj7b1",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "7"
+      },
+      {
+        "id": "_1q3mkl9en",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_ayvodp8m2",
+        "name": "Коровья шкура",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 1050,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Краснолюдский плащ",
+      "type": "armor",
+      "img": "icons/equipment/chest/coat-collared-studded-red.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 5,
+        "cost": 1400,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 16,
+        "headMaxStopping": 16,
+        "torsoStopping": 16,
+        "torsoMaxStopping": 16,
+        "leftArmStopping": 16,
+        "leftArmMaxStopping": 16,
+        "rightArmStopping": 16,
+        "rightArmMaxStopping": 16,
+        "leftLegStopping": 16,
+        "leftLegMaxStopping": 16,
+        "rightLegStopping": 16,
+        "rightLegMaxStopping": 16,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "FullCover",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.dospehi-starshego-naroda.NYM0ipDkEuWPya58"
+        },
+        "cf": {
+          "id": "temp_njuve1krma"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837867,
+        "modifiedTime": 1668162837867,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848418,
+    "modifiedTime": 1685496579562,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4G5ugI22CorLaEWR",
+  "folder": "secIjsE1CHuBPLzz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4G5ugI22CorLaEWR"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Оружие - Подмастерье",
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "results": [
+    "0aiwa4n1nqu4g7th",
+    "v0kfgwbjcqoc8chd",
+    "bkdglejfwxd81r4h",
+    "3vn0j70rq88sso4f",
+    "xq9b5ryh89e6hquw",
+    "ncs1tqjsf12yngv4",
+    "v84jup3xcwn2xg6w",
+    "9nrynzo4yyhzm9h9",
+    "j7zju6k2i3j65nod",
+    "f7v7e752ji8d1epd",
+    "qzyzvda780trpstx",
+    "br35o6j4ee2jfuri",
+    "i1r5bcrioqhdvyo7",
+    "xxq31ma8hqrs5lrh",
+    "7nlc1x5gmxfvcq9x",
+    "dcizqrcxsl6n2nk7",
+    "pkfAbuMWLBnDlQZY"
+  ],
+  "formula": "1d17",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.aooM04adqzOSndlq"
+    },
+    "cf": {
+      "id": "temp_w8j8kxtvyk"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932915,
+    "modifiedTime": 1685496644485,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qyjhZiog9DAbVsLV",
+  "folder": "YQvs7SSKK7I1szPG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!qyjhZiog9DAbVsLV"
+}

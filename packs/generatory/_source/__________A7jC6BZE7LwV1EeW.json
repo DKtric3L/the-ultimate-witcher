@@ -1,0 +1,41 @@
+{
+  "name": "Дракониды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Draconids.png",
+  "description": "",
+  "results": [
+    "kMpQHiXpwaFbdXCx",
+    "IuFTvAB2IvfL8YJz",
+    "5w4KHafP8yT58H2T",
+    "06GNqD8mWax1irOf",
+    "k2fb7zfPoBmXdz2Z",
+    "G3FVgroxgRmmNk3B",
+    "WGVXcb12wkM9S5Ef"
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "A7jC6BZE7LwV1EeW",
+  "_key": "!tables!A7jC6BZE7LwV1EeW"
+}

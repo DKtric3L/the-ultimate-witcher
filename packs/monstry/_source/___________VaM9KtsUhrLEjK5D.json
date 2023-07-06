@@ -1,0 +1,42 @@
+{
+  "name": "Мозг игоши",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/brain_monstrous_64x64.png.6872.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 164,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Botchlings",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "caelum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.jyDeAFmRmg8teLxk"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1669964912779,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "VaM9KtsUhrLEjK5D",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xwwlvxpawjpgC2ht.VaM9KtsUhrLEjK5D"
+}

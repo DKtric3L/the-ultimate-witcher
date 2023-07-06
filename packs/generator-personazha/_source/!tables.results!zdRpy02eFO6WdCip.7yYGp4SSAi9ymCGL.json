@@ -1,0 +1,16 @@
+{
+  "_id": "7yYGp4SSAi9ymCGL",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: По какой-то причине вашу семью лишили всех титулов, Вас выселили из дома и вам пришлось выживать среди простолюдинов.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.7yYGp4SSAi9ymCGL"
+}

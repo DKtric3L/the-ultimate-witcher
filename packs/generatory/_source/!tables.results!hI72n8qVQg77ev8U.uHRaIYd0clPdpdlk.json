@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Клуб - Есть ли частные кабинки",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "MBMnxyFC0V9HAfiA",
+  "_id": "uHRaIYd0clPdpdlk",
+  "flags": {},
+  "_key": "!tables.results!hI72n8qVQg77ev8U.uHRaIYd0clPdpdlk"
+}

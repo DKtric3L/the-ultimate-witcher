@@ -1,0 +1,40 @@
+{
+  "name": "Путь ведьмака: Осторожный",
+  "img": "icons/environment/settlement/target-dummy.webp",
+  "description": "For each decade after age 29, choose how much risk you took on as a witcher and roll for your decade.",
+  "results": [
+    "UdHUplxRtBUmcUsy",
+    "5k0jxtIvzmH6UNl5",
+    "gnrDCDMdILjGyQdl",
+    "YVCSNqm0kMcDxKF3",
+    "OAW3DJizEEzA919s"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.YdNfOR91KZ5BAWli"
+    },
+    "cf": {
+      "id": "temp_vvet5jvsxzm"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926186,
+    "modifiedTime": 1685496652320,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "09MXduRik0BKuUqa",
+  "folder": "iuGDUnyJfBDpmaqJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!09MXduRik0BKuUqa"
+}

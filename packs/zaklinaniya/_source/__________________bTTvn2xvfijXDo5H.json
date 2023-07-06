@@ -1,0 +1,60 @@
+{
+  "name": "Мистический туман",
+  "type": "spell",
+  "img": "icons/magic/water/water-elemental-blue-teeth.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.jeHylSQos5Inhxlz"
+    },
+    "cf": {
+      "id": "temp_jbsyq0q4p1r"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Все существа, провалившие проверку Сопротивления Магии, видят галлюцинацию со своим самым большим страхом. Проведя два раунда в этом тумане, их начинает тошнить от страха. Проведя три раунда в тумане, они становятся дезориентированы страхом.",
+    "range": "радиус 10м",
+    "duration": "1d10 раундов",
+    "defence": "Изм поз",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "10",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность заклинания(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1685496638834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bTTvn2xvfijXDo5H",
+  "folder": "AEZFF14cMz7MkSyA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bTTvn2xvfijXDo5H"
+}

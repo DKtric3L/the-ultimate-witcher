@@ -1,0 +1,16 @@
+{
+  "_id": "7ECvmLy1xL5mjK3B",
+  "type": 2,
+  "text": "раса мага",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "PiEzcFfiSUsqIUXa",
+  "_key": "!tables.results!kOZJ5PQutstiJhXn.7ECvmLy1xL5mjK3B"
+}

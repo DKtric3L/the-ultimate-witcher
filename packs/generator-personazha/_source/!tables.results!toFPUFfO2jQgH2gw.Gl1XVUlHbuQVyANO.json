@@ -1,0 +1,16 @@
+{
+  "_id": "Gl1XVUlHbuQVyANO",
+  "flags": {},
+  "type": 0,
+  "text": "Пол врага - Женский",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!toFPUFfO2jQgH2gw.Gl1XVUlHbuQVyANO"
+}

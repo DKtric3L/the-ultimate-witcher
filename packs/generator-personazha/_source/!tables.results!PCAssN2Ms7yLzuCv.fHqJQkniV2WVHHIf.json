@@ -1,0 +1,16 @@
+{
+  "_id": "fHqJQkniV2WVHHIf",
+  "flags": {},
+  "type": 2,
+  "text": "Dwarf / Gnome Profession",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "GFDoE6RNBNU6aFuU",
+  "_key": "!tables.results!PCAssN2Ms7yLzuCv.fHqJQkniV2WVHHIf"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Бумажка с отпечатками губной помады",
+  "img": "icons/sundries/documents/paper-plain-white.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "xd03KIV2P7qP93vH",
+  "_id": "5VaGegzkvLTY8dZN",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.5VaGegzkvLTY8dZN"
+}

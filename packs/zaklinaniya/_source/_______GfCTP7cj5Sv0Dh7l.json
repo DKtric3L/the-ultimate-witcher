@@ -1,0 +1,57 @@
+{
+  "name": "Инверн",
+  "type": "spell",
+  "img": "icons/magic/water/snowflake-ice-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zj30gssz7x"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "14",
+    "staminaIsVar": false,
+    "effect": "Инверн позволяет создать воющий снежный ветер в радиусе 30 м. В этом районе имеет Снежные и Ледяные условия. При использовании в холодной среде продолжительность этого заклинания увеличивается до одной недели.",
+    "range": "50м",
+    "duration": "1 час",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496638034,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "GfCTP7cj5Sv0Dh7l",
+  "folder": "hCWlGuK2kocnUbkH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!GfCTP7cj5Sv0Dh7l"
+}

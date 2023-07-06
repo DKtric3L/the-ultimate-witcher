@@ -1,0 +1,26 @@
+{
+  "_id": "vh1FPJOIJRri0W6h",
+  "name": "Темнота",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Потратив 5 вын, этерал может потушить весь свет в пределах 20 метров."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!h90FOxen3LlHZn6X.vh1FPJOIJRri0W6h"
+}

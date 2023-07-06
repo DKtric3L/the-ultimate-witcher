@@ -1,0 +1,16 @@
+{
+  "_id": "uJTIy6fVLjCilNu0",
+  "type": 2,
+  "text": "Кто потерпевший",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "TdUOHZBk4PlmtyXG",
+  "_key": "!tables.results!RMY3Cv69RORFxwWp.uJTIy6fVLjCilNu0"
+}

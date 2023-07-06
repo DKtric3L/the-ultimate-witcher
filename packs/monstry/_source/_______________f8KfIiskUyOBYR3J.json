@@ -1,0 +1,60 @@
+{
+  "_id": "f8KfIiskUyOBYR3J",
+  "name": "Звериная порча",
+  "type": "spell",
+  "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_inm2utr2uk"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.RoM1c1c4kClZsyEL"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Жертва становится ненавистна зверям и прочим животным. Когда жертва подходит к животному на 10 метров, оно относится к ней с недоверием, что даёт жертве штраф -3 к Выживанию в дикой природе при обращении с животными. Каждый раз, когда жертва оказывается в 10 метрах от животного, оно нападает с вероятностью 50 %.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "High",
+    "liftRequirement": "Потребуются небольшое живое животное, 2 единицы омелы, единица фосфора, 2 единицы вороньего глаза, 3 единицы корня мандрагоры. Под полной луной жертва должна вспороть глотку животному и выпить его кровь. Затем тело животного необходимо обложить омелой, вороньим глазом и корнями мандрагоры, после чего сжечь в открытом пламени. Когда шерсть или чешуя животного начнёт гореть, следует бросить в огонь фосфор. Как только огонь угаснет, жертва должна забрать кости животного и носить их с собой целый день.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!hIrfwQkQkN0IlX76.f8KfIiskUyOBYR3J"
+}

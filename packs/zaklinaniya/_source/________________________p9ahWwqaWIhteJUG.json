@@ -1,0 +1,57 @@
+{
+  "name": "Благословение исцеления",
+  "type": "spell",
+  "img": "icons/magic/nature/beam-hand-leaves-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_agipi719q8m"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Ускоряет естественный процесс регенерации цели, восстанавливая ей 3 ПЗ за раунд. Это благословение можно использовать несколько раз для исцеления критического ранения, но в таком случае оно не восстанавливает ПЗ.",
+    "range": "2м",
+    "duration": "Актив(3 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496638236,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "p9ahWwqaWIhteJUG",
+  "folder": "vVGv53T7kGsdKAdF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!p9ahWwqaWIhteJUG"
+}

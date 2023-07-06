@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    61,
+    90
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "LoHqq3NehPTIjwLK",
+  "text": "Частое нахождение цели - Здание",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!ovkQQ304dGCD3Hmr.LoHqq3NehPTIjwLK"
+}

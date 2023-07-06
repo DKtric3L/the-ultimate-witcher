@@ -1,0 +1,57 @@
+{
+  "name": "Кровь Берсерка (Свальблод)",
+  "type": "spell",
+  "img": "icons/creatures/mammals/wolf-shadow-black.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Направляя силу Свальблода, вы превращаете свое тело в огромного медведя. Находясь в этой форме, любые предметы на вас сливаются с вашей формой, и вы получаете доступ ко всем способностям Великого Медведя, но теряете доступ к своим профессиональным способностям и магии. Ваши значения Статистики и Навыков меняются на те же, что и у большого медведя, за исключением любых значений, которые были бы выше, чем у большого медведя. Когда вы прекращаете действие этого заклинания, любой урон или критическая рана, которые вы получили как Великий Медведь, переносятся на ваше естественное тело. Однако, если урона, полученной Большим Медведем, будет достаточно, чтобы убить вас в обычном облике, вы вместо этого уменьшите ХП до 1. Точно так же, когда вы произносите эту инвокацию, любые повреждения или критические раны, которые у вас уже были, применяются к вашей форме Великого Медведя.",
+    "range": "на себя",
+    "duration": "1 день",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Ffu34lSfAwnHDR8E",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Ffu34lSfAwnHDR8E"
+}

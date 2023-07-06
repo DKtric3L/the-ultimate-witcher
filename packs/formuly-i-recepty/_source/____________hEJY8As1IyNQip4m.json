@@ -1,0 +1,164 @@
+{
+  "name": "Сон дракона",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.hEJY8As1IyNQip4m"
+    },
+    "cf": {
+      "id": "temp_qcbrs1shnce"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.SgMtprI6P3OXLMPG]{Сон дракона}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "bomb",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Речная глина"
+      },
+      {
+        "id": "_iz05ehf3p",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_x5xy2a7b0",
+        "name": "Зерриканская смесь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_yukskm9pe",
+        "name": "Корень зарника",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_sto7yiz2f",
+        "name": "Фосфор",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 118,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Сон дракона",
+      "type": "weapon",
+      "img": "modules/the-ultimate-witcher/assets/bombs/dragon_dream.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 177,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Стихийное",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": true
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Everywhere",
+        "damage": "0",
+        "reliable": 0,
+        "maxReliability": 0,
+        "hands": "1",
+        "range": "Тел*4м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Радиус - 8 метров",
+            "percentage": ""
+          },
+          {
+            "id": "_au6gi04f4",
+            "name": "Горение",
+            "percentage": "75"
+          },
+          {
+            "id": "_3kfvyer6h",
+            "name": "Создает облако горючего газа, которое двигается в случайном направлении 3 хода, после рассеивается. Возгорание, наносит 5d6 урона",
+            "percentage": ""
+          }
+        ],
+        "conceal": "T",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Athletics",
+        "rollOnlyDmg": false,
+        "isThrowable": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rads4wdft3r"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162887310,
+        "modifiedTime": 1672562544895,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848429,
+    "modifiedTime": 1685496579796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hEJY8As1IyNQip4m",
+  "folder": "vIuywOMpy1LOwsfX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hEJY8As1IyNQip4m"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Трофей скального тролля",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/troll.webp",
+  "system": {
+    "description": "Вы добавляете 1 к множителю дальности метательного оружия, которым вы владеете.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.CzGySWyHI4mJuOrE"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1669964681725,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "QSgkVbZpKkl8HqId",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!iq16jBBOREVjtjom.QSgkVbZpKkl8HqId"
+}

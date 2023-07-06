@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "kIvhkTVPQYCZrqDF",
+  "text": "Завёл дитя - У этого дракона есть детёныш, которого он воспитывает сейчас или воспитывал в прошлом. На ваш выбор, это может быть взрослый дракон, с которым этот дракон поддерживает связь, либо юный детёныш, который в данный момент находится в логове.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Nk7xscPABXk5l6mM.kIvhkTVPQYCZrqDF"
+}

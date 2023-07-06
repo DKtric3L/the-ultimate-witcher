@@ -1,0 +1,66 @@
+{
+  "name": "Факел",
+  "type": "weapon",
+  "img": "icons/sundries/lights/torch-brown-lit.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2jbgazraiwc"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": -1,
+    "avail": "Everywhere",
+    "damage": "1d6",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение, если зажжен",
+        "percentage": "25"
+      }
+    ],
+    "conceal": "S",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863944,
+    "modifiedTime": 1685496598603,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wuXtG4wgGQ6Dt9h1",
+  "folder": "3BjANa0nnKl5rxLI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!wuXtG4wgGQ6Dt9h1"
+}

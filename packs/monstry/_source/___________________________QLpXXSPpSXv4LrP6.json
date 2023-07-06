@@ -1,0 +1,81 @@
+{
+  "_id": "QLpXXSPpSXv4LrP6",
+  "name": "Стальной меч школы медведя",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-crossguard-flanged-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_jncnssgiate"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.3K3t8LJeUAIhhhH3"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2.5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Rare",
+    "damage": "6d6+2",
+    "reliable": 15,
+    "maxReliability": 15,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Разрушающее",
+        "percentage": ""
+      },
+      {
+        "id": "_gwgr5fl01",
+        "name": "Метеоритное",
+        "percentage": ""
+      },
+      {
+        "id": "_pps8wcglr",
+        "name": "Пробивающее броню",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [
+      {},
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!Br1L9eWnCCCm9T5i.QLpXXSPpSXv4LrP6"
+}

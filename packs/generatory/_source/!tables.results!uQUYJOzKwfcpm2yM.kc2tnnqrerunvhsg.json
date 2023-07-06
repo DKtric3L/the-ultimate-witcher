@@ -1,0 +1,16 @@
+{
+  "text": "Дурной сглаз",
+  "type": 2,
+  "img": "icons/magic/death/skeleton-worn-skull-tan.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "kc2tnnqrerunvhsg",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "60c30Ip5gdlhA0Jm",
+  "_key": "!tables.results!uQUYJOzKwfcpm2yM.kc2tnnqrerunvhsg"
+}

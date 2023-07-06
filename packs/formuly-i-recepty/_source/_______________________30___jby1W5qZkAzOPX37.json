@@ -1,0 +1,136 @@
+{
+  "name": "Стандартные боеприпасы(30х)",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.jby1W5qZkAzOPX37"
+    },
+    "cf": {
+      "id": "temp_nzpzo831og"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.DC48zepBJGPL7evf]{Стандартные боеприпасы}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 14,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "Ammunition",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 10,
+    "alchemyDC": 0,
+    "craftingTime": "2ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Древесина"
+      },
+      {
+        "id": "_tpzab6v0v",
+        "name": "Железо",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_3qqxfo12p",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 37,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Стандартные боеприпасы",
+      "type": "weapon",
+      "img": "icons/weapons/ammunition/arrow-broadhead.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 1,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": true,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Everywhere",
+        "damage": "",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [],
+        "conceal": "L",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Brawling",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rol4jixhdr"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863943,
+        "modifiedTime": 1672542412015,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848429,
+    "modifiedTime": 1685496579341,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jby1W5qZkAzOPX37",
+  "folder": "8Avv3LftRJoVMnHv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jby1W5qZkAzOPX37"
+}

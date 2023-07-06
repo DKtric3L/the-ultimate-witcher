@@ -1,0 +1,16 @@
+{
+  "_id": "6jOqPsAISSRQJWuL",
+  "flags": {},
+  "type": 2,
+  "text": "Most Influential Friend: Nilfgaard",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    8,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "iP5n1i6qzSCZaoEy",
+  "_key": "!tables.results!FvAMmEdcOG2dIxgB.6jOqPsAISSRQJWuL"
+}

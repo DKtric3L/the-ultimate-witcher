@@ -1,0 +1,80 @@
+{
+  "name": "ИИ для Врагов с оружием - Атака.",
+  "img": "icons/skills/melee/hand-grip-sword-orange.webp",
+  "description": "",
+  "results": [
+    "ElMAYGmgkcsvJugx",
+    "3PXuG6CXcwqaP1CH",
+    "qo4hmJLDQDDJiVF5",
+    "xWxYFp6IGVQqV3CX",
+    "hzcORs8czjOOcApH",
+    "2ar7zPBPi9Wj3NJy",
+    "RhovdqhocCnARpgv",
+    "41sesgjab6dKPnK4",
+    "QuAAc15ZV4xrCm7b",
+    "nHhSGGpLasNUODab",
+    "XFiCmVTfpkSy1RBi",
+    "CMgsdpvZDCrU71V6",
+    "yy7pOVSBD2I2OTHv",
+    "c2YPZoBfN1hJpnMu",
+    "63zMupVJVrLJjkKi",
+    "qNQSrG3a1vbHYwra",
+    "758MsOzmw2rBlCPD",
+    "6GQfqUmVjIYkSGab",
+    "OiDNe4K18R8RtoiH",
+    "FpDEpAkCoznvqYhq",
+    "eTjwBkG9kBx8Labi",
+    "7jiHwKc6Z7JRFe6o",
+    "6LA50EpDIT5apv5f",
+    "zk20ettVF6pRW2kH",
+    "jDPlcBVNZh7HNFf9",
+    "0AHj5UwTjdbNnERD",
+    "mNPOsKIzHlpD7awh",
+    "rQ6waiY1NnNebekR",
+    "g700r7ypcFOcPJeM",
+    "B0aPZXkpaExPkybQ",
+    "SQSRfa09nvxurJq1",
+    "AvnkFMP4EVfzrnPp",
+    "c7a8zxSk50XDn1SH",
+    "FOyXcUn7Gz3U4AbV",
+    "LH8Pua7ohDqGRqFE",
+    "zIt5gX5OsJAVxMSk",
+    "YJDuQLCw9DEcZMx9",
+    "sIDLGcBEiZILhSze",
+    "dYh3iQ75ZzyGaEHV",
+    "ZutwnBerLhjPztrP",
+    "c0YBA069pbK3u6Jl",
+    "GWJ1igK3z5jIV2Pf",
+    "1aWIQBmxrc4aRvWj",
+    "7v1BueJd9aRgRHhL",
+    "9KDJ3xKaj67ksIIX",
+    "nwGadHjhFmGp6VtS"
+  ],
+  "formula": "1d37",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_7w0yaq9ld8e"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496658091,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "B9p09jchSVk9ntOf",
+  "sort": 0,
+  "_id": "TSiizjCPrhyprZeQ",
+  "_key": "!tables!TSiizjCPrhyprZeQ"
+}

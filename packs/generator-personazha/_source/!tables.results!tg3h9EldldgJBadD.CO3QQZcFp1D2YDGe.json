@@ -1,0 +1,16 @@
+{
+  "_id": "CO3QQZcFp1D2YDGe",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Allies - Are They Alive?",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "b9fkS56jJXvOIGgv",
+  "_key": "!tables.results!tg3h9EldldgJBadD.CO3QQZcFp1D2YDGe"
+}

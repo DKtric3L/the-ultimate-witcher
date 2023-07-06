@@ -1,0 +1,72 @@
+{
+  "name": "Первый Этап Испытания травами",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zhest.HOStN3aKeMJ5bk2M"
+    },
+    "cf": {
+      "id": "temp_5fs5k8llj4f"
+    }
+  },
+  "system": {
+    "description": "<p class=\"MsoNormal\">Тело испытуемого разрушается под воздействием специфичных эликсиров, чтобы после этого быть вновь собрано и усилено с помощью мутагенов. На испытание даётся 10 раундов. Жертва испытания переживает ужасные муки, проходя проверку стойкости со сл 15+1 за каждый раунд, начиная со 2. Каждый провал отнимает у цели 1d10 ПЗ, если маг не пройдёт проверку навыка мутации, этот урон навсегда уменьшает максимум ПЗ жертвы. Если испытание уменьшило макс ПЗ жертвы до 0, она принуждается к испытанию против смерти, пройдя которое отменяет последнее уменьшение здоровья, провал &ndash; окончательно убивает.</p>\n<p class=\"MsoNormal\">После завершения испытания, маг в течение суток поддерживает магией тело испытуемого, чтобы эликсиры постепенно перестроили его тело. По окончанию этой фазы &ndash; жертва полностью готова к внедрению в неё мутагенов, а проверки дополнительных мутаций упрощаются на 10 пунктов.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": null,
+    "alchemyDC": 0,
+    "craftingTime": "",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "_kzr83qrno",
+        "name": "Талант мутации 10 уровня(Маг)",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_uqkh32t5j",
+        "name": "Экстракты трав",
+        "quantity": "1"
+      }
+    ],
+    "investment": null,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496639186,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1xj8fMZXEgnxTxKE",
+  "folder": "MoEHlU2BhTZKp1h3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1xj8fMZXEgnxTxKE"
+}

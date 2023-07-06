@@ -1,0 +1,47 @@
+{
+  "name": "Защита против магии",
+  "type": "effect",
+  "img": "icons/svg/mage-shield.svg",
+  "system": {
+    "description": "+5 к сопротивлению магии. Вы можете попытаться прервать действующее на вас заклинание контроля разума. даже если данная возможность не подразумевалась.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkWillResistMagLable",
+        "modifier": "2"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c7e70a8c5bc4a4fe960150c360509c15a4702427",
+      "sourceId": "Item.m3k8kBDyziGMgFxK"
+    },
+    "core": {
+      "sourceId": "Item.m3k8kBDyziGMgFxK"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672535656644,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "CBfa3XqhetFYfpP5",
+  "_key": "!items!CBfa3XqhetFYfpP5"
+}

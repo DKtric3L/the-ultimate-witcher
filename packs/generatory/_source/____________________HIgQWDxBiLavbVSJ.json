@@ -1,0 +1,40 @@
+{
+  "name": "Торги с нанимателем",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "Tg9CckkMpEdQekLu",
+    "DUw9zFqVDspZEj8U",
+    "gSwpewteEBe2ItXK",
+    "qnk2OBRN5GlsYKCC",
+    "svAluSlifg2AU8c7",
+    "ZqJMJZ8q8dGUrhc8"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "HIgQWDxBiLavbVSJ",
+  "_key": "!tables!HIgQWDxBiLavbVSJ"
+}

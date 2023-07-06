@@ -1,0 +1,70 @@
+{
+  "name": "Серебряный меч школы мантикоры",
+  "type": "weapon",
+  "img": "icons/weapons/swords/greatsword-flamberge.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ub4c5p36xla"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Rare",
+    "damage": "2d6+2",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Серебряное(3d6)",
+        "percentage": ""
+      },
+      {
+        "id": "_js7rx72sv",
+        "name": "Сбалансированное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887310,
+    "modifiedTime": 1685496626852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "UVrxmzne1LZowGp1",
+  "folder": "Lk96M8TXGicgbRqb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!UVrxmzne1LZowGp1"
+}

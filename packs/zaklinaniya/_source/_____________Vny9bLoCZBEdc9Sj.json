@@ -1,0 +1,60 @@
+{
+  "name": "Аура горнила",
+  "type": "spell",
+  "img": "icons/tools/smithing/furnace-fire-metal-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.BLQxuh1Lzd8cyXBk"
+    },
+    "cf": {
+      "id": "temp_rfqt1jg26l"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Заклинатель начинает излучать ауру интенсивного жара. Существа, находящиеся в пределах 2 метров от вас, получают штрафы, как если бы они находились в условиях экстремальной жары. Если существо начинает свой ход рядом с вами, оно имеет 50% шанс загореться. Это заклинание не влияет на ваше снаряжение.",
+    "range": "на себя",
+    "duration": "2d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496638991,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Vny9bLoCZBEdc9Sj",
+  "folder": "cWM5V9rg32KY6LB7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Vny9bLoCZBEdc9Sj"
+}

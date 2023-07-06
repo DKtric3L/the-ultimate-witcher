@@ -1,0 +1,16 @@
+{
+  "_id": "TaIU4NLMUL8zBwbb",
+  "type": 0,
+  "text": "Рана в живот: Порвало желудок, его содержимое выплеснулось в брюшную полость. -2 ко всем своим действиям, 4 урона ядом в раунд. Стабилизация: -2 ко всем действиями. Лечение: -1 ко всем своим действиям.",
+  "weight": 1,
+  "range": [
+    5,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!X6VFkRY9rCOzgpbV.TaIU4NLMUL8zBwbb"
+}

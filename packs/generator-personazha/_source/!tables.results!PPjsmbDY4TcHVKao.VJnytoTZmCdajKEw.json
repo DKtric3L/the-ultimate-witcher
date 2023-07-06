@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "VJnytoTZmCdajKEw",
+  "text": "Ненавидит магию",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!PPjsmbDY4TcHVKao.VJnytoTZmCdajKEw"
+}

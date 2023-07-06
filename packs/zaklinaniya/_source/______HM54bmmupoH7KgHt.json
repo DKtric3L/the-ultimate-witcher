@@ -1,0 +1,60 @@
+{
+  "name": "Моахк",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/moakh.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ZBsmb3S1BnWoQKSL"
+    },
+    "cf": {
+      "id": "temp_o2pfhdxk2ma"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "Water",
+    "domain": "basic",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Моахк испускает волну воды из руки заклинателя, которая делает цель восприимчивой к урону электричеством на 1 раунд за каждую затраченную единицу Вын, имеет шанс сбить врага с ног - +10% за каждую единицу вын.\nТакже знак за каждые 2 вын может создать единицу воды, что может спасти в засушливой среде.",
+    "range": "2м конус",
+    "duration": "мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1685496638464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "HM54bmmupoH7KgHt",
+  "folder": "7aDTE4Bqwe5aou9p",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!HM54bmmupoH7KgHt"
+}

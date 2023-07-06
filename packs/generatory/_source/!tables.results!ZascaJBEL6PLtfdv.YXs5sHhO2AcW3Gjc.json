@@ -1,0 +1,16 @@
+{
+  "text": "Легкие ноги",
+  "type": 2,
+  "img": "icons/skills/movement/feet-winged-boots-brown.webp",
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "YXs5sHhO2AcW3Gjc",
+  "documentId": "h5JN4E97Xulu55Ek",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.YXs5sHhO2AcW3Gjc"
+}

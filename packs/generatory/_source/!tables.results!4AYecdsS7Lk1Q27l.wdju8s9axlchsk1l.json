@@ -1,0 +1,16 @@
+{
+  "text": "Дистилляционная камера",
+  "type": 2,
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "weight": 1,
+  "range": [
+    22,
+    22
+  ],
+  "drawn": false,
+  "_id": "wdju8s9axlchsk1l",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "niA8FH8U8E3u30KA",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.wdju8s9axlchsk1l"
+}

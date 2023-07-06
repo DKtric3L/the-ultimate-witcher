@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Ворона",
+  "img": "modules/the-ultimate-witcher/assets/monsters/crown.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "U6V3nTgfxGpFI3Ma",
+  "_id": "J0dTETIHYwMTLvx2",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.J0dTETIHYwMTLvx2"
+}

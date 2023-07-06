@@ -1,0 +1,16 @@
+{
+  "_id": "UQCMOHd4WWPPyo32",
+  "type": 0,
+  "text": "Вас послали в открытый мир. Вы были привязаны к магу, живущему за пределами Аретузы. Бросьте кубик на событие в жизни из таблицы на стр. 31 Основной Книги. Вас сделали учеником.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!04P5BryhpZFZe3PQ.UQCMOHd4WWPPyo32"
+}

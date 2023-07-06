@@ -1,0 +1,57 @@
+{
+  "name": "Ристр Грейг",
+  "type": "spell",
+  "img": "icons/magic/earth/barrier-stone-explosion-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zpcw9i6ph2"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Ристр Грейг позволяет в любом месте в пределах 20 метров от заклинателя создать каменную стену размером 2 на 3 метра с прочностью 30. Стена будет стоять, пока её не уничтожат.",
+    "range": "20м",
+    "duration": "пока не уничтожат",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496637955,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "d5Am7fYNADTtJOFh",
+  "folder": "b6tCkgZmKMYSuvxl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!d5Am7fYNADTtJOFh"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Зеркало печали",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-monster-purple-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.mSraPu3VAwe1sT6w"
+    },
+    "cf": {
+      "id": "temp_emoosop9os6"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d6\nЗаклинатель создаете 1d6 иллюзорных копий самого большого страха цели. Вы полу- чаете эту информацию телепатически, но цель может использовать Сопротивление магии, чтобы помешать вам узнать ее. При успехе, вы можете выбрать форму этих копий. Копии бесплотны, но неотличимы от реальных и управляются разумом заклинателя. Управление копиями не требует траты действия, но они не могут покинуть пределы зоны действия заклинания.",
+    "range": "10м",
+    "duration": "Актив(3 вын+1d6/2 пз)",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "1d6 Иллюзий страха врага"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496638691,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "MRKYiZr4Yc8SiGgE",
+  "folder": "pBF6Toru9LWVq3ep",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!MRKYiZr4Yc8SiGgE"
+}

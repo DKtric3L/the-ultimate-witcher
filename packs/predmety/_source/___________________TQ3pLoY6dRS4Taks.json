@@ -1,0 +1,44 @@
+{
+  "name": "Склянка с глистами",
+  "type": "valuable",
+  "img": "icons/consumables/potions/bottle-metal-yellow-gray.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_pcz898xpa9",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.3tcYskuUdpd5QpvZ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 89,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Poor",
+    "effect": "After consuming the eggs the target must make a DC:16 Endurance check or be infest-ed by gut worms, which lower their STA by one-quarter and have a 25% chance of causing nausea whenever they eat. The nausea can only be ended by a DC:14 Endurance check. They must be removed with a DC:14 Healing Hands check",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603482,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "TQ3pLoY6dRS4Taks",
+  "folder": "o0EbRg1af2HA22Nh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!TQ3pLoY6dRS4Taks"
+}

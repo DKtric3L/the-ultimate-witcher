@@ -1,0 +1,43 @@
+{
+  "name": "Зерриканский огонь",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/zerrikan_fire.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.cTGp2xa7kfKUQM69"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 65,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "Зерриканский огонь немедленно поджигает всё, на что попадёт. Для броска склянки требуется провести атаку с проверкой Атлетики с дистанцией в метрах, равной вашему Тел × 2. Жидкость разбрызгивается, поджигая всё и всех в пределах 2-метрового конуса от места падения",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868974,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cTGp2xa7kfKUQM69",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cTGp2xa7kfKUQM69"
+}

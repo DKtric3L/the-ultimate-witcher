@@ -1,0 +1,16 @@
+{
+  "_id": "jeyBQNjbKPhixtsv",
+  "type": 0,
+  "text": "Алхимическое проишествие. Вы смешали неправильные реагенты и пострадали от последствий. Вы получаете -2 штраф к Вын.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4dpnBG7SV5On0Q30.jeyBQNjbKPhixtsv"
+}

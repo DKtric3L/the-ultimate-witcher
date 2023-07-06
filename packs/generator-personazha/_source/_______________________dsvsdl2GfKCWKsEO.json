@@ -1,0 +1,40 @@
+{
+  "name": "Путь ведьмака: Средний",
+  "img": "icons/environment/settlement/tent.webp",
+  "description": "За каждое десятилетие жизни после 29 лет своего ведьмака, выбери, насколько сильно он рисковал в этой декаде и пробрось таблицу.",
+  "results": [
+    "UdHUplxRtBUmcUsy",
+    "5k0jxtIvzmH6UNl5",
+    "gnrDCDMdILjGyQdl",
+    "YVCSNqm0kMcDxKF3",
+    "OAW3DJizEEzA919s"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.sU61t5aF2qjSGGf3"
+    },
+    "cf": {
+      "id": "temp_vvet5jvsxzm"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926187,
+    "modifiedTime": 1685496652320,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "dsvsdl2GfKCWKsEO",
+  "folder": "iuGDUnyJfBDpmaqJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!dsvsdl2GfKCWKsEO"
+}

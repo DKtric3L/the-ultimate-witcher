@@ -1,0 +1,44 @@
+{
+  "name": "Чертеж - Мастер",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "1edbZJFQkECiRFCF",
+    "GFkEVppqLO5iRe9B",
+    "o913Aq55ZkrpHwS6",
+    "qnprLHDtGH4SVKV9",
+    "XzaQAxWOsFdg13fr",
+    "dCoxfmft8YlJrEck"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "adfdddf4b69b1b5d7d57c675f1e5b8c6e6188c3a",
+      "sourceId": "RollTable.f0rwWMsnvtjNFcTj"
+    },
+    "core": {
+      "sourceId": "RollTable.f0rwWMsnvtjNFcTj"
+    },
+    "cf": {
+      "id": "temp_ic223j20e"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672828103949,
+    "modifiedTime": 1685496644393,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "qf6PR5ZRji9tzZjs",
+  "sort": 0,
+  "_id": "AGG0xrkDZSlbdUia",
+  "_key": "!tables!AGG0xrkDZSlbdUia"
+}

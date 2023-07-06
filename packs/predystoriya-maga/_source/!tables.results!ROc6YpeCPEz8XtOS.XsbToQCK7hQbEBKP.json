@@ -1,0 +1,16 @@
+{
+  "_id": "XsbToQCK7hQbEBKP",
+  "type": 2,
+  "text": "Что случилось - исслед",
+  "weight": 1,
+  "range": [
+    1,
+    50
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "uJHGEFPNgX7hNg0g",
+  "_key": "!tables.results!ROc6YpeCPEz8XtOS.XsbToQCK7hQbEBKP"
+}

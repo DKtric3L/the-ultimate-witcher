@@ -1,0 +1,56 @@
+{
+  "name": "Низушки",
+  "type": "race",
+  "img": "modules/the-ultimate-witcher/assets/professions/halfling.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.qfTxaXlgX7tNjy8a"
+    },
+    "cf": {
+      "id": "temp_rwe5bpoyvsp"
+    }
+  },
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Проворство",
+      "description": "+1 к атлетике."
+    },
+    "perk2": {
+      "name": "Сельский труженик",
+      "description": "+2 к выживанию в дикой природе при попытке приручить, успокоить или подчинить себе животное."
+    },
+    "perk3": {
+      "name": "Защита против магии",
+      "description": "+5 к сопротивлению магии. Вы можете попытаться прервать действующее на вас заклинание контроля разума, даже если данная возможность не подразумевалась."
+    },
+    "perk4": {
+      "name": "Невосприимчивость",
+      "description": "Из-за невосприимчивости к магии, вы не получаете пользы от зелий и эликсиров, сколько бы не выпили. Однако на вас всё ещё действует их токсичность."
+    },
+    "socialStanding": {
+      "north": "equal",
+      "nilfgaard": "equal",
+      "skellige": "equal",
+      "dolBlathanna": "equal",
+      "mahakam": "equal"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162873440,
+    "modifiedTime": 1685496612239,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "cDTMaoGMYLDLM9th",
+  "folder": "32GHdDmc9HcJHQ9n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!cDTMaoGMYLDLM9th"
+}

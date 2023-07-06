@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "text": "Кошачий мозг",
+  "img": "icons/commodities/biological/organ-brain-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "gULXxQKCIaG5IqI6",
+  "_id": "CaafJg2XM2JfFqTe",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.CaafJg2XM2JfFqTe"
+}

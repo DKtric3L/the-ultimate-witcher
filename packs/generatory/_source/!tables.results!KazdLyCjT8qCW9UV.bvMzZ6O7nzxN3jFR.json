@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Случайный Ребис",
+  "img": "systems/TheWitcherTRPG/assets/images/rebis.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "dOaoWvEwWPOSoPpQ",
+  "_id": "bvMzZ6O7nzxN3jFR",
+  "flags": {},
+  "_key": "!tables.results!KazdLyCjT8qCW9UV.bvMzZ6O7nzxN3jFR"
+}

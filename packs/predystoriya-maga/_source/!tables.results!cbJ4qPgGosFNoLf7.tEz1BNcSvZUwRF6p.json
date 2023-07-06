@@ -1,0 +1,16 @@
+{
+  "_id": "tEz1BNcSvZUwRF6p",
+  "type": 2,
+  "text": "Кто был вашей семьей?",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "jZe205ltrIKBpC29",
+  "_key": "!tables.results!cbJ4qPgGosFNoLf7.tEz1BNcSvZUwRF6p"
+}

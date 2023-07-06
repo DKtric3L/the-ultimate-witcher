@@ -1,0 +1,54 @@
+{
+  "name": "Новичок - Смешанная магия",
+  "description": "A random table created from the contents of the Смешанная магия Folder.",
+  "results": [
+    "IESx4gcMZ3zuvBRO",
+    "1XIDACD8fFtT5dw6",
+    "NQmatdwSWjRa8lKj",
+    "icYtPOEe3iBLsqUM",
+    "hMp1BkcFQurMqfHW",
+    "hFtW7WR44m3nwz6S",
+    "1U3xkQxJHECMeQCK",
+    "NgHqq4wr2dpFsSgr",
+    "Ez63Zf1gqvGnhdg3",
+    "sONn9uV4eimyGEjf",
+    "Bk7qJsfbaP2GlQV7",
+    "OBkwpgYYw5z9jnsF",
+    "mRNjUe89Akwfdvg8",
+    "8kcm7O266VVOM57S",
+    "TTWzJZV208CEoHcF",
+    "F9jU90SH8XklJ18F"
+  ],
+  "formula": "1d16",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b5259a7c5020e735ad00fe5dc6c54e1cd727e523",
+      "sourceId": "RollTable.QeJwtsNxDNsxSsz1"
+    },
+    "core": {
+      "sourceId": "RollTable.QeJwtsNxDNsxSsz1"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593092500,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "p34CfaOp7AfD1RGM",
+  "_key": "!tables!p34CfaOp7AfD1RGM"
+}

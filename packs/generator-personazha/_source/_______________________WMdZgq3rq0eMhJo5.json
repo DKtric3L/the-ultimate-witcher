@@ -1,0 +1,39 @@
+{
+  "name": "ИС дракон - Манера боя",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "sdIzk4dfAR9xOsvH",
+    "2HRbGKJixPj7O58P",
+    "ENGxOeIDJ5Wi09Jz",
+    "lQSAfLKZ61F3gqRv",
+    "7aNd6zw7eUYIm685"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "WMdZgq3rq0eMhJo5",
+  "_key": "!tables!WMdZgq3rq0eMhJo5"
+}

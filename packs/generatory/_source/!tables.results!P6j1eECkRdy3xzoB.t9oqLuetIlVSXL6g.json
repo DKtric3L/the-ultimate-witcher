@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Ведьмак школы Медведя",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Nastavnik_shkoli_medvedya_Bogdan_Rezunenko.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "Br1L9eWnCCCm9T5i",
+  "_id": "t9oqLuetIlVSXL6g",
+  "flags": {},
+  "_key": "!tables.results!P6j1eECkRdy3xzoB.t9oqLuetIlVSXL6g"
+}

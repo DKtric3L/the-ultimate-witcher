@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Алкогольная порча",
+  "type": "effect",
+  "img": "icons/consumables/drinks/alcohol-jug-spirits-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ORMqcJndEBocRX1n"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Запах алкоголя вызывает у жертвы тошноту. Если жертва выпивает от капли до глотка, она пьянеет. Если больше глотка, жертва отравляется.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883181,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7wjfMwb9APPdZcR8",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7wjfMwb9APPdZcR8"
+}

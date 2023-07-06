@@ -1,0 +1,16 @@
+{
+  "text": "Мешочек зубов",
+  "type": 2,
+  "img": "icons/commodities/bones/tooth-molar-yellow.webp",
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "_id": "y4ahu7xc89g9c889",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "oqxt2oBSn8NnpPDW",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.y4ahu7xc89g9c889"
+}

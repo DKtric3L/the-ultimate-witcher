@@ -1,0 +1,16 @@
+{
+  "_id": "8BDa9D8PpydHDt9F",
+  "flags": {},
+  "type": 0,
+  "text": "Выбитые зубы - 1d10, количество выбитых зубов. -3 к магическим проверкам, словесной дуэли. Стабилизация: Штрафы уменьшены до -2. Лечение: Штрафы уменьшены до -1.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!x79sDezhnh38lBbh.8BDa9D8PpydHDt9F"
+}

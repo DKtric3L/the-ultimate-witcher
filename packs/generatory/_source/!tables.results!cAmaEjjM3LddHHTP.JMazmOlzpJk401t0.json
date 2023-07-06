@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Защитник леса",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Zashitnik_lesa_Oleksandr_Kozachenko.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "BMBjzX1SBjJDsuTj",
+  "_id": "JMazmOlzpJk401t0",
+  "flags": {},
+  "_key": "!tables.results!cAmaEjjM3LddHHTP.JMazmOlzpJk401t0"
+}

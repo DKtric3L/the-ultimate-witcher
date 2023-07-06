@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Кровь Берсерка (Свальблод)",
+  "img": "icons/creatures/mammals/wolf-shadow-black.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "Ffu34lSfAwnHDR8E",
+  "_id": "pNFRLDqRhvYblVfb",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.pNFRLDqRhvYblVfb"
+}

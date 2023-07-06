@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Сапфир",
+  "img": "modules/the-ultimate-witcher/assets/gems/sapphire.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "ry1Ozi0tnrqPOdBz",
+  "_id": "wSln378kiwvIGzeO",
+  "flags": {},
+  "_key": "!tables.results!1brZCcoQRKToMzrz.wSln378kiwvIGzeO"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Высший вампир - способности",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "EsRexmjhNvA7k05j",
+    "8QeITq6CbdLdJxJB",
+    "pRxXj64m8PMOsuLZ",
+    "9GmunIpSbzIcFw8L",
+    "OzcmReXAKy9IHkCO",
+    "MHqAVoCdLNUl8HTi",
+    "1mmqybkViLWoXsVT",
+    "UqtcJDZrGCOKJzzU",
+    "K2c63PJ2z397PpOb",
+    "dhYWsl7FN1UntFBR"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "GjMDX54U2ClfLn9h",
+  "_key": "!tables!GjMDX54U2ClfLn9h"
+}

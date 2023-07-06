@@ -1,0 +1,42 @@
+{
+  "name": "Глаз Циклопа",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/eye_monstrous_64x64.png.6901.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Cyclops",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.sEk6QLAn7YCESULT"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853698,
+    "modifiedTime": 1669964749531,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "w50KRZ3Hf7zb6ef4",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!5uEBp1Dg0RJq2yA1.w50KRZ3Hf7zb6ef4"
+}

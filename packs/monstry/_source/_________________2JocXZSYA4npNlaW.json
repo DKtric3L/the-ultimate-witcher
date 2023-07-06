@@ -1,0 +1,75 @@
+{
+  "_id": "2JocXZSYA4npNlaW",
+  "name": "Огненное дыхание",
+  "type": "weapon",
+  "img": "icons/magic/fire/projectile-wave-arrow.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Everywhere",
+    "damage": "7d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "В качестве действия полного хода истинный дракон может выдохнуть 10-метровый конус магического пламени. Все попавшие в этот конус должны совершить проверку изме нения позиции (если могут укрыться за чем-либо или поки нуть эту зону) против проверки атаки дракона с основой 20. Если у персонажа в этой зоне есть павеза, он может в каче стве защиты блокированием поставить павезу и укрыться за ней. Павеза при этом получает IdlO разрушающего урона.",
+        "percentage": ""
+      },
+      {
+        "id": "_nbfgmvt7e",
+        "name": "Урон по всем частям тела",
+        "percentage": ""
+      },
+      {
+        "id": "_v7bt2lcee",
+        "name": "Даже если броня поглощает этот урон, она теряет 2 пункта прочности.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!WpoCsCHlFqTBkLcK.2JocXZSYA4npNlaW"
+}

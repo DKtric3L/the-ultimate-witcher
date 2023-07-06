@@ -1,0 +1,47 @@
+{
+  "name": "Вампиры",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Vampires.png",
+  "description": "",
+  "results": [
+    "Qz31LAAORukeS03i",
+    "OwtdTG8Qo6hsM7RB",
+    "fZk6Z8kQzihnqHHH",
+    "cn195sjIrETXTxg3",
+    "vqRYYTkzjL0fGbLH",
+    "ZOC4CNELeXKgIn2s",
+    "JXATY0S5tQLmIaAP",
+    "kttjrgMojNda7k8u",
+    "xeZomBumKDjkG4wb",
+    "hAevls8Rn9ilX9JU",
+    "xcmb1Il3NgS9OnbS",
+    "FvGXJazsVPz7PFCE",
+    "JOMZlygUWyePDLuX"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "tV1C1MNwkzoIWuig",
+  "_key": "!tables!tV1C1MNwkzoIWuig"
+}

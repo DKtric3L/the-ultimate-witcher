@@ -1,0 +1,16 @@
+{
+  "_id": "D2jQzy2v4xFnfEzK",
+  "flags": {},
+  "type": 0,
+  "text": "Снаряд упал левее цели, не долетев до неё.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XzhVNbs2LhDWFBH1.D2jQzy2v4xFnfEzK"
+}

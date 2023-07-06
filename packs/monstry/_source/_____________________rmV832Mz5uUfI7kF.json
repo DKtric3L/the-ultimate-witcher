@@ -1,0 +1,26 @@
+{
+  "_id": "rmV832Mz5uUfI7kF",
+  "name": "Преимущество в росте",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Стоя на земле, попасть по .голове химеры можно только длинным или дистанционным оружием. Также можно попасть, поднявшись на уровень её головы или если химера по какой-либо причине опустит голову. Во всех остальных случаях тот, кому при проверке места попадания выпала голова, должен совершать повторные броски, пока не получит другую часть тела."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!8T6WvA4ZCWgaXb3t.rmV832Mz5uUfI7kF"
+}

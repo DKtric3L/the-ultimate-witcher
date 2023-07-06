@@ -1,0 +1,44 @@
+{
+  "_id": "Jr4pY64cHbymUn3S",
+  "name": "Мелок",
+  "type": "valuable",
+  "img": "icons/commodities/stone/paver-cobble-white.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_hdwmzt8oxfu",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.I8oAX8VBlR8HROGv"
+    }
+  },
+  "system": {
+    "description": "Мелком можно помечать путь в каком-нибудь лабиринте или в лесу — жирную белую линию трудно не заметить.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 2,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!uywOEhVCMHFe7TAn.Jr4pY64cHbymUn3S"
+}

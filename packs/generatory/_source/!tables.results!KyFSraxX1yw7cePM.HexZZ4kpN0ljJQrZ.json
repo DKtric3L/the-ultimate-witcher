@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Фледер",
+  "img": "modules/the-ultimate-witcher/assets/monsters/fleder.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "k3JZYiQh1DzwWcMS",
+  "_id": "HexZZ4kpN0ljJQrZ",
+  "flags": {},
+  "_key": "!tables.results!KyFSraxX1yw7cePM.HexZZ4kpN0ljJQrZ"
+}

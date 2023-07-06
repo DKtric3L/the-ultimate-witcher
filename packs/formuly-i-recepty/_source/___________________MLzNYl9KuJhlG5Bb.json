@@ -1,0 +1,72 @@
+{
+  "name": "Ведьмачий медальон",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-triangle-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.MLzNYl9KuJhlG5Bb"
+    },
+    "cf": {
+      "id": "temp_oavemrlvbr8"
+    }
+  },
+  "system": {
+    "description": "<p>Данный медальон сразу после создания не имеет никаких магических свойств. Для этого его необходимо отнести к месту силы и напитать энергией от него.</p>\n<p>&nbsp;</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "4ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Серебро"
+      },
+      {
+        "id": "_twqgy6krj",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "5"
+      }
+    ],
+    "investment": 82,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848410,
+    "modifiedTime": 1685496578924,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "MLzNYl9KuJhlG5Bb",
+  "folder": "Tf7D5mVUyimkB23i",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!MLzNYl9KuJhlG5Bb"
+}

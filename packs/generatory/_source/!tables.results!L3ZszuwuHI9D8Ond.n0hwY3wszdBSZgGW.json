@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    37,
+    37
+  ],
+  "drawn": false,
+  "text": "Чучело мыши",
+  "img": "icons/commodities/bones/bones-lizard-grey.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "wnnXVbB6zy7pPJpQ",
+  "_id": "n0hwY3wszdBSZgGW",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.n0hwY3wszdBSZgGW"
+}

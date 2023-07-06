@@ -1,0 +1,78 @@
+{
+  "name": "Эффект: Кинетический щит",
+  "type": "armor",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.E5k9c9uajJhNArry"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Natural",
+    "avail": "Everywhere",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Поглощает половину урона"
+      },
+      {
+        "id": "_pxca3n3th",
+        "name": "Половину от поглощенного урона можно нанести врагу своей атакой",
+        "percentage": ""
+      },
+      {
+        "id": "_zomzvkny9",
+        "name": "1d10 раундов",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": true,
+    "piercing": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kSLeqoe0RHFW3pHh",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kSLeqoe0RHFW3pHh"
+}

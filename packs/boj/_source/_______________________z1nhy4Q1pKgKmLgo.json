@@ -1,0 +1,44 @@
+{
+  "name": "Провал: Защита оружием",
+  "img": "icons/equipment/shield/heater-wooden-steel-boss.webp",
+  "description": "",
+  "results": [
+    "fdA2cBiI3EeWIK5I",
+    "MRPEBsbpGcOrhzDi",
+    "lL006bQ4myX3gNXX",
+    "LlvaAqLDljanyY8J",
+    "RiOh4NQavtGYa5L9",
+    "4PgKeoqvfv9CNp6m",
+    "o9x3a16K3eC6Qh7f",
+    "Tkg0G7hzcdaLhQ8C",
+    "pnjfno7wJ0UkmQtI",
+    "y7ehckzeVI2fOEX1"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.qdCTMAghgpBibfe3"
+    },
+    "cf": {
+      "id": "temp_fwm9l8vsfd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897081,
+    "modifiedTime": 1685496658067,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "z1nhy4Q1pKgKmLgo",
+  "folder": "Wb6CKRNqRjBQl5Uy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!z1nhy4Q1pKgKmLgo"
+}

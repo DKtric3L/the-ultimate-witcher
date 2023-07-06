@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "L2yoQN3iL33hcvln",
+  "text": "Жажда крови - Этот вампир испытывает сильную жажду, когда видит, что его жертва истекает кровью. Всем атакам он предпочитает укусы.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Bed4im3bPyQSRfGC.L2yoQN3iL33hcvln"
+}

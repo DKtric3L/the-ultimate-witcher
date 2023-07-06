@@ -1,0 +1,60 @@
+{
+  "name": "Метеор",
+  "type": "spell",
+  "img": "icons/magic/fire/orb-vortex.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.YePRvQaMsSjR0yJU"
+    },
+    "cf": {
+      "id": "temp_rfqt1jg26l"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "30",
+    "staminaIsVar": false,
+    "effect": "Заклинание Метеор вызывает гигантский пылающий камень с неба. Камень падает на площадь 6х6 метров, и каждый, кто находится в этой области, должен совершить проверку Изменения позиции или получает 10d6 урона от магического огня по туловищу и загорается.",
+    "range": "20м",
+    "duration": "Мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "6х6",
+    "templateType": "circle",
+    "causeDamages": true,
+    "damage": "10d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1685496638991,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "xfAWow1oozD9L2iq",
+  "folder": "cWM5V9rg32KY6LB7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!xfAWow1oozD9L2iq"
+}

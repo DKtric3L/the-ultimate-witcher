@@ -1,0 +1,43 @@
+{
+  "name": "Эффект - Под водой/На воде",
+  "type": "effect",
+  "img": "icons/magic/water/water-drop-swirl-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_m0e8p39jzoq"
+    }
+  },
+  "system": {
+    "description": "-2 к атаке, блоку и парированию. Для уклонения и перемещения требуется бросать атлетику. Метательное оружие кроме копья не работает. Дальность стрелкового снижена до четверти. Помимо штрафа -2 к проверке. Урон снижен вдвое. Перемещение в воде равно половине прыжка персонажа.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_77ypx62qv",
+        "skill": "WITCHER.SkIntAwareness",
+        "modifier": "-3"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883178,
+    "modifiedTime": 1685496622153,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qb0jdFaHe1IYAK9W",
+  "folder": "l4TH4PkRbRSfAV7t",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qb0jdFaHe1IYAK9W"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Способность: Ужасный вой",
+  "type": "note",
+  "_id": "zeDFReJkCW7cC5p8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Совершив действие, амальгама трупа может издать хор ужасных воплей из множества ртов на своем теле. Любое живое существо в пределах 10 м от амальгамы трупа должно пройти проверку Сопротивления Магии со Сл: 16, иначе оно будет Ошеломлено."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680488209907,
+    "modifiedTime": 1680488266513,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!oCbHun9dgPjg8pCX.zeDFReJkCW7cC5p8"
+}

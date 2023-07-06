@@ -1,0 +1,16 @@
+{
+  "_id": "pnjfno7wJ0UkmQtI",
+  "type": 2,
+  "text": "Износ 2d6",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "C24pzvJ8fXlr4Q8I",
+  "_key": "!tables.results!z1nhy4Q1pKgKmLgo.pnjfno7wJ0UkmQtI"
+}

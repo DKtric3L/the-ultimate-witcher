@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Алхимический клей",
+  "img": "modules/the-ultimate-witcher/assets/props/alchemical_glue.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "ZEjSSqKIaLuf9jWn",
+  "_id": "CEqyfcoAuRpdACVL",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.CEqyfcoAuRpdACVL"
+}

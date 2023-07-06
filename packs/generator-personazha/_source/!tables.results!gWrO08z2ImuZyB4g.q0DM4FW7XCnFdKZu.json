@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Ваше нынешнее положение - Личный ведьмак. Вы подписали контракт с группой торговцев, знатным домом, или важной персоной и стали личным ведьмаком. Вы работаете за скромную плату и охотитесь на кого скажут. Обычно на чудовищ....",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gWrO08z2ImuZyB4g.q0DM4FW7XCnFdKZu"
+}

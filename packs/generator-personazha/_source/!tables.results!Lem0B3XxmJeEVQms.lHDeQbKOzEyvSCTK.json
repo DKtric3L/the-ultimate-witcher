@@ -1,0 +1,16 @@
+{
+  "_id": "lHDeQbKOzEyvSCTK",
+  "flags": {},
+  "type": 2,
+  "text": "Siblings: Gender",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "x4yEh1l0N9GqXSZ9",
+  "_key": "!tables.results!Lem0B3XxmJeEVQms.lHDeQbKOzEyvSCTK"
+}

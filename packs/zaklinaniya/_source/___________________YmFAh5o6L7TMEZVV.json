@@ -1,0 +1,57 @@
+{
+  "name": "Спектральная связь",
+  "type": "spell",
+  "img": "icons/magic/unholy/beams-impact-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uo04sybp4yb"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Спектральная связь позволяет сплести магическую связь вокруг цели, которая привязывает ее к физической форме. Под действием этого заклинания цель не может стать бестелесной или невидимой и не может телепортироваться никаким образом. Кроме того, пока действует заклинание, цель не может отойти от вас более чем на 10 м. Каждый ход цель может потратить свое действие, чтобы совершить еще одну проверку Сопротивления Магии против новой проверки Сотворения Заклинаний, чтобы закончить эффект.",
+    "range": "10м",
+    "duration": "Актив(вын 4)",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496637929,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YmFAh5o6L7TMEZVV",
+  "folder": "Kq5EsZjuyQjP2c1F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YmFAh5o6L7TMEZVV"
+}

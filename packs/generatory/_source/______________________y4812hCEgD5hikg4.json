@@ -1,0 +1,46 @@
+{
+  "name": "Доспехи - Подмастерье",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "results": [
+    "xpehzgjz2z4fbq4o",
+    "vc0ypdbuy6teubc9",
+    "zoa3omvfv4jrmigc",
+    "o3i483axiceled8o",
+    "9sem88s03vodnezx",
+    "vhrrwqahbuwv0fyp",
+    "9nqpslfneib3c0xs",
+    "ldeqmdhc7wgcx9uo",
+    "x3ttykyzclmc0yhu",
+    "x8bzktt6p6hi947o",
+    "o22j07emvz7tylm8",
+    "dllrw5oykpdha6qg"
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.hueWIQSuPwQh07TH"
+    },
+    "cf": {
+      "id": "temp_xhd9ad4pt09"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932896,
+    "modifiedTime": 1685496644464,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "y4812hCEgD5hikg4",
+  "folder": "Nb1YtBTsoOm2aQtL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!y4812hCEgD5hikg4"
+}

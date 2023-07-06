@@ -1,0 +1,45 @@
+{
+  "name": "Светящаяся руда",
+  "type": "component",
+  "img": "icons/commodities/stone/ore-chunk-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3c3due15ne4",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.hO8m2uwHXQXyjSOX"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 80,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Rare",
+    "location": "Горы и под землей",
+    "quantityObtainable": "1d6/2",
+    "forage": "20",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868988,
+    "modifiedTime": 1685496603524,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EFyOhbKKu0okwfms",
+  "folder": "UbFFcpt1rc9xdlDQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!EFyOhbKKu0okwfms"
+}

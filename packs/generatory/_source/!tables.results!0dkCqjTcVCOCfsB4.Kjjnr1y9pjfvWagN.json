@@ -1,0 +1,16 @@
+{
+  "_id": "Kjjnr1y9pjfvWagN",
+  "type": 2,
+  "text": "Усиления",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "9VoLryHXoH0ovQE6",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.Kjjnr1y9pjfvWagN"
+}

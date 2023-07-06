@@ -1,0 +1,41 @@
+{
+  "name": "Упрямство",
+  "type": "effect",
+  "img": "icons/creatures/mammals/bull-horned-blue.webp",
+  "system": {
+    "description": "Одно из величайших преимуществ человеческой расы - нежелание отступать даже в опасной ситуации. Они могут собраться с духом и перебросить неудачный результат проверки Сопротивления убеждению или Храбрости. но не более 3 раз за игровую партию. В таком случае из двух результатов выбирают наивысший, но если результат все равно провальный, то вновь использовать Упрямство нельзя.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "43b3130959c16f69edc7459a41ef1b63ac03475c",
+      "sourceId": "Item.LZPvW3WAabgA4eYS"
+    },
+    "core": {
+      "sourceId": "Item.LZPvW3WAabgA4eYS"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672503736808,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "fp6IAfjzJfJMCfL3",
+  "_key": "!items!fp6IAfjzJfJMCfL3"
+}

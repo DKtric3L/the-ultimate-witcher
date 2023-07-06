@@ -1,0 +1,57 @@
+{
+  "name": "Божественный портал",
+  "type": "spell",
+  "img": "icons/magic/air/wind-vortex-swirl-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0snrhvir1iqi"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Создаёт на 1 раунд портал, позволяющий заклинателю переправить себя или других в любое место, которое он помнит. В остальном портал действует аналогично заклинанию Магический портал.",
+    "range": "неогр",
+    "duration": "1 раунд",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496638351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "d4XCxpxtPTXzjKax",
+  "folder": "kIuwiWyVmWus24s8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!d4XCxpxtPTXzjKax"
+}

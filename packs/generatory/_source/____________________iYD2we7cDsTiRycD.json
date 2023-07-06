@@ -1,0 +1,44 @@
+{
+  "name": "Подмастерье - Огонь",
+  "description": "A random table created from the contents of the Огонь Folder.",
+  "results": [
+    "Hx9aFzlhC5jrraYw",
+    "PObAj6CyOrep1GBL",
+    "Q1bR83vB7wk11nPO",
+    "GOJrpvSOlhUesP66",
+    "xYfihKfp3Iiv1iL8",
+    "fTQKdoE3TkMXHDVj"
+  ],
+  "formula": "1d6",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3165aa3836c94485a2afb1db06e796f75bbdc08a",
+      "sourceId": "RollTable.WNNgdL9qVIBWk4s0"
+    },
+    "core": {
+      "sourceId": "RollTable.WNNgdL9qVIBWk4s0"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593604375,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "iYD2we7cDsTiRycD",
+  "_key": "!tables!iYD2we7cDsTiRycD"
+}

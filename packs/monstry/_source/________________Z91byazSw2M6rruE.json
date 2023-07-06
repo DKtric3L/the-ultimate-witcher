@@ -1,0 +1,55 @@
+{
+  "_id": "Z91byazSw2M6rruE",
+  "name": "Невидимая лента",
+  "type": "spell",
+  "img": "icons/magic/lightning/bolt-strike-embers-teal.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_ex348povmdi"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.41PGkwnahd6rg7io"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "С помощью шепота Невидимая лента позволяет сфокусировать порыв ветра в острое невидимое лезвие, которое свистит в воздухе. При накладывании этого заклинания одна цель должна пройти проверку Защиты против вашей проверки Сотворения заклинания. Если она терпят неудачу, цель получает урон 3d6. Лента невидима, и поэтому даже после атаки любой человек, находящийся в этой области, должен пройти проверку Внимания с Сл:20, чтобы определить, откуда пришла атака.",
+    "range": "10м",
+    "duration": "мгновенная",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "3d6",
+    "effects": []
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!KAhtipbo9AjyZASy.Z91byazSw2M6rruE"
+}

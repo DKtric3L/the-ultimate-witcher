@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Скеллигский громила",
+  "img": "modules/the-ultimate-witcher/assets/monsters/norhern_warrior.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "Qb1oCmgqVEfWMYsL",
+  "_id": "cJChN1nEiY06I0Rj",
+  "flags": {},
+  "_key": "!tables.results!tlNi36XdXbe970gp.cJChN1nEiY06I0Rj"
+}

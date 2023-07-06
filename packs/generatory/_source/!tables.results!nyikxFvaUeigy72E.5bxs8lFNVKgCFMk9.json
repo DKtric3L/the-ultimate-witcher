@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Элита Скоя'таэлей",
+  "img": "modules/the-ultimate-witcher/assets/monsters/skoyatael.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "znpE9GqPqIghjyKI",
+  "_id": "5bxs8lFNVKgCFMk9",
+  "flags": {},
+  "_key": "!tables.results!nyikxFvaUeigy72E.5bxs8lFNVKgCFMk9"
+}

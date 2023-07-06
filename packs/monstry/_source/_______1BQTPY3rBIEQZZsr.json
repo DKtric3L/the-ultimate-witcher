@@ -1,0 +1,60 @@
+{
+  "_id": "1BQTPY3rBIEQZZsr",
+  "name": "Кошмар",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-monster-grin-red-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_60zlp8zqudv"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.S54WWNplVzbLISeP"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Заставляет жертву во сне видеть один и тот же жуткий кошмар. Каждую ночь жертва должна совершать проверку Сопротивления убеждению со СЛ, равной проверке Наведения порчи заклинателя. При успехе жертва спит всю ночь, пусть и беспокойно. При провале она не может сомкнуть глаз и не восстанавливает Вын или ПЗ за ночь. Если жертва проваливает проверку 3 ночи подряд, её Вын снижается вполовину, и до тех пор, пока не выспится полную ночь, жертва получает штраф -2 ко всем действиям",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Medium",
+    "liftRequirement": "Жертва должна взять 5 свечей, 5 единиц костей животных и единицу светящейся руды. В ночь церемонии нужно расставить свечи кругом (вокруг себя), соединив их между собой костями животных, и положить светящуюся руду себе под голову. Если жертва сумеет проспать так всю ночь, порча будет снята.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!PGlZYpPXbooaZXbD.1BQTPY3rBIEQZZsr"
+}

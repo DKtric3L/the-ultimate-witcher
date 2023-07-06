@@ -1,0 +1,16 @@
+{
+  "_id": "RHBBFQRWlzMMakK6",
+  "type": 0,
+  "text": "Смешанный: Магия трещит и полыхает вокруг персонажа, нанося ему урон в зависимости от величины магического провала(Выпавшее значение). Также персонаж испытывает случайный стихийный эффект критического провала дополнительно.",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!0IubZL3hokD7rmKF.RHBBFQRWlzMMakK6"
+}

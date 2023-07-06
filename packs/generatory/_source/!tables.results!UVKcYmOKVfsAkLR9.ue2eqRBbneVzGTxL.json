@@ -1,0 +1,16 @@
+{
+  "text": "Улучшенный ворот",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-anchor.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "ue2eqRBbneVzGTxL",
+  "documentId": "JsGYo9yeGrqypZGq",
+  "flags": {},
+  "_key": "!tables.results!UVKcYmOKVfsAkLR9.ue2eqRBbneVzGTxL"
+}

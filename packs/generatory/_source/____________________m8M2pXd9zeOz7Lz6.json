@@ -1,0 +1,38 @@
+{
+  "name": "Компоненты - Мастер",
+  "img": "icons/sundries/documents/document-letter-blue.webp",
+  "results": [
+    "r9lfou14rya9a0zp",
+    "i5m8tgba84fks4a0",
+    "pvxrkndgt6aymwkt",
+    "61rbl0cfy5n5mjt2"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.eYsjWhs5CwCRkYqd"
+    },
+    "cf": {
+      "id": "temp_fuglrnkv21v"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932903,
+    "modifiedTime": 1685496644503,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "m8M2pXd9zeOz7Lz6",
+  "folder": "uaLngIyIaMEzpjcP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!m8M2pXd9zeOz7Lz6"
+}

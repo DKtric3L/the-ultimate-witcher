@@ -1,0 +1,43 @@
+{
+  "name": "Мутаген: Риггер",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-red.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.FQe4Ke3f0pHAWXb4"
+    },
+    "cf": {
+      "id": "temp_lwy4lq9cfk"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "red",
+    "source": "Риггеры",
+    "effect": "+2 к урону в ближнем бою",
+    "alchemyDC": "18",
+    "minorMutation": "Два новых ряда зубов"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868982,
+    "modifiedTime": 1685496603671,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "0Ugxe7ayTkyi0USh",
+  "folder": "fDOxFOO0ZSOHcd4h",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!0Ugxe7ayTkyi0USh"
+}

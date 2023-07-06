@@ -1,0 +1,42 @@
+{
+  "name": "Мастер - Огонь",
+  "description": "A random table created from the contents of the Огонь Folder.",
+  "results": [
+    "nj6mO4riOWuclLLr",
+    "cjhpiUlN8uU5d2Td",
+    "2FJlciP8vHRiYMa1",
+    "6vZ8rq1KiTdOztk8"
+  ],
+  "formula": "1d4",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cac493c0856e9c850ce69e71ee1b59651b9f608e",
+      "sourceId": "RollTable.yqr8br2iJkIFmUNQ"
+    },
+    "core": {
+      "sourceId": "RollTable.yqr8br2iJkIFmUNQ"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593748459,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "MSvx4NoGMyd3Bmbo",
+  "_key": "!tables!MSvx4NoGMyd3Bmbo"
+}

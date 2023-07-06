@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "text": "Мешочек с пряностями",
+  "img": "icons/containers/bags/coinpouch-leather-red.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "8XbHBpAIoDTR0FYs",
+  "_id": "8VRHwDKihJbiciW8",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.8VRHwDKihJbiciW8"
+}

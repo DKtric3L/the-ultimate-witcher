@@ -1,0 +1,40 @@
+{
+  "name": "Отвар тролля",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/kraken_potion.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_adni0hxf6rb"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 59,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "avail": "Rare",
+    "effect": "Вы восстанавливаете 5 ПЗ за раунд.",
+    "time": "30 минут",
+    "toxicity": "75%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887309,
+    "modifiedTime": 1685496626883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NkBdwmVtYhPad2aA",
+  "folder": "bZrtgL1pmeTvxqzx",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NkBdwmVtYhPad2aA"
+}

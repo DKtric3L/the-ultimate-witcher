@@ -1,0 +1,52 @@
+{
+  "name": "Глиф магии",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/magic.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 575,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "glyph",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Используя заклинания смешанных элементов выберите бонус:\n1)Повысьте сложность избегания заклинания для врага на 3.\n2)Увеличьте урон от заклинания на 3."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.xobbaBa4S6WCC331"
+    },
+    "cf": {
+      "id": "temp_7sabrnqlc6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868972,
+    "modifiedTime": 1669963001475,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "n9dugXIJUHFpcsmb",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!GvHkNN3d16eUO8Ig.n9dugXIJUHFpcsmb"
+}

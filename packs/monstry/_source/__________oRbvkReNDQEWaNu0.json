@@ -1,0 +1,69 @@
+{
+  "name": "Топфхельм",
+  "type": "armor",
+  "img": "icons/equipment/head/greathelm-banded-steel.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3.5,
+    "cost": 575,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 20,
+    "headMaxStopping": 20,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Heavy",
+    "avail": "Rare",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Ограничение зрения"
+      }
+    ],
+    "encumb": 1,
+    "location": "Head",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_mxldaj92pz"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.dospehi.o6UMgJtkNUth9FD6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1668162837869,
+    "modifiedTime": 1680483531153,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_id": "oRbvkReNDQEWaNu0",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!VbTqxwnvdGPEOxXG.oRbvkReNDQEWaNu0"
+}

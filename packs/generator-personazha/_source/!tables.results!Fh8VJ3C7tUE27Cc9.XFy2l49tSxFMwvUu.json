@@ -1,0 +1,16 @@
+{
+  "_id": "XFy2l49tSxFMwvUu",
+  "flags": {},
+  "type": 0,
+  "text": "Долг мага - В это десятилетие вы помогли магу. Вы собирали части чудовищ для его экспериментов, позволили ему изучать вас или даже захватили для него живьём чудовище. Так или иначе, маг вам должен одну услугу в пределах разумного.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Fh8VJ3C7tUE27Cc9.XFy2l49tSxFMwvUu"
+}

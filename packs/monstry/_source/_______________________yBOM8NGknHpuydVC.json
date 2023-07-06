@@ -1,0 +1,44 @@
+{
+  "name": "Медальон школы медведя",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/medallions/bear.png",
+  "system": {
+    "description": "Начинает дрожать, если в радиусе 20 метров есть чудовище или источник магии.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_sdiu4u3femp"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.TRXy9JgwfNX4GkzM"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887307,
+    "modifiedTime": 1669962154239,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "yBOM8NGknHpuydVC",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!Br1L9eWnCCCm9T5i.yBOM8NGknHpuydVC"
+}

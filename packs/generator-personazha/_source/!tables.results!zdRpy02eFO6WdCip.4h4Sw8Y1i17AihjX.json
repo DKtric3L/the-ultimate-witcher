@@ -1,0 +1,16 @@
+{
+  "_id": "4h4Sw8Y1i17AihjX",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Вашу семью изгнали в пустыню Корат, и, скорее всего, всю свою юность вы были провели в попытках выжить там.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.4h4Sw8Y1i17AihjX"
+}

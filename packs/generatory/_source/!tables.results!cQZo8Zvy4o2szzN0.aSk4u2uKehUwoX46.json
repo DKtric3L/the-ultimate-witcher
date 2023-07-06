@@ -1,0 +1,16 @@
+{
+  "_id": "aSk4u2uKehUwoX46",
+  "type": 2,
+  "text": "Формула - Новичок",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "H2gvCHvewCoWFqxs",
+  "_key": "!tables.results!cQZo8Zvy4o2szzN0.aSk4u2uKehUwoX46"
+}

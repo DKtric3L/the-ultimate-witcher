@@ -1,0 +1,16 @@
+{
+  "text": "Поиск ищущих",
+  "type": 2,
+  "img": "icons/magic/perception/hand-eye-fire-blue.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "k8z1d0jtdo2mmzvs",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "iAzfsEgQc9Exmo1A",
+  "_key": "!tables.results!BQnwhYLDPhlZmp69.k8z1d0jtdo2mmzvs"
+}

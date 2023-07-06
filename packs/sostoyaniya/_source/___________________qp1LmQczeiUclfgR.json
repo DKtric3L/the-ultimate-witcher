@@ -1,0 +1,37 @@
+{
+  "name": "Ограничение зрения",
+  "type": "effect",
+  "img": "icons/svg/blind.svg",
+  "system": {
+    "description": "Если выбрать целью то, что находится за пределами конуса зрения, персонаж получает  штраф -3 к атаке и не может прицелиться. Противник за пределами конуса зрения персонажа получает бонус +3 к атаке против этого персонажа.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.gEvwMkDWqunnzqmW"
+    },
+    "cf": {
+      "id": "temp_knbpivplp4b"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670456684568,
+    "modifiedTime": 1685496622070,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "wiRvKXo7LCMxELr9",
+  "sort": 0,
+  "_id": "qp1LmQczeiUclfgR",
+  "_key": "!items!qp1LmQczeiUclfgR"
+}

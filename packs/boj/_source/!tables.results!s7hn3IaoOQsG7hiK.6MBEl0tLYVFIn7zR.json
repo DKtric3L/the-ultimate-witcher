@@ -1,0 +1,16 @@
+{
+  "_id": "6MBEl0tLYVFIn7zR",
+  "flags": {},
+  "type": 0,
+  "text": "Занос или разворот, без особых эффектов.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!s7hn3IaoOQsG7hiK.6MBEl0tLYVFIn7zR"
+}

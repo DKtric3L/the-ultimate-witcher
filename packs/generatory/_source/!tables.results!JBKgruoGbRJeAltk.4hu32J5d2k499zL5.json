@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Чертёж Компонента",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-black-red.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "p1EoxQanD9meQxjs",
+  "_id": "4hu32J5d2k499zL5",
+  "flags": {},
+  "_key": "!tables.results!JBKgruoGbRJeAltk.4hu32J5d2k499zL5"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Камуфляж(Улучшение доспеха)",
+  "type": "effect",
+  "img": "icons/equipment/back/cloak-collared-leaves-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.MUgNyTFtXSKf8kTZ"
+    },
+    "cf": {
+      "id": "temp_i9tkai7fred"
+    }
+  },
+  "system": {
+    "description": "Сложность 16.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_loixbp0hu",
+        "skill": "WITCHER.SkDexStealth",
+        "modifier": "1"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868975,
+    "modifiedTime": 1685496603255,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gXdVk6uGV6wrs60i",
+  "folder": "Fbnrh89IJlvrZszo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gXdVk6uGV6wrs60i"
+}

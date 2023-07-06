@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Истинный дракон",
+  "img": "modules/the-ultimate-witcher/assets/monsters/pure_dragon.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "WpoCsCHlFqTBkLcK",
+  "_id": "9Pqy4VU2TatufUco",
+  "flags": {},
+  "_key": "!tables.results!4iNJUoQumJ4PqAVp.9Pqy4VU2TatufUco"
+}

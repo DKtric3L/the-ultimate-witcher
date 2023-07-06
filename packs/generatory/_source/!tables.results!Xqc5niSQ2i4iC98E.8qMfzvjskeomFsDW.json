@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Драугир",
+  "img": "modules/the-ultimate-witcher/assets/monsters/draug.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "USbRyk8ogDv1K0KF",
+  "_id": "8qMfzvjskeomFsDW",
+  "flags": {},
+  "_key": "!tables.results!Xqc5niSQ2i4iC98E.8qMfzvjskeomFsDW"
+}

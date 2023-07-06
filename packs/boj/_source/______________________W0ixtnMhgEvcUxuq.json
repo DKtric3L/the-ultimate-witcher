@@ -1,0 +1,38 @@
+{
+  "name": "Смертельный крит Торс",
+  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+  "results": [
+    "GTpuvsDVNDuAwDSP",
+    "H116wOoHGKvzy2cj",
+    "cNIYkVSV69ZPSUhe",
+    "r9eHA2TNIoW2Hykq"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.fos7LxMloOSKaGBR"
+    },
+    "cf": {
+      "id": "temp_uizkox49o8e"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897087,
+    "modifiedTime": 1685496658134,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "W0ixtnMhgEvcUxuq",
+  "folder": "XPYNpQX82syKEdJ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!W0ixtnMhgEvcUxuq"
+}

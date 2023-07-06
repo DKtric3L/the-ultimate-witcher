@@ -1,0 +1,80 @@
+{
+  "_id": "qh2Kv8EFPztdBbR6",
+  "name": "Удар сверху",
+  "type": "weapon",
+  "img": "icons/skills/melee/shield-damaged-broken-brown.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.VZfbDGzBaNhHQnHP"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": -1,
+    "avail": "Everywhere",
+    "damage": "6d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Урон в туловище",
+        "percentage": ""
+      },
+      {
+        "id": "_debrk5ho9",
+        "name": "Сбивает с ног",
+        "percentage": ""
+      },
+      {
+        "id": "_mjw3rd7qy",
+        "name": "Обездвиживает",
+        "percentage": ""
+      },
+      {
+        "id": "_natoejwmk",
+        "name": "effect",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!MbUFvG7TRIaPN2wF.qh2Kv8EFPztdBbR6"
+}

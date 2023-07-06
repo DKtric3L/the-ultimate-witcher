@@ -1,0 +1,16 @@
+{
+  "text": "Освежение воздуха",
+  "type": 2,
+  "img": "icons/magic/air/fog-gas-smoke-dense-pink.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "v9JWbywcd1qjitwa",
+  "documentId": "vX2tAFOCMc7JS14j",
+  "flags": {},
+  "_key": "!tables.results!rv5uSmnoIpayehL5.v9JWbywcd1qjitwa"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "НПС - Глаза",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "Ur2XMID2oWjSY9cF",
+  "_id": "fNadpAiC1Q377fKv",
+  "flags": {},
+  "_key": "!tables.results!yRg6GPQHOLAjrtCo.fNadpAiC1Q377fKv"
+}

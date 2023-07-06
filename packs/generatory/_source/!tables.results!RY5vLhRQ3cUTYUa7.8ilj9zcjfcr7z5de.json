@@ -1,0 +1,16 @@
+{
+  "text": "Странная нефритовая статуэтка",
+  "type": 2,
+  "img": "icons/commodities/treasure/statuette-gargoyle-green-gold.webp",
+  "weight": 1,
+  "range": [
+    26,
+    26
+  ],
+  "drawn": false,
+  "_id": "8ilj9zcjfcr7z5de",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "omMWVlMuVHetJFHQ",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.8ilj9zcjfcr7z5de"
+}

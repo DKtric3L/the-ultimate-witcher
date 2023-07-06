@@ -1,0 +1,65 @@
+{
+  "name": "Управляемый снаряд",
+  "type": "spell",
+  "img": "icons/skills/ranged/target-bullseye-arrow-glowing.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.DS20x9v2DpcJOkXP"
+    },
+    "cf": {
+      "id": "temp_2gfz0e4391q"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Заклинатель направляет хаос в метательное оружие или снаряд. Вы получаете бонус +6 к вашей следующей атаке этим оружием.",
+    "range": "10м",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Раунды)"
+      },
+      {
+        "id": "_v7mf5rxb0",
+        "name": "Одно использование, не на все время заклинания",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496638783,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ACp8vnDsvYLugbQj",
+  "folder": "xxARWgvfAzQOH2sZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ACp8vnDsvYLugbQj"
+}

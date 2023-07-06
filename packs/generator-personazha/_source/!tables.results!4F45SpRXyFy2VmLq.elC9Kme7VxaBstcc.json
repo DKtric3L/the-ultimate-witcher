@@ -1,0 +1,16 @@
+{
+  "_id": "elC9Kme7VxaBstcc",
+  "type": 0,
+  "text": "Союзник",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4F45SpRXyFy2VmLq.elC9Kme7VxaBstcc"
+}

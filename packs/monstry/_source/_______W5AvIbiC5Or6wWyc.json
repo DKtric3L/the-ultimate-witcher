@@ -1,0 +1,46 @@
+{
+  "_id": "W5AvIbiC5Or6wWyc",
+  "name": "Камень",
+  "type": "component",
+  "img": "icons/commodities/stone/stone-chunk-grey-white.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_ru8xgtdf05",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.fwSq0MWYGK0KUzqn"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "2d10",
+    "weight": 2,
+    "cost": 4,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Everywhere",
+    "location": "Везде",
+    "quantityObtainable": "2d6",
+    "forage": "2",
+    "substanceType": ""
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!iq16jBBOREVjtjom.W5AvIbiC5Or6wWyc"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Рубиновая пыль",
+  "img": "modules/the-ultimate-witcher/assets/gems/dust_ruby.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "RCNcFw6pprLng3tj",
+  "_id": "pGvyLpSSuMB51PrK",
+  "flags": {},
+  "_key": "!tables.results!qHOTp7tu1bBkvCap.pGvyLpSSuMB51PrK"
+}

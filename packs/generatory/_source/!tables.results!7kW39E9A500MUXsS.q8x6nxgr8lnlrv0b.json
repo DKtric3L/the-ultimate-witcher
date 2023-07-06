@@ -1,0 +1,16 @@
+{
+  "text": "Онейромантия",
+  "type": 2,
+  "img": "icons/magic/control/debuff-energy-hold-levitate-blue-yellow.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "q8x6nxgr8lnlrv0b",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "COnCzkDJe7mQCadY",
+  "_key": "!tables.results!7kW39E9A500MUXsS.q8x6nxgr8lnlrv0b"
+}

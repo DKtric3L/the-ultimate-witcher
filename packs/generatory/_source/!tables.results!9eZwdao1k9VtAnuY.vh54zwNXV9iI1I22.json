@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Необычный заказ - осложнения",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "R2OmAsKlA9mJNf8D",
+  "_id": "vh54zwNXV9iI1I22",
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.vh54zwNXV9iI1I22"
+}

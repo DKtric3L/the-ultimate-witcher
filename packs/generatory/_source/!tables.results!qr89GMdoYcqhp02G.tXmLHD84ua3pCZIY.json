@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Лиса",
+  "img": "modules/the-ultimate-witcher/assets/monsters/fox.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "ldBOmjmbDatV0wRc",
+  "_id": "tXmLHD84ua3pCZIY",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.tXmLHD84ua3pCZIY"
+}

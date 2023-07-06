@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Раса, пол и возраст мага",
+  "img": "icons/magic/control/buff-flight-wings-runes-red.webp",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "bXkCrR9sAIX75Yhi",
+  "_id": "Vjwqconv9aIS8K4X",
+  "flags": {},
+  "_key": "!tables.results!xY70yQu6NXPRufNh.Vjwqconv9aIS8K4X"
+}

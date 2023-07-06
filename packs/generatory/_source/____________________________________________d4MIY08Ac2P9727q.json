@@ -1,0 +1,40 @@
+{
+  "name": "Чертеж - модификации арбалета - Подмастерье",
+  "description": "A random table created from the contents of the Подмастерье Folder.",
+  "results": [
+    "nYtJ6oyznTGxnVpW",
+    "dthZ7zAl88Ob9byb"
+  ],
+  "formula": "1d2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5f95fc9f1757ea6cc24520e99096697fb82f4814",
+      "sourceId": "RollTable.rIIV7u8AASplvo4B"
+    },
+    "core": {
+      "sourceId": "RollTable.rIIV7u8AASplvo4B"
+    },
+    "cf": {
+      "id": "temp_d8c3idiea8s"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672829925550,
+    "modifiedTime": 1685496644418,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ydNMfXwdwR68I3Fr",
+  "sort": 0,
+  "_id": "d4MIY08Ac2P9727q",
+  "_key": "!tables!d4MIY08Ac2P9727q"
+}

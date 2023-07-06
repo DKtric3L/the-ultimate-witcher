@@ -1,0 +1,42 @@
+{
+  "name": "Witcher Lifepath: Allies - Generator",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "q0DM4FW7XCnFdKZu",
+    "mp0F0yfLeczgHYKB",
+    "a90EHPhkX2hszHH8",
+    "KgpE0Q8gz4x0tE9A",
+    "ph4JxbZMB7MniZZ5",
+    "CO3QQZcFp1D2YDGe"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.OmaVsbOv4sSJuRLI"
+    },
+    "cf": {
+      "id": "temp_axvl3ljag6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162957150,
+    "modifiedTime": 1685496652379,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "ghKESyZyM9aHCqmD",
+  "sort": 0,
+  "_id": "tg3h9EldldgJBadD",
+  "_key": "!tables!tg3h9EldldgJBadD"
+}

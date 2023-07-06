@@ -1,0 +1,60 @@
+{
+  "name": "Обнаружение разума",
+  "type": "spell",
+  "img": "icons/magic/perception/third-eye-blue-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Xh8K0rooX6JWU3TT"
+    },
+    "cf": {
+      "id": "temp_ox1dmapord"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Заклинатель может расширить свой разум через хаос и почувствовать разум других людей. Вы можете видеть чувства в виде цветовой палитры и слышать, как люди мысленно разговаривают сами с собой. Так вы можете отыскать определенного человека в толпе или в городе. \nБазовая СЛ 15 для 10 человек в пределах дистанции. \nДля увеличения дистанции добавьте +2 к СЛ за каждые дополнительные 20 м (округляется в большую сторону). \nЗа каждые 10 дополнительных человек в пределах дистанции вы добавляете +2 к СЛ (округляется в большую сторону). Конкретную информацию в сознании цели найти нельзя. Во время использования этого заклинания вы не можете совершать никаких других действий.",
+    "range": "20м",
+    "duration": "Пока не развеяно",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892166,
+    "modifiedTime": 1685496638904,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5FWlGIRAa9xGlKjX",
+  "folder": "FompVpMZkGLpN1Nf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5FWlGIRAa9xGlKjX"
+}

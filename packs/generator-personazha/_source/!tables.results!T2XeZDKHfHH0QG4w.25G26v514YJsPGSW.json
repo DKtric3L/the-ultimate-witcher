@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Жизнь мага - Магические исследования",
+  "img": "icons/sundries/books/book-stack.webp",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "2TEoNP5MCIzYphiI",
+  "_id": "25G26v514YJsPGSW",
+  "flags": {},
+  "_key": "!tables.results!T2XeZDKHfHH0QG4w.25G26v514YJsPGSW"
+}

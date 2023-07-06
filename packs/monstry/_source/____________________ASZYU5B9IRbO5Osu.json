@@ -1,0 +1,47 @@
+{
+  "name": "Оккультные предметы",
+  "type": "valuable",
+  "img": "icons/commodities/treasure/token-engraved-question-green.webp",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "825a6cd817ee2a8c66aafd5f4ab61d63b3fe44b3",
+      "sourceId": "Item.gtdTLAHV4fb22ifG"
+    },
+    "core": {
+      "sourceId": "Item.gtdTLAHV4fb22ifG"
+    },
+    "cf": {
+      "id": "temp_bn6m75vziea"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1672657970466,
+    "modifiedTime": 1672835217710,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "ASZYU5B9IRbO5Osu",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!sEUAWeP8l4b1waqn.ASZYU5B9IRbO5Osu"
+}

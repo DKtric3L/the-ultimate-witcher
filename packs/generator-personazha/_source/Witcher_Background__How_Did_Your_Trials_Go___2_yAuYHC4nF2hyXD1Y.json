@@ -1,0 +1,44 @@
+{
+  "name": "Witcher Background: How Did Your Trials Go? +2",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "q0DM4FW7XCnFdKZu",
+    "g8M6NpFm7tM6Vxit",
+    "oKZeEBIq2FLMNk2e",
+    "PetWGxxqNcQ9CTY8",
+    "kQX7ZeIIWKy5yTPF",
+    "pBJUmRRDkPudGBWz",
+    "36ROPw9QWjYWmpBV",
+    "ErK1v2gFZ5OEch8Z"
+  ],
+  "formula": "1d10+2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.ub0OgKJtPKbMpWUS"
+    },
+    "cf": {
+      "id": "temp_axvl3ljag6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162957147,
+    "modifiedTime": 1685496652379,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "ghKESyZyM9aHCqmD",
+  "sort": 0,
+  "_id": "yAuYHC4nF2hyXD1Y",
+  "_key": "!tables!yAuYHC4nF2hyXD1Y"
+}

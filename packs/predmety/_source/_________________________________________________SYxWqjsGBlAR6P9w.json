@@ -1,0 +1,43 @@
+{
+  "name": "Проживание: Отличная комната в таверне (за ночь)",
+  "type": "valuable",
+  "img": "icons/sundries/scrolls/scroll-writing-gold.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.kovO2UmbC8qTz55e"
+    },
+    "cf": {
+      "id": "temp_9g36jjd7ks7"
+    }
+  },
+  "system": {
+    "description": "Переночевать в таких условиях можно разве что в крупных и столичных городах. Кровать с шёлковыми простынями, в комнате бутылки вина и прочие излишества. Сам я в таких не спал, но по слухам условия просто роскошные. На двери есть отменный замок, чтобы точно никто не пробрался(Сл взлома 18.)",
+    "quantity": 1,
+    "weight": null,
+    "cost": 72,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "lodging",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868987,
+    "modifiedTime": 1685496603196,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SYxWqjsGBlAR6P9w",
+  "folder": "HDMExnnyDcCfbxTD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SYxWqjsGBlAR6P9w"
+}

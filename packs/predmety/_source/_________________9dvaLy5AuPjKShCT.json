@@ -1,0 +1,43 @@
+{
+  "name": "Телекоммуникатор",
+  "type": "valuable",
+  "img": "icons/tools/laboratory/alembic-glass-ball-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.9dvaLy5AuPjKShCT"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "Позволяет общаться с помощью заклинания \"Телекоммуникация\"",
+    "quantity": 1,
+    "weight": 4,
+    "cost": 1000,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868990,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9dvaLy5AuPjKShCT",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9dvaLy5AuPjKShCT"
+}

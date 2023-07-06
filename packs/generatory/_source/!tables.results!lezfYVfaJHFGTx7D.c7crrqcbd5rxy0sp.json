@@ -1,0 +1,16 @@
+{
+  "text": "Заговор Матери (Клан Ворона)",
+  "type": 2,
+  "img": "icons/creatures/birds/corvid-call-sound-glowing.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "c7crrqcbd5rxy0sp",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "IpHHrwp3nSC6mbVT",
+  "_key": "!tables.results!lezfYVfaJHFGTx7D.c7crrqcbd5rxy0sp"
+}

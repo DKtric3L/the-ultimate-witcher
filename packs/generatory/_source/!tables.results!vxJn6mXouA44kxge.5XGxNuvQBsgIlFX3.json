@@ -1,0 +1,16 @@
+{
+  "text": "Телепортация",
+  "type": 2,
+  "img": "icons/magic/movement/trail-streak-impact-blue.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "5XGxNuvQBsgIlFX3",
+  "documentId": "YYqbpcpGFi86MGcN",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.5XGxNuvQBsgIlFX3"
+}

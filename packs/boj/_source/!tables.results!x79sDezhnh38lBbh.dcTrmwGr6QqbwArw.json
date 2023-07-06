@@ -1,0 +1,16 @@
+{
+  "_id": "dcTrmwGr6QqbwArw",
+  "flags": {},
+  "type": 0,
+  "text": "Разрыв селезёнки - У персонажа сильное кровотечение, из-за чего он чувствует слабость. Совершайте испытание устойчивости каждые 5 раундов, чтобы избежать дезориентации. Стабилизация: Испытание устойчивости каждые 10 раундов. Лечение: -2 к устойчивости.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!x79sDezhnh38lBbh.dcTrmwGr6QqbwArw"
+}

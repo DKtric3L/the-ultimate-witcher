@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Боеприпасы - Ведьмак",
+  "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "3jDsNXbgoYaYd4tr",
+  "_id": "mFnkEYVTS3DNGcLA",
+  "flags": {},
+  "_key": "!tables.results!KmkfY7Z2aPq7kdGL.mFnkEYVTS3DNGcLA"
+}

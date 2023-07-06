@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Агуара",
+  "img": "modules/the-ultimate-witcher/assets/monsters/aguara.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "6MVxQpF5plpAkAB3",
+  "_id": "7pJ18q9szDQhv6e9",
+  "flags": {},
+  "_key": "!tables.results!tQLIS5MUN5FQSzDC.7pJ18q9szDQhv6e9"
+}

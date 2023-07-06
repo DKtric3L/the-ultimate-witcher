@@ -1,0 +1,40 @@
+{
+  "name": "Жрец - Подмастерье",
+  "img": "icons/magic/life/heart-cross-strong-green.webp",
+  "description": "",
+  "results": [
+    "5x6s4c6laj8atk9g",
+    "qcdtjvipqx9zdude",
+    "hdh1krwf20ufnb2o",
+    "oijx763jb94p9x7k",
+    "k8z1d0jtdo2mmzvs",
+    "2zvo2BN35vwtO4li"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.jJ40wIIGKGpD5Oxx"
+    },
+    "cf": {
+      "id": "temp_s23761z2tk"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932901,
+    "modifiedTime": 1685496644216,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BQnwhYLDPhlZmp69",
+  "folder": "UBZ0NONtvUbanf9g",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!BQnwhYLDPhlZmp69"
+}

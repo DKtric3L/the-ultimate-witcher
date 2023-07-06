@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Навигатор дикой охоты",
+  "img": "modules/the-ultimate-witcher/assets/monsters/wild_hunt_navigator.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "hIrfwQkQkN0IlX76",
+  "_id": "wm08exJRLZsS6UnN",
+  "flags": {},
+  "_key": "!tables.results!QYBAiHFzlsyp87Ar.wm08exJRLZsS6UnN"
+}

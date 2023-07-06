@@ -1,0 +1,61 @@
+{
+  "name": "Улучшенное Энье",
+  "type": "spell",
+  "img": "icons/magic/fire/explosion-flame-lightning-strike.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.5fKsmOKjzHssdhel"
+    },
+    "cf": {
+      "id": "temp_1ldq6zu6i6ej"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Улучшенное Энье действует так же, как и Энье, но создаваемый вами огненный шар в два раза больше и наносит 6d6 урона с вероятностью 75% поджечь цель.",
+    "range": "20м",
+    "duration": "Мгновенное",
+    "defence": "Укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "6d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "75"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496638808,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "gxIQSXZCBWjeXiP8",
+  "folder": "ZcfqdHfSUvKAeyeQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!gxIQSXZCBWjeXiP8"
+}

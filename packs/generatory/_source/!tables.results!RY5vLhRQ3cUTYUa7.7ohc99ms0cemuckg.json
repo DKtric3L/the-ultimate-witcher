@@ -1,0 +1,16 @@
+{
+  "text": "Медвежий жир",
+  "type": 2,
+  "img": "systems/TheWitcherTRPG/assets/images/rebis.png",
+  "weight": 1,
+  "range": [
+    35,
+    35
+  ],
+  "drawn": false,
+  "_id": "7ohc99ms0cemuckg",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "VnzG963PpSf81S1R",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.7ohc99ms0cemuckg"
+}

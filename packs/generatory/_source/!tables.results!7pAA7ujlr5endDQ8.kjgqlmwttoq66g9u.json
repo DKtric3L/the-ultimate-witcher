@@ -1,0 +1,16 @@
+{
+  "text": "Ритуал очищения",
+  "type": 2,
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "kjgqlmwttoq66g9u",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "J85pu0RatknhHPJM",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.kjgqlmwttoq66g9u"
+}

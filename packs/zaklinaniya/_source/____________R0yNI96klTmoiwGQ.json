@@ -1,0 +1,60 @@
+{
+  "name": "Невесомость",
+  "type": "spell",
+  "img": "icons/magic/control/debuff-energy-hold-levitate-blue-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.sl3ichaKUVBEjA9x"
+    },
+    "cf": {
+      "id": "temp_rkoyph3dfy"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "air",
+    "domain": "",
+    "stamina": "22",
+    "staminaIsVar": false,
+    "effect": "Невесомость делает всех в радиусе 10 м, с центром в любой точке в пределах дистанции, невесомыми и поднимает в воздух. Они взлетают на 4 метра за раунд, и к ним применяются правила подводного боя. По окончании заклинания, все существа падают и получают урон от падения.",
+    "range": "20м",
+    "duration": "1d10 раундов",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496638961,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "R0yNI96klTmoiwGQ",
+  "folder": "LTR8wJncOHVonFgc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!R0yNI96klTmoiwGQ"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Орденские гончие",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Lutaya_gonchaa_mutant_Grafit_Studio.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "Cton24NnKuuLUHpS",
+  "_id": "4f0EcpbJW2J0nGMd",
+  "flags": {},
+  "_key": "!tables.results!bvUyA8xmmetulRoD.4f0EcpbJW2J0nGMd"
+}

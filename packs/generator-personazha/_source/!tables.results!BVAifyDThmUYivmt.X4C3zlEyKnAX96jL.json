@@ -1,0 +1,16 @@
+{
+  "_id": "X4C3zlEyKnAX96jL",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей дезертировали к Нильфгаардцам, продав им информацию или же просто перейдя границу.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BVAifyDThmUYivmt.X4C3zlEyKnAX96jL"
+}

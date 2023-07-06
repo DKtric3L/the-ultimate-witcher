@@ -1,0 +1,57 @@
+{
+  "name": "Айна Версеос",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-glow-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_p8nj0svlvn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "Айна Версеос создаёт зону яркого света радиусом 4 метра с заклинателем в центре",
+    "range": "4м",
+    "duration": "Актив(2 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "4",
+    "templateType": "circle",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892151,
+    "modifiedTime": 1685496637857,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "o2gcYjEYZNPMSQFH",
+  "folder": "FdN7jfCUOYKOAJAb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!o2gcYjEYZNPMSQFH"
+}

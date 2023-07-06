@@ -1,0 +1,60 @@
+{
+  "name": "Видение ауры",
+  "type": "spell",
+  "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+  "system": {
+    "class": "MagicalGift",
+    "level": "major gift",
+    "source": "",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "СЛ Сотворения - 9.\nВ качестве действия полного раунда вы можете видеть ауру всех целей в пределах 8 м от вас. Эта аура говорит вам, каков порог Энергии каждой цели.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "Вы испускаете ощутимое покалывание, которое предупреждает любого, кто прикоснется к вам, о ваших магических способностях. Это заставит многих людей предположить, что вы маг. Из-за этого ваше социальное положение считается положением мага.",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.Rulfxobueau8p8dC"
+    },
+    "cf": {
+      "id": "temp_h4pziq0sh2"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670242348376,
+    "modifiedTime": 1685496637397,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ziXFqvNA5XL61w7E",
+  "sort": 0,
+  "_id": "aS67wiLVO7sEBjU9",
+  "_key": "!items!aS67wiLVO7sEBjU9"
+}

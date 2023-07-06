@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Чародей",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Vipuskniki_Bogna_Gawronska.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "xZuE8ZwVG8NresXh",
+  "_id": "n3ZAy4nQgNZ4QKYR",
+  "flags": {},
+  "_key": "!tables.results!PwkSg3BxS9FxVkyI.n3ZAy4nQgNZ4QKYR"
+}

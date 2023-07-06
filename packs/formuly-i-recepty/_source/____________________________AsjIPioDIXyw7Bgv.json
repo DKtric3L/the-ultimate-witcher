@@ -1,0 +1,189 @@
+{
+  "name": "Арбалет охотника на чудовищ",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.AsjIPioDIXyw7Bgv"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.TWqAvR6b4TBCJMJ0]{Арбалет охотника на чудовищ}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1686,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 24,
+    "alchemyDC": 0,
+    "craftingTime": "12ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "6",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_z0sybdbiv",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_gxnd38o0b",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_8kyzkvxft",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_5xgei1g7m",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_31pkd9hyg",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_dde7qs873",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_r8necov74",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_8j3q889yf",
+        "name": "Темное железо",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_3n1sqkvwc",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 844,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Арбалет охотника на чудовищ",
+      "type": "weapon",
+      "img": "icons/weapons/crossbows/crossbow-heavy-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 4,
+        "cost": 1125,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": 1,
+        "avail": "Rare",
+        "damage": "6d6",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "2",
+        "range": "200",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Медленно перезаряжается",
+            "percentage": ""
+          },
+          {
+            "id": "_kdakmzv9o",
+            "name": "Пробивает броню",
+            "percentage": ""
+          }
+        ],
+        "conceal": "NA",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Crossbow",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_uugqhd13qjr"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863936,
+        "modifiedTime": 1672563703157,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848408,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AsjIPioDIXyw7Bgv",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AsjIPioDIXyw7Bgv"
+}

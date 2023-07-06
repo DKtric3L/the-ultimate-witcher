@@ -1,0 +1,107 @@
+{
+  "name": "Квебрит + Солнце",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.CVPIKEF6jND6nmd6"
+    },
+    "cf": {
+      "id": "temp_1rc7toaohz8"
+    }
+  },
+  "system": {
+    "description": "<p><em class=\"content-link\" data-uuid=\"Compendium.the-ultimate-witcher.monstry.hxLFdF4TZpwdSjM4\">@UUID[Compendium.the-ultimate-witcher.predmety.XtHyZtqdvZs6KDYg]{Квебрит + Солнце}</em></p>\n<p>&nbsp;</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "novice",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 14,
+    "craftingTime": "1 ход",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": null,
+      "rebis": null,
+      "aether": null,
+      "quebrith": 1,
+      "hydragenum": null,
+      "vermilion": null,
+      "sol": 1,
+      "caelum": null,
+      "fulgur": null
+    },
+    "associatedItem": {
+      "name": "Квебрит + Солнце",
+      "type": "alchemical",
+      "img": "icons/consumables/potions/bottle-conical-corked-yellow.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Rare",
+        "effect": "Избавляет от боли на 1 час, уменьшая на 4 штрафы от критических ранений и состояния при смерти.\nСрок годности - трое суток.",
+        "time": "1 час",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.yp5J1RbiHPqCNT5x"
+        },
+        "cf": {
+          "id": "temp_eux3i6hppej"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868976,
+        "modifiedTime": 1668162868976,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848416,
+    "modifiedTime": 1685496578538,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "69kcPP0eH6OLst2q",
+  "folder": "Pomvt3uPGKucMdZ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!69kcPP0eH6OLst2q"
+}

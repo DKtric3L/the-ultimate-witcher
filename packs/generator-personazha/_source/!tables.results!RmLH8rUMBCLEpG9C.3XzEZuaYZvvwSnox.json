@@ -1,0 +1,16 @@
+{
+  "_id": "3XzEZuaYZvvwSnox",
+  "type": 0,
+  "text": "Профессия союзника - Маг",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!RmLH8rUMBCLEpG9C.3XzEZuaYZvvwSnox"
+}

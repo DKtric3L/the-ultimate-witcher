@@ -1,0 +1,57 @@
+{
+  "name": "Животная сила",
+  "type": "spell",
+  "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_agipi719q8m"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "basic",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Пробуждает внутренние резервы цели, что даёт бонус +2 к урону в ближнем бою и штраф -2 к Инт на время действия заклинания.",
+    "range": "5м",
+    "duration": "2d6 раундов",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892159,
+    "modifiedTime": 1685496638236,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7hXowVcKEQQ3iYYC",
+  "folder": "vVGv53T7kGsdKAdF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7hXowVcKEQQ3iYYC"
+}

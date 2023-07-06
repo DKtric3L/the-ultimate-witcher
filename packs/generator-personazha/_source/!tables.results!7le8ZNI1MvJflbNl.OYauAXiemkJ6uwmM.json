@@ -1,0 +1,16 @@
+{
+  "_id": "OYauAXiemkJ6uwmM",
+  "flags": {},
+  "type": 0,
+  "text": "Мирная смерть",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!7le8ZNI1MvJflbNl.OYauAXiemkJ6uwmM"
+}

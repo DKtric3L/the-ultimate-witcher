@@ -1,0 +1,43 @@
+{
+  "name": "Ожерелье из ушей Шептухи",
+  "type": "valuable",
+  "img": "icons/equipment/neck/necklace-simple-bone-claws.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.fzdD5AL4VVhcZzib"
+    },
+    "cf": {
+      "id": "temp_2vzp4o52vxp"
+    }
+  },
+  "system": {
+    "description": "Фокус(2), +2 наведению порчи, использований за сессию - 2. Потратив действие, вы можете услышать разговор кого-то, кого вы знаете, или из места, где вы были. Для этого вам нужно подложить одно ухо на это место, в карман и т.д.",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "clothing",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877956,
+    "modifiedTime": 1685496616914,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "IOk4Y4szUxCbDMSu",
+  "folder": "vnVc4zbuh56yjRrm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!IOk4Y4szUxCbDMSu"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Трофей кладбищенской бабы",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/cemetery_woman.webp",
+  "system": {
+    "description": "Вы получаете +2 к проверкам Проведения Ритуалов и Наложению Порчи.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.RkT1adFIHuUYrKMN"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1669965813505,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "BBylcs4GNvSBxykX",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!b15jAZtqwI2QqRYf.BBylcs4GNvSBxykX"
+}

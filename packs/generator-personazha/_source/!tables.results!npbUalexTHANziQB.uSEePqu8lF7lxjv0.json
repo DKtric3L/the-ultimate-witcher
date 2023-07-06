@@ -1,0 +1,16 @@
+{
+  "_id": "uSEePqu8lF7lxjv0",
+  "type": 0,
+  "text": "Помогал разрабатывать оружие войны для Империи. Начните с 1 формулы бомбы. Определите с Мастером , какая это формула бомбы.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!npbUalexTHANziQB.uSEePqu8lF7lxjv0"
+}

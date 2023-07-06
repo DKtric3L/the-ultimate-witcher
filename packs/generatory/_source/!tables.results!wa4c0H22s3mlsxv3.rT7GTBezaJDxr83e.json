@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Набедренные ножны",
+  "img": "icons/equipment/wrist/bracer-white-armored.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "NWB7vPgOLDIsmvFk",
+  "_id": "rT7GTBezaJDxr83e",
+  "flags": {},
+  "_key": "!tables.results!wa4c0H22s3mlsxv3.rT7GTBezaJDxr83e"
+}

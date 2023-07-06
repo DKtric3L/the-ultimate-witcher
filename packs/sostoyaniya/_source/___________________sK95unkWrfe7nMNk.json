@@ -1,0 +1,43 @@
+{
+  "name": "Симптом: Лихорадка",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.MQWfT5I5Ivjy08V6"
+    },
+    "cf": {
+      "id": "temp_nxdlb2anpj"
+    }
+  },
+  "system": {
+    "description": "Тело словно горит.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_fdzbp4lbe",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1685496621715,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sK95unkWrfe7nMNk",
+  "folder": "gc7euHqdhcoTNbKd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!sK95unkWrfe7nMNk"
+}

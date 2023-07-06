@@ -1,0 +1,57 @@
+{
+  "name": "Погибель Фергуса",
+  "type": "spell",
+  "img": "icons/magic/death/blood-corruption-vomit-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_dpnqmwag5w"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Никто не знает, кто создал это заклинание, но оно стало печально известным из- за того, что его использовали на императоре Фергусе вар Эмрейсе после того, как он был свергнут. Погибель Фергуса позволяет вам вызвать группу волшебных игл, которые действуют по вашей команде, чтобы мучить цель в пределах досягаемости. Во время действия этого заклинания вы можете совершать проверку Сотворения заклинаний вместо проверки Запугивания, чтобы допросить свою цель.",
+    "range": "2м",
+    "duration": "1 час",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496637764,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "k9h7EBJX1Y73V2df",
+  "folder": "cnIlwgnwtzSIOWjW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!k9h7EBJX1Y73V2df"
+}

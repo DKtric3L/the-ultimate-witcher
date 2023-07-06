@@ -1,0 +1,16 @@
+{
+  "text": "Письменные принадлежности",
+  "type": 2,
+  "img": "icons/tools/scribal/ink-quill-pink.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "_id": "3ustt0o7ijkv611c",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "GzIj9duhasH2i8JV",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.3ustt0o7ijkv611c"
+}

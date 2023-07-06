@@ -1,0 +1,40 @@
+{
+  "name": "Нелетал урон 1d6",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "B3hrbnfzstev2I7E",
+    "jGMd6KD1tWkWHig2",
+    "0xegwZqrST1LuYIN",
+    "3w117PhL2WiCyiG0",
+    "btC1uD2tsamLrl0r",
+    "mKKisrVvfzoYErNn"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.m4IL8W8fIbwfAste"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897075,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5hd65uWQBd6JIoBp",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!5hd65uWQBd6JIoBp"
+}

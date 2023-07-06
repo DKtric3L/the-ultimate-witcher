@@ -1,0 +1,16 @@
+{
+  "text": "Святилище Черной рощи (Каэд Мырквид)",
+  "type": 2,
+  "img": "icons/magic/nature/tree-spirit-green.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "16w1m724s7om4sj0",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "4Gzo4EAOf6SO5twd",
+  "_key": "!tables.results!lezfYVfaJHFGTx7D.16w1m724s7om4sj0"
+}

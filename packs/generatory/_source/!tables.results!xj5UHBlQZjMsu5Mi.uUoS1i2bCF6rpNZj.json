@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Грифон",
+  "img": "modules/the-ultimate-witcher/assets/monsters/griffin.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "n11LrQjygfk21hMN",
+  "_id": "uUoS1i2bCF6rpNZj",
+  "flags": {},
+  "_key": "!tables.results!xj5UHBlQZjMsu5Mi.uUoS1i2bCF6rpNZj"
+}

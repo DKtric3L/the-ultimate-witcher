@@ -1,0 +1,69 @@
+{
+  "name": "Эльфский зефар",
+  "type": "weapon",
+  "img": "icons/weapons/bows/shortbow-recurve-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.oruzhie-starshih-narodov.NtajR9jAz2c5dUQP"
+    },
+    "cf": {
+      "id": "temp_69gyqo10x1e"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2.5,
+    "cost": 1100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": 2,
+    "avail": "Rare",
+    "damage": "6d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "350",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Ул. Пробивающее броню",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Archery",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863946,
+    "modifiedTime": 1685496598563,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "FbQhyRGJfgtbdn9k",
+  "folder": "1uHb86hMnTgjjtbv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!FbQhyRGJfgtbdn9k"
+}

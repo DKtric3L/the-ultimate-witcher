@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Зачарованный амулет(1)",
+  "img": "icons/equipment/neck/Necklace-simple-jewel-purple.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "K4hd7jNWvFMZdh8O",
+  "_id": "wEJy3u9fL0IcDuQA",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.wEJy3u9fL0IcDuQA"
+}

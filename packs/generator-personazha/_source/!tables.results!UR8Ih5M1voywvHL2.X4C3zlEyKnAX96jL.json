@@ -1,0 +1,16 @@
+{
+  "_id": "X4C3zlEyKnAX96jL",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба родителей - Один или оба ваших родителей вступили в ряды скоя'таэлей, чтобы отомстить людям, которые, как они считают, исковеркали им жизнь.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!UR8Ih5M1voywvHL2.X4C3zlEyKnAX96jL"
+}

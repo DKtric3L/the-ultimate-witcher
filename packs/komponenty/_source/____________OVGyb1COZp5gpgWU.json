@@ -1,0 +1,41 @@
+{
+  "name": "Чистый эфир",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/sub-09.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4o2s0rjm0j"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Создаётся",
+    "quantityObtainable": "",
+    "forage": "14",
+    "substanceType": "aether"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853707,
+    "modifiedTime": 1685496583962,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "OVGyb1COZp5gpgWU",
+  "folder": "7pzVeEMkxc9TrnPt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OVGyb1COZp5gpgWU"
+}

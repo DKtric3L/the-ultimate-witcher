@@ -1,0 +1,47 @@
+{
+  "name": "Отслеживание запаха",
+  "type": "effect",
+  "img": "icons/magic/perception/third-eye-blue-red.webp",
+  "system": {
+    "description": "+1 к вниманию, умение выслеживать по запаху.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkIntAwareness",
+        "modifier": "1"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "f64b8c398555f72f520a8741f15c537a10f50d5a",
+      "sourceId": "Item.zhfjYwi5rRTRAhve"
+    },
+    "core": {
+      "sourceId": "Item.zhfjYwi5rRTRAhve"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672536912892,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "df2yzFIuiGHxNMPn",
+  "_key": "!items!df2yzFIuiGHxNMPn"
+}

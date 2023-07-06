@@ -1,0 +1,16 @@
+{
+  "text": "Эльфийский инструмент",
+  "type": 2,
+  "img": "icons/tools/instruments/horn-flared-wood.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "q5nhctbmrxrc2f0d",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "gAJ0Ncy3NXSCBQAk",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.q5nhctbmrxrc2f0d"
+}

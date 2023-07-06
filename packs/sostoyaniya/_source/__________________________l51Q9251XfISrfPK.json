@@ -1,0 +1,40 @@
+{
+  "name": "Разрыв селезёнки (Лечено)",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0okd4sumrx3o"
+    }
+  },
+  "system": {
+    "description": "У персонажа разрыв селезёнки, из-за чего он чувствует слабость.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_gwztrsvoc",
+        "derivedStat": "WITCHER.Actor.CoreStat.Stun",
+        "modifier": "-2"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1685496621814,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "l51Q9251XfISrfPK",
+  "folder": "popcTSR0VPsBTxwV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!l51Q9251XfISrfPK"
+}

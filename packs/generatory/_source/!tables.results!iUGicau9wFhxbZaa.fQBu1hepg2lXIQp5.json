@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Лирийская кожа",
+  "img": "icons/commodities/leather/leather-patch-brown.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "0XFObVZGve999iIw",
+  "_id": "fQBu1hepg2lXIQp5",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.fQBu1hepg2lXIQp5"
+}

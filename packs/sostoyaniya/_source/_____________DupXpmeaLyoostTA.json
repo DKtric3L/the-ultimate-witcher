@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: луна",
+  "type": "effect",
+  "img": "icons/magic/nature/symbol-moon-stars-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.oqNRqGB1zWUenRLs"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Невосприимчивость к запугиванию и страху. Избавляет от слепоты и горения. 20 раундов.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_sy9mj2s5n",
+        "derivedStat": "WITCHER.Actor.DerStat.HP",
+        "modifier": "25"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883183,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DupXpmeaLyoostTA",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DupXpmeaLyoostTA"
+}

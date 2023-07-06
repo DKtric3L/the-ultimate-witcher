@@ -1,0 +1,16 @@
+{
+  "text": "Гидромантия",
+  "type": 2,
+  "img": "icons/magic/water/tendrils-ice-growth.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "7mjspmc4vtp6qoia",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "3fJOLTXalN3XfuGw",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.7mjspmc4vtp6qoia"
+}

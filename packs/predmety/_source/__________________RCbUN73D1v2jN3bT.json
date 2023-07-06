@@ -1,0 +1,43 @@
+{
+  "name": "Кислотный раствор",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/acid.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.RCbUN73D1v2jN3bT"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 56,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "Кислотный раствор наносит 2d6 урона любому живому существу,\nна которое попадает, и ld6 / 2 разрушающего урона оружию и броне.\nДля броска склянки требуется провести атаку с проверкой Атлетики (Дис. равна Тел × 2 метров). Кислота разбрызгивается в 2-метровом конусе от места падения.",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RCbUN73D1v2jN3bT",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RCbUN73D1v2jN3bT"
+}

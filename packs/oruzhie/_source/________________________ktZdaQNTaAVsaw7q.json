@@ -1,0 +1,84 @@
+{
+  "name": "Эльфские раскрывающиеся",
+  "type": "weapon",
+  "img": "icons/skills/ranged/arrow-flying-broadhead-metal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rol4jixhdr"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.p1k1OpURUx5vG0XH"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 150,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Rare",
+    "damage": "",
+    "reliable": 5,
+    "maxReliability": 5,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "После попадания наконечник раскрывается",
+        "percentage": ""
+      },
+      {
+        "id": "_fyyspsqsk",
+        "name": "Увеличьте результат атаки на 3",
+        "percentage": ""
+      },
+      {
+        "id": "_6ndh32ms7",
+        "name": "СЛ стабилизации критического ранения",
+        "percentage": ""
+      },
+      {
+        "id": "_9m9ck3uac",
+        "name": "увеличивается на 3.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "S",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863945,
+    "modifiedTime": 1685496598693,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ktZdaQNTaAVsaw7q",
+  "folder": "6VRzYzYvkVscR6OQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ktZdaQNTaAVsaw7q"
+}

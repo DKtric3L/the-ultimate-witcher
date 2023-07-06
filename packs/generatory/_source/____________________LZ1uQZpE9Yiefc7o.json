@@ -1,0 +1,44 @@
+{
+  "name": "Формула - Лекарство",
+  "description": "A random table created from the contents of the Лекарства Folder.",
+  "results": [
+    "akAKNncSdcnF0juf",
+    "OweAMZRnyS7gvmBs",
+    "SJaoLwee55INjwVu",
+    "uiThVap43v1XstiB",
+    "PwaOTag0R8PQpply",
+    "DE335MiNxgwS101Y"
+  ],
+  "formula": "1d6",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "9cc232d0004793bfafbf440669c39809bca5e237",
+      "sourceId": "RollTable.HcaqeNm49YDhkhov"
+    },
+    "core": {
+      "sourceId": "RollTable.HcaqeNm49YDhkhov"
+    },
+    "cf": {
+      "id": "temp_h8ar7bbwcna"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672597627288,
+    "modifiedTime": 1685496644704,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "NFuWEKLLkn1jFLUK",
+  "sort": 0,
+  "_id": "LZ1uQZpE9Yiefc7o",
+  "_key": "!tables!LZ1uQZpE9Yiefc7o"
+}

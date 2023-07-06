@@ -1,0 +1,59 @@
+{
+  "name": "ИИ для Неразумных монстров - Атака.",
+  "img": "icons/creatures/abilities/mouth-teeth-crooked-blue.webp",
+  "description": "",
+  "results": [
+    "EHW1GFWxmdygUDd1",
+    "nO4K1CbHuK3cCamN",
+    "OJgQdUpQJ8xza7As",
+    "tG44HUBb2BiJPFut",
+    "7PXxEAJpwwSa06NN",
+    "yzbTRlcC6SEFKeJI",
+    "RhiSyP1IM3RzxCUn",
+    "xFLqLSq1yaB4e3dl",
+    "cQ33hnA64Xee57Du",
+    "JRZKkfKm2mRBiXSQ",
+    "PjUb3WaDEarQwokZ",
+    "KxCm3FAT5HRsyjjZ",
+    "E1Bcwwa4tmT9Q6OP",
+    "kerlrVwYN7rDTKpR",
+    "libiWT87VJlHB3uW",
+    "p3HdMdON35Noy02C",
+    "C3UbnzALnvB8uKC4",
+    "tafg1t8xpi2CRVNn",
+    "LhZMGhUW0Po1B63R",
+    "EyDDBxcRQpNhf5M3",
+    "WNVFSmPrKRiYLJmQ",
+    "9lPbnlEUEh0Kfjoe",
+    "n95UeTb9eo7KpPZo",
+    "LfrhkT5RfIUqZarC",
+    "7EMG5futzxClJo5T"
+  ],
+  "formula": "1d21",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_7w0yaq9ld8e"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496658091,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "B9p09jchSVk9ntOf",
+  "sort": 0,
+  "_id": "H6UJEPxrbtI1gZ8q",
+  "_key": "!tables!H6UJEPxrbtI1gZ8q"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Туманник",
+  "img": "modules/the-ultimate-witcher/assets/monsters/the_fog.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "Ul1wM3UdIe67k3Hk",
+  "_id": "xh5T055kNC1JX9wt",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.xh5T055kNC1JX9wt"
+}

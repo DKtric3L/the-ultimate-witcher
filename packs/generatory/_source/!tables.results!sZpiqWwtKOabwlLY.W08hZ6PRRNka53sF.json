@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "text": "Чудо Лебеды (Лебеда)",
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow-white.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "oOtAnV1pA7tWgwjz",
+  "_id": "W08hZ6PRRNka53sF",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.W08hZ6PRRNka53sF"
+}

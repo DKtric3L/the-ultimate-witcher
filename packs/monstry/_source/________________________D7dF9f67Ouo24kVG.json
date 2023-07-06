@@ -1,0 +1,47 @@
+{
+  "name": "Растительные субстанции",
+  "type": "valuable",
+  "img": "icons/commodities/treasure/token-engraved-question-green.webp",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d277f3ded467a5dea03c1c8b2710b53ccd6e41bb",
+      "sourceId": "Item.fQiUNOIlN7mjZ67K"
+    },
+    "core": {
+      "sourceId": "Item.fQiUNOIlN7mjZ67K"
+    },
+    "cf": {
+      "id": "temp_bn6m75vziea"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1672657970466,
+    "modifiedTime": 1672834911139,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "D7dF9f67Ouo24kVG",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!mzLvpWjcjx1a20dS.D7dF9f67Ouo24kVG"
+}

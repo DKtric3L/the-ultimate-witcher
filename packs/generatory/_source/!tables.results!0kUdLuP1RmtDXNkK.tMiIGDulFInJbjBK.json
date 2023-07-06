@@ -1,0 +1,16 @@
+{
+  "text": "Аньяльх",
+  "type": 2,
+  "img": "icons/skills/wounds/blood-cells-vessel-blue.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "tMiIGDulFInJbjBK",
+  "documentId": "Sy7yJK2U1ldUJ26l",
+  "flags": {},
+  "_key": "!tables.results!0kUdLuP1RmtDXNkK.tMiIGDulFInJbjBK"
+}

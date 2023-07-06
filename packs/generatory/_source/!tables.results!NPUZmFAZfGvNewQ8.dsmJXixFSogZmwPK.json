@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Реданский Алебардщик",
+  "img": "modules/the-ultimate-witcher/assets/monsters/redanian_warrior.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "j2QxPBWnzreRNppf",
+  "_id": "dsmJXixFSogZmwPK",
+  "flags": {},
+  "_key": "!tables.results!NPUZmFAZfGvNewQ8.dsmJXixFSogZmwPK"
+}

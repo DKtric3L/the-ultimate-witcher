@@ -1,0 +1,45 @@
+{
+  "name": "Белая чайка",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/white_gull.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_9bempw9mh8g",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.fXTieldKnAc1Tmsg"
+    }
+  },
+  "system": {
+    "description": "Мягкий ведьмачий галлюциноген. Чистый дистиллят для эликсиров.\nПройди проверку со сл. 18, при провале становишься зависим от алкоголя(не только алкагеста).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 30,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868970,
+    "modifiedTime": 1685496603795,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "Wl7XwqKi0AbU85lU",
+  "sort": 0,
+  "_id": "LLZFZ4tIXWGr2EWs",
+  "_key": "!items!LLZFZ4tIXWGr2EWs"
+}

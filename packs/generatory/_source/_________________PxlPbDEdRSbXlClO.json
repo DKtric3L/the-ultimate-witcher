@@ -1,0 +1,41 @@
+{
+  "name": "Крепкий Алкоголь",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "KUpDapEACKqqgJPh",
+    "bhaEntnC9oZZtVK1",
+    "3mOHvxQBt5EsjTfV",
+    "zE9E5XRVJF81Pnjt",
+    "sc1SklddFoQ5mxKV",
+    "JPRmnKnTrsjghk9R",
+    "WKJYEM1Eewu4gTlT"
+  ],
+  "formula": "1d7",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_xters3vqr27"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644685,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TYaDuD5wiTFyeLxV",
+  "sort": 0,
+  "_id": "PxlPbDEdRSbXlClO",
+  "_key": "!tables!PxlPbDEdRSbXlClO"
+}

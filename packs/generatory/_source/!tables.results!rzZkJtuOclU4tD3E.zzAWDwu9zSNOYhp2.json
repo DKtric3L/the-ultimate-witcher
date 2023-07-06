@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Полнолуние",
+  "img": "icons/sundries/documents/document-writing-pink.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "YbjFUcgLEYEir65j",
+  "_id": "zzAWDwu9zSNOYhp2",
+  "flags": {},
+  "_key": "!tables.results!rzZkJtuOclU4tD3E.zzAWDwu9zSNOYhp2"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Двуслойные штаны",
+  "type": "armor",
+  "img": "icons/equipment/leg/pants-cloth-tasset-green-grey.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 225,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 8,
+    "leftLegMaxStopping": 8,
+    "rightLegStopping": 8,
+    "rightLegMaxStopping": 8,
+    "type": "Light",
+    "avail": "Poor",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "Leg",
+    "equiped": "/",
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_4zb4x6lgt3c"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.dospehi.3F5QHDQQCTRMsg8k"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162837865,
+    "modifiedTime": 1671034854765,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "vtsqbIIr535io04m",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.vtsqbIIr535io04m"
+}

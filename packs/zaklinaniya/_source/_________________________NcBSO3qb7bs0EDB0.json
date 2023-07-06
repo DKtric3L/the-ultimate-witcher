@@ -1,0 +1,65 @@
+{
+  "name": "Голубая мечта Ханмарвина",
+  "type": "spell",
+  "img": "icons/magic/unholy/orb-swirling-teal.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_m5jdkghug28"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d6.\nГолубая мечта Ханмарвина - это мощный некромантический ритуал, который позволяет человеку заглянуть в недавние воспоминания умершего. Только ведьмаки могут безопасно проводить Голубую мечту. Любой, кто не является ведьмаком и пытается провести Голубую мечту, должен совершить проверку Стойкости СЛ 20 или получить 2d6 не поглощаемого броней урона и отравление.",
+    "range": "",
+    "duration": "пока спящий не проснется",
+    "defence": "",
+    "components": "Тело почившего, Пятая эссенция (x3), Ласточкина трава (x1), Волкобой (x1), Переступень (x1), Вербена (x1), Язык тролля (x1)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Некротический урон заклинателю"
+      },
+      {
+        "id": "_n4x2xts6j",
+        "name": "Отравление",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892157,
+    "modifiedTime": 1685496639124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NcBSO3qb7bs0EDB0",
+  "folder": "9Po5TIJ5gLDJqbWG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NcBSO3qb7bs0EDB0"
+}

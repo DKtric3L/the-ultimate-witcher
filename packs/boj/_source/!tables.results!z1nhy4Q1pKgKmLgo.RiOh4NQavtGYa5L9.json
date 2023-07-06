@@ -1,0 +1,16 @@
+{
+  "_id": "RiOh4NQavtGYa5L9",
+  "type": 0,
+  "text": "Ваше оружие получает дополнительный урон по надежности.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!z1nhy4Q1pKgKmLgo.RiOh4NQavtGYa5L9"
+}

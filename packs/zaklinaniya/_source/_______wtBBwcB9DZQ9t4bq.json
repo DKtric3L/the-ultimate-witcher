@@ -1,0 +1,70 @@
+{
+  "name": "Солнце",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-large-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_bfrq57w42a"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Вы соединяете себя со светом солнца и направляете интенсивный солнечный свет на область радиусом 10 м с центром в любой точке в пределах дистанции. Все существа в зоне действия заклинания получают 10d6 урона от магического огня и загораются. Свет настолько силен, что каждое существо имеет 50% шанс ослепнуть на 1d6 раундов. Это заклинание можно произносить только днем.",
+    "range": "20м",
+    "duration": "мгновенное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "10d6+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "10d6 - Урон огня"
+      },
+      {
+        "id": "_d1eszyh2y",
+        "name": "1d6 - длительность слепоты",
+        "percentage": ""
+      },
+      {
+        "id": "_x7gwu23oh",
+        "name": "Слепота",
+        "percentage": "50"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496639449,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wtBBwcB9DZQ9t4bq",
+  "folder": "n3vT2euFjSqsR3Ja",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!wtBBwcB9DZQ9t4bq"
+}

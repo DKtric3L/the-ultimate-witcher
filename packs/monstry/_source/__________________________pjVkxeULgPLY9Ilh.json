@@ -1,0 +1,44 @@
+{
+  "_id": "pjVkxeULgPLY9Ilh",
+  "name": "Фляга с крепким алкоголем",
+  "type": "valuable",
+  "img": "icons/containers/kitchenware/jug-wrapped-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wjo7lfo9hia",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.6TwuKOEurARdSVnR"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!46l6VflnM18Zu3Hy.pjVkxeULgPLY9Ilh"
+}

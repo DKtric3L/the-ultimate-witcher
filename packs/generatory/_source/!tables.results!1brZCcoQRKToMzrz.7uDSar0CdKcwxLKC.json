@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Драгоценная Пыль",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "qHOTp7tu1bBkvCap",
+  "_id": "7uDSar0CdKcwxLKC",
+  "flags": {},
+  "_key": "!tables.results!1brZCcoQRKToMzrz.7uDSar0CdKcwxLKC"
+}

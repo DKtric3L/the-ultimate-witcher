@@ -1,0 +1,16 @@
+{
+  "text": "Каменный шип",
+  "type": 2,
+  "img": "icons/magic/earth/projectile-boulder-dust.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "24JRKAkKQmo8so9Z",
+  "documentId": "GemBHyhGE7bLRScv",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.24JRKAkKQmo8so9Z"
+}

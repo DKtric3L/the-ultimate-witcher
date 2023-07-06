@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Формула: Ярость бредана",
+  "img": "icons/sundries/documents/document-bound-white-tan.webp",
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "LWg2r22Ne78LlD6u",
+  "_id": "IG3fWWfatPrQqc9f",
+  "flags": {},
+  "_key": "!tables.results!PZA6hmx0X6qnp1zz.IG3fWWfatPrQqc9f"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Камера Дормина",
+  "type": 2,
+  "img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "7tTtenH33xLjaaJA",
+  "documentId": "bet7W8enOIMhPwPy",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.7tTtenH33xLjaaJA"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "a90EHPhkX2hszHH8",
+  "flags": {},
+  "type": 2,
+  "text": "Enemies: The Cause",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "zOdf6kA8ALIpdYGx",
+  "_key": "!tables.results!XjkkpYZRUYC2NpYA.a90EHPhkX2hszHH8"
+}

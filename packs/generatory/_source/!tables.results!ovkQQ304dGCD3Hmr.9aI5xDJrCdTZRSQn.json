@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    31,
+    60
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "9aI5xDJrCdTZRSQn",
+  "text": "Частое нахождение цели - Деревня",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!ovkQQ304dGCD3Hmr.9aI5xDJrCdTZRSQn"
+}

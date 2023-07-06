@@ -1,0 +1,16 @@
+{
+  "_id": "VmnOpOgURTrBpMZB",
+  "type": 2,
+  "text": "Где вы родились?",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "J4K6xtKSWWQUL1JF",
+  "_key": "!tables.results!cbJ4qPgGosFNoLf7.VmnOpOgURTrBpMZB"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "h04HqTPf5v1DPHzG",
+  "flags": {},
+  "type": 0,
+  "text": "Скакун очень сильно спотыкается. Он должен пройти проверку атлетики со сл.20, чтобы не упасть. При провале он получает 2d10 урона по случайной ноге. Бросок 1d10: 1-3 Левая передняя, 4-6 правая передняя, 7-8 Левая задняя, 9-10 Правая задняя.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!6FrD4tQuyJOICu5m.h04HqTPf5v1DPHzG"
+}

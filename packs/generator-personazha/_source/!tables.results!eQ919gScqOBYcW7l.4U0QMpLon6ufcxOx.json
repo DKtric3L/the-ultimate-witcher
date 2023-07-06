@@ -1,0 +1,16 @@
+{
+  "_id": "4U0QMpLon6ufcxOx",
+  "type": 2,
+  "text": "Что случилось - ост",
+  "weight": 1,
+  "range": [
+    1,
+    80
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "PBDhfntmKP0GkBeD",
+  "_key": "!tables.results!eQ919gScqOBYcW7l.4U0QMpLon6ufcxOx"
+}

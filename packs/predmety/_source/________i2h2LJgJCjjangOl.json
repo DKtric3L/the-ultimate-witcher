@@ -1,0 +1,43 @@
+{
+  "name": "Фисштех",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/fischteh.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.i2h2LJgJCjjangOl"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 80,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "Любой, кто втягивает носом или втирает в дёсны дозу фисштеха,погружается в подобную трансу эйфорию. Этот наркотик часто\nиспользуют в качестве обезболивающего. После каждого\nприменения совершите проверку Стойкости со СЛ 18.\nПри провале вы становитесь зависимы.\nПринявший фисштех должен совершить проверку Стойкости со СЛ 16, или он будет дезориентирован на срок до получаса. Можно совершать новую проверку каждый раунд, но если результат любой проверки будет ниже 10, персонаж падает без сознания на 5 раундов.\n\n+3 реа, +2 отдыха, +5 Макс. ПЗ, Вын -5. Длится 1d10 часов.",
+    "time": "1d10 часов",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868993,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "i2h2LJgJCjjangOl",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!i2h2LJgJCjjangOl"
+}

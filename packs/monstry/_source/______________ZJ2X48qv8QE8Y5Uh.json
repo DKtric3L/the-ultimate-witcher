@@ -1,0 +1,46 @@
+{
+  "_id": "ZJ2X48qv8QE8Y5Uh",
+  "name": "Шкура Пантеры",
+  "type": "component",
+  "img": "icons/commodities/leather/fur-pelt-spotted-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_fd6i44q3pyb",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.pM04tDef10zEJ4gP"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "1d6/3",
+    "weight": 3,
+    "cost": 38,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "animal-parts",
+    "rarity": "Common",
+    "location": "Panthers",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!YLUpT7ABfY8VifAN.ZJ2X48qv8QE8Y5Uh"
+}

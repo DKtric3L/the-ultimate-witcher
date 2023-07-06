@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "text": "Карта континента",
+  "img": "icons/tools/navigation/map-marked-gold.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "3bQYVJdQotNThRSW",
+  "_id": "FTX7fyeDiCdmqQwW",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.FTX7fyeDiCdmqQwW"
+}

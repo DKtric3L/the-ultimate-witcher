@@ -1,0 +1,113 @@
+{
+  "name": "Формула: Травяной чай",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.UiB2GW3eSPm9zTgs"
+    },
+    "cf": {
+      "id": "temp_gdc4u8gm3ct"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.aM2dwJ3SI36TfH31]{Травяной чай}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 27,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 11,
+    "alchemyDC": 0,
+    "craftingTime": "10 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Жимолость"
+      },
+      {
+        "id": "_550depbtq",
+        "name": "Лепестки мирта",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 15,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Травяной чай",
+      "type": "alchemical",
+      "img": "icons/consumables/drinks/coconut-fruit-milk.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0,
+        "cost": 27,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "alchemical",
+        "avail": "Everywhere",
+        "effect": "Этот травяной настой одновременно успокаивает и восстанавливает утраченную энергию. Травяной чай снимает БОЛИ В ЖЕЛУДКЕ и УСТАЛОСТЬ на весь оставшийся день.",
+        "time": "",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.s8bWiqaA52vAXVEB"
+        },
+        "cf": {
+          "id": "temp_6q0b5iuuekf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868991,
+        "modifiedTime": 1668162868991,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496578772,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3rCR8ghERl0N4GUF",
+  "folder": "kXqf2g6KkXUbdZHs",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3rCR8ghERl0N4GUF"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    33,
+    33
+  ],
+  "drawn": false,
+  "text": "Чёрный яд",
+  "img": "modules/the-ultimate-witcher/assets/props/dark_poison.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "CbQ9tN7Yz5rEn2cU",
+  "_id": "gvTHZB0A4XxiAXVH",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.gvTHZB0A4XxiAXVH"
+}

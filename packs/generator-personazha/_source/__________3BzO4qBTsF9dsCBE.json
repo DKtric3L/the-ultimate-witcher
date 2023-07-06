@@ -1,0 +1,39 @@
+{
+  "name": "Раса мага",
+  "img": "icons/svg/circle.svg",
+  "results": [
+    "ojttxwYKFH9ktwcC",
+    "tETkOaBiMOxafPFi",
+    "aoLbslIF5BmROGed",
+    "VHss6GpdDg3Z7gFl"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.n6aVqtXFGbvogr3S"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901104,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "3BzO4qBTsF9dsCBE",
+  "_key": "!tables!3BzO4qBTsF9dsCBE"
+}

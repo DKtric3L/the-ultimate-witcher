@@ -1,0 +1,42 @@
+{
+  "name": "Волосы Стучака",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/hair_lamia_64x64.png.6910.png",
+  "system": {
+    "description": "",
+    "quantity": "2d6",
+    "weight": 0.1,
+    "cost": 33,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Стучаки",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.3HH8maeKASpyLGlK"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853698,
+    "modifiedTime": 1669964701232,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "PdppscvGzfDxk9jv",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!zrsfICVeO2fXpp6W.PdppscvGzfDxk9jv"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Возмездие ворона (Морриган)",
+  "type": "spell",
+  "img": "icons/creatures/birds/corvid-flying-wings-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Силой, дарованной вам Морриган, Госпожой Воронов, вы блокируете связь со стихийными планами, сводя на нет всю магию. В области действия этой инвокации все магические эффекты, такие как руны, глифы, фокусировки, проклятия, трофеи, реликвии, магические предметы и т. д. становятся инертными. Пока этот призыв активен, только выбранные вами или те, кто успешно защитился от этого призыва, могут использовать магию любой формы. Эту инвокацию нельзя рассеять.",
+    "range": "20м",
+    "duration": "активная(5 вын)",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892155,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NougTYtApOBlPcwS",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NougTYtApOBlPcwS"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Адэнидд",
+  "type": "spell",
+  "img": "icons/magic/control/debuff-energy-snare-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_cilmpkpuxju"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Адэнидд делает заклинателя легче, позволяя вместо падения плавно спланировать — за каждые 2 метра падения он перемещается на 2 метра в определённом направлении. Если за время действия заклинания заклинатель достигнет земли, он не получит урона от падения.",
+    "range": "на себя",
+    "duration": "Актив(2 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892151,
+    "modifiedTime": 1685496637828,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hqI6yJBIeXtYtaj3",
+  "folder": "wsj51D7oIARoDcDr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hqI6yJBIeXtYtaj3"
+}

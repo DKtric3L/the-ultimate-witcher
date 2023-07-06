@@ -1,0 +1,37 @@
+{
+  "name": "Детали заказа",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "jVrqtF6JIhieWAeJ",
+    "Q5w3tYr6fzY5GQs1",
+    "PSpxWILECoghCBNk"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "5LACBWoT2PXuGHkx",
+  "_key": "!tables!5LACBWoT2PXuGHkx"
+}

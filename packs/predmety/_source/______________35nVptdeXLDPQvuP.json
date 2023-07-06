@@ -1,0 +1,43 @@
+{
+  "name": "Быстрый огонь",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/immediate_fire.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.35nVptdeXLDPQvuP"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 45,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "При разлитии состава он быстро высохнет. Всё, что обработано\nбыстрым огнём имеет 50%-ный шанс возгорания при контакте с\nогнём или при попадании искры",
+    "time": "",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868971,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "35nVptdeXLDPQvuP",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!35nVptdeXLDPQvuP"
+}

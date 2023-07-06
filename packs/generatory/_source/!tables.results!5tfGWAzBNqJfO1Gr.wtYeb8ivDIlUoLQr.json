@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Навигатор-Солдат дикой",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "QYBAiHFzlsyp87Ar",
+  "_id": "wtYeb8ivDIlUoLQr",
+  "flags": {},
+  "_key": "!tables.results!5tfGWAzBNqJfO1Gr.wtYeb8ivDIlUoLQr"
+}

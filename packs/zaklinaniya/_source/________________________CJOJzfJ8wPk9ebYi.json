@@ -1,0 +1,57 @@
+{
+  "name": "Бесконечная потребность",
+  "type": "spell",
+  "img": "icons/consumables/meat/shank-glowing-purple-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_60zlp8zqudv"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Бесконечная потребность заставляет тело субъекта поглощаться ленью и обжорством, требуя больше сна и пищи для нормального функционирования. Субъект должен получать 10 часов непрерывного сна каждую ночь или получить штраф -3 к броскам на Лишение сна. Кроме того, субъект должен принимать пищу 5 раз в день или вдвое уменьшать свою общую Вын на следующий день.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Medium",
+    "liftRequirement": "Субъект должен голодать в течение 3 полных дней и 3 ночей, пить только воду и спать со сладостями под подушкой. Если испытуемый способен выполнить это быстро и не прикасаться к сладостям под подушкой, порча разрушается утром четвертого дня.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496637557,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "CJOJzfJ8wPk9ebYi",
+  "folder": "4MnJoakXrsDD7VMD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!CJOJzfJ8wPk9ebYi"
+}

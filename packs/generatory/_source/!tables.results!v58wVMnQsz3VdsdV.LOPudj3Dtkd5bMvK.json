@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Болезнь: Бич Катрионы(1 стадия, день 1)",
+  "img": "icons/creatures/mammals/rodent-rat-diseaed-gray.webp",
+  "documentCollection": "the-ultimate-witcher.sostoyaniya",
+  "documentId": "QOEfI7F6YDuVjkGy",
+  "_id": "LOPudj3Dtkd5bMvK",
+  "flags": {},
+  "_key": "!tables.results!v58wVMnQsz3VdsdV.LOPudj3Dtkd5bMvK"
+}

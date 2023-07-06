@@ -1,0 +1,16 @@
+{
+  "text": "Метод Эйльхарт",
+  "type": 2,
+  "img": "icons/magic/unholy/hand-light-pink.webp",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "1LXuRj4Y9hWmYNuK",
+  "documentId": "mHToPV51A0DUqI3M",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.1LXuRj4Y9hWmYNuK"
+}

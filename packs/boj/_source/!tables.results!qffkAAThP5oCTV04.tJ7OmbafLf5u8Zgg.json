@@ -1,0 +1,16 @@
+{
+  "_id": "tJ7OmbafLf5u8Zgg",
+  "type": 0,
+  "text": "Охваченный призраками. Сразу же после броска этого результата в пределах 5 м от заклинателя вызывается 1d6 Призраков. Эти призраки жестоки, и с ними невозможно договориться. Они атакуют ближайшую цель и будут сражаться насмерть.",
+  "weight": 1,
+  "range": [
+    7,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!qffkAAThP5oCTV04.tJ7OmbafLf5u8Zgg"
+}

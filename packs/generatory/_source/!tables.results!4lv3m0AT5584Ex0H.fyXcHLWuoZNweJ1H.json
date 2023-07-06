@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Таверна - Есть ли частные кабинки",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "bun5bF8FVZ3fxj7m",
+  "_id": "fyXcHLWuoZNweJ1H",
+  "flags": {},
+  "_key": "!tables.results!4lv3m0AT5584Ex0H.fyXcHLWuoZNweJ1H"
+}

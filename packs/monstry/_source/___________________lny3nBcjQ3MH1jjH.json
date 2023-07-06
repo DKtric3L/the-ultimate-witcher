@@ -1,0 +1,44 @@
+{
+  "_id": "lny3nBcjQ3MH1jjH",
+  "name": "Мутаген: Главоглаз",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-green.png",
+  "effects": [],
+  "folder": "za9MQKX6IGJQLkJy",
+  "sort": 200000,
+  "flags": {
+    "cf": {
+      "id": "temp_loaduoyv3n",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.CrxChMMDr0gijGwF"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "green",
+    "source": "Главоглаз",
+    "effect": "+1 тел",
+    "alchemyDC": "22",
+    "minorMutation": "Мелкие коричневые чешуйки"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!vH8RFGIQt7XR53WH.lny3nBcjQ3MH1jjH"
+}

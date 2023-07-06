@@ -1,0 +1,16 @@
+{
+  "_id": "nzF8eW0BGLhTGpdM",
+  "flags": {},
+  "type": 2,
+  "text": "Allies and Enemies",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    5,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "M2qaFLX2SZTlgQOI",
+  "_key": "!tables.results!fA5onQrA7GkMPH3O.nzF8eW0BGLhTGpdM"
+}

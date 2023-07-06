@@ -1,0 +1,57 @@
+{
+  "name": "Целительный покой(Мелитэле)",
+  "type": "spell",
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Взывая к богине природы Мелитэле, заклинатель погружает определённое количество целей, равное значению его навыка Сотворение заклинаний, в глубокую кому, во время которой раны целей заживают. Всё это время цели инвокации не могут действовать и не реагируют на происходящее, даже если их тронут, переместят или атакуют. В конце отдыха цели инвокации возвращаются к жизни, полностью восстановив ПЗ. Если у цели были исцелённые критические ранения, она избавляется от штрафов после лечения. Это не отменяет постоянные штрафы от смертельных критических ранений.",
+    "range": "5м",
+    "duration": "1 день",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "G8MGVy0R7WfhAPLV",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!G8MGVy0R7WfhAPLV"
+}

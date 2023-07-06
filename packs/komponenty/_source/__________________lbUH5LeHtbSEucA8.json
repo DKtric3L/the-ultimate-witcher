@@ -1,0 +1,42 @@
+{
+  "name": "Махакамская сталь",
+  "type": "component",
+  "img": "icons/commodities/metal/ingot-stamped-steel.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_sg5oias8hq",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 114,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "minerals",
+    "rarity": "Poor",
+    "location": "Покупается и создается",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1685496584092,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lbUH5LeHtbSEucA8",
+  "folder": "Yvm2f45VU7Uinqch",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lbUH5LeHtbSEucA8"
+}

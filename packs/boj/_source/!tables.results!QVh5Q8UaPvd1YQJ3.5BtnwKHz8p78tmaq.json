@@ -1,0 +1,16 @@
+{
+  "_id": "5BtnwKHz8p78tmaq",
+  "type": 2,
+  "text": "Зубы",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "world.boj",
+  "documentId": "NsELVDpdzG26faE9",
+  "_key": "!tables.results!QVh5Q8UaPvd1YQJ3.5BtnwKHz8p78tmaq"
+}

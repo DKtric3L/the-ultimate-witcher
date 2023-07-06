@@ -1,0 +1,65 @@
+{
+  "_id": "l6OoCKIF1AZbLTuK",
+  "name": "Кольцо камней",
+  "type": "weapon",
+  "img": "icons/magic/earth/barrier-stone-brown-green.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Элементаль земли может использовать эту способность для создания кольца из острых камней радиусом 4 метра и высотой 2 метра. Центр каменного кольца — сам элементаль. Чтобы перелезть через кольцо, требуется проверка Атлетики со СЛ 16. Потра тив действие, элементаль земли может разрушить это кольцо. В противном случае камни остаются на месте, пока им не нанесут 30 пунктов урона. Двимеритовые бомбы не позволяют использовать эту способность.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!DCPM1xtFpJXDAswL.l6OoCKIF1AZbLTuK"
+}

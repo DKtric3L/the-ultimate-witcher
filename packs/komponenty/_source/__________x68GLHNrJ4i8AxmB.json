@@ -1,0 +1,42 @@
+{
+  "name": "Паутинник",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/cortinarius_64x64.png.6667.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_qy2sewrias",
+      "color": "#5c65e6"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 18,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Леса",
+    "quantityObtainable": "1d6",
+    "forage": "15",
+    "substanceType": "hydragenum"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853703,
+    "modifiedTime": 1685496583988,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "x68GLHNrJ4i8AxmB",
+  "folder": "OnpGIZZzejNyoUMQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!x68GLHNrJ4i8AxmB"
+}

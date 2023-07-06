@@ -1,0 +1,16 @@
+{
+  "_id": "IsRY79j4twFs8apC",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Рыцарство. Вы росли, зная, что ваш долг - служить императору, и что роскошь - награда за будущую службу. Начальное снаряжение - Личный герб(+1 к репутации).",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!FvAMmEdcOG2dIxgB.IsRY79j4twFs8apC"
+}

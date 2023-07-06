@@ -1,0 +1,16 @@
+{
+  "_id": "FLyI5A8KHU0DwuRU",
+  "type": 2,
+  "text": "Друид - Подмастерье",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    3,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "GRliin48ziIIG4vs",
+  "_key": "!tables.results!rmvosulV4aDuq0Ni.FLyI5A8KHU0DwuRU"
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Формула: Отвар из лешего",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-person-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.YL5DsZBkEUagQrLt"
+    },
+    "cf": {
+      "id": "temp_a45doihc8"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.d7zVtVug7XHgkywc]{Отвар лешего}</p>\n<p>требуется мутаген монстра и крепкий алкоголь для изготовления.</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "level": "witcher",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 18,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": null,
+      "rebis": null,
+      "aether": 2,
+      "quebrith": 1,
+      "hydragenum": 1,
+      "vermilion": null,
+      "sol": null,
+      "caelum": null,
+      "fulgur": 1
+    },
+    "associatedItem": {
+      "name": "Отвар лешего",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/potions/cemetery_woman_potion.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 57,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "decoction",
+        "avail": "Rare",
+        "effect": "Атаковавший вас персонаж получает 1 урон за каждые 5 очков урона по вам. Этот урон не блокируется бронёй.",
+        "time": "30 минут",
+        "toxicity": "75%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_adni0hxf6rb"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887309,
+        "modifiedTime": 1668182676325,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848424,
+    "modifiedTime": 1685496578680,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YL5DsZBkEUagQrLt",
+  "folder": "Fb6VoHyNCjiAun2V",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YL5DsZBkEUagQrLt"
+}

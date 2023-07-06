@@ -1,0 +1,153 @@
+{
+  "name": "Топфхельм",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.j9wxXoqXba3NGG8k"
+    },
+    "cf": {
+      "id": "temp_3txx1gexsa4"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.o6UMgJtkNUth9FD6]{Топфхельм}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 862,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 19,
+    "alchemyDC": 0,
+    "craftingTime": "5ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "5",
+        "name": "Сталь"
+      },
+      {
+        "id": "_456plvhfl",
+        "name": "Укрепленная кожа",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_so5uzlvgs",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_b8lhj3njd",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_aw2b8yh47",
+        "name": "Полотно",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 431,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Топфхельм",
+      "type": "armor",
+      "img": "icons/equipment/head/greathelm-banded-steel.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3.5,
+        "cost": 575,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 20,
+        "headMaxStopping": 20,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Heavy",
+        "avail": "Rare",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Ограничение зрения"
+          }
+        ],
+        "encumb": 1,
+        "location": "Head",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_mxldaj92pz"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837869,
+        "modifiedTime": 1668162837869,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496579515,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "j9wxXoqXba3NGG8k",
+  "folder": "oTSsG7E8jPWX0U0p",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!j9wxXoqXba3NGG8k"
+}

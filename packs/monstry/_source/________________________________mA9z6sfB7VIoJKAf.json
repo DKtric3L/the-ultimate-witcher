@@ -1,0 +1,42 @@
+{
+  "name": "Костный Мозг Гончей Дикой Охоты",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/bone_marrow_alghoul_64x64.png.6869.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.5,
+    "cost": 160,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Гончие ДО",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.LlGPt6K9ysIlgMmW"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853701,
+    "modifiedTime": 1669965618453,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "mA9z6sfB7VIoJKAf",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dYHSeCFWH3up0KFS.mA9z6sfB7VIoJKAf"
+}

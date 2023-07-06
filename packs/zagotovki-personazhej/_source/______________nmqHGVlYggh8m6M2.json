@@ -1,0 +1,62 @@
+{
+  "name": "Теневая порча",
+  "type": "spell",
+  "img": "icons/magic/death/skull-energy-light-white.webp",
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "В тенях начинает слышаться шёпот, за углами появляются призрачные силуэты. Жертва порчи должна совершать случайные проверки Внимания с неопределённой СЛ, каждый раз краем глаза замечая кого-то или что-то. Проверки Внимания не несут какой-либо угрозы — это лишь видения.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "Жертва порчи должна принести плошку чистой воды, ветвь белого мирта и пузырёк чернил на поляну, когда в небе стоит полу месяц. Когда месяц поднимется в высшую точку, жертва порчи должна вылить чернила в воду, об макнуть ветку в получившуюся смесь и стряхнуть капли по кругу (вокруг себя), задержав при этом дыхание",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_0hnqv3ub2out"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.zaklinaniya.p4t8sRDghWeZlBKW"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1671034755008,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "nmqHGVlYggh8m6M2",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xSRM0WyXEpbCDQEQ.nmqHGVlYggh8m6M2"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "fwzulp7xnpV1bOdT",
+  "name": "Набор для макияжа",
+  "type": "valuable",
+  "img": "icons/skills/trades/textiles-cloth-dye-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 400000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.tCd05eBEt9mJeu7G"
+    }
+  },
+  "system": {
+    "description": "+2 к соблазнению и харизме",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 35,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": null,
+    "modifiedTime": 1671035359057,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_key": "!actors.items!3v0292IhRWNohwqu.fwzulp7xnpV1bOdT"
+}

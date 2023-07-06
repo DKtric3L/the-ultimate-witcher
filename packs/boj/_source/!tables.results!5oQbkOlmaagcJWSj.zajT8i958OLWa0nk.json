@@ -1,0 +1,16 @@
+{
+  "_id": "zajT8i958OLWa0nk",
+  "type": 0,
+  "text": "3 урона.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5oQbkOlmaagcJWSj.zajT8i958OLWa0nk"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Интерактивная иллюзия",
+  "type": "spell",
+  "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_jng7v7c6yv"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Создаёт иллюзию, которую можно увидеть, услышать, понюхать и даже пощупать. Иллюзия нереальна, однако кажется реальной любому, кто войдёт в зону её действия. Радиус иллюзии — 20 метров. Заклинатель активно управляет иллюзией и меняет её. Если заклинатель создаёт в зоне действия иллюзии нечто опасное, чтобы дать отпор врагу, каждый противник может совершить проверку Сопротивления магии или Стойкости со СЛ 12. При успехе противник понимает, что на самом деле всё происходящее — иллюзия, и не получает урона. При провале противник думает, что полученный урон реален, и должен совершить испытание Устойчивости. Этот урон не способен убить цель, но может её дезориентировать.",
+    "range": "",
+    "duration": "пока не рассеят",
+    "defence": "",
+    "components": "царская водка(хЗ), совершенный самоцвет(xl), пятая эссенция(х5), дымная пыль(х 1), стекло(х2)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496637493,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "daqAXCfwGjB314Dp",
+  "folder": "LEQUCMjLSMjWdmGB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!daqAXCfwGjB314Dp"
+}

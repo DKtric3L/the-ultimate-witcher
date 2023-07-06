@@ -1,0 +1,43 @@
+{
+  "name": "Мутаген: Стрыга",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-blue.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cKPjSGeELS3pA2kw"
+    },
+    "cf": {
+      "id": "temp_kxic5e4vfq8"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "blue",
+    "source": "Стрыга",
+    "effect": "+2 к энергии",
+    "alchemyDC": "18",
+    "minorMutation": "Ярко-медные волосы"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868983,
+    "modifiedTime": 1685496626945,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "folder": "z24EOxpWwQr7xr8W",
+  "sort": 0,
+  "_id": "Jg3037t7OnzRABGF",
+  "_key": "!items!Jg3037t7OnzRABGF"
+}

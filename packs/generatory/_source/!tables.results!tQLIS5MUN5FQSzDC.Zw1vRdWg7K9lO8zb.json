@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Леший",
+  "img": "modules/the-ultimate-witcher/assets/monsters/leshii.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "9iFDcoHx6bfRsyV3",
+  "_id": "Zw1vRdWg7K9lO8zb",
+  "flags": {},
+  "_key": "!tables.results!tQLIS5MUN5FQSzDC.Zw1vRdWg7K9lO8zb"
+}

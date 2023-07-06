@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    96,
+    100
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "B3gZJKcG45PE0YFP",
+  "text": "Цель защищает Армия Короля. Несмотря на всё, этот человек крайне важен для короны.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!aTALt0POjF9aaIR8.B3gZJKcG45PE0YFP"
+}

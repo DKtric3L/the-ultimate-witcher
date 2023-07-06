@@ -1,0 +1,46 @@
+{
+  "name": "Nilfgaard Vassal Origin",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "8UG84FSvmBKRmwHI",
+    "YxO7ky9eSVJUOI3N",
+    "Qch5z1vn6YQagvCO",
+    "2zCNPnCinG46jtWE",
+    "zr9L8SkmKgKC3FJH",
+    "Fk8gK60UrUNEvhTk",
+    "M2HENBWyZLf6ss7y",
+    "IpJb93nRxSWccCmT",
+    "jCsO4hX1EfeRlY8p",
+    "BJSnWUWuLLZdzDQF"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.RLTWo7SY0YCx4Oqo"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917376,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "P9HHqXymm9mINwdH",
+  "_key": "!tables!P9HHqXymm9mINwdH"
+}

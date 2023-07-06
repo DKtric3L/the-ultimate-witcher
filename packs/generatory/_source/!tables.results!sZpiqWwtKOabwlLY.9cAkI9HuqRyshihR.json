@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Божественная удача(Крева)",
+  "img": "icons/magic/control/buff-luck-fortune-rainbow.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "oTQDAMwVyj5qXNsC",
+  "_id": "9cAkI9HuqRyshihR",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.9cAkI9HuqRyshihR"
+}

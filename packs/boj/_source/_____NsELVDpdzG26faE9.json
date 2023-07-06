@@ -1,0 +1,44 @@
+{
+  "name": "Зубы",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "yqHGEwCCrVou7XiO",
+    "cPvuNkRZYw1OhxJy",
+    "H0Rp06RswXu5muwI",
+    "fqhajmyiGIurWDhO",
+    "5Rn91ePctCWcSV1g",
+    "7vpR99VJN0icAwII",
+    "OMpFNfzVmOGb9UhD",
+    "2iohcU7Ya73tiurG",
+    "QnZj7Bmmk6g8HgS1",
+    "TCpNOUyC18gS44zW"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.oBDtNyvnLeuVP3f7"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897066,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NsELVDpdzG26faE9",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!NsELVDpdzG26faE9"
+}

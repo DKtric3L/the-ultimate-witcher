@@ -1,0 +1,62 @@
+{
+  "_id": "f7aWe7YISzjlEYDJ",
+  "name": "Броня реданского алебардщика",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-rivited-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi.Ox93GD4kKdOZ4v2I"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 8.5,
+    "cost": 400,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 14,
+    "torsoMaxStopping": 14,
+    "leftArmStopping": 14,
+    "leftArmMaxStopping": 14,
+    "rightArmStopping": 14,
+    "rightArmMaxStopping": 14,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Poor",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "effects": [],
+    "encumb": 1,
+    "location": "Torso",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!j2QxPBWnzreRNppf.f7aWe7YISzjlEYDJ"
+}

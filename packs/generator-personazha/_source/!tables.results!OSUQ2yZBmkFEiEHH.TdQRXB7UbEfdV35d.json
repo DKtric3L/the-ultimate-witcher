@@ -1,0 +1,16 @@
+{
+  "_id": "TdQRXB7UbEfdV35d",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Благородный воин. Наибольшее влияние на вас оказал боевой танцор или защитник махакама, научивший вас понятию чести. Снаряжение - Подарок в память о битве.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!OSUQ2yZBmkFEiEHH.TdQRXB7UbEfdV35d"
+}

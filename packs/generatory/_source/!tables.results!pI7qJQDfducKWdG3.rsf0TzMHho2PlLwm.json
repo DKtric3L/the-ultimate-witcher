@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Дубильные травы",
+  "img": "icons/commodities/flowers/cornflower-gold.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "4Ll65phX32gRmTf3",
+  "_id": "rsf0TzMHho2PlLwm",
+  "flags": {},
+  "_key": "!tables.results!pI7qJQDfducKWdG3.rsf0TzMHho2PlLwm"
+}

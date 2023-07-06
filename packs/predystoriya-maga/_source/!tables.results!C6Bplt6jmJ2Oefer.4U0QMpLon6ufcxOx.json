@@ -1,0 +1,16 @@
+{
+  "_id": "4U0QMpLon6ufcxOx",
+  "type": 2,
+  "text": "Что случилось - ост",
+  "weight": 1,
+  "range": [
+    1,
+    80
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "ByBDAH7TCSAE0Won",
+  "_key": "!tables.results!C6Bplt6jmJ2Oefer.4U0QMpLon6ufcxOx"
+}

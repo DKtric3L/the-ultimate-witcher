@@ -1,0 +1,45 @@
+{
+  "name": "Сосущая рана грудной клетки (Лечено)",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ks31k8lzmi"
+    }
+  },
+  "system": {
+    "description": "Удар разорвал лёгкое персонажа, переполнив его грудь воздухом и сдавливая органы.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "-1"
+      },
+      {
+        "id": "_mea7bw0s3",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1685496621834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "GikRVxosvVHuytNP",
+  "folder": "mfpZq5Y96MD9CzKb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!GikRVxosvVHuytNP"
+}

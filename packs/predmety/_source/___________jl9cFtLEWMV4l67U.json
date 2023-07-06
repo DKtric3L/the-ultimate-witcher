@@ -1,0 +1,51 @@
+{
+  "name": "Укрепление",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/glyph_strengthening.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.kHVP7oxZaYNOOgBz"
+    },
+    "cf": {
+      "id": "temp_jkla6pjucb"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "glyph",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "ПБ брони увеличивается на 3."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868992,
+    "modifiedTime": 1685496603411,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jl9cFtLEWMV4l67U",
+  "folder": "IwHMGFCqloImUMb0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jl9cFtLEWMV4l67U"
+}

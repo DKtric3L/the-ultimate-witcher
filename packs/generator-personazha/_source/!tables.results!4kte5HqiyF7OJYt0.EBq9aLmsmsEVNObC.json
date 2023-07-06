@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Путь ведьмака: Осторожный",
+  "img": "icons/environment/settlement/target-dummy.webp",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "09MXduRik0BKuUqa",
+  "_id": "EBq9aLmsmsEVNObC",
+  "flags": {},
+  "_key": "!tables.results!4kte5HqiyF7OJYt0.EBq9aLmsmsEVNObC"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Эффект: Отвар допплера",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/acid.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_bbcgrxjnis"
+    }
+  },
+  "system": {
+    "description": "30 минут, 75% токсичности.\nВы получаете +5 к навыкам Ориентирование в городе, Харизма,\nУбеждение, Соблазнение и Запугивание.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_semyx796j",
+        "skill": "WITCHER.SkIntStreet",
+        "modifier": "5"
+      },
+      {
+        "id": "_g8k7o6q7a",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "5"
+      },
+      {
+        "id": "_wbp02so8q",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "5"
+      },
+      {
+        "id": "_t22gc3ubd",
+        "skill": "WITCHER.SkEmpPersuasion",
+        "modifier": "5"
+      },
+      {
+        "id": "_sc2mn9kvx",
+        "skill": "WITCHER.SkWillIntim",
+        "modifier": "5"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883184,
+    "modifiedTime": 1685496621987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "1L7HdUObZHipH4J2",
+  "folder": "lwEwxv6jTNqqSH5w",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1L7HdUObZHipH4J2"
+}

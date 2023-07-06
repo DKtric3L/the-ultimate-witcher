@@ -1,0 +1,46 @@
+{
+  "_id": "8FziCn4gQFxPqsBp",
+  "name": "Пятая эссенция",
+  "type": "component",
+  "img": "icons/commodities/materials/powder-teal.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_6wiprjs4cn6",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.komponenty.zt19TqEjhiAS0sbA"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.1,
+    "cost": 82,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "rarity": "Rare",
+    "location": "Места силы, маги и бесы",
+    "quantityObtainable": "Variable",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "ownership": {
+    "default": 0,
+    "bJOj8JEaK9Zx3wFe": 3,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!8FMvYdrRjZw0oKqW.8FziCn4gQFxPqsBp"
+}

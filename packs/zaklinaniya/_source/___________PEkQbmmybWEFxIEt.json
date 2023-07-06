@@ -1,0 +1,63 @@
+{
+  "name": "Акхан Далл",
+  "type": "spell",
+  "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uo04sybp4yb"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Любимое заклинание Ведьмы Рысьего утеса, Акхан Даал, позволяет создавать небольшой взрыв ударной энергии на расстоянии. Любой, кто находится в зоне действия этого заклинания и не может защититься, получает 4d6 Урона по Туловищу, сбивается с ног и отбрасывается назад на 4 метра. Если пораженная цель попадает во что-то, она получает таранный урон",
+    "range": "4м",
+    "duration": "Мгновенное",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2",
+    "templateType": "circle",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "_c1bw72eq1",
+        "name": "Сбивает с ног",
+        "percentage": ""
+      },
+      {
+        "id": "_902qlax5e",
+        "name": "Отбрасывает на 4 метра",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892151,
+    "modifiedTime": 1685496637929,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PEkQbmmybWEFxIEt",
+  "folder": "Kq5EsZjuyQjP2c1F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PEkQbmmybWEFxIEt"
+}

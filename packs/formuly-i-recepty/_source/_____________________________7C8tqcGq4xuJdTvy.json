@@ -1,0 +1,143 @@
+{
+  "name": "Холщовая дыхательная повязка",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.aSLRw5q8d6PcpO5P"
+    },
+    "cf": {
+      "id": "temp_8yjl1dw9xk"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.WKOnJR8mlgfKqgaI]{Холщовая дыхательная повязка}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 12,
+    "alchemyDC": 0,
+    "craftingTime": "20 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Двойное полотно"
+      },
+      {
+        "id": "_squauu0w1",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 29,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Холщовая дыхательная повязка",
+      "type": "armor",
+      "img": "icons/equipment/head/hood-purple-mask.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 60,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 3,
+        "headMaxStopping": 3,
+        "torsoStopping": 0,
+        "torsoMaxStopping": 0,
+        "leftArmStopping": 0,
+        "leftArmMaxStopping": 0,
+        "rightArmStopping": 0,
+        "rightArmMaxStopping": 0,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Light",
+        "avail": "Everywhere",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "Прикрытие пропитанной лекарствами тканевой повязкой рта и носа на севере считается верным средством, при по- пытке уберечься от заражения болезнью. Доктора на соб- ственном горьком опыте познали пользу использования сте- рилизующих жидкостей много лет назад, и теперь пришло время применить эти знания с пользой."
+          },
+          {
+            "id": "_srxa31bk8",
+            "name": "Снижает риск заражения на 5% в те- чение одного дня , если пропитать ее Стерилизующей жидкостью.",
+            "percentage": ""
+          }
+        ],
+        "encumb": 0,
+        "location": "Head",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.lY7VgDHD9WBLVOcS"
+        },
+        "cf": {
+          "id": "temp_mxldaj92pz"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837869,
+        "modifiedTime": 1668162837869,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848431,
+    "modifiedTime": 1685496579825,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7C8tqcGq4xuJdTvy",
+  "folder": "h2GdPhv84jUFZGxg",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7C8tqcGq4xuJdTvy"
+}

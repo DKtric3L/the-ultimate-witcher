@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    41,
+    60
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "bcIa3vco3ACl0qwS",
+  "text": "Зажиточный житель города или кто-то схожий - 200 крон.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!eYyUhISKZSs5c0sx.bcIa3vco3ACl0qwS"
+}

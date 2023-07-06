@@ -1,0 +1,36 @@
+{
+  "name": "Бордель - Есть ли конюшня",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "bGOps78q4WDNfjVg",
+    "NaYriZaJEWId4Jtq"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_lweiuy9o7ir"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644548,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "7CLIzku4T5AvrotT",
+  "sort": 0,
+  "_id": "OvAJdFzGH8w5BuR7",
+  "_key": "!tables!OvAJdFzGH8w5BuR7"
+}

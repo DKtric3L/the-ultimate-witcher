@@ -1,0 +1,16 @@
+{
+  "_id": "H0XA02QcwUBIRRWa",
+  "flags": {},
+  "type": 0,
+  "text": "Небольшая травма головы - Сотрясение мозга от полученного удара, персонаж туго соображает. -1 к инт, воле, уст. Стабилизация: -1 к инт и воле. Лечение: -1 к воле.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!x79sDezhnh38lBbh.H0XA02QcwUBIRRWa"
+}

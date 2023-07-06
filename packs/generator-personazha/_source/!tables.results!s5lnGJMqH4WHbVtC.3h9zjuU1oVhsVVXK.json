@@ -1,0 +1,16 @@
+{
+  "_id": "3h9zjuU1oVhsVVXK",
+  "type": 0,
+  "text": "Оскорбил потерпевшую сторону",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!s5lnGJMqH4WHbVtC.3h9zjuU1oVhsVVXK"
+}

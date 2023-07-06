@@ -1,0 +1,44 @@
+{
+  "name": "Деревянный сундук",
+  "type": "valuable",
+  "img": "icons/containers/chest/chest-reinforced-box-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_r3stwb3cdz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.FjMDYLYPTED7tQTQ"
+    }
+  },
+  "system": {
+    "description": "Если нужно запрятать парочку предметов, то сойдёт и такой деревянный сундук. В него можно впихнуть 30 кг небольших вещей.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 18,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868972,
+    "modifiedTime": 1685496603596,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eVyurYw5EQia73oL",
+  "folder": "mg1jdTvvbWMf4cYK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eVyurYw5EQia73oL"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Активация",
+  "type": "weapon",
+  "_id": "V9npi2KqBPlnK7R9",
+  "img": "icons/skills/movement/ball-spinning-blue.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "8",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Радиус - 8 метров. Тип - Стихийная ловушка. Покрывает попавших в зону взрыва яркой краской с мощным запахом,который чувствуется за милю. Краска держится 1 полный день и даёт +5 к выслеживанию цели. Если вы доберётесь до достаточно крупного водоёма или реки, то можете смыть с себя краску из ловушки-метки. На это потребуется 3 полных раунда — в результате бонус к выслеживанию снизится до +2. Запах нельзя смыть, но нанесение духов/одеколона или же валяние в грязи снизит бонус к выслеживанию до +2.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668183061495,
+    "modifiedTime": 1668183255960,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_key": "!actors.items!cP7M3iZkzmf99pFV.V9npi2KqBPlnK7R9"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Свечи",
+  "type": "valuable",
+  "img": "icons/sundries/lights/candle-unlit-grey.webp",
+  "system": {
+    "description": "Простенькие свечки из воска, чтобы на пару часов отогнать тьму. (Повышают уровень освещённости на 1 в пределах 2 м. Сильный ветер задувает свечу.)",
+    "quantity": "5",
+    "weight": 0.1,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.o4ZdhnyIh6xtjyJF"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663425388633,
+    "modifiedTime": 1663425392278,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_id": "rYV0yoqM32MMLNxk",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!dOeQYcWPrnQjn0mK.rYV0yoqM32MMLNxk"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Эффект: Отвар из агуара",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/acid.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_bbcgrxjnis"
+    }
+  },
+  "system": {
+    "description": "30 минут, 75% токсичности.\nВы получаете +5 к каждой проверке Выживания в дикой природе и +3 к вашей ВОЛЕ.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_loq0syla8",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "3"
+      }
+    ],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_t4ltrtajg",
+        "skill": "WITCHER.SkIntWilderness",
+        "modifier": "5"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883184,
+    "modifiedTime": 1685496621987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tUWvqE1NG1XMJDaR",
+  "folder": "lwEwxv6jTNqqSH5w",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tUWvqE1NG1XMJDaR"
+}

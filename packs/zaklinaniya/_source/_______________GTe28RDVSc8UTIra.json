@@ -1,0 +1,57 @@
+{
+  "name": "Угольная дверь",
+  "type": "spell",
+  "img": "icons/magic/unholy/hand-claw-glow-orange.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rvnwo8w74yf"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Пепельная дверь позволяет направить магию огня в горючую структуру, чтобы безопасно и бесшумно поглотить ее изнутри. При накладывании этого заклинания участок поверхности размером до 2 м в кубе, к которому вы прикасаетесь, получает 4к6 разрушающего урона. Это заклинание можно поддерживать, тратя на него дополнительные раунды во время сотворения. За каждый раунд, в течение которого вы продолжаете поддерживать заклинание и тратить энергию на его поддержание, укрытие получает 4d6 разрущающего урона. Когда у укрытия больше нет ПБ, оно рассыпается.",
+    "range": "2м",
+    "duration": "Актив(3 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "2м",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496638009,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "GTe28RDVSc8UTIra",
+  "folder": "D2ZubvkjQZuPCeQt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!GTe28RDVSc8UTIra"
+}

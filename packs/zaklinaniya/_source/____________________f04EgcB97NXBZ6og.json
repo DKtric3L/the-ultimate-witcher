@@ -1,0 +1,57 @@
+{
+  "name": "Управление пламенем",
+  "type": "spell",
+  "img": "icons/magic/fire/flame-burning-hand-white.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_p8nj0svlvn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Позволяет распространить уже горящее пламя в любом направлении со скоростью 2 метра за раунд, уменьшить его до небольшого огонь ка (снижая урон от огня на 1) или усилить (повышая урон от огня на 1).",
+    "range": "10м",
+    "duration": "Актив(2 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496637857,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "f04EgcB97NXBZ6og",
+  "folder": "FdN7jfCUOYKOAJAb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!f04EgcB97NXBZ6og"
+}

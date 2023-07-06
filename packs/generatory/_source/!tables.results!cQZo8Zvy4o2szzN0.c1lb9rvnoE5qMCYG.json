@@ -1,0 +1,16 @@
+{
+  "_id": "c1lb9rvnoE5qMCYG",
+  "type": 2,
+  "text": "Формула - Ведьмачья",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "A6uS246qikDBRFBE",
+  "_key": "!tables.results!cQZo8Zvy4o2szzN0.c1lb9rvnoE5qMCYG"
+}

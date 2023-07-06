@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    25,
+    25
+  ],
+  "drawn": false,
+  "text": "Путник",
+  "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "tqrh4j6fO81kLcDA",
+  "_id": "AANKLziOUDH6tsCz",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.AANKLziOUDH6tsCz"
+}

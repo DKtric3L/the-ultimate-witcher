@@ -1,0 +1,16 @@
+{
+  "_id": "F59eSlfD3K7bSvPN",
+  "type": 2,
+  "text": "Порчи - Низкая опасность",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "izujpTQiZjupfuiO",
+  "_key": "!tables.results!Rpp9t3tO312mCijo.F59eSlfD3K7bSvPN"
+}

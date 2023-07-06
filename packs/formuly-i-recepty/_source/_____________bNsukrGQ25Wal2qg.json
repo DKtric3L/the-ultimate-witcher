@@ -1,0 +1,112 @@
+{
+  "name": "Тёмная сталь",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-recipe-alchemical.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.bNsukrGQ25Wal2qg"
+    },
+    "cf": {
+      "id": "temp_rdx4vwsofff"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.komponenty.BMmXJ0M8pSyMq5Sh]{Тёмная сталь}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 110,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 17,
+    "alchemyDC": 0,
+    "craftingTime": "1 ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Темное железо"
+      },
+      {
+        "id": "_vs7d9a5rz",
+        "name": "Уголь",
+        "percentage": "",
+        "quantity": "3"
+      }
+    ],
+    "investment": 55,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Тёмная сталь",
+      "type": "component",
+      "img": "icons/commodities/metal/ingot-worn-iron.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 82,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "minerals",
+        "rarity": "Rare",
+        "location": "Покупается и создается",
+        "quantityObtainable": "N/A",
+        "forage": "N/A",
+        "substanceType": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_sg5oias8hq",
+          "color": "#000000"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162853705,
+        "modifiedTime": 1668162853705,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848430,
+    "modifiedTime": 1685496579268,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bNsukrGQ25Wal2qg",
+  "folder": "vF9pkWKvP9L8HCew",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bNsukrGQ25Wal2qg"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Эффект: Развлёкся",
+  "type": "effect",
+  "img": "icons/skills/social/thumbsup-approval-like.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_et1htt64j0c"
+    }
+  },
+  "system": {
+    "description": "Длится до следующего отдыха.\nПриключения приключениями, но иногда хочется хотя бы на миг забыть о всем этом дерьме, что происходит вокруг...",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "1"
+      },
+      {
+        "id": "_k135pokp0",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "1"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "o9A1OPEBnN7I4mBT",
+  "folder": "FcoowEm4mYGPMieN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!o9A1OPEBnN7I4mBT"
+}

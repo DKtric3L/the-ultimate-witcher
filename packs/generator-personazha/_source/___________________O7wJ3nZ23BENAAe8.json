@@ -1,0 +1,41 @@
+{
+  "name": "Стиль преподавания",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "0k4F7ABLXpgMy0Rh",
+    "ijGq6vGAdfUMDkK0",
+    "h6yL888o5JBNKXCY",
+    "lzZyEGmXjy9YC9g5",
+    "mBtb3JI7Sbi6dyAA",
+    "nbSiaBV0KYlhHclf"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.dvUmm7YC3Z8EGicL"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901106,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "O7wJ3nZ23BENAAe8",
+  "_key": "!tables!O7wJ3nZ23BENAAe8"
+}

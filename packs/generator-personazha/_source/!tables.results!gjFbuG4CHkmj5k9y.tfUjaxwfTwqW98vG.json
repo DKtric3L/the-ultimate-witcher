@@ -1,0 +1,16 @@
+{
+  "_id": "tfUjaxwfTwqW98vG",
+  "flags": {},
+  "type": 0,
+  "text": "Самое важное событие - Сражение за свою крепость. Вы отбивали осаду ведьмачьей крепости. Численное и силовое превосходство было не на вашей стороне, но вы все равно остались. Вы пережили осаду, получив серьезные ранения, но ваши товарищи умерли у вас на глазах.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gjFbuG4CHkmj5k9y.tfUjaxwfTwqW98vG"
+}

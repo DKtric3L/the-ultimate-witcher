@@ -1,0 +1,16 @@
+{
+  "text": "Алкагест",
+  "type": 2,
+  "img": "icons/consumables/drinks/alcohol-spirits-bottle-blue.webp",
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "_id": "osphg9ucjbf36wjl",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "77iecT5JztnnrFmC",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.osphg9ucjbf36wjl"
+}

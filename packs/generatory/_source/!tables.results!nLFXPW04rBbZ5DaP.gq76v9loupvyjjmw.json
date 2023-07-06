@@ -1,0 +1,16 @@
+{
+  "text": "Кастет",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-axe.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "_id": "gq76v9loupvyjjmw",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "GHMyrf36ZmVSgMOE",
+  "_key": "!tables.results!nLFXPW04rBbZ5DaP.gq76v9loupvyjjmw"
+}

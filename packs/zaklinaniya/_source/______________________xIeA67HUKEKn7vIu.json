@@ -1,0 +1,84 @@
+{
+  "name": "Композитный иммунитет",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zhest.gtBRBBWsPJ4U6IcA"
+    },
+    "cf": {
+      "id": "temp_irvl6ds3fn"
+    }
+  },
+  "system": {
+    "description": "<p>Вливая в кровь Существа мутагенную смесь, Существо становится невосприимчивым к ядам и болезням.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": null,
+    "alchemyDC": 0,
+    "craftingTime": "",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Зеленый мутаген"
+      },
+      {
+        "id": "_in09ksy4d",
+        "name": "Слюна эндриаги",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_44yvruwc0",
+        "name": "Яд главоглаза",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_11q4gv9y3",
+        "name": "Талант мутации 5 уровня(Маг)",
+        "percentage": "",
+        "quantity": "5"
+      }
+    ],
+    "investment": null,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496637677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "xIeA67HUKEKn7vIu",
+  "folder": "vGJDximI7xAFPxUk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!xIeA67HUKEKn7vIu"
+}

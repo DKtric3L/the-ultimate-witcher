@@ -1,0 +1,63 @@
+{
+  "name": "Эльфский щит",
+  "type": "armor",
+  "img": "icons/equipment/shield/heater-emossed-spiral-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.dospehi-starshego-naroda.uOw5x91Cs28kr94r"
+    },
+    "cf": {
+      "id": "temp_njuve1krma"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 700,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 25,
+    "reliabilityMax": 25,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 2,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837870,
+    "modifiedTime": 1685496574746,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "MHhtAzOdPX6MtCot",
+  "folder": "l7EsfQL6fGwe66qi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!MHhtAzOdPX6MtCot"
+}

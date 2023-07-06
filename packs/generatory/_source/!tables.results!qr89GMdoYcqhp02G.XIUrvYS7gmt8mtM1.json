@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Лошадь",
+  "img": "modules/the-ultimate-witcher/assets/monsters/horse.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "vci0LVTIN5dmZjts",
+  "_id": "XIUrvYS7gmt8mtM1",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.XIUrvYS7gmt8mtM1"
+}

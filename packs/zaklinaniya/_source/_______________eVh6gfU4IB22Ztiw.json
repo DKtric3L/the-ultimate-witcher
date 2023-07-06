@@ -1,0 +1,60 @@
+{
+  "name": "Эссенция зелья",
+  "type": "spell",
+  "img": "icons/tools/laboratory/mortar-powder-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.eVh6gfU4IB22Ztiw"
+    },
+    "cf": {
+      "id": "temp_zj30gssz7x"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Эссенция зелья позволяет вам взять одну дозу любого отвара, зелья или эликсира, на которые еще не воздействовало это заклинание, и волшебным образом перенести некоторые из его свойств в единицу Эссенции Воды, превратив ее в копию этого предмета.",
+    "range": "2м",
+    "duration": "постоянное",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892180,
+    "modifiedTime": 1685496638034,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eVh6gfU4IB22Ztiw",
+  "folder": "hCWlGuK2kocnUbkH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eVh6gfU4IB22Ztiw"
+}

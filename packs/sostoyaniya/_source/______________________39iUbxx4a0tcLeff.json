@@ -1,0 +1,43 @@
+{
+  "name": "Трансмутация: Виверна",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.AqFegy6Wxj1LsWmV"
+    },
+    "cf": {
+      "id": "temp_njhvjakxvm"
+    }
+  },
+  "system": {
+    "description": "Ваши мускулы становятся сильнее, что даёт +5 к Скор, что также влияет на Бег.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_s4bc44aoq",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "5"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883174,
+    "modifiedTime": 1685496621920,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "39iUbxx4a0tcLeff",
+  "folder": "cY1sx3EFSRP3cq5q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!39iUbxx4a0tcLeff"
+}

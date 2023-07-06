@@ -1,0 +1,16 @@
+{
+  "_id": "txWHzHySbKVqvVJy",
+  "flags": {},
+  "type": 0,
+  "text": "Твоя профессия: Бард.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GFDoE6RNBNU6aFuU.txWHzHySbKVqvVJy"
+}

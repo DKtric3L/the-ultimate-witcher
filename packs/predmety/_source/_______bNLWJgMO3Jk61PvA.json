@@ -1,0 +1,42 @@
+{
+  "name": "Лошадь",
+  "type": "mount",
+  "img": "modules/the-ultimate-witcher/assets/monsters/horse.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.WZJzaxC3mnf1tnsr"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 520,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "dex": "11",
+    "control": "+2",
+    "speed": "12",
+    "hp": 40
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868978,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bNLWJgMO3Jk61PvA",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bNLWJgMO3Jk61PvA"
+}

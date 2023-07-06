@@ -1,0 +1,81 @@
+{
+  "name": "Скорпио",
+  "type": "weapon",
+  "img": "icons/weapons/crossbows/crossbow-golden-bolt.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uugqhd13qjr"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 40,
+    "cost": 2500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": true,
+    "accuracy": null,
+    "avail": "Rare",
+    "damage": "10d6",
+    "reliable": 20,
+    "maxReliability": 20,
+    "hands": "2",
+    "range": "200",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Командная перезарядка",
+        "percentage": ""
+      },
+      {
+        "id": "_qj9tbp46v",
+        "name": "Чтобы перезарядить это оружие, требуется 2 действия. Эти действия могут быть предприняты двумя отдельными людьми.",
+        "percentage": ""
+      },
+      {
+        "id": "_j932ttd8b",
+        "name": "Устанавливается",
+        "percentage": ""
+      },
+      {
+        "id": "_vlwqv3ygl",
+        "name": "Это оружие фиксируется в одном месте, а не удерживается. Персонаж должен совершить действие, чтобы установить оружие там, где он хочет его использовать, и должен совершить действие, чтобы упаковать его, когда он захочет снова его переместить.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Crossbow",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863943,
+    "modifiedTime": 1685496598674,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "2VtzQAy4rn7z79P9",
+  "folder": "OfTUWgpov2wtraF3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!2VtzQAy4rn7z79P9"
+}

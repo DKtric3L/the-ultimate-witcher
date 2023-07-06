@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Ваше нынешнее положение - Отшельник. Вы перестали быть ведьмаком и отправились в дикие земли, чтобы жить как отшельник. Лишь теперь, когда чудовища стали возвращаться, вы решили вновь вернуться в мир.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gWrO08z2ImuZyB4g.kQX7ZeIIWKy5yTPF"
+}

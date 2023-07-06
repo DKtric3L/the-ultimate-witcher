@@ -1,0 +1,16 @@
+{
+  "_id": "jBdLlPuwAnq1ksce",
+  "type": 0,
+  "text": "Любовные отношения. Вы нашли любовника, который оценил ваши магические таланты, вследствие чего завязался роман. Бросьте 1d10. 1-6: это длилось несколько месяцев, 7-8: это длилось несколько лет, 9-10: это продолжается и продолжается.",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!ENltA9xkbh8cljBm.jBdLlPuwAnq1ksce"
+}

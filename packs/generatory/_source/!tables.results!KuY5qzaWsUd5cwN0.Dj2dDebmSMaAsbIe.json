@@ -1,0 +1,16 @@
+{
+  "text": "Усиление из укрепленной кожи",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-shield.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "Dj2dDebmSMaAsbIe",
+  "documentId": "3WqVOBMRURwg0YyK",
+  "flags": {},
+  "_key": "!tables.results!KuY5qzaWsUd5cwN0.Dj2dDebmSMaAsbIe"
+}

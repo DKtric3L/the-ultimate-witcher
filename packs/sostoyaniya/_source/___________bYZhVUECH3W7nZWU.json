@@ -1,0 +1,38 @@
+{
+  "name": "Отравление",
+  "type": "effect",
+  "img": "icons/magic/acid/dissolve-bone-skull.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.bYZhVUECH3W7nZWU"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "В крови персонажа течёт яд, наносящий ему каждый ход 3 урона, не сни жаемые бронёй. Чтобы прекратить действие яда, персонаж должен пройти проверку Стойкости со СЛ 15, потратив одно действие.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883171,
+    "modifiedTime": 1688508896278,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "bYZhVUECH3W7nZWU",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!bYZhVUECH3W7nZWU"
+}

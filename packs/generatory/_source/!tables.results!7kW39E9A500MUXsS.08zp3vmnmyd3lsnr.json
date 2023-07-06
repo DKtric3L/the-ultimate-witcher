@@ -1,0 +1,16 @@
+{
+  "text": "Освящение",
+  "type": 2,
+  "img": "icons/magic/holy/saint-glass-portrait-halo.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "08zp3vmnmyd3lsnr",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "T1nmbcQgSv1PUcVw",
+  "_key": "!tables.results!7kW39E9A500MUXsS.08zp3vmnmyd3lsnr"
+}

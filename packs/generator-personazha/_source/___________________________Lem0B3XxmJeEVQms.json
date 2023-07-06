@@ -1,0 +1,41 @@
+{
+  "name": "Генератор Сестёр и Братьев",
+  "img": "icons/environment/people/group.webp",
+  "description": "У тебя есть...",
+  "results": [
+    "lHDeQbKOzEyvSCTK",
+    "6wmO1a81DMV7foRw",
+    "x8daSlTDdqBl39P0",
+    "ZHa5PBGJnRAbdzZr"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {
+      "table-type": "none"
+    },
+    "core": {
+      "sourceId": "RollTable.Rgx1vfQgy82DVGXx"
+    },
+    "cf": {
+      "id": "temp_viybqj0tbyk"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162926175,
+    "modifiedTime": 1685496652558,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Lem0B3XxmJeEVQms",
+  "folder": "8Q5kbNQc52bcIHVJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!Lem0B3XxmJeEVQms"
+}

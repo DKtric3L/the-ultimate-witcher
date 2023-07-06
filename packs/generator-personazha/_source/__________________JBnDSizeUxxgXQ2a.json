@@ -1,0 +1,48 @@
+{
+  "name": "Опасность - полит",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "SW30vwxUxzLnuriY",
+    "lnaeKr55JK7mjx7v",
+    "B5JilZE9koRnT8qF",
+    "T1G9B6A0JiEr70MT",
+    "lwq9KoP9MFzqpt29",
+    "dYL6yKDcCr3FInKC",
+    "Ie7U0Ha5nwstmfm4",
+    "rgakcmtellYnCLOK",
+    "3y2qPJq6NvWtk34M",
+    "V7TBaS2VmaM6wW2g",
+    "mNC3wa8socew2hcE",
+    "uTNsssQVQTFb7UEN",
+    "1cnaXc8rHaUKp6oH"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.KiaQZRr4QLgGDQzW"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901101,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "JBnDSizeUxxgXQ2a",
+  "_key": "!tables!JBnDSizeUxxgXQ2a"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "6stg4kxtfUkySns5",
+  "flags": {},
+  "type": 2,
+  "text": "Siblings: Elves",
+  "img": "icons/sundries/flags/banner-worn-green.webp",
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "hoXu1M1aZUTRHEB5",
+  "_key": "!tables.results!L8o8Rz85um05VUW4.6stg4kxtfUkySns5"
+}

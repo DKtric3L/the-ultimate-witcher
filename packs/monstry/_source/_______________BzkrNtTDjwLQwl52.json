@@ -1,0 +1,61 @@
+{
+  "_id": "BzkrNtTDjwLQwl52",
+  "name": "Дыхание Кората",
+  "type": "spell",
+  "img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.S3nDvZKe9o5XSsUG"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "earth",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Дыхание Кората разбивает поверхность скалы или земли вблизи заклинателя и разбрасывает обжигающий песок в 3-метровом конусе перед заклинателем. Противники в зоне действия заклинания, не сумевшие защититься, ослеплены на ld6 раундов.",
+    "range": "",
+    "duration": "мгновенное",
+    "defence": "укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "3м",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "",
+    "effects": [
+      {
+        "id": "_brf3e54xe",
+        "name": "Ослепление на 1d6 раундов",
+        "percentage": ""
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!j8ksX28JMdRAUPyZ.BzkrNtTDjwLQwl52"
+}

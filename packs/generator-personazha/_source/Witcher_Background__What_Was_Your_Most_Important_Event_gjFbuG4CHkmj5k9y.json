@@ -1,0 +1,56 @@
+{
+  "name": "Witcher Background: What Was Your Most Important Event",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "q0DM4FW7XCnFdKZu",
+    "sqyIMiR1RKv2AHJa",
+    "oKZeEBIq2FLMNk2e",
+    "fCL38Rgrs0Zoi6tL",
+    "kQX7ZeIIWKy5yTPF",
+    "wV6AXUWCol53u7Qp",
+    "36ROPw9QWjYWmpBV",
+    "XdFNmzMBLOFAdT0a",
+    "9kVdEtFeX4a3nAoe",
+    "l4vJrb9CXI7lFvOF",
+    "cQfRuoxqB1FI58LA",
+    "9ohWB7wfnoJIuyMj",
+    "th9s2aW3pwS3ZZX2",
+    "olJrQIfiLqykKL6Y",
+    "tfUjaxwfTwqW98vG",
+    "e1QeDpvSCQW3TLl0",
+    "XFy2l49tSxFMwvUu",
+    "A6SuhFPiLwWjoYCB",
+    "NlfhnGUfAnLtImRU",
+    "9rYHpxRi9jvAeqhM"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.ub0OgKJtPKbMpWUS"
+    },
+    "cf": {
+      "id": "temp_axvl3ljag6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162957149,
+    "modifiedTime": 1685496652379,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "ghKESyZyM9aHCqmD",
+  "sort": 0,
+  "_id": "gjFbuG4CHkmj5k9y",
+  "_key": "!tables!gjFbuG4CHkmj5k9y"
+}

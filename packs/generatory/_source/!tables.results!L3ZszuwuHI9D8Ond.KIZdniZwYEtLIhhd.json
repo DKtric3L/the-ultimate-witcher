@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Дневник с записью странных снов",
+  "img": "icons/sundries/books/book-embossed-blue.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "eTMZCWX64Crp16sT",
+  "_id": "KIZdniZwYEtLIhhd",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.KIZdniZwYEtLIhhd"
+}

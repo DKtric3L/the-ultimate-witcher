@@ -1,0 +1,57 @@
+{
+  "name": "Землетрясение Стаммельфорда",
+  "type": "spell",
+  "img": "icons/magic/earth/barrier-stone-brown-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zpcw9i6ph2"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Раскалывает землю в 10- метровой зоне, создавая неровную поверхность, изрезанную трещинами. Любой, кто находится в этой зоне, получает штраф -2 к Реакции и -3 к Скорости. Небольшие строения на расколотой земле обрушиваются с вероятностью 10%. Каждый раунд существо, находящееся в зоне действия заклинания, должно проходить проверку Атлетики, чтобы не провалиться под землю. Провалившиеся под землю начинают задыхаться и должны успешно пройти проверку Атлетики, чтобы выбраться. По окончании действия заклинания земля перестаёт трястись, но остаётся искорёженной.",
+    "range": "30м",
+    "duration": "1d10 раундов",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "10",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892160,
+    "modifiedTime": 1685496637955,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kKR2YmwwBOfcD1sr",
+  "folder": "b6tCkgZmKMYSuvxl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kKR2YmwwBOfcD1sr"
+}

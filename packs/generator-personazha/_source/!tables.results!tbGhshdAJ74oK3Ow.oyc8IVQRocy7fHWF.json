@@ -1,0 +1,16 @@
+{
+  "_id": "oyc8IVQRocy7fHWF",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Background: How Did Your Trials Go? -2",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "jtpJ6pmgvVHReSPI",
+  "_key": "!tables.results!tbGhshdAJ74oK3Ow.oyc8IVQRocy7fHWF"
+}

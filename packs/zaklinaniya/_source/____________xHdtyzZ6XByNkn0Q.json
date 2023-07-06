@@ -1,0 +1,60 @@
+{
+  "name": "Копье ветра",
+  "type": "spell",
+  "img": "icons/magic/water/projectile-arrow-cold-fire-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ve9wxuMQkqaEJOdi"
+    },
+    "cf": {
+      "id": "temp_2gfz0e4391q"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "air",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Вы создаете компактное воздушное копье, которое можно метать как обычное копье, нанося 3d6 колющего урона. Это копье создает воздушный поток от вас к цели, и, если цель не перемещается до вашего следующего хода, любая дистанционная атака следует за этим потоком и получает бонус +3, даже если ваша первая атака промахнулась.",
+    "range": "20м",
+    "duration": "До след раунда",
+    "defence": "Укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892162,
+    "modifiedTime": 1685496638783,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "xHdtyzZ6XByNkn0Q",
+  "folder": "xxARWgvfAzQOH2sZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!xHdtyzZ6XByNkn0Q"
+}

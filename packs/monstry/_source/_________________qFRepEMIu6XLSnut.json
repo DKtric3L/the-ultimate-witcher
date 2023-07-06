@@ -1,0 +1,44 @@
+{
+  "_id": "qFRepEMIu6XLSnut",
+  "name": "Интимные игрушки",
+  "type": "valuable",
+  "img": "icons/commodities/wood/wood-pole.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wjo7lfo9hia",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.nV1dGaYSAf7fuODG"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!pyrqsHx60b2yh2KD.qFRepEMIu6XLSnut"
+}

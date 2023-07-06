@@ -1,0 +1,16 @@
+{
+  "text": "Инструменты для подделки",
+  "type": 2,
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "drawn": false,
+  "_id": "ied5hyanuvq4wxgi",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "lJr1zuBz7xD1dnQI",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.ied5hyanuvq4wxgi"
+}

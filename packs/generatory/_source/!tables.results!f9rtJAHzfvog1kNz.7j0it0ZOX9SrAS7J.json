@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    17,
+    17
+  ],
+  "drawn": false,
+  "text": "Качественный протез",
+  "img": "icons/commodities/tech/claw-mechanical.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "tWnrQ17OZnllis10",
+  "_id": "7j0it0ZOX9SrAS7J",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.7j0it0ZOX9SrAS7J"
+}

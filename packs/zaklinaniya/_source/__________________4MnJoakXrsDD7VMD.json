@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Средняя опасность",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "e4asfsZSUzqgW4uH",
+  "_id": "4MnJoakXrsDD7VMD",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!4MnJoakXrsDD7VMD"
+}

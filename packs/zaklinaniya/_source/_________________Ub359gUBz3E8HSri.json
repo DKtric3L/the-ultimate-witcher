@@ -1,0 +1,60 @@
+{
+  "name": "Ослепляющий свет",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-glow-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.c4jjcJlTikT19mGF"
+    },
+    "cf": {
+      "id": "temp_1ldq6zu6i6ej"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Из рук заклинателя вырывается яркий свет в виде 6-метрового конуса. Все провалившие проверку Защиты ослепляются на 1d10 раундов.",
+    "range": "6м конус",
+    "duration": "мгновенное",
+    "defence": "Изм поз или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "6",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность ослепления(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496638808,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Ub359gUBz3E8HSri",
+  "folder": "ZcfqdHfSUvKAeyeQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Ub359gUBz3E8HSri"
+}

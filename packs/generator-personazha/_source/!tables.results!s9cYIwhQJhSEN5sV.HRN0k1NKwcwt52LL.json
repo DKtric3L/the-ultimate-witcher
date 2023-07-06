@@ -1,0 +1,16 @@
+{
+  "_id": "HRN0k1NKwcwt52LL",
+  "type": 2,
+  "text": "Что случилось - Экспе",
+  "weight": 1,
+  "range": [
+    31,
+    100
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "4F45SpRXyFy2VmLq",
+  "_key": "!tables.results!s9cYIwhQJhSEN5sV.HRN0k1NKwcwt52LL"
+}

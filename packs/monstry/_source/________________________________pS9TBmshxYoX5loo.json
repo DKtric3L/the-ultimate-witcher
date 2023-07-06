@@ -1,0 +1,46 @@
+{
+  "name": "Летательные перепонки мантикоры",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/hide_ekimma_64x64.png.6919.png",
+  "system": {
+    "description": "",
+    "quantity": "2d6",
+    "weight": 2,
+    "cost": 145,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Мантикоры",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "sol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_79u2kp2qn4d",
+      "color": "#d2ab1e"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.o6XTA21JQEkIDYdp"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853702,
+    "modifiedTime": 1669961008988,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "pS9TBmshxYoX5loo",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!D3bajktqlbQz0p0d.pS9TBmshxYoX5loo"
+}

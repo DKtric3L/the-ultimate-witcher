@@ -1,0 +1,64 @@
+{
+  "name": "Инсектоиды",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Insectoids.png",
+  "description": "",
+  "results": [
+    "gJI2ukAgMeNKdMz7",
+    "S8Do8SS8Zj9BadRv",
+    "4cOzyYanCorMZA5Z",
+    "kOj25OCyOdTlHZrt",
+    "J7mGCBpobOjonVQJ",
+    "f9P4lcKbBvYGGlTm",
+    "DKLv4JAn4mk6XVpT",
+    "2RPR3FkLbfDAVE9V",
+    "DUl8qejaiatJWu5V",
+    "eL5xfVT3U0QrBNhv",
+    "9L6DUh3U4wEivOYR",
+    "tXiQJqrrbzkZhZTo",
+    "zpBXDJDk3uNN60sA",
+    "ccUKxHw0Q3rJM3ql",
+    "QReAardhro5kI0hW",
+    "J4UB6J0VwoOGHY5K",
+    "TyRnKRX8CbJzjGoN",
+    "FmQ5EGs0YRv0iY37",
+    "mpU0tipufpdcaghi",
+    "IMd7Ty1KmDellpBG",
+    "wa25cyV7BQ9gDd0h",
+    "4BZXwvW2eyKcZDRz",
+    "4x1PxiSJEouVUJ5G",
+    "X1wkNxXTswmmtFLI",
+    "BjDCHjem2P57XS6C",
+    "DAj3QWEu6czxSRC6",
+    "pbIuqpnNgrSFultu",
+    "Li655458aTAxQlWW",
+    "fffCmmIa8lSvL0GB",
+    "zZKj0t4twyYVmo4y"
+  ],
+  "formula": "1d13",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "FVXhj1zx5hYIWm2G",
+  "_key": "!tables!FVXhj1zx5hYIWm2G"
+}

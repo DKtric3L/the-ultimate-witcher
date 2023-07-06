@@ -1,0 +1,60 @@
+{
+  "name": "Чёрное солнце(Лилита)",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-small-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.sznhzbhPsvjZsoxv"
+    },
+    "cf": {
+      "id": "temp_y5c320rzgq"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Лилит вмешивается в битву, оказывая заклинателю услугу. Заклиантель создает иллюзию Черного солнца (солнечного затмения), которой невозможно противостоять. Все находящиеся зоне действия заклинания оказываются в полной темноте. Заклинатель видит без каких-либо штрафов. Чтобы избе- жать иллюзии, каждый должен совершить проверку Дедукции, но в первый ход все попадают под эффект иллюзии и должны потратить действие, чтобы попытаться выйти из зоны действия заклинания.",
+    "range": "100 м",
+    "duration": "пока не сбежал",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892178,
+    "modifiedTime": 1685496639313,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Mm9rnKH4ZjeR9HWi",
+  "folder": "MrlJwKcG9EWlHZie",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Mm9rnKH4ZjeR9HWi"
+}

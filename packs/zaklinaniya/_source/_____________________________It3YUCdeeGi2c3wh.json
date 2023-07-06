@@ -1,0 +1,57 @@
+{
+  "name": "Создание хрустального черепа",
+  "type": "spell",
+  "img": "icons/commodities/treasure/token-white-skull.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Наполняя существующий череп животного кошки, собаки, птицы или змеи пятой сущностью, вы создаете хрустальный череп, который можно использовать для формирования одного животного этого тип. Если животное, созданное Хрустальным черепом, умирает, Хрустальный череп можно перезарядить, повторно выполнив этот ритуал, используя только 2 единицы Пятой эссенции и неактивный череп.",
+    "range": "",
+    "duration": "мгновенная",
+    "defence": "",
+    "components": "Череп животного, Пятая эссенция (x5)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "14",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496637440,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "It3YUCdeeGi2c3wh",
+  "folder": "dsrLHBOICpZhVQvb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!It3YUCdeeGi2c3wh"
+}

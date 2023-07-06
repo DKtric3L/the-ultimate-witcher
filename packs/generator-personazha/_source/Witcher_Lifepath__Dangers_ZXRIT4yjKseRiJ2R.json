@@ -1,0 +1,40 @@
+{
+  "name": "Witcher Lifepath: Dangers",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "36ROPw9QWjYWmpBV",
+    "9kVdEtFeX4a3nAoe",
+    "iDR3wgMsixJKTSTq",
+    "cQfRuoxqB1FI58LA"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.ub0OgKJtPKbMpWUS"
+    },
+    "cf": {
+      "id": "temp_axvl3ljag6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162957156,
+    "modifiedTime": 1685496652379,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "ghKESyZyM9aHCqmD",
+  "sort": 0,
+  "_id": "ZXRIT4yjKseRiJ2R",
+  "_key": "!tables!ZXRIT4yjKseRiJ2R"
+}

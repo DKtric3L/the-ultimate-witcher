@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Боеприпасы - Старшие народы",
+  "img": "icons/sundries/documents/document-symbol-rune-tan.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "JVPcItkrIVDJAXC8",
+  "_id": "l9KF7lpzJhxPymtA",
+  "flags": {},
+  "_key": "!tables.results!KmkfY7Z2aPq7kdGL.l9KF7lpzJhxPymtA"
+}

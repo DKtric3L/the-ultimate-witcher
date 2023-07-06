@@ -1,0 +1,44 @@
+{
+  "name": "Отвар волколака",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/cotolak_potion.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 82,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "avail": "Rare",
+    "effect": "Длительный бег не требует затрат Выносливости.",
+    "time": "30 минут",
+    "toxicity": "75%"
+  },
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_adni0hxf6rb"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.6uSeqHUe0EOm0Pxd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887308,
+    "modifiedTime": 1671035867932,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "t9F4WFE2mR2iaTNs",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!k7OKybGxBGmKX5AY.t9F4WFE2mR2iaTNs"
+}

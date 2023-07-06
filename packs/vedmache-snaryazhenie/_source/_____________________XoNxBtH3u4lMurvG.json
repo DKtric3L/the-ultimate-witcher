@@ -1,0 +1,43 @@
+{
+  "name": "Мутаген: Полуночница",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-blue.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_kxic5e4vfq8"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.2gzeX31tLV4mgkUy"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "blue",
+    "source": "Полуночница",
+    "effect": "+1 сотворение заклинаний",
+    "alchemyDC": "18",
+    "minorMutation": "Сухая, стянутая кожа"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868982,
+    "modifiedTime": 1685496626945,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "folder": "z24EOxpWwQr7xr8W",
+  "sort": 0,
+  "_id": "XoNxBtH3u4lMurvG",
+  "_key": "!items!XoNxBtH3u4lMurvG"
+}

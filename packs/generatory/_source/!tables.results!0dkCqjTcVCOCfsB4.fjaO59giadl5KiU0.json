@@ -1,0 +1,16 @@
+{
+  "_id": "fjaO59giadl5KiU0",
+  "type": 2,
+  "text": "Обычные предметы",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "o5IMB1uQaVSG1InL",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.fjaO59giadl5KiU0"
+}

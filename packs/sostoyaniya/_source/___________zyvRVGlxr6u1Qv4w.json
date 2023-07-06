@@ -1,0 +1,51 @@
+{
+  "name": "Вывих ноги",
+  "type": "effect",
+  "img": "icons/skills/wounds/anatomy-bone-joint.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_n2afsx7fi5j"
+    }
+  },
+  "system": {
+    "description": "После удара нога персонажа вывихнута, она плохо слушается и на неё больно наступать.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-2"
+      }
+    ],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkRefDodge",
+        "modifier": "-2"
+      },
+      {
+        "id": "_revkfx8wa",
+        "skill": "WITCHER.SkDexAthletics",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883167,
+    "modifiedTime": 1685496621796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "zyvRVGlxr6u1Qv4w",
+  "folder": "i9IWaFNhx9E6aUgp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zyvRVGlxr6u1Qv4w"
+}

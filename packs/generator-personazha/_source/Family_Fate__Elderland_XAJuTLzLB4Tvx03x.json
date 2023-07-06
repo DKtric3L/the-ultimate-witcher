@@ -1,0 +1,46 @@
+{
+  "name": "Family Fate: Elderland",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "WLL4GH2QBfngXygQ",
+    "4h4Sw8Y1i17AihjX",
+    "5VXUJzVqGqVahzfy",
+    "oQQUBuaPK1pTABqq",
+    "SdTrfAZtLN9cLgew",
+    "7yYGp4SSAi9ymCGL",
+    "ts84cRjou8LMlLD4",
+    "LEz6AVGxGmTiJS5K",
+    "X4C3zlEyKnAX96jL",
+    "XEB17msQM6PA4Wl4"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.rI4Aie0iwrfrSNZG"
+    },
+    "cf": {
+      "id": "temp_cscnytpffv7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162917369,
+    "modifiedTime": 1685496652629,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "kDUbWzuPGCyfeYPp",
+  "sort": 0,
+  "_id": "XAJuTLzLB4Tvx03x",
+  "_key": "!tables!XAJuTLzLB4Tvx03x"
+}

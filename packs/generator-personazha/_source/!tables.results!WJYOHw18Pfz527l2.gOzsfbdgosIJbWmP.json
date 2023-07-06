@@ -1,0 +1,16 @@
+{
+  "_id": "gOzsfbdgosIJbWmP",
+  "type": 0,
+  "text": "Профессия врага - Дворянин",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!WJYOHw18Pfz527l2.gOzsfbdgosIJbWmP"
+}

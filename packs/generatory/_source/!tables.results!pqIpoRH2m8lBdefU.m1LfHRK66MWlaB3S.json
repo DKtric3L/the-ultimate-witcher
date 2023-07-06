@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Жезл изгнания",
+  "img": "icons/sundries/scrolls/scroll-old-bound-brown-gray.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "8CvxjxNVJ3vwKHjd",
+  "_id": "m1LfHRK66MWlaB3S",
+  "flags": {},
+  "_key": "!tables.results!pqIpoRH2m8lBdefU.m1LfHRK66MWlaB3S"
+}

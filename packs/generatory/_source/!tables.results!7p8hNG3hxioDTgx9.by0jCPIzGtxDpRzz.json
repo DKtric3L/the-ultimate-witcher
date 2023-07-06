@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "by0jCPIzGtxDpRzz",
+  "text": "Нанимателя не окажется на месте.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!7p8hNG3hxioDTgx9.by0jCPIzGtxDpRzz"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Приручение зверя",
+  "type": "spell",
+  "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OrSnfwQopYA2snw7"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Позволяет навсегда сделать дикое существо (животное или чудовище) дружелюбным к заклинателю. СЛ проверки зависит от рейтинга сложности зверя. Простое существо имеет меньшую СЛ, а Сложное существо - более высокую.",
+    "range": "",
+    "duration": "Постоянный",
+    "defence": "",
+    "components": "Приручаемый зверь, Совершенный самоцвет (x1), Пятая эссенция (x5), Дымные осколки (x1), Стекло, (x2), Еда для зверя (x3), Мелок (x4), Темное железо (x2)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "14/20/22",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "fhlQxPZRrU1T6mdH",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!fhlQxPZRrU1T6mdH"
+}

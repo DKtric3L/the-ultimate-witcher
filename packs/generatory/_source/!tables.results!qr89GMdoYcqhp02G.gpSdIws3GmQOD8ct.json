@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Боевой вепрь",
+  "img": "modules/the-ultimate-witcher/assets/monsters/battle_boar.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "rdkDriPrykptwd8k",
+  "_id": "gpSdIws3GmQOD8ct",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.gpSdIws3GmQOD8ct"
+}

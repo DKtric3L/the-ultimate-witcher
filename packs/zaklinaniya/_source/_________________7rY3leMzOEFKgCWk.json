@@ -1,0 +1,60 @@
+{
+  "name": "Поглощение Хаоса",
+  "type": "spell",
+  "img": "icons/magic/control/debuff-energy-hold-levitate-blue-yellow.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.enZ98FaDSLuCAuyE"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "20",
+    "staminaIsVar": false,
+    "effect": "Поглощение Хаоса позволяет заклинателю поглощать магические способности других существ (Магов, Ведьм, Джиннов и т.д.). Вы поглощаете 1/3 от общего количества Энергии цели. Если целью является элементаль или другой магический монстр, он мгновенно умирает, у магов или ведьм вероятность смерти составляет 80%",
+    "range": "",
+    "duration": "одно использование",
+    "defence": "",
+    "components": "Идеальный драгоцен- ный камень (x1), Пятая эссенция (x5), Мелок (x4), Темная пыль (x5), Эссенция света (x5), Квинтессенция (x5), Кости хирикки (x2), Рог единорога (x1), Рог хиронекса (x1)",
+    "alternateComponents": "",
+    "preparationTime": "15 раундов",
+    "dificultyCheck": "25",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7rY3leMzOEFKgCWk",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7rY3leMzOEFKgCWk"
+}

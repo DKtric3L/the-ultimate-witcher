@@ -1,0 +1,16 @@
+{
+  "_id": "br0uxt49igqgr8zN",
+  "type": 0,
+  "text": "Твоя семья подтолкнула тебя к изучению магии и участию в политике.",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!k8dceSavCpZuaojz.br0uxt49igqgr8zN"
+}

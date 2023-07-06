@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Реданская желудевая",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/redanian_acorn.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "TKvt9YzhHeBt9ID8",
+  "_id": "sc1SklddFoQ5mxKV",
+  "flags": {},
+  "_key": "!tables.results!PxlPbDEdRSbXlClO.sc1SklddFoQ5mxKV"
+}

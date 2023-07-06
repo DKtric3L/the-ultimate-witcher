@@ -1,0 +1,50 @@
+{
+  "name": "Новичок - Огонь",
+  "description": "A random table created from the contents of the Огонь Folder.",
+  "results": [
+    "MdBN411jp5WnuJwk",
+    "XWsWlXJs9Uvz5Gdq",
+    "aE4zS91Ts0WSa843",
+    "BxKO60VWafmqp8My",
+    "Fh4HcspacWzBQfQK",
+    "TyWdamzruyBHh496",
+    "IeeKjkCbIDdmFdHz",
+    "PlLI1YMADbUy5SUN",
+    "1FFN7WUZFttR7np3",
+    "4pG175PdnztmS2K4",
+    "zxpRPgUr2vVTe3oQ",
+    "JqppJQKMPHHJxyHq"
+  ],
+  "formula": "1d12",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "24eef3ceeeeeb192cb104c19c5f8301a29033c28",
+      "sourceId": "RollTable.Jb2PtK0jjfLQJj0e"
+    },
+    "core": {
+      "sourceId": "RollTable.Jb2PtK0jjfLQJj0e"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593201574,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "1UpkqubVx4wvUefg",
+  "_key": "!tables!1UpkqubVx4wvUefg"
+}

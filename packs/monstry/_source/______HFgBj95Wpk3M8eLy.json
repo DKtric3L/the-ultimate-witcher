@@ -1,0 +1,57 @@
+{
+  "_id": "HFgBj95Wpk3M8eLy",
+  "name": "Ирден",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/irden.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.Y85kaZdMQ0CEsXXx"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "basic",
+    "stamina": "Мен",
+    "staminaIsVar": true,
+    "effect": "Ирден создаёт на земле вокруг заклинателя большой магический круг. Любой вошедший в этот круг (кроме самого заклинателя) получает штраф к Скор и Реа (равный количеству потраченных очков Вын) до тех пор, пока не покинет круг. Любое бесплотное существо, вошедшее в круг, становится материальным",
+    "range": "радиус 3м",
+    "duration": "5 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!dxyWHzqdwqA0HCFh.HFgBj95Wpk3M8eLy"
+}

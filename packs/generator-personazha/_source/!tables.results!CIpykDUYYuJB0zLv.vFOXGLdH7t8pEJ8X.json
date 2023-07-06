@@ -1,0 +1,16 @@
+{
+  "_id": "vFOXGLdH7t8pEJ8X",
+  "flags": {},
+  "type": 2,
+  "text": "Генератор: Эльфы",
+  "img": "icons/svg/oak.svg",
+  "weight": 1,
+  "range": [
+    6,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "L8o8Rz85um05VUW4",
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.vFOXGLdH7t8pEJ8X"
+}

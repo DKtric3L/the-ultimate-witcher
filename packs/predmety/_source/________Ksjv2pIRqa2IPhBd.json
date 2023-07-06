@@ -1,0 +1,45 @@
+{
+  "name": "Эрвелюс",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/everlus.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_qd7ib7juyz",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.n9TRb26Lo2uYsHPb"
+    }
+  },
+  "system": {
+    "description": "дорогое вино, производимое в Туссенте. Выдерживается в погребах Кастель Ровелло, где так же производят Эст-Эст, Фьорано и Помино.\n\nПройди проверку со сл. 10, при провале становишься зависим от алкоголя(не только вина).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 34,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868971,
+    "modifiedTime": 1685496603837,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "mgrcuZ7Tjm0VXbc7",
+  "sort": 0,
+  "_id": "Ksjv2pIRqa2IPhBd",
+  "_key": "!items!Ksjv2pIRqa2IPhBd"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Глиф земли",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/earth.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "nr2L8CglMiAKBD42",
+  "documentId": "X5ELbaK0GCZfG1Au",
+  "flags": {},
+  "_key": "!tables.results!WkvPSXPzLEd3cQFk.nr2L8CglMiAKBD42"
+}

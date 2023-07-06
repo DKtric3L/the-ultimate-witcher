@@ -1,0 +1,26 @@
+{
+  "name": "Уязвимость: Истинная нежить",
+  "type": "note",
+  "_id": "ZlCFoDjq3SLLxq8y",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Амальгама трупов по настоящему мертва, поэтому ее тело нормально не функционирует и не лечится. На амальгаму трупов не могут воздействовать заклинания или предметы, восстанавливающие HP, и он не лечит естественным образом"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680488142466,
+    "modifiedTime": 1680488150467,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!oCbHun9dgPjg8pCX.ZlCFoDjq3SLLxq8y"
+}

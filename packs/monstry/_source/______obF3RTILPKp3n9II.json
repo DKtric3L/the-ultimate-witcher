@@ -1,0 +1,76 @@
+{
+  "_id": "obF3RTILPKp3n9II",
+  "name": "Таран",
+  "type": "weapon",
+  "img": "icons/skills/melee/strike-axe-red.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "6d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "8",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Разрушающее",
+        "percentage": ""
+      },
+      {
+        "id": "_200eddbe0",
+        "name": "Врезавшись урон 1d6",
+        "percentage": ""
+      },
+      {
+        "id": "_q4a2c6iuk",
+        "name": "Цель отлетает на 3 метра",
+        "percentage": ""
+      },
+      {
+        "id": "_7x2qez22c",
+        "name": "При блоке совершите встречную проверку силы, чтобы устоять на ногах.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!RaEhmZbi8A6jignV.obF3RTILPKp3n9II"
+}

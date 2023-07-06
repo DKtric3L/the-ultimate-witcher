@@ -1,0 +1,16 @@
+{
+  "text": "Магическое сообщение",
+  "type": 2,
+  "img": "icons/magic/symbols/rune-sigil-white-pink.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "_id": "gdqlhqqiubm7b08q",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "Ey7X9s7SUomdrIqA",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.gdqlhqqiubm7b08q"
+}

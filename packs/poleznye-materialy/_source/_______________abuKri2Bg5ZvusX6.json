@@ -1,0 +1,33 @@
+{
+  "name": "Собирательство",
+  "pages": [
+    "TBj842xzAL9nHNCW"
+  ],
+  "flags": {
+    "exportSource": {
+      "world": "TWH",
+      "system": "TheWitcherTRPG",
+      "coreVersion": "10.290",
+      "systemVersion": "0.94"
+    },
+    "core": {
+      "sourceId": "JournalEntry.m7TGmYzbne4QHIBd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1670412899129,
+    "modifiedTime": 1670414452649,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "_id": "abuKri2Bg5ZvusX6",
+  "_key": "!journal!abuKri2Bg5ZvusX6"
+}

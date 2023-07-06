@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Жизнь мага - осторожная",
+  "img": "icons/magic/nature/leaf-oak-wreath-glow-green.webp",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "eQ919gScqOBYcW7l",
+  "_id": "LWd18IL5fUdTq4lX",
+  "flags": {},
+  "_key": "!tables.results!T2XeZDKHfHH0QG4w.LWd18IL5fUdTq4lX"
+}

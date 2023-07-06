@@ -1,0 +1,58 @@
+{
+  "name": "Статическая буря",
+  "type": "spell",
+  "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_cilmpkpuxju"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Позволяет наполнить электричеством пространство в радиусе 5 метров от заклинателя. За исключением самого заклинателя, любой в этой зоне, кто носит металлическую броню или держит металлическое оружие, получает 2 пункта урона за раунд.",
+    "range": "5м",
+    "duration": "2d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "5",
+    "templateType": "circle",
+    "causeDamages": true,
+    "damage": "2+2d6",
+    "effects": [
+      {
+        "id": "_sma4tqtg3",
+        "name": "Длительность эффекта(Раунды)",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892174,
+    "modifiedTime": 1685496637828,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ipEaAmfD9A4kEb1B",
+  "folder": "wsj51D7oIARoDcDr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ipEaAmfD9A4kEb1B"
+}

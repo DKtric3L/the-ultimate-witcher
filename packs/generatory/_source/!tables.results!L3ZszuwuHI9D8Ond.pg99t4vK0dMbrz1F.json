@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    23,
+    23
+  ],
+  "drawn": false,
+  "text": "Ошейник-удавка",
+  "img": "icons/equipment/neck/torc-ball-captive.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "lv0hchMQLEyBE2vz",
+  "_id": "pg99t4vK0dMbrz1F",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.pg99t4vK0dMbrz1F"
+}

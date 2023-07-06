@@ -1,0 +1,46 @@
+{
+  "name": "Клыки Вепря",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tooth_hag_64x64.png.6948.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/3",
+    "weight": 0.1,
+    "cost": 82,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Вепри",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vitriol"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_fg9eec92znn",
+      "color": "#af76b7"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.xyGrEr50wGXnPvAI"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669963634391,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "GQ31XwBQe9qsNOEi",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!rdkDriPrykptwd8k.GQ31XwBQe9qsNOEi"
+}

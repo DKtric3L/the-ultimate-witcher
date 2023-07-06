@@ -1,0 +1,43 @@
+{
+  "name": "Эликсир выносливости",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/endurance_potion.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.oPC7NyyGRjc1XNVe"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 70,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Позволяет выпившему немедленно восстановить\n3d6 выносливости. Токсичность эликсира длится\nдо истечения срока его действия независимо от\nтого, используется ли выносливость.",
+    "time": "1/2 часа",
+    "toxicity": "50%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "oPC7NyyGRjc1XNVe",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oPC7NyyGRjc1XNVe"
+}

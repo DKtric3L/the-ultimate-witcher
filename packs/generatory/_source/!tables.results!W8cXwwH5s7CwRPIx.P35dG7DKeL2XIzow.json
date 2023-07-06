@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "text": "Мангуст",
+  "img": "icons/consumables/potions/round-decorated-snake-green.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "69M5pfnWMIvHdfa2",
+  "_id": "P35dG7DKeL2XIzow",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.P35dG7DKeL2XIzow"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "vDpeglIaDxZfuiZd",
+  "type": 0,
+  "text": "Старые шрамы. Один из ваших экспериментов привел к ужасным неприятным последствиям, исказив ваше лицо. Измените свое социальное положение на «Опасение».",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4dpnBG7SV5On0Q30.vDpeglIaDxZfuiZd"
+}

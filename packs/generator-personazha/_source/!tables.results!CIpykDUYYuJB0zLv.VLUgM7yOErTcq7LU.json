@@ -1,0 +1,16 @@
+{
+  "_id": "VLUgM7yOErTcq7LU",
+  "flags": {},
+  "type": 0,
+  "text": "Ваша раса - Низушек",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    12,
+    15
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.VLUgM7yOErTcq7LU"
+}

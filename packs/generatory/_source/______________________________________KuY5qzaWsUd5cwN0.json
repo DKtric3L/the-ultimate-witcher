@@ -1,0 +1,41 @@
+{
+  "name": "Чертеж - усиления брони - Подмастерье",
+  "description": "A random table created from the contents of the Подмастерье Folder.",
+  "results": [
+    "zsuTkYNPYvbXWSe3",
+    "VnTPvgLrPrrs7J2B",
+    "Dj2dDebmSMaAsbIe"
+  ],
+  "formula": "1d3",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d481dbebb33732eed7eb63acfcfded522b9f56d1",
+      "sourceId": "RollTable.vRlbM0YTX2LKOLko"
+    },
+    "core": {
+      "sourceId": "RollTable.vRlbM0YTX2LKOLko"
+    },
+    "cf": {
+      "id": "temp_g53kcg75pyg"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672828460745,
+    "modifiedTime": 1685496644447,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "JQC1u6dxvrwQGnjp",
+  "sort": 0,
+  "_id": "KuY5qzaWsUd5cwN0",
+  "_key": "!tables!KuY5qzaWsUd5cwN0"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    32,
+    32
+  ],
+  "drawn": false,
+  "text": "Странное письмо",
+  "img": "icons/sundries/documents/envelope-sealed-red-tan.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "OH3O6AkGzAQt1nCa",
+  "_id": "HrwXlqUCpUMIrL3J",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.HrwXlqUCpUMIrL3J"
+}

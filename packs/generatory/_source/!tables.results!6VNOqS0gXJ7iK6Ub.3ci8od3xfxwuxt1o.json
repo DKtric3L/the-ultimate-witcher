@@ -1,0 +1,16 @@
+{
+  "text": "Друидский тотем",
+  "type": 2,
+  "img": "icons/magic/nature/root-vines-face-glow-green.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "3ci8od3xfxwuxt1o",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "h1qEQhAFE5p9RQ4J",
+  "_key": "!tables.results!6VNOqS0gXJ7iK6Ub.3ci8od3xfxwuxt1o"
+}

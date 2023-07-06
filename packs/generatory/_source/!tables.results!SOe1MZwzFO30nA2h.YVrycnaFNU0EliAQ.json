@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Разбойник с копьём",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Dimun_smuggler_Grafit_Studio.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "BxpdZRsQG0cXSWLM",
+  "_id": "YVrycnaFNU0EliAQ",
+  "flags": {},
+  "_key": "!tables.results!SOe1MZwzFO30nA2h.YVrycnaFNU0EliAQ"
+}

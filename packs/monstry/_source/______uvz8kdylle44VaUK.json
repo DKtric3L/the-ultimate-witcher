@@ -1,0 +1,70 @@
+{
+  "_id": "uvz8kdylle44VaUK",
+  "name": "Копье",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/spear-hooked-double-engraved.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_upy3ob71tu"
+    },
+    "core": {
+      "sourceId": "Compendium.world.oruzhie.xlHqQhQEs1Jesuzh"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3.5,
+    "cost": 375,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее, Дробящее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "3d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "Тел+2",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длинное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 1,
+    "enhancementItems": [
+      {}
+    ],
+    "rateOfFire": 1,
+    "attackSkill": "Staff/Spear",
+    "rollOnlyDmg": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!mzLvpWjcjx1a20dS.uvz8kdylle44VaUK"
+}

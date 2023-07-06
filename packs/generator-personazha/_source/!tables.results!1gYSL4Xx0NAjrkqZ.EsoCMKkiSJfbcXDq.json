@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "text": "Как вы обнаружили свои способности?Старшие",
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "GnqOsNmSprHb5K7d",
+  "_id": "EsoCMKkiSJfbcXDq",
+  "flags": {},
+  "_key": "!tables.results!1gYSL4Xx0NAjrkqZ.EsoCMKkiSJfbcXDq"
+}

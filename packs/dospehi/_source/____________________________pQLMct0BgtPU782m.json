@@ -1,0 +1,60 @@
+{
+  "name": "Капюшон вердэнского лучника",
+  "type": "armor",
+  "img": "icons/equipment/head/hood-cloth-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_mxldaj92pz"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 3,
+    "headMaxStopping": 3,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Light",
+    "avail": "Common",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "effects": [],
+    "encumb": 0,
+    "location": "Head",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162837866,
+    "modifiedTime": 1685496574789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pQLMct0BgtPU782m",
+  "folder": "tJIMKEBfKhFRtsQQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pQLMct0BgtPU782m"
+}

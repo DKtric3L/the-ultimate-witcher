@@ -1,0 +1,43 @@
+{
+  "name": "Эффект - Животная сила",
+  "type": "effect",
+  "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GBWuv0epnn6pe12V"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "2d6 раундов, конечный раунд - .+2 к урону в ближнем бою.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_zxjdbdu8i",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "-2"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883176,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JseLOKreCsSHW8eQ",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!JseLOKreCsSHW8eQ"
+}

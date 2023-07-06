@@ -1,0 +1,26 @@
+{
+  "_id": "beT71KWXhM65C3Bo",
+  "name": "Уязвимость - Магия огня",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Высший вампир лишён невосприимчивости к заклинаниям огня. Он получает обычный урон от любого источника огня, созданного магическим способом, но никогда не получает вреда от горения."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!tTfwvCdrxkKSAc86.beT71KWXhM65C3Bo"
+}

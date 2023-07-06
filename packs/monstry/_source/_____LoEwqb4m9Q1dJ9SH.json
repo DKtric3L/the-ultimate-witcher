@@ -1,0 +1,58 @@
+{
+  "_id": "LoEwqb4m9Q1dJ9SH",
+  "name": "Энье",
+  "type": "spell",
+  "img": "icons/magic/fire/projectile-fireball-embers-yellow.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.csR15PIFKhjdGG9h"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Энье позволяет швырнуть сгусток пламени в противника, находящегося в пределах дистанции заклинания. Пламя наносит 4d6 урона с 75%-ным шансом горения.",
+    "range": "12м",
+    "duration": "мгновенное",
+    "defence": "Укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "75"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!nRFMSVmn5tFxYySe.LoEwqb4m9Q1dJ9SH"
+}

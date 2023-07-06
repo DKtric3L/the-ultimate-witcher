@@ -1,0 +1,16 @@
+{
+  "_id": "qOYCNwu9tF1H7eBE",
+  "type": 0,
+  "text": "3 урона сквозь броню.",
+  "weight": 1,
+  "range": [
+    1,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!RqJviXp68Phq3zly.qOYCNwu9tF1H7eBE"
+}

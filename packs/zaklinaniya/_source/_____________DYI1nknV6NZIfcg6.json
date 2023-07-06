@@ -1,0 +1,60 @@
+{
+  "name": "Порча голода",
+  "type": "spell",
+  "img": "icons/consumables/food/cooked-kebab-meat-skewer-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_kp5e8xlen2o"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "4",
+    "staminaIsVar": false,
+    "effect": "Вся пища, которую ест жертва, на вкус как пепел. У жертвы остается биологическая потребность в еде, и она чувствует голод. Каждый раз, когда жертва ест, она испытывает тошноту в течение 1d6 часов и сильную боль в животе (см. «Осложнения, недуги и лекарства»).",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Low",
+    "liftRequirement": "В новолуние жертва должна приготовить свое любимое блюдо. Затем она бросает его в костер вместе с листьями балиссы и позволяет огню догореть. Когда огонь потухнет, жертва должна съесть пепел из кострища, сидя на том месте, где толь- ко что погас огонь.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496639494,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "DYI1nknV6NZIfcg6",
+  "folder": "Syi8vTbZZBjwpqCl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!DYI1nknV6NZIfcg6"
+}

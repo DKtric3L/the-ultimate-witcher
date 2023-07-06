@@ -1,0 +1,16 @@
+{
+  "text": "Усиление из укреплённой кожи",
+  "type": 2,
+  "img": "icons/commodities/leather/leather-worn-tan.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "ujl204wocw84i808",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "3CCR5mUu8w6mP40t",
+  "_key": "!tables.results!9VoLryHXoH0ovQE6.ujl204wocw84i808"
+}

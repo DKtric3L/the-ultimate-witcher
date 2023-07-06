@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "ENGxOeIDJ5Wi09Jz",
+  "text": "Вялый бой - Этот дракон не любит драться и тем более получать ранения. Если его сильно ранят, он будет держаться подальше.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!WMdZgq3rq0eMhJo5.ENGxOeIDJ5Wi09Jz"
+}

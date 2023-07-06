@@ -1,0 +1,16 @@
+{
+  "_id": "KgpE0Q8gz4x0tE9A",
+  "flags": {},
+  "type": 2,
+  "text": "Allies: Closeness",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "6eIgGO242YXuLTMk",
+  "_key": "!tables.results!kE2xg2nNmg3tiylb.KgpE0Q8gz4x0tE9A"
+}

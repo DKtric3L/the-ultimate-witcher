@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    32,
+    32
+  ],
+  "drawn": false,
+  "text": "Хлороформ",
+  "img": "modules/the-ultimate-witcher/assets/props/chlorophorm.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "SURHBOwFjaTXKNJC",
+  "_id": "MZpSuKFs4KBzGwL8",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.MZpSuKFs4KBzGwL8"
+}

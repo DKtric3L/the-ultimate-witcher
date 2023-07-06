@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    38,
+    38
+  ],
+  "drawn": false,
+  "text": "Яд аконита",
+  "img": "icons/commodities/materials/bowl-powder-gold.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "N5Z6h8OnTCsywmSD",
+  "_id": "CaA5yDcuf6Hpe1gY",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.CaA5yDcuf6Hpe1gY"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "beTBKwyEd8vOFnXd",
+  "type": 2,
+  "text": "Алхимические составы",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "W8cXwwH5s7CwRPIx",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.beTBKwyEd8vOFnXd"
+}

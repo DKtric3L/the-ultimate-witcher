@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Стучак",
+  "img": "modules/the-ultimate-witcher/assets/monsters/stuchak.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "zrsfICVeO2fXpp6W",
+  "_id": "jjg1YZ982aFsaUna",
+  "flags": {},
+  "_key": "!tables.results!lHthgibcAJ8F0j1b.jjg1YZ982aFsaUna"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "oBb0A6Rz9D5Ua8Tc",
+  "type": 2,
+  "text": "Выгода",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "ENltA9xkbh8cljBm",
+  "_key": "!tables.results!PBDhfntmKP0GkBeD.oBb0A6Rz9D5Ua8Tc"
+}

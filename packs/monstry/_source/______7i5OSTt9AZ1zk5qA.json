@@ -1,0 +1,61 @@
+{
+  "_id": "7i5OSTt9AZ1zk5qA",
+  "name": "Рьеви",
+  "type": "spell",
+  "img": "icons/magic/water/ice-snowman.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_qga2buisob"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.KXVqOycrI51WOj1E"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "Water",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Рьеви сковывает цель плотным слоем льда. На время действия заклинания цель считается замороженной. При использовании заклинания на неживой предмет цель невозможно передвинуть и ею невозможно манипулировать.",
+    "range": "8м",
+    "duration": "1d10 раундов",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Заморозка",
+        "percentage": "100"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!KAhtipbo9AjyZASy.7i5OSTt9AZ1zk5qA"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Сердце Суккуба",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/heart_nekker_64x64.dds_.6916.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rcov954udlf",
+      "color": "#3b9b58"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 95,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Суккубы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "vermilion"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853704,
+    "modifiedTime": 1685496584251,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Xp27ByCppRpSHNsE",
+  "folder": "k0WBGxAKzk1zxRGK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Xp27ByCppRpSHNsE"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Способность: Объединенная форма",
+  "type": "note",
+  "_id": "qOxbOgzmJRpLvRN2",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Амальгама трупов состоит из множества разных тел, связанных вместе магией, и на теле нет жизненно важных точек. Если атака поразит голову амальгамы или любое другое место, которое умножит урон, атака нанесет обычный урон."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680488156149,
+    "modifiedTime": 1680488188368,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!oCbHun9dgPjg8pCX.qOxbOgzmJRpLvRN2"
+}

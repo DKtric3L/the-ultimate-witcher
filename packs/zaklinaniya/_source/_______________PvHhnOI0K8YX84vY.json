@@ -1,0 +1,60 @@
+{
+  "name": "Обжигающий пар",
+  "type": "spell",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Fa8ghopHPOZ8NQfK"
+    },
+    "cf": {
+      "id": "temp_jbsyq0q4p1r"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Заклинатель выдувает 4-метровый конус горячего пара изо рта. Любой, кто находится в пределах досягаемости, получает 3d6 урона от жара и задыхается в течение следующего хода.",
+    "range": "4м конус",
+    "duration": "мгновенное",
+    "defence": "Укл/блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "4",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "3d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Удушье в следующем ходу жертвы"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496638834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PvHhnOI0K8YX84vY",
+  "folder": "AEZFF14cMz7MkSyA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PvHhnOI0K8YX84vY"
+}

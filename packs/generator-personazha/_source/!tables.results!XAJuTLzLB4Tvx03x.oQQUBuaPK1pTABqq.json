@@ -1,0 +1,16 @@
+{
+  "_id": "oQQUBuaPK1pTABqq",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Ваша семья не первый век в ссоре с другой семьей. Возможно, Вы даже не помните с чего началась эта вражда.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XAJuTLzLB4Tvx03x.oQQUBuaPK1pTABqq"
+}

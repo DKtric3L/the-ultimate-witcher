@@ -1,0 +1,61 @@
+{
+  "name": "Демонический щит",
+  "type": "spell",
+  "img": "icons/magic/death/projectile-skull-fire-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvef9D4rVR9gARXq"
+    },
+    "cf": {
+      "id": "temp_0t82pqg9kah"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 2d10\nВесь урон от следующего нанесенного вам удара отменяется, и атаковавшее существо вспыхивает пламенем из другого измерения. Существо получает 2d6 урона от магического огня и половину урона, который вы отменили. Оно так же загорается. Это заклинание не может отменить магический урон, и при получении такого урона, действие заклинания закончится.",
+    "range": "Атаковавший",
+    "duration": "Пока заклинатель не атакован",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892158,
+    "modifiedTime": 1685496638860,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Uo5eNGv3iXkqkctZ",
+  "folder": "oUploplKQy7OzcxK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Uo5eNGv3iXkqkctZ"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Альп",
+  "img": "modules/the-ultimate-witcher/assets/monsters/alp.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "OCFTKPm3wTOGWxot",
+  "_id": "Qz31LAAORukeS03i",
+  "flags": {},
+  "_key": "!tables.results!tV1C1MNwkzoIWuig.Qz31LAAORukeS03i"
+}

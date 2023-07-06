@@ -1,0 +1,38 @@
+{
+  "name": "Сбит с ног",
+  "type": "effect",
+  "img": "icons/magic/control/silhouette-fall-slip-prone.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.MdEOfLnRtv4a5eOW"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонаж сбит с ног. Потратьте перемещение, чтобы встать. Штраф -2 к атаке и защите.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883172,
+    "modifiedTime": 1688508903687,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "zv6nJqEYhzITldbo",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zv6nJqEYhzITldbo"
+}

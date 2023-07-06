@@ -1,0 +1,16 @@
+{
+  "_id": "7NcozHj3WQT98qOn",
+  "type": 2,
+  "text": "Метры 3",
+  "weight": 1,
+  "range": [
+    5,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "AUWOVDuZzKMb6vJF",
+  "_key": "!tables.results!s7hn3IaoOQsG7hiK.7NcozHj3WQT98qOn"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "HDIwK9JNvHsNiI4y",
+  "type": 0,
+  "text": "Долг. Вы потеряли 1d10 x 100 крон в долгу.",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!BqWiXzs6w2pmN2Ra.HDIwK9JNvHsNiI4y"
+}

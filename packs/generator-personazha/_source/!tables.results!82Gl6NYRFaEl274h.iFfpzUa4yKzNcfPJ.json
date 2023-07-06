@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "iFfpzUa4yKzNcfPJ",
+  "text": "Был «убит» - Этого вампира разрезали на части или испепелили. Много лет он потратил на регенерацию. Годы, проведённые в мол чаливой темноте, привели к тому, что вампир всеми силами избегает смерти. Он регенерирует в два раза быстрее, когда его ПЗ ниже нуля.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!82Gl6NYRFaEl274h.iFfpzUa4yKzNcfPJ"
+}

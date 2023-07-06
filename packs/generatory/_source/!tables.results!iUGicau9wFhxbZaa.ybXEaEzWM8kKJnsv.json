@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Шкура Пантеры",
+  "img": "icons/commodities/leather/fur-pelt-spotted-brown.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "pM04tDef10zEJ4gP",
+  "_id": "ybXEaEzWM8kKJnsv",
+  "flags": {},
+  "_key": "!tables.results!iUGicau9wFhxbZaa.ybXEaEzWM8kKJnsv"
+}

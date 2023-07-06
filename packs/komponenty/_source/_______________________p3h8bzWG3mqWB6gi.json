@@ -1,0 +1,42 @@
+{
+  "name": "Ухо кладбищенской бабы",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/ear_grave_hag_64x64.png.6881.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_7waal2pnsr2",
+      "color": "#ff0000"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 134,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Grave Hags",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853706,
+    "modifiedTime": 1685496584304,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "p3h8bzWG3mqWB6gi",
+  "folder": "yikOWioIDUj6aZ72",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!p3h8bzWG3mqWB6gi"
+}

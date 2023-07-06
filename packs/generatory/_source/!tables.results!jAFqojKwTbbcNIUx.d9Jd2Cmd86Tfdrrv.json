@@ -1,0 +1,16 @@
+{
+  "_id": "d9Jd2Cmd86Tfdrrv",
+  "type": 2,
+  "text": "Случайная Порча",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "Rpp9t3tO312mCijo",
+  "_key": "!tables.results!jAFqojKwTbbcNIUx.d9Jd2Cmd86Tfdrrv"
+}

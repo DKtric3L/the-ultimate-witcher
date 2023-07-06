@@ -1,0 +1,73 @@
+{
+  "_id": "xhb0PpGKjiq57fzB",
+  "name": "Щит школы мантикоры",
+  "type": "armor",
+  "img": "icons/equipment/shield/heater-steel-engraved-lance-rest.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_0w1zqqbn8lrf"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.7cuBFASVr2zfRy1n"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 20,
+    "reliabilityMax": 20,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Метеоритное"
+      },
+      {
+        "id": "_gpgwn4e4s",
+        "name": "Серебряное(3d6)",
+        "percentage": ""
+      }
+    ],
+    "encumb": 0,
+    "location": "Shield",
+    "equiped": false,
+    "bludgeoning": true,
+    "slashing": false,
+    "piercing": false
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!CS4CydjSrkQZ1agY.xhb0PpGKjiq57fzB"
+}

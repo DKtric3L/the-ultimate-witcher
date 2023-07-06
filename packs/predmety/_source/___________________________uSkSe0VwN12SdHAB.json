@@ -1,0 +1,68 @@
+{
+  "name": "Некачественный протез руки",
+  "type": "armor",
+  "img": "icons/tools/hand/wrench-steel-grey.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 15,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 0,
+    "torsoMaxStopping": 0,
+    "leftArmStopping": 0,
+    "leftArmMaxStopping": 0,
+    "rightArmStopping": 0,
+    "rightArmMaxStopping": 0,
+    "leftLegStopping": 0,
+    "leftLegMaxStopping": 0,
+    "rightLegStopping": 0,
+    "rightLegMaxStopping": 0,
+    "type": "Natural",
+    "avail": "Everywhere",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "first",
+        "name": "Простые действия рукой"
+      }
+    ],
+    "encumb": 0,
+    "location": "Torso",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.6UtoOJH5gfOzGVNM"
+    },
+    "cf": {
+      "id": "temp_nctkadwa628"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670239444437,
+    "modifiedTime": 1685496603752,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "yIEU9BadZPUDWEzV",
+  "sort": 0,
+  "_id": "uSkSe0VwN12SdHAB",
+  "_key": "!items!uSkSe0VwN12SdHAB"
+}

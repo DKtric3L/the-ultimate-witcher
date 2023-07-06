@@ -1,0 +1,16 @@
+{
+  "text": "Когти гуля",
+  "type": 2,
+  "img": "systems/TheWitcherTRPG/assets/images/vitriol.png",
+  "weight": 1,
+  "range": [
+    37,
+    37
+  ],
+  "drawn": false,
+  "_id": "j0chc8m6g8hn0v1r",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "Up4kKSr4Qplm778I",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.j0chc8m6g8hn0v1r"
+}

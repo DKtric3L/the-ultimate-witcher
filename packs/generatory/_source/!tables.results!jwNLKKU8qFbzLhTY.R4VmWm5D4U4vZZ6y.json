@@ -1,0 +1,16 @@
+{
+  "text": "Шаровая молния",
+  "type": 2,
+  "img": "icons/magic/lightning/orb-ball-spiral-blue.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "R4VmWm5D4U4vZZ6y",
+  "documentId": "ww8URUukZV7sY1U9",
+  "flags": {},
+  "_key": "!tables.results!jwNLKKU8qFbzLhTY.R4VmWm5D4U4vZZ6y"
+}

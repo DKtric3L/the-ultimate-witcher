@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "mynAWK43Nspiwjoq",
+  "text": "Причуды - На входе висит особенно непристойная вывеска.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!B5CpQsRPt505wapy.mynAWK43Nspiwjoq"
+}

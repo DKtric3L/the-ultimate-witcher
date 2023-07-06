@@ -1,0 +1,16 @@
+{
+  "_id": "yYsEsnZ7X1jvKIXp",
+  "type": 2,
+  "text": "Каким был ваш настаник?",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "R2wQTO7eA2Itw5BX",
+  "_key": "!tables.results!QPov0AhAvSIjKvJb.yYsEsnZ7X1jvKIXp"
+}

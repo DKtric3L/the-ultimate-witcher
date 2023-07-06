@@ -1,0 +1,16 @@
+{
+  "_id": "YN5dkMg8cg9oF81P",
+  "flags": {},
+  "type": 0,
+  "text": "Ничего особенного.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Umq4TQLnnCa2fOz6.YN5dkMg8cg9oF81P"
+}

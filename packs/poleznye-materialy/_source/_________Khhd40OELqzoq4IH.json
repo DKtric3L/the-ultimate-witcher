@@ -1,0 +1,33 @@
+{
+  "name": "Двимерит",
+  "pages": [
+    "iKxip6L33tYrruT9"
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.vmZ4kTCAK5jtAJ5x"
+    },
+    "exportSource": {
+      "world": "TWH",
+      "system": "TheWitcherTRPG",
+      "coreVersion": "10.290",
+      "systemVersion": "0.94"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1670412897309,
+    "modifiedTime": 1670412973028,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "_id": "Khhd40OELqzoq4IH",
+  "_key": "!journal!Khhd40OELqzoq4IH"
+}

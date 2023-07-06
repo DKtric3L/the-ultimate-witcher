@@ -1,0 +1,16 @@
+{
+  "_id": "cQfRuoxqB1FI58LA",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Danger - Enemies Generator",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    7,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "YPHay0WAjR8lVQhD",
+  "_key": "!tables.results!ZXRIT4yjKseRiJ2R.cQfRuoxqB1FI58LA"
+}

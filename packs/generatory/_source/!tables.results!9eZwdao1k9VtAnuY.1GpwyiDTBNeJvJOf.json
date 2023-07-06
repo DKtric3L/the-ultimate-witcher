@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "1GpwyiDTBNeJvJOf",
+  "text": "Защита. Наниматель просит защитить его территорию от разбойников. Плата по стандарту.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!9eZwdao1k9VtAnuY.1GpwyiDTBNeJvJOf"
+}

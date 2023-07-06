@@ -1,0 +1,44 @@
+{
+  "name": "Иволга",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/oriole.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 25,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Даёт невосприимчивость к ядам и нейтрализует\nвсе яды в вашем организме.",
+    "time": "1/2 часа",
+    "toxicity": "50%"
+  },
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.KD8817xG0XKLcB2h"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1671035867932,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "bFPda2vRlELqF5Jp",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!k7OKybGxBGmKX5AY.bFPda2vRlELqF5Jp"
+}

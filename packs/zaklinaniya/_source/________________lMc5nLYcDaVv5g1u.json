@@ -1,0 +1,65 @@
+{
+  "name": "Призыв призрака",
+  "type": "spell",
+  "img": "icons/magic/death/undead-ghost-strike-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.jtB7XB9sbURR1qsl"
+    },
+    "cf": {
+      "id": "temp_0t82pqg9kah"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "17",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 3d10.\nЗаклинатель призывает призрака из мертвого тела или груды костей, которым телепатически управляет. Если заклинание заканчивается, а призрак все еще жив, он становится враждебным по отношению к вам. Призрака можно исцелять только заклинанием Исцеление нежити. Изгнать призрака можно потратив 5 Вын и 1d10 ПЗ, если он все еще под вашим контролем.",
+    "range": "20м",
+    "duration": "2d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d10+3d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "2d10 - Длительность эффекта(раунды)"
+      },
+      {
+        "id": "_ac9bs75i8",
+        "name": "3d10 - Некротический урон заклинателю",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638860,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lMc5nLYcDaVv5g1u",
+  "folder": "oUploplKQy7OzcxK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lMc5nLYcDaVv5g1u"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "HQXFpeLMqq6rbGR9",
+  "name": "Мутаген: Моровая дева",
+  "type": "mutagen",
+  "img": "systems/TheWitcherTRPG/assets/images/parmecia-blue.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_loaduoyv3n",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.iZsz1tBPJdddpQBA"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "blue",
+    "source": "Моровая дева",
+    "effect": "+1 Энергии",
+    "alchemyDC": "18",
+    "minorMutation": "Болезненная, бледная кожа и изможденные черты лица"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!GvHkNN3d16eUO8Ig.HQXFpeLMqq6rbGR9"
+}

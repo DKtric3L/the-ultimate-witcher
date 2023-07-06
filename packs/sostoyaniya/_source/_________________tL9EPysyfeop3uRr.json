@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Кодлизия",
+  "type": "effect",
+  "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.qkXR0YWZ3GcqQvkp"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "СКОР снижается на половину и существо получает 2d6 колющего урона по ногам за каждые 4 пройденных метра. При падении в этой зоне, существо немедленно получает 2d6 колющего урона по каждой части тела.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_5og0j81ep",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "/2"
+      }
+    ],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tL9EPysyfeop3uRr",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tL9EPysyfeop3uRr"
+}

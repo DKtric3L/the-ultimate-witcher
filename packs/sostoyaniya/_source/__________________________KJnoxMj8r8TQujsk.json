@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Эликсир живучести",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/vitality_potion.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    },
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.C6c9eod6aJzrtz6U"
+    }
+  },
+  "system": {
+    "description": "Позволяет выпившему игнорировать штрафы за нахождение на пороге ранения на время действия эликсира.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_s6a33ttfz",
+        "skill": "WITCHER.SkWillResistCoer",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883188,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "KJnoxMj8r8TQujsk",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!KJnoxMj8r8TQujsk"
+}

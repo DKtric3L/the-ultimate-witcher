@@ -1,0 +1,75 @@
+{
+  "_id": "KBntyAExFPkel3Iu",
+  "name": "Атака с наката",
+  "type": "weapon",
+  "img": "icons/skills/melee/strike-flail-destructive-yellow.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Дробящее",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Everywhere",
+    "damage": "8d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "5-10м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Цель отлетает на 6 метров, урон тарана если столкнется с препятствием",
+        "percentage": ""
+      },
+      {
+        "id": "_etqei487l",
+        "name": "Для защиты от этой атаки следует исполь зовать изменение позиции.",
+        "percentage": ""
+      },
+      {
+        "id": "_d5aa0x2ge",
+        "name": "При промахе Шарлей останав ливается в 10 метрах от начальной точки. Если он сам во что-нибудь врежется, то будет дезориентирован на один раунд и сбит с ног (живот остаётся незащищённым)",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!ytUDI3WvlUdgLiG0.KBntyAExFPkel3Iu"
+}

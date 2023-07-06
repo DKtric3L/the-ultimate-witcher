@@ -1,0 +1,16 @@
+{
+  "text": "Сосуд заклятия",
+  "type": 2,
+  "img": "icons/magic/unholy/orb-beam-pink.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "_id": "2eo3z79r58wvflqz",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "dkBxBQ60xXUB9uXZ",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.2eo3z79r58wvflqz"
+}

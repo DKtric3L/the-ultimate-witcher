@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "7Uy3g4uJcEYYdDdQ",
+  "text": "Название - Титул(Король, Королева, Лорд и т.д.)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!IjHfOXIVAWtPYIxj.7Uy3g4uJcEYYdDdQ"
+}

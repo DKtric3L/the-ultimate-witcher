@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "A0AsYcrbfzIGuP3P",
+  "text": "Голова, Штраф -6, урон 3х.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!CRzkFzGgCYfqFjaW.A0AsYcrbfzIGuP3P"
+}

@@ -1,0 +1,53 @@
+{
+  "_id": "la2fwFhFNj1C3DEQ",
+  "name": "Человек",
+  "type": "race",
+  "img": "%D0%A0%D0%B0%D1%81%D1%8B/%D0%A0%D0%BE%D1%88%D0%B5.png",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.rasy.RbL9M1jf7887v5DY"
+    }
+  },
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "Доверие",
+      "description": "+1 к проверкам харизмы, убеждени и соблазнения против других людей."
+    },
+    "perk2": {
+      "name": "Изобретательность",
+      "description": "+1 к Дедукции."
+    },
+    "perk3": {
+      "name": "Упрямство",
+      "description": "Можно перебросить провальные броски храбрости и сопротивления убеждению, но не более 3 раз за партию.\nПодряд использовать упрямство нельзя, в случае если и переброс не помог."
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "",
+      "nilfgaard": "",
+      "skellige": "",
+      "dolBlathanna": "",
+      "mahakam": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!p22j81fJJYgk0Zfx.la2fwFhFNj1C3DEQ"
+}

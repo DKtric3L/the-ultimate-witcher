@@ -1,0 +1,45 @@
+{
+  "name": "Знание",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "2iG5y5l9oeI9Aqm3",
+    "Pb7ZN8skZA1mdL9j",
+    "ticmAMGOApfSdZ7x",
+    "Mf4Yy1XX0sOIoCmu",
+    "DrhggmK8DhbKnCwi",
+    "rFyILJugD0SxRczf",
+    "LjLYNyazlPszcnVy",
+    "IYg1A4xcy41NgQph",
+    "wGdXdCY9gvqg3C7h",
+    "gVMEF2qmpyclGqDq"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.zgtG42204TT4SXL6"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901089,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "LiPUuGFfXbdWlnAd",
+  "_key": "!tables!LiPUuGFfXbdWlnAd"
+}

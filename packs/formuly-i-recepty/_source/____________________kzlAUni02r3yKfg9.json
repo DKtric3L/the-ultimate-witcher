@@ -1,0 +1,148 @@
+{
+  "name": "Двуслойный гамбезон",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.kzlAUni02r3yKfg9"
+    },
+    "cf": {
+      "id": "temp_w9ryybl3f2"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.Wa9Bk6Ai47za4MqB]{Двуслойный гамбезон}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 374,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "8ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "5",
+        "name": "Двойное полотно"
+      },
+      {
+        "id": "_gqltfp8iw",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "6"
+      },
+      {
+        "id": "_1eewzs1m1",
+        "name": "Дубильные травы",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_2wgyzpls9",
+        "name": "Полотно",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_1sk1z8ci1",
+        "name": "Хлопок",
+        "percentage": "",
+        "quantity": "11"
+      }
+    ],
+    "investment": 187,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Двуслойный гамбезон",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-gilded-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 2.5,
+        "cost": 250,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 0,
+        "headMaxStopping": 0,
+        "torsoStopping": 8,
+        "torsoMaxStopping": 8,
+        "leftArmStopping": 8,
+        "leftArmMaxStopping": 8,
+        "rightArmStopping": 8,
+        "rightArmMaxStopping": 8,
+        "leftLegStopping": 0,
+        "leftLegMaxStopping": 0,
+        "rightLegStopping": 0,
+        "rightLegMaxStopping": 0,
+        "type": "Light",
+        "avail": "Poor",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "effects": [],
+        "encumb": 0,
+        "location": "Torso",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_1fv367gt0a6"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837866,
+        "modifiedTime": 1668162837866,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848413,
+    "modifiedTime": 1685496579488,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kzlAUni02r3yKfg9",
+  "folder": "WNB0CsVL08oI0Bfi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kzlAUni02r3yKfg9"
+}

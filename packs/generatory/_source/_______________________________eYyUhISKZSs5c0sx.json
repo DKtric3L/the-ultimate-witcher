@@ -1,0 +1,42 @@
+{
+  "name": "Необычный заказ - что за цель?",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "GzFyPDsmHZsMmo8Q",
+    "laCsSEyTRq8EwxPb",
+    "bcIa3vco3ACl0qwS",
+    "iSFF4ZKDU1zzvi4A",
+    "9s9hN7scHcC612Wj",
+    "FppPoRRgGojgGQj2",
+    "rhbJ5AWrqAo6KsCH",
+    "MdN9XcMOo02DYkxG"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "eYyUhISKZSs5c0sx",
+  "_key": "!tables!eYyUhISKZSs5c0sx"
+}

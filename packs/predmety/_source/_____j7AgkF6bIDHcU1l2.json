@@ -1,0 +1,43 @@
+{
+  "name": "Буря",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/bottle-pear-corked-labeled-ornamental-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.t9dWOllmOts9IqRk"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 52,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Poor",
+    "effect": "Буря направляет магию стихий вокруг человека. При\nсовершении атаки или произнесении заклинания, которое\nможет вызвать эффекты Огонь, Заморозка или Сбит с ног,\nвероятность наложения эффекта увеличивается на 10%.",
+    "time": "-",
+    "toxicity": "50%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868971,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "j7AgkF6bIDHcU1l2",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!j7AgkF6bIDHcU1l2"
+}

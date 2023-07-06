@@ -1,0 +1,44 @@
+{
+  "name": "Отвар крысолака",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/cotolak_potion.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 75,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "avail": "Rare",
+    "effect": "Вы получаете +5 к параметрам РЕА и ЛОВ",
+    "time": "30 минут",
+    "toxicity": "75%"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_adni0hxf6rb"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.szVb8C86r3OOARUy"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887309,
+    "modifiedTime": 1669962254567,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "vAroTD5qtk3dh6sz",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!5LLHqstrIQe4XKBE.vAroTD5qtk3dh6sz"
+}

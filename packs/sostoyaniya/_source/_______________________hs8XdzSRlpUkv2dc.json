@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Стальной кулак",
+  "type": "effect",
+  "img": "icons/skills/melee/hand-grip-sword-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.BUSkEv0Qh6ZQoI2J"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Все, что жертва несет в руках, включая оружие, ощущается в два раза тяжелее обычного веса. Это не влияет на реальный вес предметов, но может ограничить количество переносимых вещей. Также жертва может атаковать оружием ближнего боя только один раз за ход.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883186,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hs8XdzSRlpUkv2dc",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hs8XdzSRlpUkv2dc"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "sNrNYR2lN63k7Zrs",
+  "flags": {},
+  "type": 0,
+  "text": "Снаряд перелетел цель и упал далеко за ней.(+2 метра )",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XzhVNbs2LhDWFBH1.sNrNYR2lN63k7Zrs"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "ts84cRjou8LMlLD4",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: В доме вашей семьи поселилось привидение. Скорее всего, причина в том, что в этом доме многие погибли во время войны против людей.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XAJuTLzLB4Tvx03x.ts84cRjou8LMlLD4"
+}

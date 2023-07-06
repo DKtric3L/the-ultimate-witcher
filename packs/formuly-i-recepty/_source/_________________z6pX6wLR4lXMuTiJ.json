@@ -1,0 +1,186 @@
+{
+  "name": "Броня Скоя'таэля",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.z6pX6wLR4lXMuTiJ"
+    },
+    "cf": {
+      "id": "temp_7b35u0lwoec"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.4crLEUNPzlERNF5E]{Броня скоя'таэлей}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 3486,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-armor",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 20,
+    "alchemyDC": 0,
+    "craftingTime": "20ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "12",
+        "name": "Темная сталь"
+      },
+      {
+        "id": "_32eeymdyr",
+        "name": "Волчья шкура",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_o3e67f41n",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_9gwgi50ga",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "12"
+      },
+      {
+        "id": "_k3kor019z",
+        "name": "Пепел",
+        "percentage": "",
+        "quantity": "11"
+      },
+      {
+        "id": "_hyf9u36hb",
+        "name": "Двойное полотно",
+        "percentage": "",
+        "quantity": "8"
+      },
+      {
+        "id": "_8mhfei2tf",
+        "name": "Чернящее масло",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_s9cx0d40v",
+        "name": "Укрепленное дерево",
+        "percentage": "",
+        "quantity": "13"
+      },
+      {
+        "id": "_672vnhizx",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_1hdklx83a",
+        "name": "component",
+        "percentage": "",
+        "quantity": "9"
+      }
+    ],
+    "investment": 1738,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Броня скоя'таэлей",
+      "type": "armor",
+      "img": "icons/equipment/chest/shirt-collared-grey.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 12,
+        "cost": 2325,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 20,
+        "headMaxStopping": 20,
+        "torsoStopping": 20,
+        "torsoMaxStopping": 20,
+        "leftArmStopping": 20,
+        "leftArmMaxStopping": 20,
+        "rightArmStopping": 20,
+        "rightArmMaxStopping": 20,
+        "leftLegStopping": 20,
+        "leftLegMaxStopping": 20,
+        "rightLegStopping": 20,
+        "rightLegMaxStopping": 20,
+        "type": "Medium",
+        "avail": "Rare",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "+2 к скрытности в дикой местности"
+          }
+        ],
+        "encumb": 1,
+        "location": "FullCover",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.dospehi-starshego-naroda.3UKGH6681XfqUPMa"
+        },
+        "cf": {
+          "id": "temp_njuve1krma"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837865,
+        "modifiedTime": 1668162837865,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848410,
+    "modifiedTime": 1685496579562,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "z6pX6wLR4lXMuTiJ",
+  "folder": "secIjsE1CHuBPLzz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!z6pX6wLR4lXMuTiJ"
+}

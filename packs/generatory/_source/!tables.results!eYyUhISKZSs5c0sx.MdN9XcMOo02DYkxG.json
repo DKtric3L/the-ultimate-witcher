@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    90
+  ],
+  "drawn": false,
+  "text": "Защищают ли цель?",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "aTALt0POjF9aaIR8",
+  "_id": "MdN9XcMOo02DYkxG",
+  "flags": {},
+  "_key": "!tables.results!eYyUhISKZSs5c0sx.MdN9XcMOo02DYkxG"
+}

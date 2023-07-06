@@ -1,0 +1,78 @@
+{
+  "name": "Судьба",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-runed-glowing.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.relikvii-oruzhiya.XCQi9rN5irTQUlKk"
+    },
+    "cf": {
+      "id": "temp_158empsijjm"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 4,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 3,
+    "avail": "Rare",
+    "damage": "2d6+1",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Серебряное(6d6+4)",
+        "percentage": ""
+      },
+      {
+        "id": "_solzgiajj",
+        "name": "Ул. Фокус(Вода и огонь)",
+        "percentage": ""
+      },
+      {
+        "id": "_bey7vch6l",
+        "name": "Ошеломление",
+        "percentage": "75"
+      }
+    ],
+    "conceal": "NA",
+    "enhancements": 3,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Swordsmanship",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162877956,
+    "modifiedTime": 1685496616900,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "nKcsolrfNJpKgpY2",
+  "folder": "qosTfu30dYf09sIj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nKcsolrfNJpKgpY2"
+}

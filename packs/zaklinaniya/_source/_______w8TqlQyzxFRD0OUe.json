@@ -1,0 +1,60 @@
+{
+  "name": "Прилив",
+  "type": "spell",
+  "img": "icons/magic/water/wave-water-teal.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.fvQbFqvNeODEXZ4p"
+    },
+    "cf": {
+      "id": "temp_jbsyq0q4p1r"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Прилив вызывает большое количество воды, которая образует небольшую волну высотой по колено. Любое существо в пределах дистанции должно совершить проверку Атлетики СЛ 15 или будет сбито с ног и отброшено к концу конуса.",
+    "range": "10м конус",
+    "duration": "Мгновенное",
+    "defence": "Изм поз",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "10",
+    "templateType": "cone",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496638834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "w8TqlQyzxFRD0OUe",
+  "folder": "AEZFF14cMz7MkSyA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!w8TqlQyzxFRD0OUe"
+}

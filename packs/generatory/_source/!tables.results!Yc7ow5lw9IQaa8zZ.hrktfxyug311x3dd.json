@@ -1,0 +1,16 @@
+{
+  "text": "Зачарованный амулет",
+  "type": 2,
+  "img": "icons/equipment/neck/pendant-rough-gold-green.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "hrktfxyug311x3dd",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "kWYtsmKqwFMxreQs",
+  "_key": "!tables.results!Yc7ow5lw9IQaa8zZ.hrktfxyug311x3dd"
+}

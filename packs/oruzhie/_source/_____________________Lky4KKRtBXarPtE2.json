@@ -1,0 +1,74 @@
+{
+  "name": "Выслеживающая стрела",
+  "type": "weapon",
+  "img": "icons/skills/ranged/arrow-barbed-flying-poisoned-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_xyr6n29hmi"
+    },
+    "core": {
+      "sourceId": "Compendium.world.vedmache-snaryazhenie.3Edwi5Ag2GzbFzB7"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 22,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": true,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Выслеживание по запаху не требует проверок",
+        "percentage": ""
+      },
+      {
+        "id": "_0cro60ssk",
+        "name": "Пока снаряд в теле, в течение суток",
+        "percentage": ""
+      }
+    ],
+    "conceal": "S",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863937,
+    "modifiedTime": 1685496598722,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Lky4KKRtBXarPtE2",
+  "folder": "0v2BN2HUxsEmGuiX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Lky4KKRtBXarPtE2"
+}

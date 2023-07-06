@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Капитан дикой охоты",
+  "img": "modules/the-ultimate-witcher/assets/monsters/wild_hunt_captain.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "nSkcaGKGWSQHnMoS",
+  "_id": "1o7LFl06oEUhEYG3",
+  "flags": {},
+  "_key": "!tables.results!EUxnQJKVoy0GJjNc.1o7LFl06oEUhEYG3"
+}

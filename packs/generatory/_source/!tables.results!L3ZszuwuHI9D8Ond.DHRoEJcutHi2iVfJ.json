@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    17,
+    17
+  ],
+  "drawn": false,
+  "text": "Кусок камня",
+  "img": "icons/commodities/stone/paver-gravel-grey.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "rbqkL7wQiQ79vniO",
+  "_id": "DHRoEJcutHi2iVfJ",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.DHRoEJcutHi2iVfJ"
+}

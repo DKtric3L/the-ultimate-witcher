@@ -1,0 +1,66 @@
+{
+  "name": "Доспех школы волка",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-layered-leather-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_0w1zqqbn8lrf"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 12,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "reliability": 0,
+    "reliabilityMax": 0,
+    "headStopping": 0,
+    "headMaxStopping": 0,
+    "torsoStopping": 14,
+    "torsoMaxStopping": 14,
+    "leftArmStopping": 14,
+    "leftArmMaxStopping": 14,
+    "rightArmStopping": 14,
+    "rightArmMaxStopping": 14,
+    "leftLegStopping": 14,
+    "leftLegMaxStopping": 14,
+    "rightLegStopping": 14,
+    "rightLegMaxStopping": 14,
+    "type": "Medium",
+    "avail": "Rare",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "effects": [
+      {
+        "id": "_ww0s53hx3",
+        "name": "Всякий раз, когда вы наносите критическое ранение с помощью одного из ваших ведьмачьих орудий, вы можете сразу же попытаться нанести одиночный удар оружием в руках без дополнительных штрафов и без дополнительной траты выносливости.",
+        "percentage": ""
+      }
+    ],
+    "encumb": 1,
+    "location": "FullCover",
+    "equiped": false,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887304,
+    "modifiedTime": 1685496626987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "L4Fuo6ZWdZzepmpo",
+  "folder": "XIWiaRMuiNt3vpFW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!L4Fuo6ZWdZzepmpo"
+}

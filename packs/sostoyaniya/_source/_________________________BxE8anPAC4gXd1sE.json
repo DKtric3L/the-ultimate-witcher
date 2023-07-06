@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Хождение по воде",
+  "type": "effect",
+  "img": "icons/magic/water/bubbles-air-water-light.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.KoJG5cgxSjsYEAjy"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Вы можете ходить по воде 1d10 часов.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883187,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "BxE8anPAC4gXd1sE",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!BxE8anPAC4gXd1sE"
+}

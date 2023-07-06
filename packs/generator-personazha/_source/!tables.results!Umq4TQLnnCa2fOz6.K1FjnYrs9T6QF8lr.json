@@ -1,0 +1,16 @@
+{
+  "_id": "K1FjnYrs9T6QF8lr",
+  "flags": {},
+  "type": 0,
+  "text": "Равняется на вас.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Umq4TQLnnCa2fOz6.K1FjnYrs9T6QF8lr"
+}

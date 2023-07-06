@@ -1,0 +1,57 @@
+{
+  "name": "Усиление запахов",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-swirling-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_cilmpkpuxju"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Усиление запахов позволяет усилить существующий запах до тех пор, пока он не охватит площадь в 6 м кубических метров. Существо, которое начинает свой ход в этой области или входит в нее, должно пройти проверку Стойкости против вашей проверки Сотворения заклинаний, иначе его захлестнет запах и начнет тошнить в течении 1 минуты. Кроме того, любой, кто входит в эту область, пропитывается запахом в течение 1 недели вместе с их имуществом, что дает любому, у кого есть отслеживание запахов, +2 к их отслеживанию. Любое существо с Отслеживанием запахов теряет эту способность под действием этого заклинания. Этот запах сохраняется на время действия заклинания или до полного погружения в воду.",
+    "range": "10м",
+    "duration": "1 неделя",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496637828,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "OZnUecdhSjOEv2HZ",
+  "folder": "wsj51D7oIARoDcDr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OZnUecdhSjOEv2HZ"
+}

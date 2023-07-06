@@ -1,0 +1,16 @@
+{
+  "_id": "gnrDCDMdILjGyQdl",
+  "flags": {},
+  "type": 0,
+  "text": "В течение этого десятилетия возникла опасность.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    91,
+    100
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!09MXduRik0BKuUqa.gnrDCDMdILjGyQdl"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Северный ветер",
+  "type": "weapon",
+  "img": "modules/the-ultimate-witcher/assets/bombs/northern_wind.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 177,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "Тел*4м",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Радиус - 4 метра",
+        "percentage": ""
+      },
+      {
+        "id": "_oci7mqpms",
+        "name": "Жертва бомбы Замораживается, пока не Пройдёт проверку силы со Сл 18, либо по окончанию 8 раундов. Атака по нему Наносит доп-о 2d6 урона",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": false,
+    "isThrowable": true
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_rads4wdft3r"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.b5URHhKOdH4KOOso"
+    },
+    "scene-packer": {
+      "hash": "a538e109a5f6ebef862be35887fd6de1e69d02d8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1668162887309,
+    "modifiedTime": 1672740349437,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "gxEIKsNORnaDHozJ",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!CS4CydjSrkQZ1agY.gxEIKsNORnaDHozJ"
+}

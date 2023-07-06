@@ -1,0 +1,101 @@
+{
+  "name": "Формула: Отвар кракена",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-person-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a45doihc8"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.yMgdIJKNDbkY8j47]{Отвар кракена} требуется мутаген монстра и крепкий алкоголь для изготовления.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "level": "witcher",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 18,
+    "craftingTime": "30 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 5,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 1
+    },
+    "associatedItem": {
+      "name": "Отвар кракена",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/potions/kraken_potion.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 79,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "decoction",
+        "avail": "Rare",
+        "effect": "У вас +5 к Захвату, Обездвиживанию, Душению и Броску, и вы не можете быть обезоружены в бою.",
+        "time": "30 минут",
+        "toxicity": "75%"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_adni0hxf6rb"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887309,
+        "modifiedTime": 1668182654427,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848425,
+    "modifiedTime": 1685496578680,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "rst3P4htij1Vepye",
+  "folder": "Fb6VoHyNCjiAun2V",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!rst3P4htij1Vepye"
+}

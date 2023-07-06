@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "sccn3RZlRhj7QGR1",
+  "text": "Довольно толстое телосложение",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!jJqnqgeUQ5c4mIZv.sccn3RZlRhj7QGR1"
+}

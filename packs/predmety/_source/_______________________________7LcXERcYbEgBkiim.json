@@ -1,0 +1,44 @@
+{
+  "name": "Покрытый рунами деревянный кол",
+  "type": "valuable",
+  "img": "icons/commodities/wood/fence-post-brown.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3c3due15ne4",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.xjgkK0P9HFpJuKHF"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868986,
+    "modifiedTime": 1685496603524,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7LcXERcYbEgBkiim",
+  "folder": "UbFFcpt1rc9xdlDQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7LcXERcYbEgBkiim"
+}

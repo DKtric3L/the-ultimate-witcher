@@ -1,0 +1,57 @@
+{
+  "name": "Серебряный свет (Лилвани)",
+  "type": "spell",
+  "img": "icons/magic/light/beam-rays-yellow-blue-small.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Призывая силу Богини Луны Лилвани, вы помечаете до 5 человек благословением лунного света, которое укрывает их в самый темный час. Во время действия этой инвокации затронутые персонажи не получают штрафов за то, что они находятся в пределах своего Порога Ранения или в Смертельном Состоянии, и в первый раз, когда их хиты опускаются ниже 1 очка жизни, они вместо этого уменьшаются до 1 очка жизни.",
+    "range": "2м",
+    "duration": "До след восхода",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892173,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Hyrgl2TDMj78CFs6",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Hyrgl2TDMj78CFs6"
+}

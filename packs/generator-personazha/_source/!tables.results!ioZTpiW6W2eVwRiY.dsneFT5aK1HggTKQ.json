@@ -1,0 +1,16 @@
+{
+  "_id": "dsneFT5aK1HggTKQ",
+  "flags": {},
+  "type": 2,
+  "text": "Siblings: Dwarves/Halflings",
+  "img": "icons/sundries/flags/banner-silver-white.webp",
+  "weight": 1,
+  "range": [
+    1,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "RIfph1wEw6TYmbhF",
+  "_key": "!tables.results!ioZTpiW6W2eVwRiY.dsneFT5aK1HggTKQ"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "VSc9ry4JowYa3Rgz",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Воин. Наибольшее влияние на вас оказал солдат, научивший защищаться. Снаряжение - Боевой трофей.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!pEnsTvMCEOoLB7Xi.VSc9ry4JowYa3Rgz"
+}

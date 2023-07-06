@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    41,
+    80
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "9aI5xDJrCdTZRSQn",
+  "text": "Здание в Деревне. Шанс 30% (Результат - [[1d100]]), там будет -",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!2nPZyx6jaWlSsu2G.9aI5xDJrCdTZRSQn"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Принадлежности для готовки",
+  "type": 2,
+  "img": "icons/tools/cooking/cauldron-empty.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "_id": "gazi5i522vbytazn",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Fd38siB3rAKoRgTE",
+  "_key": "!tables.results!4AYecdsS7Lk1Q27l.gazi5i522vbytazn"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "zr9L8SkmKgKC3FJH",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Маг Турга (+1 стойкости)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!P9HHqXymm9mINwdH.zr9L8SkmKgKC3FJH"
+}

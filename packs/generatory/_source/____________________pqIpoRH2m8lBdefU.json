@@ -1,0 +1,64 @@
+{
+  "name": "Магические предметы",
+  "img": "icons/commodities/gems/gem-faceted-diamond-pink-gold.webp",
+  "description": "A random table created from the contents of the Магические предметы Folder.",
+  "results": [
+    "OVYikhFwryFN9leI",
+    "ozXTBmPZHvJ6THq1",
+    "sVsdLnIdyMfCTlK4",
+    "KcFQoRBLiKae0wcj",
+    "m1LfHRK66MWlaB3S",
+    "wEJy3u9fL0IcDuQA",
+    "LYJpl5JhyfBwGPOK",
+    "oxSghD48R6YoHfk3",
+    "2oXDZzjhXCyYgtBd",
+    "r4ZkAdFW6Iy3P1YL",
+    "9Eii6cce7Zd8c5Ah",
+    "I56DsCZM7SqC96JP",
+    "mA36XRCR28zFfgzF",
+    "cCKsy3f7xs4Z2kyX",
+    "Y6cZ24LI1L9PfRyi",
+    "R5tXEkh9FN9wRvlY",
+    "FDI3VBZ6e3oMxYkP",
+    "S2z15HEja54pa5mu",
+    "gbDtEnxg4xhps5vy",
+    "rVtN2kxUeWciMvZv",
+    "6wXLMDTLg5I1n1MX",
+    "B3lAioV6ZqCWbxbP",
+    "mQEtca5EPXqkz5j9",
+    "W4fir4RKznWYbBqy",
+    "TymvuEXAWvD4SCcT",
+    "pLLE507wjmQFqac9",
+    "euahIQcLvUEAG7Om",
+    "mzRFvGmBWIDRvFJL",
+    "g0KokcAhpImXmbcU",
+    "fdNOy7KLcEpVwK3v"
+  ],
+  "formula": "1d30",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.f3zMrCOoX91bsVtA"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932909,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pqIpoRH2m8lBdefU",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!pqIpoRH2m8lBdefU"
+}

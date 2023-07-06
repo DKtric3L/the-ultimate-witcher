@@ -1,0 +1,16 @@
+{
+  "_id": "Vx3z4WFjiDBTHcUa",
+  "type": 0,
+  "text": "Украли свиток. заклинаний Начните со свитка заклинаний подмастерья. Определите с Мастером, какое заклинание записано в свитке.",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!EM1uMos8Enfzk9Rj.Vx3z4WFjiDBTHcUa"
+}

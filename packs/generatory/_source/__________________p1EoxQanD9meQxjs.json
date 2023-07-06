@@ -1,0 +1,37 @@
+{
+  "name": "Чертёж Компонента",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-black-red.webp",
+  "description": "Если нужно, поставь замок на том, что не хочешь разыгрывать.",
+  "results": [
+    "gv5rl7zX4PNMuAyv",
+    "3yFTfNXCGflwpezo",
+    "VMvlpZLCVx6fyg6G"
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.p1kuDtFfXojA47KB"
+    },
+    "cf": {
+      "id": "temp_c7t3jk2q5hm"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668330989854,
+    "modifiedTime": 1685496644377,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "6P29UjutkIAiKpOL",
+  "sort": 0,
+  "_id": "p1EoxQanD9meQxjs",
+  "_key": "!tables!p1EoxQanD9meQxjs"
+}

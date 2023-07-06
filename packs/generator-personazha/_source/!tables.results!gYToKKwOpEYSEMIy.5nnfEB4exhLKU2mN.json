@@ -1,0 +1,16 @@
+{
+  "_id": "5nnfEB4exhLKU2mN",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Аристократия. Вы выросли в богатом особняке, где слуги исполняли любую вашу прихоть. От вас ожидали хорошего поведения и умения произвести впечатление. Начальное снаряжение - Дворянская грамота(+2 к репутации)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gYToKKwOpEYSEMIy.5nnfEB4exhLKU2mN"
+}

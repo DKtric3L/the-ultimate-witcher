@@ -1,0 +1,16 @@
+{
+  "text": "Щит налётчика скеллиге",
+  "type": 2,
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "xpehzgjz2z4fbq4o",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "v38fRzQ8KnI4edQ9",
+  "_key": "!tables.results!y4812hCEgD5hikg4.xpehzgjz2z4fbq4o"
+}

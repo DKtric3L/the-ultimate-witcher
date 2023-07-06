@@ -1,0 +1,16 @@
+{
+  "_id": "9t3vlCRN1fZGcMad",
+  "type": 0,
+  "text": "ензура. Вас попросили найти и стереть все следы запрещенного произведения. Его автор теперь жаждет мести. Сделайте бросок по таблице Обиды, чтобы определить, кто это.",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!tqR33wiWBL1kl5WV.9t3vlCRN1fZGcMad"
+}

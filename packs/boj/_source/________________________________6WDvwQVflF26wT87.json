@@ -1,0 +1,37 @@
+{
+  "name": "Опасности некромантии - Новичок",
+  "img": "icons/magic/death/skull-humanoid-white-blue.webp",
+  "results": [
+    "UwcIg8Bby3RNCJAF",
+    "pvoeThCZxgh0rubU",
+    "d95sDRN6iatIyRn3"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.generator-personazha.yAuN9xs7h5L4LwX6"
+    },
+    "cf": {
+      "id": "temp_fwm9l8vsfd"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897076,
+    "modifiedTime": 1685496658067,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "6WDvwQVflF26wT87",
+  "folder": "Wb6CKRNqRjBQl5Uy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!6WDvwQVflF26wT87"
+}

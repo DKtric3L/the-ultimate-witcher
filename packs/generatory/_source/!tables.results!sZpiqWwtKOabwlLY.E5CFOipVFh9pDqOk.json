@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Белое пламя(Великое солнце)",
+  "img": "icons/magic/light/explosion-star-large-blue-yellow.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "64PnJF98IMsr3FbR",
+  "_id": "E5CFOipVFh9pDqOk",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.E5CFOipVFh9pDqOk"
+}

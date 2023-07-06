@@ -1,0 +1,37 @@
+{
+  "name": "Полное укрытие",
+  "type": "effect",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "system": {
+    "description": "Когда по персонажу ведут огонь лучники, арбалетчики, маги и им подобные, он может спрятаться за укрытием. Любой твердый предмет может защитить вас от снаряда и считается укрытием, если стоит между вами и атакующим. Атака должна пробить укрытие. прежде чем заденет персонажа. Если атака наносить достаточно, урона, чтобы преодолеть прочность укрытия, остальной урон сначала принимает на себя броня персонажа, а потом уже сам персонаж.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.rdL3vmVoXpvxEdp8"
+    },
+    "cf": {
+      "id": "temp_00lmohvs9pjjb"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670457835341,
+    "modifiedTime": 1685496622115,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "1OzZrXYcwi6ijefN",
+  "sort": 0,
+  "_id": "Kh7AAZxnBGCQKDXE",
+  "_key": "!items!Kh7AAZxnBGCQKDXE"
+}

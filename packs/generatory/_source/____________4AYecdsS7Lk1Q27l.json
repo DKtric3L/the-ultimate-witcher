@@ -1,0 +1,57 @@
+{
+  "name": "Инструменты",
+  "img": "icons/tools/hand/lockpicks-steel-grey.webp",
+  "results": [
+    "q5nhctbmrxrc2f0d",
+    "ddwac9fivs4wsh2w",
+    "yrwjztoq7cb2a9za",
+    "cebmjvqj3rt7m9um",
+    "fai5w1rloz8izqmt",
+    "r1hzmjz6hppsu3oj",
+    "haxzo18hckhq4j50",
+    "gazi5i522vbytazn",
+    "i7doe3amyna2826p",
+    "3ustt0o7ijkv611c",
+    "etgtclwmxyxjoss7",
+    "n21cpu62xxhtmo7i",
+    "c1ebje38tylcy59j",
+    "wtzlq0hnh5gcur3g",
+    "navwguh803up4r7m",
+    "m7wvtz8nn9mkk9bo",
+    "imop3ujv7wamwt3j",
+    "7bdcla3gbyp8hhd2",
+    "uqjj89bmdwuhqaty",
+    "ied5hyanuvq4wxgi",
+    "j9ss6fie5jxviwoo",
+    "wdju8s9axlchsk1l",
+    "tdsxa02pbum5oj19"
+  ],
+  "formula": "1d23",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.oG3kLN50DzzhseHc"
+    },
+    "cf": {
+      "id": "temp_821s28rjmn5"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932902,
+    "modifiedTime": 1685496644651,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4AYecdsS7Lk1Q27l",
+  "folder": "4LgjfJkTNXpLTal1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!4AYecdsS7Lk1Q27l"
+}

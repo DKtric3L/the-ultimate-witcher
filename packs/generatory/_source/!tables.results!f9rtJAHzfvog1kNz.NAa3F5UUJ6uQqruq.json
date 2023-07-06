@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    23,
+    23
+  ],
+  "drawn": false,
+  "text": "Курительная трубка",
+  "img": "icons/sundries/misc/pipe-wooden-curved-oak.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "d2iC3YmphfFHe9Jt",
+  "_id": "NAa3F5UUJ6uQqruq",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.NAa3F5UUJ6uQqruq"
+}

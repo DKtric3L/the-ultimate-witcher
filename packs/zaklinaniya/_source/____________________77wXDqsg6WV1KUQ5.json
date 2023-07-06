@@ -1,0 +1,78 @@
+{
+  "name": "Сделать совместимым",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zhest.8sxJ1QajhxI7ebCr"
+    },
+    "cf": {
+      "id": "temp_irvl6ds3fn"
+    }
+  },
+  "system": {
+    "description": "<p>Если ваше завершенное Существо обладало Разумным Интеллектом, они превращается в существа с Интеллектом Животных, что означает, что их Интеллект уменьшается до единицы, но они по-прежнему используют свой первоначальный Интеллект для Выживания в Дикой местности и Внимания, которые должны быть добавлены к их основам Навыков для этих навыков. Используемая в качестве компонента руна Триглава не разрушается в ходе эксперимента, а внедряется в существо на поверхности его мозга. Теоретически её можно убрать проверкой Лечащего прикосновения с СЛ: 24, которая удалит эту Черту и вернет существу прежний интеллект.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "ingredients",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": null,
+    "alchemyDC": 0,
+    "craftingTime": "",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Синий мутаген"
+      },
+      {
+        "id": "_egzr49r9g",
+        "name": "Триглав",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_wor5bt2hy",
+        "name": "Талант мутации 5 уровня(Маг)",
+        "percentage": "",
+        "quantity": "5"
+      }
+    ],
+    "investment": null,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892173,
+    "modifiedTime": 1685496637677,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "77wXDqsg6WV1KUQ5",
+  "folder": "vGJDximI7xAFPxUk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!77wXDqsg6WV1KUQ5"
+}

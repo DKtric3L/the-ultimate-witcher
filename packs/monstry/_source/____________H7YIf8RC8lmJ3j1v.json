@@ -1,0 +1,46 @@
+{
+  "name": "Дымная пыль",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/smoke_dust.webp",
+  "system": {
+    "description": "",
+    "quantity": "2d6",
+    "weight": 0.1,
+    "cost": 146,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Призраки, грифоны, полуденницы и големы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "hydragenum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_qvpxq7w0ybj",
+      "color": "#5c65e6"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.rNSrdHMGuHHn1NUt"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853699,
+    "modifiedTime": 1669961080688,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "H7YIf8RC8lmJ3j1v",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!BMGqD34xhP9UQWVc.H7YIf8RC8lmJ3j1v"
+}

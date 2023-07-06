@@ -1,0 +1,37 @@
+{
+  "name": "Чертёж боеприпасов",
+  "img": "icons/sundries/scrolls/scroll-runed-brown-purple.webp",
+  "description": "Если нужно, поставь замок на том, что не хочешь разыгрывать.",
+  "results": [
+    "xs7Vtwk08Rv0bGZz",
+    "l9KF7lpzJhxPymtA",
+    "mFnkEYVTS3DNGcLA"
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.p1kuDtFfXojA47KB"
+    },
+    "cf": {
+      "id": "temp_c7t3jk2q5hm"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668330989854,
+    "modifiedTime": 1685496644377,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "6P29UjutkIAiKpOL",
+  "sort": 0,
+  "_id": "KmkfY7Z2aPq7kdGL",
+  "_key": "!tables!KmkfY7Z2aPq7kdGL"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "drawn": false,
+  "text": "Чаша с землей",
+  "img": "icons/commodities/materials/powder-black.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "c8aFl5bH6BkumFAX",
+  "_id": "jhD85MQZEoELARzr",
+  "flags": {},
+  "_key": "!tables.results!UsMLn6LlS08K6zwk.jhD85MQZEoELARzr"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Оружие и Доспехи",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "_id": "1OzZrXYcwi6ijefN",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!1OzZrXYcwi6ijefN"
+}

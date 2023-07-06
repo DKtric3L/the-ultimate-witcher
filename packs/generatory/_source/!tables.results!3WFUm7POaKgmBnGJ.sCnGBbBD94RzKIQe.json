@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Листья Вольчего Алоэ",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/aloe.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "RYf8uYl9U3Z9JFxF",
+  "_id": "sCnGBbBD94RzKIQe",
+  "flags": {},
+  "_key": "!tables.results!3WFUm7POaKgmBnGJ.sCnGBbBD94RzKIQe"
+}

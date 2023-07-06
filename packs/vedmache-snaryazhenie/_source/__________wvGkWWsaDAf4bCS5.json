@@ -1,0 +1,40 @@
+{
+  "name": "Бешенство",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/bombs/rage.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_5rbvvy0nejs"
+    }
+  },
+  "system": {
+    "description": "Радиус - 8 метров, вид - стихийная ловушка.\nЛюбой, попавший в зону взрыва, должен пройти проверку Стойкости,СЛ 18. При провале он начинает сражаться с ближайшим к нему существом, пока не совершит успешную проверку.",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 114,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887304,
+    "modifiedTime": 1685496626910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wvGkWWsaDAf4bCS5",
+  "folder": "VDu2hM2Irbb4cMQW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!wvGkWWsaDAf4bCS5"
+}

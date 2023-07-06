@@ -1,0 +1,16 @@
+{
+  "_id": "XuZ6hadcSzQ0CeB8",
+  "type": 0,
+  "text": "Отдача заклинания. Заклинание, которое вы произнесли, имело ужасные неприятные последствия. Порог энергии понижен на 1",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!sXXtH4a5k1pk0l84.XuZ6hadcSzQ0CeB8"
+}

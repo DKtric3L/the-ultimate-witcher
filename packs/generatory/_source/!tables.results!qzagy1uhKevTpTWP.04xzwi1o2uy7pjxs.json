@@ -1,0 +1,16 @@
+{
+  "text": "Простая одежда",
+  "type": 2,
+  "img": "icons/equipment/back/cloak-brown.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "04xzwi1o2uy7pjxs",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "900JYcLR25pLAqZs",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.04xzwi1o2uy7pjxs"
+}

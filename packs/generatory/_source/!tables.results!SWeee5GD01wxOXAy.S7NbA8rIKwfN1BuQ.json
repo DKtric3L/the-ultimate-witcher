@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Разбойник - Арбалетчик",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Brokvar_the_hunter_Grafit_Studio.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "S2LF5EJPGBCwbZNF",
+  "_id": "S7NbA8rIKwfN1BuQ",
+  "flags": {},
+  "_key": "!tables.results!SWeee5GD01wxOXAy.S7NbA8rIKwfN1BuQ"
+}

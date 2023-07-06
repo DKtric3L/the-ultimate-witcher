@@ -1,0 +1,44 @@
+{
+  "name": "Кошка",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/cat.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 22,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Нет штрафов в темноте или при слабом свете. Вы\nтакже невосприимчивы к гипнозу и получаете\nбонус +2 к раскрытию иллюзий.",
+    "time": "2 часа",
+    "toxicity": "25%"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.aOm9iCZGrBAzo9Y4"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1669962227904,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "ImIeDX3guD6H3hqx",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!5LLHqstrIQe4XKBE.ImIeDX3guD6H3hqx"
+}

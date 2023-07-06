@@ -1,0 +1,60 @@
+{
+  "_id": "jC854tx4vHhTsLfQ",
+  "name": "Дьявольская удача",
+  "type": "spell",
+  "img": "icons/tools/smithing/horsehoe-worn-steel-grey.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_60zlp8zqudv"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.BhwlLY9WYEadXOME"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "novice",
+    "source": "",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Периодически жертву постигает неудача. В особо стрессовых ситуациях, например в бою или при необходимости выполнить что-то за установленный срок или совершить проверку со СЛ выше 15, жертва получает критический провал при выпадении 1 или 2 на d1O.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Medium",
+    "liftRequirement": "Жертва должна вбить серебряный гвоздь в дверную раму у себя дома и повесить на него 2 единицы аконита, связанные локо ном волос девственницы. Затем жертве надлежит встать под этим гвоздём, зажечь подвешенную связку из волос и аконита и вдохнуть поглубже.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!TAgpqRjhqjZdQ6fL.jC854tx4vHhTsLfQ"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Вспышка Деметии Крест",
+  "type": 2,
+  "img": "icons/magic/fire/barrier-wall-explosion-orange.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "GOJrpvSOlhUesP66",
+  "documentId": "LA5GHrJG8yd0BKK2",
+  "flags": {},
+  "_key": "!tables.results!iYD2we7cDsTiRycD.GOJrpvSOlhUesP66"
+}

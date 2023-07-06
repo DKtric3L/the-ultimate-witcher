@@ -1,0 +1,40 @@
+{
+  "name": "Белый мёд",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/white_honey.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 9.5,
+    "cost": 21,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Снижает до нуля токсичность и отменяет\nэффекты всех эликсиров.",
+    "time": "нет",
+    "toxicity": "нет"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887304,
+    "modifiedTime": 1685496626799,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "CqGmUKZ7dQTUbGDI",
+  "folder": "QxSFI02IPk07KY7Y",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!CqGmUKZ7dQTUbGDI"
+}

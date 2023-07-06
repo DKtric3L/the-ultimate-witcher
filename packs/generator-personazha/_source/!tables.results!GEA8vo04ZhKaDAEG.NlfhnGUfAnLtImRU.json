@@ -1,0 +1,16 @@
+{
+  "_id": "NlfhnGUfAnLtImRU",
+  "flags": {},
+  "type": 0,
+  "text": "Удача - Рыцарство. В случайно выбранном королевстве вас посвятили в рыцари за храбрость. В этом королевстве вы получаете бонус +2 к репутации и считаетесь рыцарем.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!GEA8vo04ZhKaDAEG.NlfhnGUfAnLtImRU"
+}

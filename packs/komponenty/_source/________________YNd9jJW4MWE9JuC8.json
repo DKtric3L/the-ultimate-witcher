@@ -1,0 +1,44 @@
+{
+  "name": "Печень Паршивца",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/liver_monstrous_64x64.png.6926.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_tzqg8ehy1le"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.dgoshb3IRtlniDj0"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 84,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Паршивцы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "caelum"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853703,
+    "modifiedTime": 1685496584286,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "folder": "ItbLDKzKz9HeLxk9",
+  "sort": 0,
+  "_id": "YNd9jJW4MWE9JuC8",
+  "_key": "!items!YNd9jJW4MWE9JuC8"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Селестин",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/props/selestin.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.tLVHcVBNplZrhnWC"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 64,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "alchemical",
+    "avail": "Poor",
+    "effect": "После употребления, вам начнут мерещиться цветные огни и приятные звуки. Это мешает сосредоточиться и даёт штраф -2 к Вниманию и к любой деятельности, требующей сосредоточения. Действие селестина заканчивается через 2d10 минут, но можно прекратить его и раньше успешной проверкой Стойкости со СЛ 14",
+    "time": "2d10 минут",
+    "toxicity": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868988,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "tLVHcVBNplZrhnWC",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!tLVHcVBNplZrhnWC"
+}

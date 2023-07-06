@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Случайный Аер",
+  "img": "systems/TheWitcherTRPG/assets/images/caelum.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "aqXhAXKuSB54oPN5",
+  "_id": "n76m0LNO4ulhopxA",
+  "flags": {},
+  "_key": "!tables.results!KazdLyCjT8qCW9UV.n76m0LNO4ulhopxA"
+}

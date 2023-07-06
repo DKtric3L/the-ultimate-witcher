@@ -1,0 +1,16 @@
+{
+  "text": "Огонь Мельгара",
+  "type": 2,
+  "img": "icons/magic/fire/projectile-fireball-sparks-orange.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "nj6mO4riOWuclLLr",
+  "documentId": "n8eqy5K44INqY1uR",
+  "flags": {},
+  "_key": "!tables.results!MSvx4NoGMyd3Bmbo.nj6mO4riOWuclLLr"
+}

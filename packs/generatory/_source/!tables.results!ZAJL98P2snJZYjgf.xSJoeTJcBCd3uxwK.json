@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "drawn": false,
+  "text": "Яга с бандой",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "5rG3rtDMSrIBaFGD",
+  "_id": "xSJoeTJcBCd3uxwK",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.xSJoeTJcBCd3uxwK"
+}

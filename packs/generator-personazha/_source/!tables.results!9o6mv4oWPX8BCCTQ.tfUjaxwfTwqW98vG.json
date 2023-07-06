@@ -1,0 +1,16 @@
+{
+  "_id": "tfUjaxwfTwqW98vG",
+  "flags": {},
+  "type": 0,
+  "text": "Неудача - Несчастный случай. Бросьте 1d10: 1-4 вы изуродованы, измените ваш социальный статус на \"опасение\". 5-6 Вы лечились 1d10 месяцев. 7-8 Вы потеряли память о 1d10 месяцев того года. 9-10 вас мучают жуткие кошмары.(С вероятностью 7 из 10 каждый раз во время сна).",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!9o6mv4oWPX8BCCTQ.tfUjaxwfTwqW98vG"
+}

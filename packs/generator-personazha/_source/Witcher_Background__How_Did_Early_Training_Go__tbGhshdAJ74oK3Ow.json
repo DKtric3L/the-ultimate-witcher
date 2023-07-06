@@ -1,0 +1,56 @@
+{
+  "name": "Witcher Background: How Did Early Training Go?",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "q0DM4FW7XCnFdKZu",
+    "87E9eABpMKlUvGn5",
+    "oKZeEBIq2FLMNk2e",
+    "JcJEQE8T9biOf2UC",
+    "kQX7ZeIIWKy5yTPF",
+    "CnrQloHHzlne08PH",
+    "36ROPw9QWjYWmpBV",
+    "EjpUyBW2tKuwSB3E",
+    "9kVdEtFeX4a3nAoe",
+    "Q0E2wKno4GDkBsEU",
+    "cQfRuoxqB1FI58LA",
+    "9hoqeLEEu2wbXq0Y",
+    "th9s2aW3pwS3ZZX2",
+    "oyc8IVQRocy7fHWF",
+    "tfUjaxwfTwqW98vG",
+    "e4Efc40kCH5BBm9x",
+    "XFy2l49tSxFMwvUu",
+    "XEUXNKAzTxw9mgck",
+    "NlfhnGUfAnLtImRU",
+    "6dhXq4Wi1xnG3pCe"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.ub0OgKJtPKbMpWUS"
+    },
+    "cf": {
+      "id": "temp_axvl3ljag6"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162957143,
+    "modifiedTime": 1685496652379,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "ghKESyZyM9aHCqmD",
+  "sort": 0,
+  "_id": "tbGhshdAJ74oK3Ow",
+  "_key": "!tables!tbGhshdAJ74oK3Ow"
+}

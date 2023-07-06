@@ -1,0 +1,16 @@
+{
+  "text": "Благословение удачи",
+  "type": 2,
+  "img": "icons/magic/control/buff-luck-fortune-green.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "_id": "2mnyunmjlw5o9m06",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "hMBe9vFrh0un8IHp",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.2mnyunmjlw5o9m06"
+}

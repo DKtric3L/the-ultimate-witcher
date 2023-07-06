@@ -1,0 +1,16 @@
+{
+  "_id": "m3XZiRnt3EwOvCb0",
+  "type": 2,
+  "text": "Жрец - Мастер",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "NhqlCImviS9V9dZw",
+  "_key": "!tables.results!uz9ikhf4NEYfo1Fs.m3XZiRnt3EwOvCb0"
+}

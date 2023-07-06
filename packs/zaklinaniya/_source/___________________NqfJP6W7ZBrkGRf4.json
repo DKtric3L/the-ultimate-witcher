@@ -1,0 +1,57 @@
+{
+  "name": "Магическая вспышка",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-glow-blue-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_p8nj0svlvn"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "fire",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Создаёт яркую вспышку над головой заклинателя. Все, кто находится в радиусе 8 м, должны совершить проверку Сопротивления магии или будут ослеплены на ld6 раундов. Вспышку видно на расстоянии 10 километров.",
+    "range": "радиус 8 м",
+    "duration": "мгновенное",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "rect",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность слепоты(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892163,
+    "modifiedTime": 1685496637857,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NqfJP6W7ZBrkGRf4",
+  "folder": "FdN7jfCUOYKOAJAb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NqfJP6W7ZBrkGRf4"
+}

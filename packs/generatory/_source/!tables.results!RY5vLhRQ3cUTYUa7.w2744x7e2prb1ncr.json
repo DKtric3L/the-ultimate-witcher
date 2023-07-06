@@ -1,0 +1,16 @@
+{
+  "text": "Странная маска",
+  "type": 2,
+  "img": "icons/equipment/head/mask-horned-brown.webp",
+  "weight": 1,
+  "range": [
+    25,
+    25
+  ],
+  "drawn": false,
+  "_id": "w2744x7e2prb1ncr",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "zCLlRcwO7dmnyA0n",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.w2744x7e2prb1ncr"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Оружие - Мастер",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "results": [
+    "4g65zxzo1g9kbg4j",
+    "2so52pc0xmt6k6iy",
+    "u3hxkan6jaont8vb",
+    "2blnouiaksib0r1c",
+    "qxayu4153j45ywed",
+    "e4f6xh9la5d57fou",
+    "75o3qe6tj0gxmejv",
+    "pa1zxubt93n3back",
+    "6k94s7gy62nxwtwn",
+    "h2b8csqd0m56xx5h",
+    "v17mryko2esw1x2b",
+    "jew7xphbnwmdlm5t",
+    "b5c8iqo2lyiememz",
+    "o4i3lf3pbh9rfk44",
+    "rx8ibgrzfyojy17z",
+    "a7iyne11ldkwkxp0",
+    "xuy8vafuc9mejf1q",
+    "2i3olqkbk4obf9tj",
+    "yicx4sjyqockfych"
+  ],
+  "formula": "1d19",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.jOpjEOFTYh8WiM4C"
+    },
+    "cf": {
+      "id": "temp_w8j8kxtvyk"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932913,
+    "modifiedTime": 1685496644485,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "vjX8KP5K25SZ2VlZ",
+  "folder": "YQvs7SSKK7I1szPG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!vjX8KP5K25SZ2VlZ"
+}

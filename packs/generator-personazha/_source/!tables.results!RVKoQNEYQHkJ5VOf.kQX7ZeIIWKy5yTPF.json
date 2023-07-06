@@ -1,0 +1,16 @@
+{
+  "_id": "kQX7ZeIIWKy5yTPF",
+  "flags": {},
+  "type": 0,
+  "text": "Ваш возлюбленный попал в тюрьму или был изгнан за преступления, которые он, возможно, не совершал",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!RVKoQNEYQHkJ5VOf.kQX7ZeIIWKy5yTPF"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Шелк",
+  "type": "component",
+  "img": "icons/commodities/cloth/cloth-bolt-gold-orange.webp",
+  "system": {
+    "description": "",
+    "quantity": "1d10",
+    "weight": 0.1,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "crafting-material",
+    "rarity": "Poor",
+    "location": "Покупается",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_0cj8i72dlee",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.93tLX5u6u343RqSu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1668162853707,
+    "modifiedTime": 1680485065333,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_id": "XCx2RYH3DHW9d9M4",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!oUDoU5on0nbVcv4Z.XCx2RYH3DHW9d9M4"
+}

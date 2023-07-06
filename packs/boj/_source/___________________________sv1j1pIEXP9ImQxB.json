@@ -1,0 +1,43 @@
+{
+  "name": "Провал: Атака ближнего боя",
+  "img": "icons/weapons/swords/greatsword-crossguard-barbed.webp",
+  "description": "",
+  "results": [
+    "6w7u4al2hJm1WXVY",
+    "IiifsxIwa6NmNcHJ",
+    "hEBVRKAGVTfRpjkN",
+    "cDa0CLnwaqFixJQz",
+    "zq8PF1uVPo71ZtiK",
+    "OvFTTclGSvqCt1mc",
+    "bKpR1FiYKElMobHG",
+    "2ePhGJv7UjtlFBVv",
+    "xLgxtC7MWgfx3ero"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.qTXguzOIloHCa9zP"
+    },
+    "cf": {
+      "id": "temp_fwm9l8vsfd"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897079,
+    "modifiedTime": 1685496658067,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "sv1j1pIEXP9ImQxB",
+  "folder": "Wb6CKRNqRjBQl5Uy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!sv1j1pIEXP9ImQxB"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Эффект трофея - Грифон",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/trophy/griffin.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.lZTRxOAm7FAy4aI5"
+    },
+    "cf": {
+      "id": "temp_mgri5lboda"
+    }
+  },
+  "system": {
+    "description": "При броске на критическое ранение сделайте бросок дважды и сохраните результат по вашему выбору.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883179,
+    "modifiedTime": 1685496622016,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RglsHn0FcKwC3MX8",
+  "folder": "Ny5twfeEX4VEIr47",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RglsHn0FcKwC3MX8"
+}

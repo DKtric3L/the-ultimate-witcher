@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "EEoPRV5iigXgOX5w",
+  "text": "Препятствие - Отвлечение. Происходит другое событие, отвлекающее вас от расследования.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!xuzjTXTUEcDG5KXw.EEoPRV5iigXgOX5w"
+}

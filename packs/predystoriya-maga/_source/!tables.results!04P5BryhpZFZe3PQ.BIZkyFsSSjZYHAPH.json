@@ -1,0 +1,16 @@
+{
+  "_id": "BIZkyFsSSjZYHAPH",
+  "type": 0,
+  "text": "Развили связь с другим учеником. Вы и еще один студент проводили время вместе расслабляясь. Вы получаете союзника-мага. Сделайте бросок по таблице союзников, чтобы увидеть, насколько вы близки и какова их ценность.",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!04P5BryhpZFZe3PQ.BIZkyFsSSjZYHAPH"
+}

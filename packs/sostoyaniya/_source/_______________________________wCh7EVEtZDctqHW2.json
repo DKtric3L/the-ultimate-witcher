@@ -1,0 +1,51 @@
+{
+  "name": "Открытый перелом ноги (Лечено)",
+  "type": "effect",
+  "img": "icons/skills/wounds/bone-broken-marrow-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ks31k8lzmi"
+    }
+  },
+  "system": {
+    "description": "От удара нога сломана и не может двигаться.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-2"
+      }
+    ],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkRefDodge",
+        "modifier": "-2"
+      },
+      {
+        "id": "_ng7ciz23b",
+        "skill": "WITCHER.SkDexAthletics",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883170,
+    "modifiedTime": 1685496621834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "wCh7EVEtZDctqHW2",
+  "folder": "mfpZq5Y96MD9CzKb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!wCh7EVEtZDctqHW2"
+}

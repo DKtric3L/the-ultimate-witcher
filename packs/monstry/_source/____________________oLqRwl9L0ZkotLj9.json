@@ -1,0 +1,43 @@
+{
+  "_id": "oLqRwl9L0ZkotLj9",
+  "name": "Трофей моровой девы",
+  "type": "valuable",
+  "img": "icons/commodities/biological/hand-gnarled-purple.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.zn7ES2eP3jUstDjf"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "system": {
+    "description": "Вас постоянно окружает туча мух. Противники в ближнем бою с вами получают -2 к своим действиям и 10% шанс получить состояние болезни. Вы также получаете -2 к Соблазнению, Убеждению, Внешнему виду из-за мух",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!GvHkNN3d16eUO8Ig.oLqRwl9L0ZkotLj9"
+}

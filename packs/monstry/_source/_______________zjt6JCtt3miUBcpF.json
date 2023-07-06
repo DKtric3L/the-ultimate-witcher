@@ -1,0 +1,66 @@
+{
+  "_id": "zjt6JCtt3miUBcpF",
+  "name": "Огонь Мельгара",
+  "type": "spell",
+  "img": "icons/magic/fire/projectile-fireball-sparks-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_wcrqgntympb"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.n8eqy5K44INqY1uR"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "fire",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Это заклинание посеяло немало хаоса на полях Долины Понтара. Оно позволяет низвергнуть с небес на большую зону огненные шары. Любой, кроме заклинателя, кто находится в зоне действия заклинания, может попасть под удар огненного шара с шансом 75%. При попадании огненного шара цель должна защищаться со СЛ, равной результату проверки Сотворения заклинаний заклинателя, чтобы не получить 4d6 урона в случайную часть тела с 75%-ным шансом горения.",
+    "range": "Радиус 40м",
+    "duration": "2d6 раундов",
+    "defence": "Укл или блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Шанс попасть под удар",
+        "percentage": "75"
+      },
+      {
+        "id": "_hv1j6o4rv",
+        "name": "Горение",
+        "percentage": "75"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!ctnZdItFrR5kV9N2.zjt6JCtt3miUBcpF"
+}

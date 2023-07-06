@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "AD0Vg5eTDMatIz4A",
+  "text": "[[1d6]] Особей",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!y7UQs56lm0JSaADw.AD0Vg5eTDMatIz4A"
+}

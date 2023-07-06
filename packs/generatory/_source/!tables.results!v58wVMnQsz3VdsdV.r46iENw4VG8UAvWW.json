@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Болезнь: Скрытая чахотка",
+  "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
+  "documentCollection": "the-ultimate-witcher.sostoyaniya",
+  "documentId": "Rj7iCchmpAuesl5z",
+  "_id": "r46iENw4VG8UAvWW",
+  "flags": {},
+  "_key": "!tables.results!v58wVMnQsz3VdsdV.r46iENw4VG8UAvWW"
+}

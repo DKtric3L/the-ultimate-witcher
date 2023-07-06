@@ -1,0 +1,16 @@
+{
+  "text": "Размягчение Земли",
+  "type": 2,
+  "img": "icons/magic/earth/projectile-stone-landslide.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "d4g8Intzon0T8TvX",
+  "documentId": "5nWKMGq2gCJ5D4r5",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.d4g8Intzon0T8TvX"
+}

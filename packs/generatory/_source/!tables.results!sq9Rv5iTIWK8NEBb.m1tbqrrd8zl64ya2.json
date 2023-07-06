@@ -1,0 +1,16 @@
+{
+  "text": "Краснолюдский топор",
+  "type": 2,
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "_id": "m1tbqrrd8zl64ya2",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "documentId": "D7e5WQ65BgHYUd09",
+  "_key": "!tables.results!sq9Rv5iTIWK8NEBb.m1tbqrrd8zl64ya2"
+}

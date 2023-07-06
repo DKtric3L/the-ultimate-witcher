@@ -1,0 +1,46 @@
+{
+  "name": "Корень зарника",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/herbs/allspice_root_64x64.png.6656.png",
+  "system": {
+    "description": "",
+    "quantity": "3",
+    "weight": 0.1,
+    "cost": 18,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Poor",
+    "location": "Поля",
+    "quantityObtainable": "1d6",
+    "forage": "15",
+    "substanceType": "aether"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_4o2s0rjm0j",
+      "color": "#4ab2bf"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.DQ9oWviYotvxPMRl"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669965221044,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "2DJymU3Gc13CN33Y",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!mzLvpWjcjx1a20dS.2DJymU3Gc13CN33Y"
+}

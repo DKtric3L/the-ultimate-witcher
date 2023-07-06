@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Головорез",
+  "img": "modules/the-ultimate-witcher/assets/monsters/pirat_captain.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "7zVOBOxzCk0Fe3rq",
+  "_id": "6NayLbDMOOtzTvsi",
+  "flags": {},
+  "_key": "!tables.results!SOe1MZwzFO30nA2h.6NayLbDMOOtzTvsi"
+}

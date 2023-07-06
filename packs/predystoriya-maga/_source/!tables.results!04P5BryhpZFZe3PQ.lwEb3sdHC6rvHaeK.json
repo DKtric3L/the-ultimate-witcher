@@ -1,0 +1,16 @@
+{
+  "_id": "lwEb3sdHC6rvHaeK",
+  "type": 0,
+  "text": "Найдены подсказки о местонахождении реликвии. Проконсультируйтесь с мастером, чтобы определить, что это за реликвия и что вы знаете.",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!04P5BryhpZFZe3PQ.lwEb3sdHC6rvHaeK"
+}

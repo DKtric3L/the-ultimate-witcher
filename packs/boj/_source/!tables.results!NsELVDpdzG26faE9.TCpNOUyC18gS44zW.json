@@ -1,0 +1,16 @@
+{
+  "_id": "TCpNOUyC18gS44zW",
+  "type": 0,
+  "text": "10 зубов",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NsELVDpdzG26faE9.TCpNOUyC18gS44zW"
+}

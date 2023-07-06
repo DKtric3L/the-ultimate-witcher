@@ -1,0 +1,16 @@
+{
+  "text": "Погибель Фергуса",
+  "type": 2,
+  "img": "icons/magic/death/blood-corruption-vomit-red.webp",
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "OBkwpgYYw5z9jnsF",
+  "documentId": "k9h7EBJX1Y73V2df",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.OBkwpgYYw5z9jnsF"
+}

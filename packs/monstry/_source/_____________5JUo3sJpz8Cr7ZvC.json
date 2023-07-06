@@ -1,0 +1,44 @@
+{
+  "name": "Трофей игоши",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/igosha.webp",
+  "system": {
+    "description": "Вас Опасаются, и если вас уже были Опасались, бонусы удваиваются.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "L",
+    "quality": ""
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.J3U6pqH5fa2b43nj"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1669964906384,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "5JUo3sJpz8Cr7ZvC",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!xwwlvxpawjpgC2ht.5JUo3sJpz8Cr7ZvC"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Эффект: Ощущение вибраций",
+  "type": "effect",
+  "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.YaREiH3bdty91cgd"
+    },
+    "cf": {
+      "id": "temp_wp5x8cmij1a"
+    }
+  },
+  "system": {
+    "description": "Вы слышите шаги в радиусе 100 метров и можете определить существо, издающее их. Длится 1d10 минут.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883185,
+    "modifiedTime": 1685496621633,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "914QPeu69AXTMSMc",
+  "folder": "ikPFDRZuwOOFTNLy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!914QPeu69AXTMSMc"
+}

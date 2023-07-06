@@ -1,0 +1,16 @@
+{
+  "_id": "Aupjx9gqdL7IdDsG",
+  "flags": {},
+  "type": 0,
+  "text": "Септический шок: удар повредил органы и их содержимое попало в кровь. Вын снижается вчетверо, -3 к инт, воле, реа и лвк, истекает кровью. Стабилизация: Вын снижена вдвое, -1 к инт, воле, реа, лвк. Лечение: Перманентный штраф -5 к выносливости.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!X3USf2pbLIFAaAM9.Aupjx9gqdL7IdDsG"
+}

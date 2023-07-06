@@ -1,0 +1,38 @@
+{
+  "name": "Неясность",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "xT365UsGy2wzsydr",
+    "R9pMWpTFm300G2lX",
+    "0e0KG9dvwmayDjSZ",
+    "8El82x4AWsI62TN4"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_spqeuj14p"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644789,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "TXf9PYigJ0fdpiZy",
+  "sort": 0,
+  "_id": "y4PRqT9elfd6BHh3",
+  "_key": "!tables!y4PRqT9elfd6BHh3"
+}

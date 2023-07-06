@@ -1,0 +1,36 @@
+{
+  "name": "Жизнь мага - осторожная",
+  "img": "icons/magic/nature/leaf-oak-wreath-glow-green.webp",
+  "description": "",
+  "results": [
+    "H5lz4Zlcvv5hJ4wM",
+    "BnSr5AMLjgHJbyA1",
+    "IIquHxO4firfm22X",
+    "4U0QMpLon6ufcxOx",
+    "pbXDOuOI5YjmkuqL"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.phuuYhVc9Yxt913b"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668163145197,
+    "modifiedTime": 1668163203658,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_id": "C6Bplt6jmJ2Oefer",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!C6Bplt6jmJ2Oefer"
+}

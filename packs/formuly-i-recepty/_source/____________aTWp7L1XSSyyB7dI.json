@@ -1,0 +1,164 @@
+{
+  "name": "Чёртов гриб",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.aTWp7L1XSSyyB7dI"
+    },
+    "cf": {
+      "id": "temp_qcbrs1shnce"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.BLZA8wuOWMulac1I]{Чёртов гриб}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "bomb",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Речная глина"
+      },
+      {
+        "id": "_s8h92gsup",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_at3dgpxu0",
+        "name": "Зерриканская смесь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_hiaxbrf5w",
+        "name": "Лепестки гинации",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_9z44f553m",
+        "name": "Зеленая плесень",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 92,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Чёртов гриб",
+      "type": "weapon",
+      "img": "modules/the-ultimate-witcher/assets/bombs/devils_mushroom.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 1,
+        "cost": 138,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Стихийное",
+          "slashing": false,
+          "piercing": false,
+          "bludgeoning": false,
+          "elemental": true
+        },
+        "isAmmo": false,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Rare",
+        "damage": "0",
+        "reliable": 0,
+        "maxReliability": 0,
+        "hands": "1",
+        "range": "Тел*4м",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Отравление",
+            "percentage": "100"
+          },
+          {
+            "id": "_h0bv03haz",
+            "name": "Наносит 2х урон от яда",
+            "percentage": ""
+          },
+          {
+            "id": "_h9t9fr0mo",
+            "name": "Радиус поражения - 4 метра",
+            "percentage": ""
+          }
+        ],
+        "conceal": "T",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Athletics",
+        "rollOnlyDmg": false,
+        "isThrowable": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rads4wdft3r"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162887311,
+        "modifiedTime": 1672543531328,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848432,
+    "modifiedTime": 1685496579796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "aTWp7L1XSSyyB7dI",
+  "folder": "vIuywOMpy1LOwsfX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!aTWp7L1XSSyyB7dI"
+}

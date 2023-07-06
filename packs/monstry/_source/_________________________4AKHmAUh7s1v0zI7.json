@@ -1,0 +1,26 @@
+{
+  "_id": "4AKHmAUh7s1v0zI7",
+  "name": "Электричество и двимерит",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Получая более 10 урона электричеством, голем проходит проверку устойчивости с порогом 7. Двимерит замедляет голема, запрещает использовать атаку с разбега и сокрушающий удар, -2 ко всем параметрам, пока действует двимерит."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!wQAhDtp1XwWrOyYb.4AKHmAUh7s1v0zI7"
+}

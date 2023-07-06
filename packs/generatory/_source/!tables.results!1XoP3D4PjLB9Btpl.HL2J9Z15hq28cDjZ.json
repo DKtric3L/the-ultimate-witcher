@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Серебро",
+  "img": "icons/commodities/metal/ingot-silver.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "ArRW0sOZ63PHrja4",
+  "_id": "HL2J9Z15hq28cDjZ",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.HL2J9Z15hq28cDjZ"
+}

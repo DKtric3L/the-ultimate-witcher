@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "text": "Предзнаменование несчастья (Нехалени)",
+  "img": "icons/magic/control/modfiy-luck-fortune-red.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "5w6ITPw24MEpkkZI",
+  "_id": "C5eXSNTQfaHRiIBC",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.C5eXSNTQfaHRiIBC"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Печаль Лейтогга",
+  "type": "spell",
+  "img": "icons/magic/water/tendrils-ice-thorns.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.a9kyAbxTtSuSLVjN"
+    },
+    "cf": {
+      "id": "temp_jbsyq0q4p1r"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "Water",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Лейтогг был могущественным магом воды, который выжил после нападения кракена. Он создал это заклинание, чтобы попытаться использовать силу существа, которое преследовало его в кошмарах. \n\nКаждое существо в пределах дистанции, даже дружелюбное, видит, как из вас появляются щупальца, сделанные из воды, и хватают цель за горло. Цель получает 2d6 дробящего урона, который не поглощается броней, и начинает задыхаться в следующий ход. Цель также захвачена. Для освобождения ей необходимо пройти проверку Уклонения/ Изворотливости, так как щупальце держит крепко. Щупальце можно сломать, если нанести ему нанесено 10 единиц урона.",
+    "range": "6м",
+    "duration": "Пока не освободится",
+    "defence": "Укл/Блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Удушье"
+      },
+      {
+        "id": "_v7u3xyzgj",
+        "name": "Урон сквозь броню",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892167,
+    "modifiedTime": 1685496638834,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "i9y43U1QDG9VxQ9p",
+  "folder": "AEZFF14cMz7MkSyA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!i9y43U1QDG9VxQ9p"
+}

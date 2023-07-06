@@ -1,0 +1,65 @@
+{
+  "name": "Клык змеи",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-crooked-black.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ub4c5p36xla"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 1,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 1,
+    "avail": "Rare",
+    "damage": "2d6+2",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "_rq24eomm9",
+        "name": "Парирующее",
+        "percentage": ""
+      }
+    ],
+    "conceal": "S",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Small Blades",
+    "rollOnlyDmg": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1685496626852,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "J3MPUpP8MRe9GCAJ",
+  "folder": "Lk96M8TXGicgbRqb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!J3MPUpP8MRe9GCAJ"
+}

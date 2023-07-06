@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "LK3DKHHtvpTPpN2G",
+  "text": "Убийца - Этот вампир предпочитает убивать, дождавшись подходящего момента и нанеся удар из-за угла.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!Bed4im3bPyQSRfGC.LK3DKHHtvpTPpN2G"
+}

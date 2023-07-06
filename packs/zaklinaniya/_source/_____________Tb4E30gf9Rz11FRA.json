@@ -1,0 +1,57 @@
+{
+  "name": "Взор природы",
+  "type": "spell",
+  "img": "icons/creatures/eyes/slime-single-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a1f9vxmt8yw"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "druid",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Взор природы позволяет видеть существ, не свойственных этому измерению. Заклинатель может разглядеть чудовищ в пределах 50 метров даже сквозь препятствия. Увиденные таким образом чудовища кажутся светящимися.",
+    "range": "на себя",
+    "duration": "актив(1 вын)",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892154,
+    "modifiedTime": 1685496638262,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Tb4E30gf9Rz11FRA",
+  "folder": "KJ7hbWltUlxzYhEM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Tb4E30gf9Rz11FRA"
+}

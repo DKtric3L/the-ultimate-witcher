@@ -1,0 +1,55 @@
+{
+  "name": "Как вы обнаружили свои способности?",
+  "img": "icons/svg/circle.svg",
+  "description": "Как вы обнаружили свои способности?",
+  "results": [
+    "bwG7OkGMumdeTQk7",
+    "rZ57yqAzMoQ8NIe5",
+    "Y8ctYrdTHorWfqFx",
+    "vp7xFSjVuAdwMMiI",
+    "uQsnEwLSwszBYgOI",
+    "FOwmDQsaVDVndQyU",
+    "BAgMSsZTdaVKKZv3",
+    "HwF0uhXxRv4Fvfqr",
+    "wwkXFCF4zVDaU2vz",
+    "Z0sTxkUNDiG31qfY",
+    "seAxs85o3b2OVIKq",
+    "a9hY3MSeX7E9vcOB",
+    "WVbqgAhdIR2O6kNc",
+    "rV5kxdKCmVnbJe9D",
+    "QbdkjSiZzbLrRNSY",
+    "cnoC3mJ9u6pE9k2I",
+    "DWlZeJxJlGQ9nsur",
+    "wiiCoaaSagNoarJp",
+    "L5b6w8ADP4dgKqZg",
+    "FChOSirLJcBrsmud"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.C24n2jKRQDPk1wo0"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901091,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "Qtl5AXfoknQ4Q0zv",
+  "_key": "!tables!Qtl5AXfoknQ4Q0zv"
+}

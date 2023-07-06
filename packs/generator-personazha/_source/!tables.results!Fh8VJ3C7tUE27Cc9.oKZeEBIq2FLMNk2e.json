@@ -1,0 +1,16 @@
+{
+  "_id": "oKZeEBIq2FLMNk2e",
+  "flags": {},
+  "type": 0,
+  "text": "Роман. У вас появился любовный интерес - тот, кому плевать на ваши мутации и отсутствие эмоций. Сделайте бросок 1d10: 1-6 всё длилось пару недель, 7-8 длилось пару месяцев, 9-10 роман до сих пор продолжается с переменным успехом.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Fh8VJ3C7tUE27Cc9.oKZeEBIq2FLMNk2e"
+}

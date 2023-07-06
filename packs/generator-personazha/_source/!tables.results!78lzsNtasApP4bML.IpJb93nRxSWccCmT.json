@@ -1,0 +1,16 @@
+{
+  "_id": "IpJb93nRxSWccCmT",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Цидарис (+1 Мореходство)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!78lzsNtasApP4bML.IpJb93nRxSWccCmT"
+}

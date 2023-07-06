@@ -1,0 +1,53 @@
+{
+  "name": "Силач",
+  "type": "effect",
+  "img": "icons/creatures/invertebrates/ant-strength-green.webp",
+  "system": {
+    "description": "+1 к силе и +25 кг к переносимому весу.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_iorsliol3",
+        "derivedStat": "WITCHER.Actor.CoreStat.Enc",
+        "modifier": "25"
+      }
+    ],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkBodyPhys",
+        "modifier": "1"
+      }
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c398ab4bc9a4b06427ab8c9e740d366907c6b91b",
+      "sourceId": "Item.4Pi9GwGNpxjDBYz2"
+    },
+    "core": {
+      "sourceId": "Item.4Pi9GwGNpxjDBYz2"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672536438742,
+    "modifiedTime": 1685496622089,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "Hnn2EcVlHadYjBS3",
+  "sort": 0,
+  "_id": "q99C6tgfTzfnjVDG",
+  "_key": "!items!q99C6tgfTzfnjVDG"
+}

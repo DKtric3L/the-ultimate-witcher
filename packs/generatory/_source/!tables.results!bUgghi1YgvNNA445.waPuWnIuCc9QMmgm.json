@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Глифовые и рунные слова",
+  "img": "icons/commodities/metal/ingot-stamped-spiral.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "rEKb2IOfF0Xfuv4K",
+  "_id": "waPuWnIuCc9QMmgm",
+  "flags": {},
+  "_key": "!tables.results!bUgghi1YgvNNA445.waPuWnIuCc9QMmgm"
+}

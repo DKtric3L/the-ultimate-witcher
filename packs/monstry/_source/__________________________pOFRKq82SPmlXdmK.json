@@ -1,0 +1,26 @@
+{
+  "name": "Уязвимость: Сердце голема",
+  "type": "note",
+  "_id": "pOFRKq82SPmlXdmK",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Комплект живых доспехов скреплен сердцем голема, подвешенным внутри туловища с помощью магии. Сердце голема нельзя выбрать целью. Однако, когда броня туловища живых доспехов снижается до 0 ПБ, сердце голема обнажается. Следующая атака по туловищу живой брони попадает в сердце и мгновенно убивает живой доспех."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680483802028,
+    "modifiedTime": 1680483837768,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!VbTqxwnvdGPEOxXG.pOFRKq82SPmlXdmK"
+}

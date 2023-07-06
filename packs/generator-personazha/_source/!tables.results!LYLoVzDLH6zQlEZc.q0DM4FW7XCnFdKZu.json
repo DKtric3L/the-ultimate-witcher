@@ -1,0 +1,16 @@
+{
+  "_id": "q0DM4FW7XCnFdKZu",
+  "flags": {},
+  "type": 0,
+  "text": "Как прошли испытания - Почти смертельно(Дополнительно -1 к Эмп и Тел). Испытание травами практически разрушило ваше тело. Вы пережили процесс, но ваши тело и разум навсегда повреждены.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    -3,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!LYLoVzDLH6zQlEZc.q0DM4FW7XCnFdKZu"
+}

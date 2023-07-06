@@ -1,0 +1,51 @@
+{
+  "name": "Новичок - Земля",
+  "description": "A random table created from the contents of the Земля Folder.",
+  "results": [
+    "AjQQUqVm4RV3dmc7",
+    "zYH6z0tdxJTXjt0s",
+    "FZBJ3zZ9w64iaztC",
+    "24JRKAkKQmo8so9Z",
+    "5GsmOYXquTowx2kj",
+    "GoxKx8hgJbgXArmU",
+    "tJwpJ5DTG84iewVC",
+    "sKfoCDPaHq6SaTLf",
+    "6cRo9rxkHwfDriXG",
+    "wRVCXlx6UtXgQ5lk",
+    "JbwuJ9QCRoPQmfsk",
+    "d4g8Intzon0T8TvX",
+    "YXs5sHhO2AcW3Gjc"
+  ],
+  "formula": "1d13",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1e9c1846949999eda337de83f14fecad3b01b9d0",
+      "sourceId": "RollTable.6TALL9AM6NQCUedP"
+    },
+    "core": {
+      "sourceId": "RollTable.6TALL9AM6NQCUedP"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593140093,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "ZascaJBEL6PLtfdv",
+  "_key": "!tables!ZascaJBEL6PLtfdv"
+}

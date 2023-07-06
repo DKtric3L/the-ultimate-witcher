@@ -1,0 +1,73 @@
+{
+  "name": "Формула заклинания(Новичок)",
+  "type": "diagrams",
+  "img": "icons/sundries/scrolls/scroll-bound-gold-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.9ku1en5oTUt5E1Rj"
+    },
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "<p>Получи бонус +2 в проверке обучения данного заклинания:</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 100,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-weapon",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 14,
+    "alchemyDC": 0,
+    "craftingTime": "4 дня",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "_upryhbike",
+        "name": "Очки улучшения",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_6x8cwwldu",
+        "name": "Число проверок",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868994,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "kP7VQhpS7xnqywg4",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!kP7VQhpS7xnqywg4"
+}

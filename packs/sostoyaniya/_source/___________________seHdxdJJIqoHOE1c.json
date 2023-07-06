@@ -1,0 +1,43 @@
+{
+  "name": "Симптом: Усталость",
+  "type": "effect",
+  "img": "icons/environment/people/commoner.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.uxzWK9Zud3pvDF9M"
+    },
+    "cf": {
+      "id": "temp_nxdlb2anpj"
+    }
+  },
+  "system": {
+    "description": "Сил почти нет.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_n5j5zm0nv",
+        "derivedStat": "WITCHER.Actor.CoreStat.Rec",
+        "modifier": "/2"
+      }
+    ],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1685496621715,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "seHdxdJJIqoHOE1c",
+  "folder": "gc7euHqdhcoTNbKd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!seHdxdJJIqoHOE1c"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "EciBuRQOv0LjHHM8",
+  "type": 2,
+  "text": "Что случилось - Экспе",
+  "weight": 1,
+  "range": [
+    1,
+    30
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "world.dop-tablicy-predystorii-maga",
+  "documentId": "TztrFD8DsOdyj17d",
+  "_key": "!tables.results!PO08F83GvQhjYB2b.EciBuRQOv0LjHHM8"
+}

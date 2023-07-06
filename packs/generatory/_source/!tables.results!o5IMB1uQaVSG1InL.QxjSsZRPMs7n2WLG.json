@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    28,
+    28
+  ],
+  "drawn": false,
+  "text": "Соленая рыба",
+  "img": "icons/consumables/meat/fillet-fish-pink-silver-gray.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "gQQxVDGrZjXibewZ",
+  "_id": "QxjSsZRPMs7n2WLG",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.QxjSsZRPMs7n2WLG"
+}

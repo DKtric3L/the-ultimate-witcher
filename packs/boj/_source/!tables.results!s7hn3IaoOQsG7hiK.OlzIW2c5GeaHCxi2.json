@@ -1,0 +1,16 @@
+{
+  "_id": "OlzIW2c5GeaHCxi2",
+  "flags": {},
+  "type": 0,
+  "text": "Сильный занос. Транспорт скользит 1d10*2 метров боком по направлению движения, при столкновении с объектами применить правила атаки с разбега.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!s7hn3IaoOQsG7hiK.OlzIW2c5GeaHCxi2"
+}

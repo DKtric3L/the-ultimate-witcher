@@ -1,0 +1,40 @@
+{
+  "name": "Потеря управления транспортом",
+  "img": "icons/environment/settlement/ship.webp",
+  "results": [
+    "6MBEl0tLYVFIn7zR",
+    "OlzIW2c5GeaHCxi2",
+    "VmZlsmcJudyNWenE",
+    "ICI1xNZjqK1Re92d",
+    "7NcozHj3WQT98qOn"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {},
+    "core": {
+      "sourceId": "RollTable.ybaekNQyhnP3Sila"
+    },
+    "cf": {
+      "id": "temp_fwm9l8vsfd"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897077,
+    "modifiedTime": 1685496658067,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "s7hn3IaoOQsG7hiK",
+  "folder": "Wb6CKRNqRjBQl5Uy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!s7hn3IaoOQsG7hiK"
+}

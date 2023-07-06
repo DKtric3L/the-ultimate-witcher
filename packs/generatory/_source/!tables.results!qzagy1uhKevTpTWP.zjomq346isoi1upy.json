@@ -1,0 +1,16 @@
+{
+  "text": "Модная одежда",
+  "type": 2,
+  "img": "icons/equipment/head/hat-cocked-feather-green.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "_id": "zjomq346isoi1upy",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "jsjq7JncCyfhPTEL",
+  "_key": "!tables.results!qzagy1uhKevTpTWP.zjomq346isoi1upy"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Лечение",
+  "pages": [
+    "rQj4ll9IIRvXD8VV"
+  ],
+  "flags": {
+    "exportSource": {
+      "world": "TWH",
+      "system": "TheWitcherTRPG",
+      "coreVersion": "10.290",
+      "systemVersion": "0.94"
+    },
+    "core": {
+      "sourceId": "JournalEntry.mvq6wBbqfxK5ngkn"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1670412901189,
+    "modifiedTime": 1670412901189,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "_id": "jl8cZlvZV2IXTHkF",
+  "_key": "!journal!jl8cZlvZV2IXTHkF"
+}

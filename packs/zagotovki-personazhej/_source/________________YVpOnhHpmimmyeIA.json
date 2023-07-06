@@ -1,0 +1,44 @@
+{
+  "_id": "YVpOnhHpmimmyeIA",
+  "name": "Потайной карман",
+  "type": "valuable",
+  "img": "icons/containers/bags/coinpouch-simple-leather-tan.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_hdwmzt8oxfu",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.gXeafPvzCWKZmePM"
+    }
+  },
+  "system": {
+    "description": "Такой небольшой кармашек, вшиваемый с изнанки одежды, вмещает 5 кг маленьких предметов (проверка Внимания со СЛ 16 для обнаружения).",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 13,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "containers",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!p22j81fJJYgk0Zfx.YVpOnhHpmimmyeIA"
+}

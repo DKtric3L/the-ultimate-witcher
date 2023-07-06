@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Компоненты - Подмастерье",
+  "img": "icons/sundries/documents/blueprint-recipe-alchemical.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "Nb84nq0KgUOPZTKP",
+  "_id": "3yFTfNXCGflwpezo",
+  "flags": {},
+  "_key": "!tables.results!p1EoxQanD9meQxjs.3yFTfNXCGflwpezo"
+}

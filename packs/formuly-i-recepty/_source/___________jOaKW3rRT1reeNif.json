@@ -1,0 +1,19 @@
+{
+  "color": "#454545",
+  "name": "Боеприпасы",
+  "sorting": "m",
+  "type": "Item",
+  "folder": "lDj0Nv9hoeZyWmFS",
+  "_id": "jOaKW3rRT1reeNif",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!jOaKW3rRT1reeNif"
+}

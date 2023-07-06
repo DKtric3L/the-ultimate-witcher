@@ -1,0 +1,16 @@
+{
+  "text": "Свет истины",
+  "type": 2,
+  "img": "icons/magic/fire/elemental-fire-humanoid.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "_id": "qcdtjvipqx9zdude",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "Kukt29D2QsOaCfEQ",
+  "_key": "!tables.results!BQnwhYLDPhlZmp69.qcdtjvipqx9zdude"
+}

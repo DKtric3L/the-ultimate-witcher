@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "xQskuj5DGIIneY6A",
+  "text": "Постоялый Двор",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!aWowh4i4QMPO10vA.xQskuj5DGIIneY6A"
+}

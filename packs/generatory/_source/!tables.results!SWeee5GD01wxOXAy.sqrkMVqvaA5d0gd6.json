@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Разбойник с кинжалами",
+  "img": "modules/the-ultimate-witcher/assets/monsters/pirat_captain.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "iGd0QBdshoPGnDZ9",
+  "_id": "sqrkMVqvaA5d0gd6",
+  "flags": {},
+  "_key": "!tables.results!SWeee5GD01wxOXAy.sqrkMVqvaA5d0gd6"
+}

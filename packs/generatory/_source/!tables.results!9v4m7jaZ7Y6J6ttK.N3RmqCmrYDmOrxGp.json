@@ -1,0 +1,16 @@
+{
+  "text": "Теория Эльгана",
+  "type": 2,
+  "img": "icons/magic/light/circle-window-clock-blue.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "N3RmqCmrYDmOrxGp",
+  "documentId": "r4v80EGsd3X4cNzI",
+  "flags": {},
+  "_key": "!tables.results!9v4m7jaZ7Y6J6ttK.N3RmqCmrYDmOrxGp"
+}

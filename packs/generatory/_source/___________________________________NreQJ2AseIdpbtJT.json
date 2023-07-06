@@ -1,0 +1,43 @@
+{
+  "name": "Боеприпасы - обычные - Подмастерье",
+  "description": "A random table created from the contents of the Подмастерье Folder.",
+  "results": [
+    "be4Xz4hhdcylQ1dI",
+    "lxjOehcp5Agkt8kQ",
+    "ToluI3qo6lmFNf2B",
+    "HViywdQgW8LASVXu",
+    "YWoHjQgbLzFnUs7h"
+  ],
+  "formula": "1d5",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2a8af362dcad97168ab35e9878b2e713145a56ad",
+      "sourceId": "RollTable.0irG1kFlRmGJGqZQ"
+    },
+    "core": {
+      "sourceId": "RollTable.0irG1kFlRmGJGqZQ"
+    },
+    "cf": {
+      "id": "temp_cdl3vwuxc69"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672829135296,
+    "modifiedTime": 1685496644432,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "0AbuyKzqZg8gmn41",
+  "sort": 0,
+  "_id": "NreQJ2AseIdpbtJT",
+  "_key": "!tables!NreQJ2AseIdpbtJT"
+}

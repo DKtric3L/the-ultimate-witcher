@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Ледяной тролль",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Ledanoy_troll_Devos_Florian.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "bAEOLxHJhoAM8XVN",
+  "_id": "Q4kVe4XxXuQuaRyy",
+  "flags": {},
+  "_key": "!tables.results!MmZRVfw0QtTylPNl.Q4kVe4XxXuQuaRyy"
+}

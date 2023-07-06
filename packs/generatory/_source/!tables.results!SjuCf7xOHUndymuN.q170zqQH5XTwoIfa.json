@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Лучник нильфгаарда",
+  "img": "modules/the-ultimate-witcher/assets/monsters/nilfgaardian_archer.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "BRZlIDL3ivuqs6jg",
+  "_id": "q170zqQH5XTwoIfa",
+  "flags": {},
+  "_key": "!tables.results!SjuCf7xOHUndymuN.q170zqQH5XTwoIfa"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Омела",
+  "img": "systems/TheWitcherTRPG/assets/images/hydragenum.png",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "sdXIzz5I4LkjF9lq",
+  "_id": "CeZfIUL4NzGASWRt",
+  "flags": {},
+  "_key": "!tables.results!cs1VG8mi4Kqh4ALO.CeZfIUL4NzGASWRt"
+}

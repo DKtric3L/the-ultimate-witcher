@@ -1,0 +1,42 @@
+{
+  "name": "Заказ - Исключительные",
+  "img": "icons/svg/biohazard.svg",
+  "description": "",
+  "results": [
+    "rc5tCVnE4OSnnUQa",
+    "jUfXdwwiACgcnuKP",
+    "9Pqy4VU2TatufUco",
+    "iEhBVBYz8SWy3JxA",
+    "Zx9QF8IVKKza58Mi",
+    "QiPd8nkqfXfK9wht",
+    "9TzXvunmD6he5Kec",
+    "7AdiU03TPOwANtmw"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_fs1p2hgxhmu"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496644753,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ZZd02IQkbh9qxG3G",
+  "sort": 0,
+  "_id": "4iNJUoQumJ4PqAVp",
+  "_key": "!tables!4iNJUoQumJ4PqAVp"
+}

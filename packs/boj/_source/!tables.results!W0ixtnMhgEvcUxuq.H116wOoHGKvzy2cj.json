@@ -1,0 +1,16 @@
+{
+  "_id": "H116wOoHGKvzy2cj",
+  "type": 0,
+  "text": "Травма сердца: Немедленно пройдите испытание против смерти. Если персонаж выжил, он истекает кровью, а его вын, скор и тел снижаются вчетверо. Стабилизация: Вын, скор и тел снижены вдвое. Лечение: Перманентный дополнительный урон +2 от кровотечений.",
+  "weight": 1,
+  "range": [
+    5,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!W0ixtnMhgEvcUxuq.H116wOoHGKvzy2cj"
+}

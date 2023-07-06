@@ -1,0 +1,16 @@
+{
+  "_id": "5k0jxtIvzmH6UNl5",
+  "flags": {},
+  "type": 2,
+  "text": "Witcher Lifepath: Risky Outcome",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    25
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "9wLVgbnUAU3Sxvhj",
+  "_key": "!tables.results!6zn78Gj7lZtJfS90.5k0jxtIvzmH6UNl5"
+}

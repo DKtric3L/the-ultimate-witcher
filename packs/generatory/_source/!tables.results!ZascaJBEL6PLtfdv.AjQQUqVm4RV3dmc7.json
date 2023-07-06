@@ -1,0 +1,16 @@
+{
+  "text": "Сенли Грейг",
+  "type": 2,
+  "img": "icons/magic/earth/projectile-boulder-yellow.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "AjQQUqVm4RV3dmc7",
+  "documentId": "XZdlGgroiTcZKiid",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.AjQQUqVm4RV3dmc7"
+}

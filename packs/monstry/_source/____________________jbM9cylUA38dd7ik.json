@@ -1,0 +1,43 @@
+{
+  "name": "Формула - Ведьмачья",
+  "type": "valuable",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a8f177654a213b5b4f7638cda37922cef888b2d0"
+    },
+    "core": {
+      "sourceId": "Item.TDTWPb7sjejNJ0Sy"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.95",
+    "coreVersion": "10.291",
+    "createdTime": 1672657970466,
+    "modifiedTime": 1672739901308,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "jbM9cylUA38dd7ik",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!4AIajYIPFFjscffC.jbM9cylUA38dd7ik"
+}

@@ -1,0 +1,75 @@
+{
+  "_id": "VxDUTtrqBSvJ2pmJ",
+  "name": "Удар корнями",
+  "type": "weapon",
+  "img": "icons/magic/nature/root-vine-entangled-hand.webp",
+  "effects": [],
+  "folder": "jVWhIVj192hpX9be",
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.cbnzpBQJmvQjsLDQ"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Стихийное",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": true
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": null,
+    "avail": "Everywhere",
+    "damage": "6d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "В качестве действия полного хода леший может зарыться руками в землю и приказать корням атаковать зону ради усом 2 метра в пределах 20 метров от лешего. Все в этой зоне должны совершить проверку изменения позиции со СЛ 17. Если изменение позиции не позволяет передви нуться на достаточное расстояние, чтобы выйти из зоны атаки, защита не удалась. Либо цель может попытаться блокировать атаку щитом (СЛ та же).",
+        "percentage": ""
+      },
+      {
+        "id": "_3c67hhw59",
+        "name": "Жертва отлетает на 4 метра",
+        "percentage": ""
+      },
+      {
+        "id": "_f9pnkr1d2",
+        "name": "При успешном блоке, пройди проверку силы со сл 18, иначе отлетишь на 4 метра",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!9iFDcoHx6bfRsyV3.VxDUTtrqBSvJ2pmJ"
+}

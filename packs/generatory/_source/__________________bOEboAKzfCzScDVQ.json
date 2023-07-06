@@ -1,0 +1,39 @@
+{
+  "name": "Маг - Подмастерье",
+  "img": "icons/magic/control/buff-flight-wings-runes-red.webp",
+  "description": "",
+  "results": [
+    "YmDpgWbJ78P9srQl",
+    "RhbqEPT581D0CDiD",
+    "mbyvSgaAvGnu0MRr",
+    "a7aNkMdkm5L4qU5y",
+    "HuZ4px8BnyjxbQne"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.BnF2UHQVu01RyRbU"
+    },
+    "cf": {
+      "id": "temp_h10nponc3b"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932907,
+    "modifiedTime": 1685496644866,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "bOEboAKzfCzScDVQ",
+  "folder": "mmgJeU18B00wxANi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!bOEboAKzfCzScDVQ"
+}

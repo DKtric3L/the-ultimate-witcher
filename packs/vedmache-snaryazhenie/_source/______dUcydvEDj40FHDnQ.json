@@ -1,0 +1,40 @@
+{
+  "name": "Метка",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/bombs/fire_mark.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_5rbvvy0nejs"
+    }
+  },
+  "system": {
+    "description": "Радиус - 8 метров. Тип - Стихийная ловушка.\nПокрывает попавших в зону взрыва яркой краской с мощным запахом,который чувствуется за милю. Краска держится 1 полный день и даёт +5 к выслеживанию цели.\nЕсли вы доберётесь до достаточно крупного водоёма или реки, то можете смыть с себя краску из\nловушки-метки. На это потребуется 3 полных раунда — в результате бонус к выслеживанию снизится до +2. Запах нельзя смыть, но нанесение духов/одеколона или же валяние в грязи снизит бонус к выслеживанию до +2.",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 57,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887308,
+    "modifiedTime": 1685496626910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "dUcydvEDj40FHDnQ",
+  "folder": "VDu2hM2Irbb4cMQW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!dUcydvEDj40FHDnQ"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Град Кэрис",
+  "type": 2,
+  "img": "icons/magic/water/projectiles-ice-faceted-salvo-gray.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "6TUthaawXzjBPI1g",
+  "documentId": "WzR72br4UOJQXSb6",
+  "flags": {},
+  "_key": "!tables.results!QAlSdMxFlJZykWcC.6TUthaawXzjBPI1g"
+}

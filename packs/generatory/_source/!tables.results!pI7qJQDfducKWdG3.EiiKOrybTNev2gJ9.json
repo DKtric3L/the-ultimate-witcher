@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Травильная кислота",
+  "img": "icons/commodities/materials/bowl-liquid-white.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "iEGfRE37zK5p8a8h",
+  "_id": "EiiKOrybTNev2gJ9",
+  "flags": {},
+  "_key": "!tables.results!pI7qJQDfducKWdG3.EiiKOrybTNev2gJ9"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Дымовая бомба",
+  "type": "weapon",
+  "img": "icons/weapons/thrown/bomb-fuse-cloth-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.pMwF4G4tWlCTE4KR"
+    },
+    "cf": {
+      "id": "temp_5fd8qju81pt"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 90,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "",
+      "slashing": false,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "0",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "2",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Образует дымовую завесу в радиусе 2 метров. -4 к вниманию, -2 к защите и атаке внутри.",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Athletics",
+    "rollOnlyDmg": true,
+    "isThrowable": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863938,
+    "modifiedTime": 1685496598744,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "NZ4pixUpwKf8axPP",
+  "folder": "0NR1thozchDVQIHT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!NZ4pixUpwKf8axPP"
+}

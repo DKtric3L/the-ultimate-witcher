@@ -1,0 +1,26 @@
+{
+  "_id": "Gbd08N8jVBkZmpyY",
+  "name": "Животный ужас",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Потратив полный ход, этерал пытается повергнуть своих жертв в пределах 10 метров в состояние ужаса, вызывая галлюцинации. Жертвы бегут прочь от этерала, либо встают в ступор. За каждое запуганное существо, этерал восполняет 5 ПЗ, которые могут повысить его здоровье выше максимума. Жертва, которая уже подвергалась животному ужасу, получает +5 к храбрости против следующей проверки."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!h90FOxen3LlHZn6X.Gbd08N8jVBkZmpyY"
+}

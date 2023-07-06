@@ -1,0 +1,104 @@
+{
+  "name": "Формула: Масло против инсектоидов",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-skull-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.formuly.eCpAMjRpNK8XLITL"
+    },
+    "cf": {
+      "id": "temp_lt5m31w8od"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.iRnQuepq4cXq4DIz]{Масло против инсектоидов}</p>\n<p>Требуется единица собачьего сала для изготовления.</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "oil",
+    "level": "witcher",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 14,
+    "craftingTime": "15 мин",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 1,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 1,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Масло против инсектоидов",
+      "type": "alchemical",
+      "img": "modules/the-ultimate-witcher/assets/oils/oil_insectoid.png",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 26,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "oil",
+        "avail": "Rare",
+        "effect": "+5 урона против инсектоидов",
+        "time": "30 минут",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_hacq9m5y7oq"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887306,
+        "modifiedTime": 1668182325005,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848420,
+    "modifiedTime": 1685496578647,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "eCpAMjRpNK8XLITL",
+  "folder": "uEGgssdImRDp09x9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!eCpAMjRpNK8XLITL"
+}

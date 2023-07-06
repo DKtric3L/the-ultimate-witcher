@@ -1,0 +1,77 @@
+{
+  "name": "Рунное слово: Сохранение",
+  "type": "diagrams",
+  "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.zLH2P0MNj28xTKWZ"
+    },
+    "cf": {
+      "id": "temp_1r5chs154v7"
+    }
+  },
+  "system": {
+    "description": "<p>Увеличивает прочность меча или щита на 5.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": 2300,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Девана"
+      },
+      {
+        "id": "_u4mtibyq1",
+        "name": "Морана",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_jrl19g33a",
+        "name": "Занимает 2 слота для улучшений",
+        "percentage": ""
+      }
+    ],
+    "investment": 1150,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848427,
+    "modifiedTime": 1685496579124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "pn8AC1GPAzRh0SIN",
+  "folder": "7ogE3cPtN4Xw0G1z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!pn8AC1GPAzRh0SIN"
+}

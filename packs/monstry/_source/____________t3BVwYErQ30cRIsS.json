@@ -1,0 +1,46 @@
+{
+  "name": "Яйца Гарпии",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/egg_harpy.dds_.6885.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.5,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Гнёзда гарпий",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "quebrith"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_245p1o8sc5y",
+      "color": "#e7c61d"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.P1z1clXU74FjvtOR"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853710,
+    "modifiedTime": 1669960894297,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "t3BVwYErQ30cRIsS",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!NslRjIWwSpSwEyJI.t3BVwYErQ30cRIsS"
+}

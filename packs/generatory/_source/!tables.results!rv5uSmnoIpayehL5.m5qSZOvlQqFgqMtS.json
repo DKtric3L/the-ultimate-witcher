@@ -1,0 +1,16 @@
+{
+  "text": "Пылевое покрытие",
+  "type": 2,
+  "img": "icons/magic/air/fog-gas-smoke-brown.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "m5qSZOvlQqFgqMtS",
+  "documentId": "flqzvSIMHGdLRN8h",
+  "flags": {},
+  "_key": "!tables.results!rv5uSmnoIpayehL5.m5qSZOvlQqFgqMtS"
+}

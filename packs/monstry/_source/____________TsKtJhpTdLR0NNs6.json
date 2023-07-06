@@ -1,0 +1,26 @@
+{
+  "_id": "TsKtJhpTdLR0NNs6",
+  "name": "Невидимость",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Катакан становится невидимым, получая +10 к скрытности и +5 к атаке. После атаки невидимость прекращается. даже успешно пройдя проверку против невидимости, вы получаете штраф -3 к атаке и защите против него. Ирден рассеивает невидимость."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!IbTqnt35asA7BeVt.TsKtJhpTdLR0NNs6"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Клыки вампира",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tooth_endriag_64x64.dds_.6947.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6/2",
+    "weight": 0.1,
+    "cost": 150,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Катаканы",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "caelum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_tzqg8ehy1le",
+      "color": "#b7f35e"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.YoivppUNdtvffHAj"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1669889065540,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "hEKl7Jw25bzfNLOG",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!hxLFdF4TZpwdSjM4.hEKl7Jw25bzfNLOG"
+}

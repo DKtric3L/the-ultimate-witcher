@@ -1,0 +1,38 @@
+{
+  "name": "ИИ для Монстров - Защита.",
+  "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+  "description": "",
+  "results": [
+    "mkygvQsQuY0seytV",
+    "JlC4DrfZHKMfAzII",
+    "8xjxSL98xtBBuCOu",
+    "lJluxLC8uZLyLswa"
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_7w0yaq9ld8e"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496658091,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "B9p09jchSVk9ntOf",
+  "sort": 0,
+  "_id": "gcl12vpGR6fJhh9L",
+  "_key": "!tables!gcl12vpGR6fJhh9L"
+}

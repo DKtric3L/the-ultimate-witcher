@@ -1,0 +1,33 @@
+{
+  "name": "Предыстория мага",
+  "img": "icons/magic/symbols/runes-star-pentagon-magenta.webp",
+  "description": "",
+  "results": [
+    "tEz1BNcSvZUwRF6p",
+    "VmnOpOgURTrBpMZB"
+  ],
+  "formula": "1d1",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.1dk6QDl0oxLAkAEj"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668163137455,
+    "modifiedTime": 1668163203659,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_id": "cbJ4qPgGosFNoLf7",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!cbJ4qPgGosFNoLf7"
+}

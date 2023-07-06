@@ -1,0 +1,16 @@
+{
+  "text": "Ритуал жизни",
+  "type": 2,
+  "img": "icons/magic/life/heart-cross-strong-flame-green.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "0xei90ol3l1e7ek3",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "NkKZ9bFfF6rM8a7H",
+  "_key": "!tables.results!7pAA7ujlr5endDQ8.0xei90ol3l1e7ek3"
+}

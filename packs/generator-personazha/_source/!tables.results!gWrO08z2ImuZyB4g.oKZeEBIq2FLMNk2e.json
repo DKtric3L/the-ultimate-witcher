@@ -1,0 +1,16 @@
+{
+  "_id": "oKZeEBIq2FLMNk2e",
+  "flags": {},
+  "type": 0,
+  "text": "Ваше нынешнее положение - В поисках работы. Тяжёлая ведьмачья жизнь продолжается. Вы много странствуете, с грустью думая об отмирании профессии ведьмака и о редкости чудовищ. Вы постоянно в дороге, никогда не задерживаетесь на месте.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!gWrO08z2ImuZyB4g.oKZeEBIq2FLMNk2e"
+}

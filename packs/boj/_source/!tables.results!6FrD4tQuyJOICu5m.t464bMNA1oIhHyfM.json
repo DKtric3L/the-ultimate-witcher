@@ -1,0 +1,16 @@
+{
+  "_id": "t464bMNA1oIhHyfM",
+  "flags": {},
+  "type": 0,
+  "text": "Скакун спотыкается. Он должен пройти проверку атлетики со сл. 14, чтобы не упасть.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!6FrD4tQuyJOICu5m.t464bMNA1oIhHyfM"
+}

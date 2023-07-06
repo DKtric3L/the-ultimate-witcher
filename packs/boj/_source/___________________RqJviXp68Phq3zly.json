@@ -1,0 +1,38 @@
+{
+  "name": "Легкий крит - Торс",
+  "img": "icons/commodities/bones/bones-rib-gold.webp",
+  "results": [
+    "8eW34wSurF9hNf5D",
+    "sMbbaDwU8eo5vv0A",
+    "qOYCNwu9tF1H7eBE",
+    "6xV804dMXXeEaX46"
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.tLKTPzShqQKw6kfy"
+    },
+    "cf": {
+      "id": "temp_uizkox49o8e"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897072,
+    "modifiedTime": 1685496658134,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RqJviXp68Phq3zly",
+  "folder": "XPYNpQX82syKEdJ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!RqJviXp68Phq3zly"
+}

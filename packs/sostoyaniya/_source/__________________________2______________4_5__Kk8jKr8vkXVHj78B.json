@@ -1,0 +1,37 @@
+{
+  "name": "Болезнь: Потливая горячка(2 стадия, день 4-5)",
+  "type": "effect",
+  "img": "icons/skills/wounds/blood-cells-vessel-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.kPgM2eYUZtCRkwOr"
+    },
+    "cf": {
+      "id": "temp_uwbt9h030l"
+    }
+  },
+  "system": {
+    "description": "Опасность - низкая, риск заражения - 65%. Диагноз - проверка пп 15 или лечащее прикосновение 13\nПотоотделение усиливается, температура повышается, постепенно начинается ЛИХОРАДКА. За этим быстро следует глубокий грудной КАШЕЛЬ и неприятная БОЛЬ В МЫШЦАХ.\nЛЕЧЕНИЕ: Успешная проверка Стойкости СЛ 16 приводит к тому, что Потливая горячка проходит, неудача начинает последнюю стадию. Горячий суп может помочь в выздоровлении (см. Лекарства)",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": []
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883165,
+    "modifiedTime": 1685496621730,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Kk8jKr8vkXVHj78B",
+  "folder": "ZXp1GktF0w40ytBA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Kk8jKr8vkXVHj78B"
+}

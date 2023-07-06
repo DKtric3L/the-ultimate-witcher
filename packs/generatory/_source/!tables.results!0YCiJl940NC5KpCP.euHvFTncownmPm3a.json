@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Воин скоя’таэлей",
+  "img": "modules/the-ultimate-witcher/assets/monsters/elf_warrior.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "ng4IaPZa8uizKrns",
+  "_id": "euHvFTncownmPm3a",
+  "flags": {},
+  "_key": "!tables.results!0YCiJl940NC5KpCP.euHvFTncownmPm3a"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Чертеж - бомбы и ловушки - Подмастерье",
+  "description": "A random table created from the contents of the Подмастерье Folder.",
+  "results": [
+    "c1jmKvXfP3eb7X3g"
+  ],
+  "formula": "1d1",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4dbdaaa57274e95a97024b235609912ef078306a",
+      "sourceId": "RollTable.DtGgcCYCNfbAQc6U"
+    },
+    "core": {
+      "sourceId": "RollTable.DtGgcCYCNfbAQc6U"
+    },
+    "cf": {
+      "id": "temp_bz3ub2uz6p5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672830305314,
+    "modifiedTime": 1685496644406,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "jbSJHWSlEIGJob0w",
+  "sort": 0,
+  "_id": "iPhXl2OhWuhnS59i",
+  "_key": "!tables!iPhXl2OhWuhnS59i"
+}

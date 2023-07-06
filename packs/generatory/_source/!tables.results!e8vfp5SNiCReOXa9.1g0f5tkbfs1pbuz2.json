@@ -1,0 +1,16 @@
+{
+  "text": "Пир",
+  "type": 2,
+  "img": "icons/consumables/food/cooked-ribs-rack-glazed-bones-brown-white.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "_id": "1g0f5tkbfs1pbuz2",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "Sk2RBXuSEcDEJRLW",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.1g0f5tkbfs1pbuz2"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Фульгор + Киноварь",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NhwncUvI00rMbV4L"
+    },
+    "cf": {
+      "id": "temp_1rc7toaohz8"
+    }
+  },
+  "system": {
+    "description": "<p>@UUID[Compendium.the-ultimate-witcher.predmety.qamWJdw4zeMexUnJ]{Фульгор + Киноварь}</p>\n<p>&nbsp;</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "novice",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 15,
+    "craftingTime": "1 ход",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": null,
+      "rebis": null,
+      "aether": null,
+      "quebrith": null,
+      "hydragenum": null,
+      "vermilion": 1,
+      "sol": null,
+      "caelum": null,
+      "fulgur": 1
+    },
+    "associatedItem": {
+      "name": "Фульгор + Киноварь",
+      "type": "alchemical",
+      "img": "icons/consumables/potions/bottle-round-corked-green.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Rare",
+        "effect": "+3 против Запугивания на 1 час. Срок годности - трое суток.",
+        "time": "1 час",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.5zxCwLHV4CTnyeVG"
+        },
+        "cf": {
+          "id": "temp_eux3i6hppej"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868994,
+        "modifiedTime": 1668162868994,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848431,
+    "modifiedTime": 1685496578538,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "JckTj5Fxja0e6AgH",
+  "folder": "Pomvt3uPGKucMdZ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!JckTj5Fxja0e6AgH"
+}

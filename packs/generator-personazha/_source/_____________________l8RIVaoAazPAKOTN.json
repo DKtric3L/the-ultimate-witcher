@@ -1,0 +1,48 @@
+{
+  "name": "ИС дракона - Возраст",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "3xNS3bnwc607OphG",
+    "Hb1wxufLewpEQKvU",
+    "hQ0lBZA6iMDYe0zF",
+    "doJoHWxCsQSSFumQ",
+    "cjoM8Vszmh7wpmkl",
+    "ifs6kCGoVu6ESEyr",
+    "VmSCxoJQE9B2aPmQ",
+    "Dn3x1J0Tgl9pIQk4",
+    "6INDOtCpHdqMFZLn",
+    "f1qOJSHz5Ht0aiZT",
+    "QJQrqTTG2OGD7gtR",
+    "bp50dmd3V0YZ4T4K",
+    "ukLyYxhIOFOU7SHM",
+    "81KTMIAYZ4mXOpkh"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ri9TcStM3A8kuASE"
+    },
+    "cf": {
+      "id": "temp_5sxvw9ltia5"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1670596137981,
+    "modifiedTime": 1685496652233,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "5GdFPJIey6C3uLvY",
+  "sort": 0,
+  "_id": "l8RIVaoAazPAKOTN",
+  "_key": "!tables!l8RIVaoAazPAKOTN"
+}

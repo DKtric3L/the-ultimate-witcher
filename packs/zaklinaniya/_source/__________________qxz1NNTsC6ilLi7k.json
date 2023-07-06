@@ -1,0 +1,60 @@
+{
+  "name": "Истинный дубликат",
+  "type": "spell",
+  "img": "icons/creatures/magical/spirit-poison-smoke-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.OrSnfwQopYA2snw7"
+    },
+    "cf": {
+      "id": "temp_3a1cnigppfr"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "20",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 8d10.\nСоздает клон выбранного существа. Клон выглядит полностью идентично существу или как более молодая его версия. Формирование дубликата занимает 4 месяца после проведения ритуала. Когда оригинал умирает, его душа немедленно переходит в дубликат, если только она каким- то образом не привязана к телу (например, если душа заключена в ловушку в форме нежити или если тело прошло через ритуал Задержка разложения).",
+    "range": "",
+    "duration": "постоянный",
+    "defence": "",
+    "components": "Большой резервуар с водой, Кровь цели, Мелок (x2), Совершенный самоцвет (x1), Дымная пыль (x5), Пятая эссенция (x5), Сырое мясо (x10), Кости животных (x10), Винный камень (x3), Сердце голема (x1)",
+    "alternateComponents": "",
+    "preparationTime": "10 часов",
+    "dificultyCheck": "25",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892161,
+    "modifiedTime": 1685496639154,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "qxz1NNTsC6ilLi7k",
+  "folder": "Z8H5AUNi7NTesQQf",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!qxz1NNTsC6ilLi7k"
+}

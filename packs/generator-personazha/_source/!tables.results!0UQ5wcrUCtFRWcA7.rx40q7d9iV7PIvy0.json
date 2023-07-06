@@ -1,0 +1,16 @@
+{
+  "_id": "rx40q7d9iV7PIvy0",
+  "flags": {},
+  "type": 2,
+  "text": "Family Fate: Nilfgaard",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "zdRpy02eFO6WdCip",
+  "_key": "!tables.results!0UQ5wcrUCtFRWcA7.rx40q7d9iV7PIvy0"
+}

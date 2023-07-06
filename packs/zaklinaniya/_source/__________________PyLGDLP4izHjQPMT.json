@@ -1,0 +1,70 @@
+{
+  "name": "Некротический луч",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-missile-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GrpckXbSTvQcwvyt"
+    },
+    "cf": {
+      "id": "temp_yt9b8cjci6m"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 3d10.\nВы выпускаете луч из своих рук, который уничтожает жизненную силу цели, нанося 8d6 некротического урона. Если цель убита этим заклинанием, она воскресает как труп в соответствии с правилами заклинания Поднятие трупа.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Уклонение/Блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "3d10+8d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "3d10 - Некротический урон заклинателю"
+      },
+      {
+        "id": "_2iagxuqax",
+        "name": "8d6 - Некротический урон жертве.",
+        "percentage": ""
+      },
+      {
+        "id": "_5xelvvzy3",
+        "name": "Если цель умирает - воскресает как от \"Поднятия трупа\"",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892165,
+    "modifiedTime": 1685496639054,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PyLGDLP4izHjQPMT",
+  "folder": "61JxKnK4vxszNzbe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PyLGDLP4izHjQPMT"
+}

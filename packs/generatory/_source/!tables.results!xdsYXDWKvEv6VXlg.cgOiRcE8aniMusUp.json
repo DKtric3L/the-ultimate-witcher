@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Джинн - Марид",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Poslednee_Zhelanie_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "prC328NUuCzCs2JS",
+  "_id": "cgOiRcE8aniMusUp",
+  "flags": {},
+  "_key": "!tables.results!xdsYXDWKvEv6VXlg.cgOiRcE8aniMusUp"
+}

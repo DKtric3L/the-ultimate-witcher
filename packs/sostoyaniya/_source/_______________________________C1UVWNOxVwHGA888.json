@@ -1,0 +1,54 @@
+{
+  "name": "Эффект: Анаболические стероиды",
+  "type": "effect",
+  "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_wbofy9pjzeh"
+    },
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.C6c9eod6aJzrtz6U"
+    }
+  },
+  "system": {
+    "description": "Длится 1 час, токсичность 50%. Вы невероятно агрессивны.",
+    "isActive": true,
+    "stats": [],
+    "derived": [
+      {
+        "id": "_va8k2fa9c",
+        "derivedStat": "WITCHER.Actor.DerStat.HP",
+        "modifier": "10"
+      }
+    ],
+    "skills": [
+      {
+        "id": "_uy4rccm32",
+        "skill": "WITCHER.SkBodyPhys",
+        "modifier": "2"
+      },
+      {
+        "id": "_e72oh9poy",
+        "skill": "WITCHER.SkBodyEnd",
+        "modifier": "2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883181,
+    "modifiedTime": 1685496621944,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "C1UVWNOxVwHGA888",
+  "folder": "aY0qIVBbaCDlzFRb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!C1UVWNOxVwHGA888"
+}

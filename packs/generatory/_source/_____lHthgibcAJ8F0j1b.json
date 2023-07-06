@@ -1,0 +1,56 @@
+{
+  "name": "Огры",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Ogroids.png",
+  "description": "",
+  "results": [
+    "yv15i7hLmjApuRka",
+    "iktsCqzrpnGG2nEz",
+    "jjhqCnashcxvWTsN",
+    "VkCpU8gXzHv9bptG",
+    "2XyqUK8KQS6PeJPm",
+    "DtowRIiNBIL0gmQe",
+    "Eohiyyx1uaABfPwy",
+    "qam036N7p0hk8YAi",
+    "du5VWIvp90dTWVjs",
+    "3PRGi6TeHsjpXMCR",
+    "bXyAGYyEFhfZfS7P",
+    "yanuULLbh62iL2ou",
+    "qVAkdCcXEQ9CgkjA",
+    "YBKjWVe51BWsbPwa",
+    "D71jpubG8PrBwKrt",
+    "jjg1YZ982aFsaUna",
+    "NnYjoBscsAufnqUI",
+    "YkH8rL20tLrqc8zs",
+    "4PKTyKheb9sIOZ1J",
+    "CNViwUjSmjsakToG",
+    "RQmAYCw8FnOhdQsm",
+    "ES1b6GCgRPvg4kdZ"
+  ],
+  "formula": "1d11",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "lHthgibcAJ8F0j1b",
+  "_key": "!tables!lHthgibcAJ8F0j1b"
+}

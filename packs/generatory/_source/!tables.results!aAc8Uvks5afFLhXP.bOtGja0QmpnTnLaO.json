@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Боеприпасы - обычные - Новичок",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "GEoWOk0rs1JiUSAB",
+  "_id": "bOtGja0QmpnTnLaO",
+  "flags": {},
+  "_key": "!tables.results!aAc8Uvks5afFLhXP.bOtGja0QmpnTnLaO"
+}

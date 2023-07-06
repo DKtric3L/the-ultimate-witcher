@@ -1,0 +1,57 @@
+{
+  "name": "Метод Эйльхарт",
+  "type": "spell",
+  "img": "icons/magic/unholy/hand-light-pink.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_uo04sybp4yb"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "12",
+    "staminaIsVar": false,
+    "effect": "Это жуткое заклинание названо в честь его создательницы Филиппы Эйльхарт. Оно позволяет проникнуть в разум цели и добыть нужную информацию. При успешной проверке Сотворения заклинаний вы извлекаете из памяти цели одну тайну. Если цель при попытке защититься от этого заклинания получает критический провал, её Инт навсегда снижается на 1.",
+    "range": "3м",
+    "duration": "мгновенное",
+    "defence": "Сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892164,
+    "modifiedTime": 1685496637929,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "mHToPV51A0DUqI3M",
+  "folder": "Kq5EsZjuyQjP2c1F",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!mHToPV51A0DUqI3M"
+}

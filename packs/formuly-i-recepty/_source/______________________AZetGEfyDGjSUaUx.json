@@ -1,0 +1,121 @@
+{
+  "name": "Нильфгаардский прицел",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-anchor.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.AZetGEfyDGjSUaUx"
+    },
+    "cf": {
+      "id": "temp_g2xdd6vhx5k"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.hnOM5MQmOxL3KDUW]{Нильфгаардский прицел}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 550,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "4ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Сталь"
+      },
+      {
+        "id": "_kdroiju62",
+        "name": "Точильный порошок",
+        "percentage": "",
+        "quantity": "4"
+      }
+    ],
+    "investment": 176,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Нильфгаардский прицел",
+      "type": "enhancement",
+      "img": "icons/weapons/guns/gun-worn-steel.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 275,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "rune",
+        "applied": "",
+        "avail": "Everywhere",
+        "effects": [
+          {
+            "id": "first",
+            "name": "Добавляет +1 к Точности арбалета."
+          }
+        ],
+        "stopping": 0,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.hnOM5MQmOxL3KDUW"
+        },
+        "cf": {
+          "id": "temp_frzayswlhnf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162868984,
+        "modifiedTime": 1672567869512,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848422,
+    "modifiedTime": 1685496579161,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "AZetGEfyDGjSUaUx",
+  "folder": "O2tTLJvzNv9RfRu4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!AZetGEfyDGjSUaUx"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Атака",
+  "type": "weapon",
+  "_id": "5FjLRITQec90QCTS",
+  "img": "icons/skills/melee/blood-slash-foam-red.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Режущий",
+      "slashing": true,
+      "piercing": false,
+      "bludgeoning": false,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Everywhere",
+    "damage": "5d6",
+    "reliable": 0,
+    "maxReliability": 0,
+    "hands": "1",
+    "range": "4",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Кровотечение",
+        "percentage": "60"
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Brawling",
+    "rollOnlyDmg": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668183129814,
+    "modifiedTime": 1668183154711,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_key": "!actors.items!VlrgjdPwgRNzAqJA.5FjLRITQec90QCTS"
+}

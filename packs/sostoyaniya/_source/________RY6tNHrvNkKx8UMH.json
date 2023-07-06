@@ -1,0 +1,38 @@
+{
+  "name": "Тошнота",
+  "type": "effect",
+  "img": "icons/magic/acid/dissolve-vomit-green-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.RY6tNHrvNkKx8UMH"
+    },
+    "cf": {
+      "id": "temp_smu51r3jp4n"
+    }
+  },
+  "system": {
+    "description": "Персонаж ощущает тяжесть в желудке и сосредоточенно пытается сдержать рвоту. Каждые 3 раунда персонаж обязан совершать бросок IdlO, результат которого должен быть ниже его Тел. В противном случае в течение одного раунда его будет рвать или он будет мучим рвотными позывами",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": true
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883174,
+    "modifiedTime": 1688508910988,
+    "lastModifiedBy": "XrE09hYVFIastc9I"
+  },
+  "_id": "RY6tNHrvNkKx8UMH",
+  "folder": "9SWWU6dmLUvZn8jA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RY6tNHrvNkKx8UMH"
+}

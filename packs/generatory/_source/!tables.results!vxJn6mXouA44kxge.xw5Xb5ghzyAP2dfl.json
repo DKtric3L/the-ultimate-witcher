@@ -1,0 +1,16 @@
+{
+  "text": "Процедура Приса",
+  "type": 2,
+  "img": "icons/magic/control/encase-creature-monster-hold.webp",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "xw5Xb5ghzyAP2dfl",
+  "documentId": "UluWH1H1mjRohSN9",
+  "flags": {},
+  "_key": "!tables.results!vxJn6mXouA44kxge.xw5Xb5ghzyAP2dfl"
+}

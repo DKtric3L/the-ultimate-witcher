@@ -1,0 +1,16 @@
+{
+  "_id": "tfUjaxwfTwqW98vG",
+  "flags": {},
+  "type": 0,
+  "text": "Повреждённый нос(-2 к выживанию в дикой природе при выслеживании). Несколько ударов по лицу в ходе потасовки(или вдыхание токсичных газов) повредили нос и практически лишили способности выслеживать по запаху.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Z7kTt2NxEPQu1oAu.tfUjaxwfTwqW98vG"
+}

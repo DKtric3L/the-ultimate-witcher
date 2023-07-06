@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: Туман Дормина",
+  "type": "effect",
+  "img": "icons/magic/air/fog-gas-smoke-gray.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.43fBZ7j2pdarNtO0"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Любой, кто находится в зоне заклинания, получает штраф -3 к Вниманию, а его радиус обзора уменьшается до 4 метров.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "WITCHER.SkIntAwareness",
+        "modifier": "-3"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883187,
+    "modifiedTime": 1685496621883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7XBZfUY3yFbj54rY",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!7XBZfUY3yFbj54rY"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Друг отравителя",
+  "img": "modules/the-ultimate-witcher/assets/props/poison.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "hwGkfVhF4UObCmh7",
+  "_id": "yDTVcrsjoQJeOQ6Z",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.yDTVcrsjoQJeOQ6Z"
+}

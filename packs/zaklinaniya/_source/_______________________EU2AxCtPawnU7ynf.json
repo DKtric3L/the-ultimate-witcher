@@ -1,0 +1,60 @@
+{
+  "name": "Благословение мужества",
+  "type": "spell",
+  "img": "icons/magic/control/control-influence-rally-purple.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_is3veqhvm7"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "novice",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "1",
+    "staminaIsVar": false,
+    "effect": "Благословение Мужества дает цели бонус +3 к Храбрости и Сопротивлению убеждению на действия инвокации.",
+    "range": "5м",
+    "duration": "1d10 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d10",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(Раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892153,
+    "modifiedTime": 1685496639230,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "EU2AxCtPawnU7ynf",
+  "folder": "AiaCKaRBEzYvKxYK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!EU2AxCtPawnU7ynf"
+}

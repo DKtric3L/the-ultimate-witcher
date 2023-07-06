@@ -1,0 +1,60 @@
+{
+  "name": "Шокирующий удар",
+  "type": "spell",
+  "img": "icons/magic/lightning/fist-unarmed-strike-blue-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.oseWG8bSYhoRODZY"
+    },
+    "cf": {
+      "id": "temp_oydnqndjm3"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "novice",
+    "source": "air",
+    "domain": "",
+    "stamina": "2",
+    "staminaIsVar": false,
+    "effect": "Шокирующий удар заставляет электричество пробежать по рукам заклинателя. На время действия заклинания удары руками наносят 1d6 дополнительного урона электричеством и имеют 50%-ный шанс ошеломить противника",
+    "range": "на себя",
+    "duration": "1d6 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892179,
+    "modifiedTime": 1685496638621,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RuWARoiSYYdse6gL",
+  "folder": "nbNkLZabfepWFQLK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RuWARoiSYYdse6gL"
+}

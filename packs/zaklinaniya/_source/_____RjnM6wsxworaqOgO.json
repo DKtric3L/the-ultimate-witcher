@@ -1,0 +1,60 @@
+{
+  "name": "Луна",
+  "type": "spell",
+  "img": "icons/magic/nature/symbol-moon-stars-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_bfrq57w42a"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Вы соединяете себя со светом луны, и освещаете интенсивным лунным светом область радиусом 10 м с центром в любой точке в пределах дистанции. Любое выбранное вами существо становится невосприимчиво к страху или Запугиванию и получает 25 временных ПЗ. Оно также излечивается от эффектов слепоты и горения. Это заклинание можно произносить только ночью.",
+    "range": "20м",
+    "duration": "20 раундов",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892163,
+    "modifiedTime": 1685496639449,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "RjnM6wsxworaqOgO",
+  "folder": "n3vT2euFjSqsR3Ja",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!RjnM6wsxworaqOgO"
+}

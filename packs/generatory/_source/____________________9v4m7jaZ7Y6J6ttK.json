@@ -1,0 +1,45 @@
+{
+  "name": "Подмастерье - Земля",
+  "description": "A random table created from the contents of the Земля Folder.",
+  "results": [
+    "2MD70AszbsAkvEzK",
+    "e7PGi75WGd910ezB",
+    "EYTGRwdqhLTZztJK",
+    "N3RmqCmrYDmOrxGp",
+    "8F3ZqYY3OrgiyjQC",
+    "AXy5zwzHMLQmrqeh",
+    "1VFml8iHzVieXaPw"
+  ],
+  "formula": "1d7",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "425239b444b2b61aedefd4674c7ff287b999bfbb",
+      "sourceId": "RollTable.PnhH7nwEIsfMakoS"
+    },
+    "core": {
+      "sourceId": "RollTable.PnhH7nwEIsfMakoS"
+    },
+    "cf": {
+      "id": "temp_u3fd241r9o"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672593585160,
+    "modifiedTime": 1685496644893,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "28uvgTGBaZJUK9IV",
+  "sort": 0,
+  "_id": "9v4m7jaZ7Y6J6ttK",
+  "_key": "!tables!9v4m7jaZ7Y6J6ttK"
+}

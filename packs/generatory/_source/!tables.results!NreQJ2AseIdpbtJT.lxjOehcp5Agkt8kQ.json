@@ -1,0 +1,16 @@
+{
+  "text": "Бронебойные боеприпасы(10Х)",
+  "type": 2,
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "lxjOehcp5Agkt8kQ",
+  "documentId": "JndXdmQ8WjlR7fpG",
+  "flags": {},
+  "_key": "!tables.results!NreQJ2AseIdpbtJT.lxjOehcp5Agkt8kQ"
+}

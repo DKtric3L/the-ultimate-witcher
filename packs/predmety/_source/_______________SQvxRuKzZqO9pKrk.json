@@ -1,0 +1,42 @@
+{
+  "name": "Парусная лодка",
+  "type": "mount",
+  "img": "icons/commodities/wood/logs-pile-rough-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.vyGqk99obhXLGudb"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 230,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "dex": "",
+    "control": "-1",
+    "speed": "6",
+    "hp": 30
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868985,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "SQvxRuKzZqO9pKrk",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!SQvxRuKzZqO9pKrk"
+}

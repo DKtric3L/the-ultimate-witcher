@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "text": "Журнал",
+  "img": "icons/sundries/books/book-black-grey.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "KdlyMxdB4nVJFl1P",
+  "_id": "VmkNr4EswAo0ZCRj",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.VmkNr4EswAo0ZCRj"
+}

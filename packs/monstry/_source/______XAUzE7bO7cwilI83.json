@@ -1,0 +1,26 @@
+{
+  "_id": "XAUzE7bO7cwilI83",
+  "name": "Полет",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "В качестве перемещения виверна может взлететь. Виверну можно сбить, только дезориентировав или нанеся более 10 урона одной атакой. Если виверна сбита, она должна совершить проверку Атлетики со СЛ 16, или получит урон от падения, соответствующий высоте в метрах, с которой она упала."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!AEkJbzVAFn9Su5f6.XAUzE7bO7cwilI83"
+}

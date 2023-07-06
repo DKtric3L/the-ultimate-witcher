@@ -1,0 +1,16 @@
+{
+  "_id": "HMOPPekiY08124lE",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: рабство. Вы раб с рождения, Вы жили в простой комнатушке и много работали, а скарб ваш скуден. Начальное снаряжение - Обученная птица или змея.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!FvAMmEdcOG2dIxgB.HMOPPekiY08124lE"
+}

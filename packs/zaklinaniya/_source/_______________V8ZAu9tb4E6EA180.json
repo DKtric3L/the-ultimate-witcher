@@ -1,0 +1,58 @@
+{
+  "name": "Пылающий вихрь",
+  "type": "spell",
+  "img": "icons/magic/fire/beam-jet-stream-spiral-yellow.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_rvnwo8w74yf"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "fire",
+    "domain": "",
+    "stamina": "15",
+    "staminaIsVar": false,
+    "effect": "Создаёт пылающее торнадо шириной 2 метра. Заклинатель может перемещать торнадо на количество метров за ход, равное значению его навыка Сотворение заклинаний. Если торнадо сталкивается с целью, заклинатель должен совершить проверку Сотворения заклинаний против проверки Уклонения/Изворотливости цели. При провале цель получает 5d6 урона с 50%-ным шансом горения. Вихрь не выходит за пределы дистанции заклинания.",
+    "range": "радиус 8м",
+    "duration": "актив(4 вын)",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "5d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Горение",
+        "percentage": "50"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892171,
+    "modifiedTime": 1685496638009,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "V8ZAu9tb4E6EA180",
+  "folder": "D2ZubvkjQZuPCeQt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!V8ZAu9tb4E6EA180"
+}

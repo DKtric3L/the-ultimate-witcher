@@ -1,0 +1,16 @@
+{
+  "text": "Сагитта Аурея",
+  "type": 2,
+  "img": "icons/magic/light/beam-rays-orange-large.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "tq9zup3fassb7056",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "e6yu2o6T1ow4ll7Y",
+  "_key": "!tables.results!NhqlCImviS9V9dZw.tq9zup3fassb7056"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "DCx5bDeMkPrAW8Lu",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Охотник на магов. Наибольшее влияние на вас оказал охотник на магов, научивший опасаться магии и магов. Снаряжение - Кольцо с двимеритом.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!iP5n1i6qzSCZaoEy.DCx5bDeMkPrAW8Lu"
+}

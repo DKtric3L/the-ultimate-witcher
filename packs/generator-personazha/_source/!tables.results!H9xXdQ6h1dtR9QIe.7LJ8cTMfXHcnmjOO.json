@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "7LJ8cTMfXHcnmjOO",
+  "text": "На одной из рук полностью отсутствует ладонь, либо она изуродована до неузнаваемости.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!H9xXdQ6h1dtR9QIe.7LJ8cTMfXHcnmjOO"
+}

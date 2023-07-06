@@ -1,0 +1,26 @@
+{
+  "name": "Способность: Обзор на 360 градусов",
+  "type": "note",
+  "_id": "zf5zUDKK7OB6XNEq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Амальгама трупов имеет глаза по всему телу. Она способна видеть во всех направлениях одновременно, а его конус обзора составляет 360 градусов."
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "PiEivje7lZlXpswp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "10.291",
+    "createdTime": 1680488209411,
+    "modifiedTime": 1680488245669,
+    "lastModifiedBy": "PiEivje7lZlXpswp"
+  },
+  "_key": "!actors.items!oCbHun9dgPjg8pCX.zf5zUDKK7OB6XNEq"
+}

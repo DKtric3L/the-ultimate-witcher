@@ -1,0 +1,16 @@
+{
+  "text": "Бешенство",
+  "type": 2,
+  "img": "icons/sundries/documents/document-letter-formal-tan.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "94LcQdLREH05qixB",
+  "documentId": "tjyLjtnRJWDnPPYv",
+  "flags": {},
+  "_key": "!tables.results!pfvQJ4Ab5bIZaYOH.94LcQdLREH05qixB"
+}

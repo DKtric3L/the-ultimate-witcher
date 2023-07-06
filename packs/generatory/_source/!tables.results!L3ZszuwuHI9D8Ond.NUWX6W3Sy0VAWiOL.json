@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    33,
+    33
+  ],
+  "drawn": false,
+  "text": "Странные ракушки",
+  "img": "icons/environment/creatures/crustacean-oyster.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "0NWnPn2e9MVVTmSk",
+  "_id": "NUWX6W3Sy0VAWiOL",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.NUWX6W3Sy0VAWiOL"
+}

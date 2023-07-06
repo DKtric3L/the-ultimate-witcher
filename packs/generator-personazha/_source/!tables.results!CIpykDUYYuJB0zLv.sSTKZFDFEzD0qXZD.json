@@ -1,0 +1,16 @@
+{
+  "_id": "sSTKZFDFEzD0qXZD",
+  "flags": {},
+  "type": 2,
+  "text": "Генератор: Краснолюд",
+  "img": "icons/svg/castle.svg",
+  "weight": 1,
+  "range": [
+    8,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "PCAssN2Ms7yLzuCv",
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.sSTKZFDFEzD0qXZD"
+}

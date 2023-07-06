@@ -1,0 +1,16 @@
+{
+  "_id": "HMOPPekiY08124lE",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Семья мастеров. Вы посещали древние дворцы для вдохновения и ежедневно проводили много часов за работой. Начальное снаряжение - 3 обычных чертежи/Формулы",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NM8wbHFX7ZBsZVTf.HMOPPekiY08124lE"
+}

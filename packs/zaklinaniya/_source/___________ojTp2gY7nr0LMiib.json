@@ -1,0 +1,65 @@
+{
+  "name": "Волна льда",
+  "type": "spell",
+  "img": "icons/magic/water/strike-ice-blade-axe.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.82sfp9tAtGTDVBts"
+    },
+    "cf": {
+      "id": "temp_julrnar8td"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "Water",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Волна льда создает из земли перед вами острый 4-метровый конус льда. Все, кто стоит на пути этого конуса, должны совершить проверку Изменения позиции. При провале они получают 6d6 дробящего урона по туловищу и замораживаются. После этого конус льда рассеивается.",
+    "range": "4м конус",
+    "duration": "Мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "6d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дробящий урон"
+      },
+      {
+        "id": "_kz8d3g9dw",
+        "name": "Замораживание",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892155,
+    "modifiedTime": 1685496639018,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ojTp2gY7nr0LMiib",
+  "folder": "9PhFPu32x5yVnicQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ojTp2gY7nr0LMiib"
+}

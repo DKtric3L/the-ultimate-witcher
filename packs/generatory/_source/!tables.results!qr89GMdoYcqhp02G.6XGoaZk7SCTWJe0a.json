@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "text": "Птица",
+  "img": "modules/the-ultimate-witcher/assets/monsters/bird.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "vccofcnKJnc30ikA",
+  "_id": "6XGoaZk7SCTWJe0a",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.6XGoaZk7SCTWJe0a"
+}

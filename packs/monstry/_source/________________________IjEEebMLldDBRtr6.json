@@ -1,0 +1,42 @@
+{
+  "name": "Язык кладбищенской бабы",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tongue_monstrous_64x64.png.6944.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 80,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Grave Hags",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "caelum"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.12lkKTCL1skuKLpX"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853709,
+    "modifiedTime": 1669965782546,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "IjEEebMLldDBRtr6",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!b15jAZtqwI2QqRYf.IjEEebMLldDBRtr6"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Маг",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Neofit_iz_Vikovaro_Bruno_Biazotto.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "b8AQXkKlq1bGf8Ej",
+  "_id": "8M5QH1YgDPnwCSWs",
+  "flags": {},
+  "_key": "!tables.results!PwkSg3BxS9FxVkyI.8M5QH1YgDPnwCSWs"
+}

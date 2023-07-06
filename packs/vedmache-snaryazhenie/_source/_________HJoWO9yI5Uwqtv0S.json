@@ -1,0 +1,19 @@
+{
+  "color": "#4d4d4d",
+  "name": "Мутагены",
+  "sorting": "m",
+  "type": "Item",
+  "folder": null,
+  "_id": "HJoWO9yI5Uwqtv0S",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!HJoWO9yI5Uwqtv0S"
+}

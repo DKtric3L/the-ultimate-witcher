@@ -1,0 +1,43 @@
+{
+  "name": "Мангуст",
+  "type": "alchemical",
+  "img": "icons/consumables/potions/round-decorated-snake-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.Mxp7xsVmtT3CIuox"
+    },
+    "cf": {
+      "id": "temp_d3zai9b3nmq"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 50,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Poor",
+    "effect": "Любимец придворных и знати, Мангуст делает пьющего\nневосприимчивым к состоянию отравления на 30 минут.",
+    "time": "30 мин",
+    "toxicity": "50%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868978,
+    "modifiedTime": 1685496603910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "69M5pfnWMIvHdfa2",
+  "folder": "By8JyntXD2NY0sPz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!69M5pfnWMIvHdfa2"
+}

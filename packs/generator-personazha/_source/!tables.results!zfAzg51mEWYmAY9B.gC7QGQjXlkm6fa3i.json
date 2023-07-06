@@ -1,0 +1,16 @@
+{
+  "_id": "gC7QGQjXlkm6fa3i",
+  "type": 2,
+  "text": "Личность",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/circle.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "02qLarv2lPUxQtvN",
+  "_key": "!tables.results!zfAzg51mEWYmAY9B.gC7QGQjXlkm6fa3i"
+}

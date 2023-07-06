@@ -1,0 +1,60 @@
+{
+  "name": "Порча глашатая",
+  "type": "spell",
+  "img": "icons/skills/wounds/injury-face-impact-orange.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.cVQC0MavCYp297qe"
+    },
+    "cf": {
+      "id": "temp_0gz04w1fnmy5"
+    }
+  },
+  "system": {
+    "class": "Hexes",
+    "level": "journeyman",
+    "source": "",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Жертва не может контролировать громкость своего голоса. Всякий раз, когда жертва хочет заговорить, она должна бросить 1d6. На 1 или 2 она шепчет, на 5 или 6 - кричит, а на 3 или 4 - говорит на средней громкости.",
+    "range": "",
+    "duration": "",
+    "defence": "",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "Medium",
+    "liftRequirement": "Жертва должна провести целый день в тишине, держа во рту кляп из любого материала по желанию. Она должна проспать ночь с этим кляпом, а на следующее утро раз- резать его на четыре части. Одну часть нужно бросить в огонь, другую в большой водоем, третью закопать, а четвертую сбросить с достаточно высокого места, чтобы ее мог унести ветер. Только после уничтожения всех четырех частей жертва снова сможет говорить.",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496639522,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Cun9a2lD4GyHnGKR",
+  "folder": "EIBjRCq06UND2xWm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Cun9a2lD4GyHnGKR"
+}

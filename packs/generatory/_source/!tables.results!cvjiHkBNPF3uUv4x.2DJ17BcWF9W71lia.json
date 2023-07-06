@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Дракопаха",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Drakopaha_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "9G89Oz9jiyxvu0lD",
+  "_id": "2DJ17BcWF9W71lia",
+  "flags": {},
+  "_key": "!tables.results!cvjiHkBNPF3uUv4x.2DJ17BcWF9W71lia"
+}

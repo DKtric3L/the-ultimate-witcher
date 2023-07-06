@@ -1,0 +1,44 @@
+{
+  "name": "Полнолуние",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/full_moon.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 36,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "avail": "Rare",
+    "effect": "Вы получаете +30 временных ПЗ до конца\nдействия эликсира. Эффект нескольких\n«Полнолуний» не суммируется.",
+    "time": "1/2 часа",
+    "toxicity": "75%"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_ablplrf0fnm"
+    },
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.vedmache-snaryazhenie.7IJ8iKhYKOWTGtSp"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162887309,
+    "modifiedTime": 1669962147156,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "w0k9muHkmsrks2kX",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!Br1L9eWnCCCm9T5i.w0k9muHkmsrks2kX"
+}

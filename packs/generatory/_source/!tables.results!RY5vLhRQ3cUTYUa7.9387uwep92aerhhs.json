@@ -1,0 +1,16 @@
+{
+  "text": "Перья гарпии",
+  "type": 2,
+  "img": "systems/TheWitcherTRPG/assets/images/vermilion.png",
+  "weight": 1,
+  "range": [
+    33,
+    33
+  ],
+  "drawn": false,
+  "_id": "9387uwep92aerhhs",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "RojQiA4deo5DPXV2",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.9387uwep92aerhhs"
+}

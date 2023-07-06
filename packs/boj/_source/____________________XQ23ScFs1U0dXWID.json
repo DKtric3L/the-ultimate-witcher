@@ -1,0 +1,40 @@
+{
+  "name": "Расстояние перелёта",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "XI3VVwyQNcIhUFxK",
+    "ThVlcMolBmiOPDs1",
+    "o5odTWabPBXkmVQv",
+    "k4R43KLAUk2XLzP9",
+    "6NjZIHgvjOcMQ5PQ",
+    "aITd3zPhr0fQdHx8"
+  ],
+  "formula": "1D6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.a02VdfD21bGnBc8g"
+    },
+    "cf": {
+      "id": "temp_x7vflzsmc0d"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897084,
+    "modifiedTime": 1685496658041,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "XQ23ScFs1U0dXWID",
+  "folder": "IlHyacxV54aC6rub",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!XQ23ScFs1U0dXWID"
+}

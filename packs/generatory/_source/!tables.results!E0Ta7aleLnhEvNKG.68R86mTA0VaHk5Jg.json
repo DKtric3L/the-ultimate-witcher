@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    110
+  ],
+  "drawn": false,
+  "text": "Чем всё кончится?",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "7p8hNG3hxioDTgx9",
+  "_id": "68R86mTA0VaHk5Jg",
+  "flags": {},
+  "_key": "!tables.results!E0Ta7aleLnhEvNKG.68R86mTA0VaHk5Jg"
+}

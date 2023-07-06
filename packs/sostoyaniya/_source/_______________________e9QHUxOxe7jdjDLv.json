@@ -1,0 +1,43 @@
+{
+  "name": "Эффект: отвар гаргульи",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/props/acid.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_bbcgrxjnis"
+    }
+  },
+  "system": {
+    "description": "30 минут, 75% токсичности.\nВы получаете +5 к проверкам Борьбы, и вы наносите дополнительные 5 урона при ударах рукой или ногой.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_d8w6lttfh",
+        "skill": "WITCHER.SkRefBrawling",
+        "modifier": "5"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883184,
+    "modifiedTime": 1685496621987,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "e9QHUxOxe7jdjDLv",
+  "folder": "lwEwxv6jTNqqSH5w",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!e9QHUxOxe7jdjDLv"
+}

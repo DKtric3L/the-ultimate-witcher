@@ -1,0 +1,42 @@
+{
+  "name": "Язык тролля",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/tongue_troll.dds_.6946.png",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 66,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Тролли",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "aether"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.2PsD2a79Kn756EE2"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853709,
+    "modifiedTime": 1669964670734,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "0TcfXt85VJYj4bfz",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!iq16jBBOREVjtjom.0TcfXt85VJYj4bfz"
+}

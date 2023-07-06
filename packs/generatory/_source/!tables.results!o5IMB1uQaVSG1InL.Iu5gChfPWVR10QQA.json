@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "drawn": false,
+  "text": "Мыло",
+  "img": "icons/sundries/survival/soap.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "E3I6c6vJCQVrXzXM",
+  "_id": "Iu5gChfPWVR10QQA",
+  "flags": {},
+  "_key": "!tables.results!o5IMB1uQaVSG1InL.Iu5gChfPWVR10QQA"
+}

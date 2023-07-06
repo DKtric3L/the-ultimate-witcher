@@ -1,0 +1,16 @@
+{
+  "text": "Крифрау",
+  "type": 2,
+  "img": "icons/magic/earth/strike-stone-stalactite-blood-red.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "6cRo9rxkHwfDriXG",
+  "documentId": "Yb4VwARJsC6p4Rra",
+  "flags": {},
+  "_key": "!tables.results!ZascaJBEL6PLtfdv.6cRo9rxkHwfDriXG"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    19,
+    19
+  ],
+  "drawn": false,
+  "text": "Нюхательная соль",
+  "img": "modules/the-ultimate-witcher/assets/props/smelling_salts.png",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "dwQsISMKiyE7frv1",
+  "_id": "OJlSNU5xPUbFBcxf",
+  "flags": {},
+  "_key": "!tables.results!W8cXwwH5s7CwRPIx.OJlSNU5xPUbFBcxf"
+}

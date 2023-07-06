@@ -1,0 +1,16 @@
+{
+  "text": "Маяк неестественного",
+  "type": 2,
+  "img": "icons/magic/control/hypnosis-mesmerism-watch.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "_id": "auhdmlav0jgh21a0",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "2skri7EGONxJgQWr",
+  "_key": "!tables.results!7kW39E9A500MUXsS.auhdmlav0jgh21a0"
+}

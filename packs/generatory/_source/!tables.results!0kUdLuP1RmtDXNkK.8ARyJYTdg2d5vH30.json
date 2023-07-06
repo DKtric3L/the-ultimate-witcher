@@ -1,0 +1,16 @@
+{
+  "text": "Волны Нагльфара",
+  "type": 2,
+  "img": "icons/magic/water/wave-water-explosion.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "8ARyJYTdg2d5vH30",
+  "documentId": "VdOMfzbFzXFwcWtF",
+  "flags": {},
+  "_key": "!tables.results!0kUdLuP1RmtDXNkK.8ARyJYTdg2d5vH30"
+}

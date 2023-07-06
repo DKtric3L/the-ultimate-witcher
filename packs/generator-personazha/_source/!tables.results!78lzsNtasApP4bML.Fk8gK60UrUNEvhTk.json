@@ -1,0 +1,16 @@
+{
+  "_id": "Fk8gK60UrUNEvhTk",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Ковир и Повисс (+1 Торговля)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!78lzsNtasApP4bML.Fk8gK60UrUNEvhTk"
+}

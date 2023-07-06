@@ -1,0 +1,45 @@
+{
+  "name": "Опасность - исслед",
+  "img": "icons/svg/circle.svg",
+  "description": "",
+  "results": [
+    "rO4HxyXnbx0nGgAD",
+    "3SXrQz4LgcEMDkpB",
+    "SbkOkFHdKQxktvy2",
+    "4ClUgcKMtUaQBHs4",
+    "UdqHInEGmLATt5ZY",
+    "Ehw78dzefggFvtXN",
+    "6w1B9jufZNwV6NzA",
+    "SeQRjGyaNECWx44H",
+    "FKKtlSnQFK5WbHRn",
+    "7aijvtF6Qfw6DTkT"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.KiaQZRr4QLgGDQzW"
+    },
+    "cf": {
+      "id": "temp_r17gvqw2fe8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162901100,
+    "modifiedTime": 1685496652501,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "8Uh3r0USEIzTUdT2": 3
+  },
+  "folder": "N0obDP8s9kOjFI37",
+  "sort": 0,
+  "_id": "R027h7L0gVt00e3b",
+  "_key": "!tables!R027h7L0gVt00e3b"
+}

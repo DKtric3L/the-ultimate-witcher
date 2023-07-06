@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    31,
+    60
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "C8gFjGdWJbb2LfXB",
+  "text": "Цель - Самая раненая.(Будет бить его, пока кто-то не спровоцирует на себя)",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!nowTZyYNAOpvTX5B.C8gFjGdWJbb2LfXB"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Когтезуб",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/bombs/clawtooth.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_5rbvvy0nejs"
+    }
+  },
+  "system": {
+    "description": "Радиус - 4 метра, Урон 5d6, тип - режущая ловушка.\nВсе в зоне взрыва получают урон, от которого с вероятностью\n60 % остаётся кровоточащая рана.",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 111,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Poor",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887305,
+    "modifiedTime": 1685496626910,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lvcI83XY7DdKHU6N",
+  "folder": "VDu2hM2Irbb4cMQW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lvcI83XY7DdKHU6N"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Благословение богатства",
+  "type": "spell",
+  "img": "icons/commodities/currency/coin-embossed-ruby-gold.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a9snocl3pol"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Благословение изобилия наделяет вас божественным провидением, повышая вероятность того, что вы извлечете выгоду из найденных предметов. В первый раз, когда вы или ваш Мастер делаете бросок, чтобы определить, сколько добычи вы получите, бросок делается дважды, и берется большее значение. Это относится ко всему источнику добычи; это означает, что если вы обыскиваете мертвого монстра, вы будете бросать каждый предмет добычи дважды и брать большее значение.",
+    "range": "на себя",
+    "duration": "1 день",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496638327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "g0LnWWKBQBUKMJLn",
+  "folder": "vseZIvovion73VUQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!g0LnWWKBQBUKMJLn"
+}

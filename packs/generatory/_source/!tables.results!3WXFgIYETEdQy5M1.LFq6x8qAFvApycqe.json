@@ -1,0 +1,16 @@
+{
+  "text": "Сварог",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/svarog.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "LFq6x8qAFvApycqe",
+  "documentId": "hr8Epg74PE8jNf8x",
+  "flags": {},
+  "_key": "!tables.results!3WXFgIYETEdQy5M1.LFq6x8qAFvApycqe"
+}

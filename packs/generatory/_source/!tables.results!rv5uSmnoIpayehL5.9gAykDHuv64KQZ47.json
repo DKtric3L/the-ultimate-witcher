@@ -1,0 +1,16 @@
+{
+  "text": "Адэнидд",
+  "type": 2,
+  "img": "icons/magic/control/debuff-energy-snare-blue.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "9gAykDHuv64KQZ47",
+  "documentId": "hqI6yJBIeXtYtaj3",
+  "flags": {},
+  "_key": "!tables.results!rv5uSmnoIpayehL5.9gAykDHuv64KQZ47"
+}

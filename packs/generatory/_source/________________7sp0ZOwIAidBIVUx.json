@@ -1,0 +1,45 @@
+{
+  "name": "Друид - Новичок",
+  "img": "icons/magic/nature/leaf-glow-teal.webp",
+  "results": [
+    "p218i9badq2bdzhq",
+    "8lezt2c7z95vse3j",
+    "5x3dh5n7mrnv2l93",
+    "1o1orq1jpcnvgfgi",
+    "nsnmp37oyrd1hzwx",
+    "7z6oqx9i5sqzh56c",
+    "xx2bwnj2plolvz24",
+    "w2naahmz0fkfyz12",
+    "7gxg0yk90hogoj0u",
+    "qtroaf4zhjkzlq6s",
+    "4ee7swb8dhia0d22"
+  ],
+  "formula": "1d11",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.GldwzjBn40Wo2xW6"
+    },
+    "cf": {
+      "id": "temp_cboveqoq8kl"
+    }
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162932898,
+    "modifiedTime": 1685496644235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "7sp0ZOwIAidBIVUx",
+  "folder": "hu5je5cICYkkCemz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!7sp0ZOwIAidBIVUx"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "5VXUJzVqGqVahzfy",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: Вашу семью убил мятежный маг, который то ли затаил обиду, то ли просто жаждал крови. Так или иначе, вы теперь одиноки.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!zdRpy02eFO6WdCip.5VXUJzVqGqVahzfy"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Изнеможение от жажды",
+  "type": "effect",
+  "img": "icons/consumables/drinks/wine-amphora-clay-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.EDSoZQhaKtlwQVJr"
+    },
+    "cf": {
+      "id": "temp_xq906tikww"
+    }
+  },
+  "system": {
+    "description": "Твоё время на исходе. Если срочно не найдёшь источник воды, на утро, скорее всего, не найдёшь себя среди живых.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Int",
+        "modifier": "/4"
+      },
+      {
+        "id": "_u8alrrb87",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "/4"
+      },
+      {
+        "id": "_6285dibul",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "/4"
+      },
+      {
+        "id": "_m26kye6w4",
+        "stat": "WITCHER.Actor.Stat.Body",
+        "modifier": "/4"
+      },
+      {
+        "id": "_vq4z5vqup",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "/4"
+      },
+      {
+        "id": "_t4q1hkjiv",
+        "stat": "WITCHER.Actor.Stat.Emp",
+        "modifier": "/4"
+      },
+      {
+        "id": "_yahhnm5e7",
+        "stat": "WITCHER.Actor.Stat.Cra",
+        "modifier": "/4"
+      },
+      {
+        "id": "_8uf6uj2ps",
+        "stat": "WITCHER.Actor.Stat.Will",
+        "modifier": "/4"
+      }
+    ],
+    "derived": [
+      {
+        "id": "first",
+        "derivedStat": "WITCHER.Actor.CoreStat.woundTreshold",
+        "modifier": "/4"
+      }
+    ],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "",
+        "modifier": 0
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883168,
+    "modifiedTime": 1685496621661,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ncTY98wQeHCiUTCk",
+  "folder": "1H4Dkaei03yMUCuF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ncTY98wQeHCiUTCk"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "r1LxXfZHW30aoSVf",
+  "flags": {},
+  "type": 0,
+  "text": "У вас 5 братьев или/и сестёр.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!xI4FLxWEAfIlIbp3.r1LxXfZHW30aoSVf"
+}

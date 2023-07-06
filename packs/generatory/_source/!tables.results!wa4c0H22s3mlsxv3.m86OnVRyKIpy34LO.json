@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "text": "Чехол для лука",
+  "img": "icons/containers/ammunition/arrows-quiver-black.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "RlvyAm1Gv9YOSPa4",
+  "_id": "m86OnVRyKIpy34LO",
+  "flags": {},
+  "_key": "!tables.results!wa4c0H22s3mlsxv3.m86OnVRyKIpy34LO"
+}

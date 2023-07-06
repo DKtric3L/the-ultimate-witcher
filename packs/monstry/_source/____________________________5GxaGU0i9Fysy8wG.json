@@ -1,0 +1,43 @@
+{
+  "_id": "5GxaGU0i9Fysy8wG",
+  "name": "Трофей земляного элементаля",
+  "type": "valuable",
+  "img": "modules/the-ultimate-witcher/assets/trophy/elemental.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.A28ua5wq3MhjHmRa"
+    },
+    "cf": {
+      "id": "temp_dfafb0g01p"
+    }
+  },
+  "system": {
+    "description": "Ваши атаки наносят двойной разрушающий урон оружию, щитам или доспехам.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "NA",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!DCPM1xtFpJXDAswL.5GxaGU0i9Fysy8wG"
+}

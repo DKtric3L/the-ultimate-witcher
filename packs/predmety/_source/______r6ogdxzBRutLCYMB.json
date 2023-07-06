@@ -1,0 +1,43 @@
+{
+  "name": "Факел",
+  "type": "valuable",
+  "img": "icons/sundries/lights/torch-brown-lit.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NV5ecltF1HZiRCss"
+    },
+    "cf": {
+      "id": "temp_witw8a9x5dh"
+    }
+  },
+  "system": {
+    "description": "Лучше взять фонарь, но на крайний случай сойдёт и факел. Неплохо освещает дорогу, а если что, можно им помахаться, как дубинкой (повышает уровень освещённости на 1 в радиусе 5 метров).",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868993,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "r6ogdxzBRutLCYMB",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!r6ogdxzBRutLCYMB"
+}

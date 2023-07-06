@@ -1,0 +1,26 @@
+{
+  "_id": "lWktJUJpcw3hhtlB",
+  "name": "Слабости",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "На суше ЛВК и СКОР жагницы уменьшается в 2 раза. \nЖагница дышит через жабры и может выжить вне воды всего 5 минут. \nПрочность естественной брони на животе жагницы равна 5. Эта часть тела не имеет сопротивления урону."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!Sm1snYC5s1biVBbj.lWktJUJpcw3hhtlB"
+}

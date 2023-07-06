@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Благословенный табун (Эпона)",
+  "img": "icons/creatures/mammals/spirit-deer-herd-blue.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "gzk6egrN5SxubWSb",
+  "_id": "Uma5OlDTLHUDQNZG",
+  "flags": {},
+  "_key": "!tables.results!sZpiqWwtKOabwlLY.Uma5OlDTLHUDQNZG"
+}

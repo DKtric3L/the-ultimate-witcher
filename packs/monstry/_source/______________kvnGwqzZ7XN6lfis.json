@@ -1,0 +1,42 @@
+{
+  "name": "Шкура вендиго",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/hide_werewolf_64x64.png.6923.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.1,
+    "cost": 76,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Вендиго",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "fulgur"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.the-ultimate-witcher.komponenty.c8DzL05SUcmwfgPF"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853707,
+    "modifiedTime": 1669964869723,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "kvnGwqzZ7XN6lfis",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!h36v8BTXKysKCWgP.kvnGwqzZ7XN6lfis"
+}

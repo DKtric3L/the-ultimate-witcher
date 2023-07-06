@@ -1,0 +1,51 @@
+{
+  "name": "Чернобог",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/chernobog.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.hSG4zY45TSxEqau2"
+    },
+    "cf": {
+      "id": "temp_71hupsrmvi8"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 575,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Когда ваше оружие должно получить урон, сделайте бросок 1d6: при результате 4, 5 и 6 оружие не получит урон."
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868995,
+    "modifiedTime": 1685496603388,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "hSG4zY45TSxEqau2",
+  "folder": "gY35AKdkeOXtFVMi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!hSG4zY45TSxEqau2"
+}

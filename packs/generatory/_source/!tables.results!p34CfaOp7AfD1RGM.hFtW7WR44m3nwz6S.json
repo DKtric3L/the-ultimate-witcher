@@ -1,0 +1,16 @@
+{
+  "text": "Управление чувствами",
+  "type": 2,
+  "img": "icons/magic/control/debuff-energy-hold-blue-yellow.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "hFtW7WR44m3nwz6S",
+  "documentId": "eKuDyq1cV9beueCC",
+  "flags": {},
+  "_key": "!tables.results!p34CfaOp7AfD1RGM.hFtW7WR44m3nwz6S"
+}

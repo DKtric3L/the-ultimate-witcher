@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Боеприпасы - старшие народы - Мастер",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "I5ZCqrotJYr5NPbL",
+  "_id": "IDKNe3mAFW8D8jyD",
+  "flags": {},
+  "_key": "!tables.results!JVPcItkrIVDJAXC8.IDKNe3mAFW8D8jyD"
+}

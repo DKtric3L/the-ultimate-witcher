@@ -1,0 +1,26 @@
+{
+  "_id": "TqvM11OjktCEk4Nd",
+  "name": "Подпитка огнём",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Если сотворить на элементаля огня огненное заклинание, он восстановит ПЗ (в два раза меньше, чем получил бы урона от этого заклинания) и получит бонус +2 ко всем броскам на 3 раунда. Если элементаля огня до этого поту шили атакой, связанной с водой, льдом или ветром, то при Подпитке огнём его Аура жара немедленно восстановится."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!hTcTCWMsqHdGmI3M.TqvM11OjktCEk4Nd"
+}

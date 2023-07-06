@@ -1,0 +1,16 @@
+{
+  "_id": "DCx5bDeMkPrAW8Lu",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Налётчик. Наибольшее влияние на вас оказал налётчик, благодаря которому вы поняли, что у вас есть право брать то, что вам нужно. Снаряжение - Наплечная сумка.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!OSUQ2yZBmkFEiEHH.DCx5bDeMkPrAW8Lu"
+}

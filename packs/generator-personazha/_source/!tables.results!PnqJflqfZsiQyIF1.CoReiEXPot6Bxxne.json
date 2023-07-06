@@ -1,0 +1,16 @@
+{
+  "_id": "CoReiEXPot6Bxxne",
+  "type": 2,
+  "text": "Близость",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "YlGaaPV6THe23tGn",
+  "_key": "!tables.results!PnqJflqfZsiQyIF1.CoReiEXPot6Bxxne"
+}

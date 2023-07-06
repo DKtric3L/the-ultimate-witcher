@@ -1,0 +1,16 @@
+{
+  "text": "Божественное присутствие",
+  "type": 2,
+  "img": "icons/creatures/magical/spirit-undead-horned-blue.webp",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "_id": "h0opgm47sqq87jef",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "A6BWwhS7Tyww7LH1",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.h0opgm47sqq87jef"
+}

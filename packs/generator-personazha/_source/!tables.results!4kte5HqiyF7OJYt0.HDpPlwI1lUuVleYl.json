@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Путь ведьмака: Рискованный",
+  "img": "icons/environment/settlement/graveyard-tombstone-night.webp",
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "6zn78Gj7lZtJfS90",
+  "_id": "HDpPlwI1lUuVleYl",
+  "flags": {},
+  "_key": "!tables.results!4kte5HqiyF7OJYt0.HDpPlwI1lUuVleYl"
+}

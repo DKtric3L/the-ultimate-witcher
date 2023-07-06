@@ -1,0 +1,16 @@
+{
+  "text": "Странная пустая лампа",
+  "type": 2,
+  "img": "icons/containers/kitchenware/pot-meal.webp",
+  "weight": 1,
+  "range": [
+    27,
+    27
+  ],
+  "drawn": false,
+  "_id": "a5c3vqwguo5hrcy6",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "1KMEDsW3Qw3U1n5c",
+  "_key": "!tables.results!RY5vLhRQ3cUTYUa7.a5c3vqwguo5hrcy6"
+}

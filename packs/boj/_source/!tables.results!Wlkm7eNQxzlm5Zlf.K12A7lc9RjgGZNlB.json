@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    32,
+    34
+  ],
+  "drawn": false,
+  "text": "Прицельная атака",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.boj",
+  "documentId": "CRzkFzGgCYfqFjaW",
+  "_id": "K12A7lc9RjgGZNlB",
+  "flags": {},
+  "_key": "!tables.results!Wlkm7eNQxzlm5Zlf.K12A7lc9RjgGZNlB"
+}

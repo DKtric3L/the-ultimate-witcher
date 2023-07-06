@@ -1,0 +1,16 @@
+{
+  "_id": "drJqdmAcZDOONAi1",
+  "flags": {},
+  "type": 2,
+  "text": "Генератор: Человек",
+  "img": "icons/svg/house.svg",
+  "weight": 1,
+  "range": [
+    1,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "g9I3DpPOi5CfOFBz",
+  "_key": "!tables.results!CIpykDUYYuJB0zLv.drJqdmAcZDOONAi1"
+}

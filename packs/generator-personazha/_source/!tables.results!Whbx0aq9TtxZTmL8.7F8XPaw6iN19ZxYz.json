@@ -1,0 +1,16 @@
+{
+  "_id": "7F8XPaw6iN19ZxYz",
+  "flags": {},
+  "type": 0,
+  "text": "Строгость",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Whbx0aq9TtxZTmL8.7F8XPaw6iN19ZxYz"
+}

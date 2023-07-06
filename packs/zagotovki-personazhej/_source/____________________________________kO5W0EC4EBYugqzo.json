@@ -1,0 +1,49 @@
+{
+  "name": "Друидом может быть человек или эльф",
+  "type": "race",
+  "_id": "kO5W0EC4EBYugqzo",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "descriotion": "",
+    "perk1": {
+      "name": "",
+      "description": ""
+    },
+    "perk2": {
+      "name": "",
+      "description": ""
+    },
+    "perk3": {
+      "name": "",
+      "description": ""
+    },
+    "perk4": {
+      "name": "",
+      "description": ""
+    },
+    "socialStanding": {
+      "north": "",
+      "nilfgaard": "",
+      "skellige": "",
+      "dolBlathanna": "",
+      "mahakam": ""
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.89",
+    "coreVersion": "10.285",
+    "createdTime": 1663425314727,
+    "modifiedTime": 1663425324099,
+    "lastModifiedBy": "DL2Tb4DoN9q9bPQA"
+  },
+  "_key": "!actors.items!dOeQYcWPrnQjn0mK.kO5W0EC4EBYugqzo"
+}

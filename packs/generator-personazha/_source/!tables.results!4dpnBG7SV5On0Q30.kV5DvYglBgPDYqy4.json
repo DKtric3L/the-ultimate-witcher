@@ -1,0 +1,16 @@
+{
+  "_id": "kV5DvYglBgPDYqy4",
+  "type": 0,
+  "text": "Перегрузка. Из-за своего высокомерия или своего невежества вы втянули в свое тело слишком много энергии и пострадали от последствий. Понизьте свои хиты на 2",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!4dpnBG7SV5On0Q30.kV5DvYglBgPDYqy4"
+}

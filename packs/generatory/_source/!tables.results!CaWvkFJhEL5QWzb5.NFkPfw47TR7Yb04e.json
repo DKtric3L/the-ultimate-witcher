@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Мантикора",
+  "img": "modules/the-ultimate-witcher/assets/monsters/manticore.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "D3bajktqlbQz0p0d",
+  "_id": "NFkPfw47TR7Yb04e",
+  "flags": {},
+  "_key": "!tables.results!CaWvkFJhEL5QWzb5.NFkPfw47TR7Yb04e"
+}

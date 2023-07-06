@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Мастер",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "MYVFcikT5xrgUJBE",
+  "_id": "GbYEL4Tu4Aa8pGnG",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!GbYEL4Tu4Aa8pGnG"
+}

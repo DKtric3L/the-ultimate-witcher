@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    3,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "nBtQQRwexfSejLy2",
+  "text": "Этот вампир рос среди людей, подражая местным обычаям и манерам. Он полностью влился в местное общество и может жить, ничем не отличаясь от обычных горожан.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!V13T3gYVhMU5gOK0.nBtQQRwexfSejLy2"
+}

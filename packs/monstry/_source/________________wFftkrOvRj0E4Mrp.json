@@ -1,0 +1,42 @@
+{
+  "name": "Кровь гернихоры",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/blood_monstrous_64x64.png.6862.png",
+  "system": {
+    "description": "",
+    "quantity": "1d6",
+    "weight": 0.1,
+    "cost": 562,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Гернихоры",
+    "quantityObtainable": "N/A",
+    "forage": "N/A",
+    "substanceType": "rebis"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "cf": null,
+    "core": {
+      "sourceId": "Compendium.world.komponenty.LEzKHip4NGNxS234"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1668162853701,
+    "modifiedTime": 1669965170041,
+    "lastModifiedBy": "05FnK6TtcvMYb9FD"
+  },
+  "_id": "wFftkrOvRj0E4Mrp",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!BbAJA9EIBfnBzcEE.wFftkrOvRj0E4Mrp"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Фульгор + Солнце",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.e915tfFLqGpfRnOt"
+    },
+    "cf": {
+      "id": "temp_1rc7toaohz8"
+    }
+  },
+  "system": {
+    "description": "<p>@UUID[Compendium.the-ultimate-witcher.predmety.zIp7P50nbJ9iWaQ8]{Фульгор + Солнце}</p>\n<p>&nbsp;</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "potion",
+    "level": "novice",
+    "isFormulae": true,
+    "craftingDC": 0,
+    "alchemyDC": 18,
+    "craftingTime": "1 ход",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "",
+        "name": ""
+      }
+    ],
+    "investment": 0,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": null,
+      "rebis": null,
+      "aether": null,
+      "quebrith": null,
+      "hydragenum": null,
+      "vermilion": null,
+      "sol": 1,
+      "caelum": null,
+      "fulgur": 1
+    },
+    "associatedItem": {
+      "name": "Фульгор + Солнце",
+      "type": "alchemical",
+      "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 0,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "potion",
+        "avail": "Rare",
+        "effect": "Погружает вас в подобную смерти кому на 1 час. \nСрок годности - трое суток.",
+        "time": "1 час",
+        "toxicity": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.ihYzaETEXwFdOuZf"
+        },
+        "cf": {
+          "id": "temp_eux3i6hppej"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162868994,
+        "modifiedTime": 1668162868994,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848431,
+    "modifiedTime": 1685496578538,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "21XMXYQOZO97DGyQ",
+  "folder": "Pomvt3uPGKucMdZ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!21XMXYQOZO97DGyQ"
+}

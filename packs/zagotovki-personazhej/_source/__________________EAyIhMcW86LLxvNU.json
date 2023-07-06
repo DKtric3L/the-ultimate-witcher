@@ -1,0 +1,42 @@
+{
+  "name": "Стойкость мутанта",
+  "type": "effect",
+  "img": "icons/magic/nature/root-vine-caduceus-healing.webp",
+  "system": {
+    "description": "Вы не болеете и можете использовать мутагены",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "quantity": 1
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b8e64a59e1d999f105b9ef0708e432a6b0765995",
+      "sourceId": "Item.oxZDdfRojFWNUJxW"
+    },
+    "core": {
+      "sourceId": "Item.oxZDdfRojFWNUJxW"
+    },
+    "cf": {
+      "id": "temp_c9sce9k4ek8"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.291",
+    "createdTime": 1672537494077,
+    "modifiedTime": 1672538208881,
+    "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+  },
+  "_id": "EAyIhMcW86LLxvNU",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!84b1V2oC2ohXF2yr.EAyIhMcW86LLxvNU"
+}

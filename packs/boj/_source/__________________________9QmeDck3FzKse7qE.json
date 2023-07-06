@@ -1,0 +1,39 @@
+{
+  "name": "Лечение - Внутренние раны",
+  "img": "icons/skills/wounds/injury-stapled-flesh-tan.webp",
+  "description": "",
+  "results": [
+    "6G7icmCtctcUTcWK",
+    "CXxj685O7hKaXKr8",
+    "95lIF4v92VoULONd",
+    "kszceRriPsDVt87c",
+    "eOU72GthQljzhd3p"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.me8INOWRfPLSPRYz"
+    },
+    "cf": {
+      "id": "temp_k8hwciyvpw"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162897073,
+    "modifiedTime": 1685496658120,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9QmeDck3FzKse7qE",
+  "folder": "DL7m2vy4NZZYLWYk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!9QmeDck3FzKse7qE"
+}

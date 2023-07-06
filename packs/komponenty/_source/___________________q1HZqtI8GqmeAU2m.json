@@ -1,0 +1,44 @@
+{
+  "name": "Кладбищенская пыль",
+  "type": "component",
+  "img": "icons/commodities/materials/bowl-powder-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ytsIJzAMBMN7AHiD"
+    },
+    "cf": {
+      "id": "temp_0cj8i72dlee"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 1,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "crafting-material",
+    "rarity": "Common",
+    "location": "Кладбища, места захоронений",
+    "quantityObtainable": "1d10",
+    "forage": "12",
+    "substanceType": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853700,
+    "modifiedTime": 1685496584059,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "q1HZqtI8GqmeAU2m",
+  "folder": "NvmlG8RLYf1RMTuR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!q1HZqtI8GqmeAU2m"
+}

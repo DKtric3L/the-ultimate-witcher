@@ -1,0 +1,77 @@
+{
+  "name": "Рунное слово: Горение",
+  "type": "diagrams",
+  "img": "icons/magic/fire/flame-burning-creature-skeleton.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.nODTt6LHpwrtrjni"
+    },
+    "cf": {
+      "id": "temp_1r5chs154v7"
+    }
+  },
+  "system": {
+    "description": "<p>Урон, наносимый этим оружием, может измениться на урон от огня. который обходит сопротивление рубящему, колющему или дробящему удару.. Ему все еще могут сопротивляться существа, невосприимчивые или устойчивые. стрелять. Оружие не поджигает цель.</p>",
+    "quantity": 1,
+    "weight": null,
+    "cost": 2150,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "journeyman",
+    "isFormulae": false,
+    "craftingDC": 15,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Чернобог"
+      },
+      {
+        "id": "_llejtef4p",
+        "name": "Даждьбог",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_x897oc4l4",
+        "name": "Занимает 2 слота для улучшений",
+        "percentage": ""
+      }
+    ],
+    "investment": 1175,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848426,
+    "modifiedTime": 1685496579124,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "jVUQaZulQnstdvdb",
+  "folder": "7ogE3cPtN4Xw0G1z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!jVUQaZulQnstdvdb"
+}

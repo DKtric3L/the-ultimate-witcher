@@ -1,0 +1,180 @@
+{
+  "name": "Драгунская броня гномьей работы",
+  "type": "diagrams",
+  "img": "icons/sundries/books/book-symbol-tree-silver-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.3URn5BLe3xD4GHq9"
+    },
+    "cf": {
+      "id": "temp_qyydi88el9s"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.dospehi.WGvzq7unq2QdsAq2]{Драгунская броня гномьей работы}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 4274,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "elderfolk-armor",
+    "level": "grand-master",
+    "isFormulae": false,
+    "craftingDC": 25,
+    "alchemyDC": 0,
+    "craftingTime": "25ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "12",
+        "name": "Темная сталь"
+      },
+      {
+        "id": "_oa0zxef80",
+        "name": "Метеорит",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_xhtklvgk2",
+        "name": "Махакамский двимерит",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_i7m3ojr3t",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "10"
+      },
+      {
+        "id": "_uumkdjc0p",
+        "name": "Травильная кислота",
+        "percentage": "",
+        "quantity": "14"
+      },
+      {
+        "id": "_vfil9uxzg",
+        "name": "Двойное полотно",
+        "percentage": "",
+        "quantity": "5"
+      },
+      {
+        "id": "_u0mlcip3a",
+        "name": "Чернящее масло",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_kdn7b51cv",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_ll3agw07m",
+        "name": "component",
+        "percentage": "",
+        "quantity": "15"
+      }
+    ],
+    "investment": 2131,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Драгунская броня гномьей работы",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-gilded-orange.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 20,
+        "cost": 2850,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "reliability": 0,
+        "reliabilityMax": 0,
+        "headStopping": 25,
+        "headMaxStopping": 25,
+        "torsoStopping": 25,
+        "torsoMaxStopping": 25,
+        "leftArmStopping": 25,
+        "leftArmMaxStopping": 25,
+        "rightArmStopping": 25,
+        "rightArmMaxStopping": 25,
+        "leftLegStopping": 25,
+        "leftLegMaxStopping": 25,
+        "rightLegStopping": 25,
+        "rightLegMaxStopping": 25,
+        "type": "Light",
+        "avail": "Rare",
+        "enhancements": 2,
+        "enhancementItems": [],
+        "effects": [
+          {
+            "id": "first",
+            "name": "+2 верховая езда"
+          }
+        ],
+        "encumb": 2,
+        "location": "FullCover",
+        "equiped": false,
+        "bludgeoning": false,
+        "slashing": true,
+        "piercing": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.dospehi-starshego-naroda.YeJDWVKzglocgzU3"
+        },
+        "cf": {
+          "id": "temp_njuve1krma"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162837866,
+        "modifiedTime": 1668162837866,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848414,
+    "modifiedTime": 1685496579540,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "3URn5BLe3xD4GHq9",
+  "folder": "1rLi9NNO3m4tNUPN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!3URn5BLe3xD4GHq9"
+}

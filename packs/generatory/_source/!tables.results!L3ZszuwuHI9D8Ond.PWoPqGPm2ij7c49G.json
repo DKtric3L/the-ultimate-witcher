@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Женское нижнее белье",
+  "img": "icons/equipment/waist/sash-cloth-pink-gold.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "xAeih9OrtZdu74BU",
+  "_id": "PWoPqGPm2ij7c49G",
+  "flags": {},
+  "_key": "!tables.results!L3ZszuwuHI9D8Ond.PWoPqGPm2ij7c49G"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Случайное Солнце",
+  "img": "systems/TheWitcherTRPG/assets/images/sol.png",
+  "description": "",
+  "results": [
+    "9XpXxVptegsVE4e3",
+    "1jJ4OyooXypaAXDO",
+    "sCnGBbBD94RzKIQe"
+  ],
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.I6XSYlNU6afKp724"
+    },
+    "cf": {
+      "id": "temp_fq4yov25gun"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668586454846,
+    "modifiedTime": 1685496644845,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vHNpuBWLrSAYE4i",
+  "sort": 0,
+  "_id": "3WFUm7POaKgmBnGJ",
+  "_key": "!tables!3WFUm7POaKgmBnGJ"
+}

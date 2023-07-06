@@ -1,0 +1,16 @@
+{
+  "_id": "d5F4mYU9fpQwiuB1",
+  "flags": {},
+  "type": 0,
+  "text": "Вдумчивость",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!Whbx0aq9TtxZTmL8.d5F4mYU9fpQwiuB1"
+}

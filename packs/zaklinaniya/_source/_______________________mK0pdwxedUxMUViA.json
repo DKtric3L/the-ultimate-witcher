@@ -1,0 +1,57 @@
+{
+  "name": "Артефактная компрессия",
+  "type": "spell",
+  "img": "icons/magic/control/voodoo-doll-pain-damage-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_jng7v7c6yv"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "master",
+    "source": "",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Артефактная компрессия уменьшает существо в пределах 10 метров до 1/10 от его изначального размера и заключает в нефрит. Цель, превращённая в такую статуэтку, пребывает без сознания. Процесс трансформации крайне болезнен для цели — она должна совершить проверку Стойкости со СЛ 15, чтобы не получить 6d6 урона в туловище. Цель может неограниченное время находиться в состоянии артефактной компрессии. Тело сохраняется в изначальном со стоянии и не стареет. В сжатом виде у цели всего 1/5 её стандартных ПЗ с округлением вверх. При потере этих ПЗ цель умирает. Если у фигурки отломать конечность при проверке Силы со СЛ 14 или при нанесении 5 урона, это считается потерей конечности. Если фигурке отломить голову, цель умирает. Приклеивание конечности компрессированной фигурке не восстанавливает конечность существа. После декомпрессии цель дезориентирована, пока не пройдёт испытание Устойчивости",
+    "range": "",
+    "duration": "до отмены",
+    "defence": "",
+    "components": "совершенный самоцвет(xl), пятая эссенция(х5), дымная пыль(х2), речная глина(х4)",
+    "alternateComponents": "",
+    "preparationTime": "10 раундов",
+    "dificultyCheck": "18",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892152,
+    "modifiedTime": 1685496637493,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "mK0pdwxedUxMUViA",
+  "folder": "LEQUCMjLSMjWdmGB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!mK0pdwxedUxMUViA"
+}

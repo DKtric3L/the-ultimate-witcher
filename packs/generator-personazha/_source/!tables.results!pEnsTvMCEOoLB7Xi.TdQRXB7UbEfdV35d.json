@@ -1,0 +1,16 @@
+{
+  "_id": "TdQRXB7UbEfdV35d",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Граф. Наибольшее влияние на вас оказал граф или графиня, научивший брать себя в руки. Снаряжение - Серебряное кольцо.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!pEnsTvMCEOoLB7Xi.TdQRXB7UbEfdV35d"
+}

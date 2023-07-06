@@ -1,0 +1,65 @@
+{
+  "name": "Струя кислоты",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/chlorinic2.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_7aea2ggiqyw"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "basic",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Хлориник теперь испускает постоянный поток кислоты, наносящий 1d6 урона кислотой за каждое затраченное очко Вын и 1d6/2 разрушающего урона доспехам и оружию. Струю кислоты необходимо поддерживать, каждый раунд затрачивая количество Вын, равное 1/2 изначальной стоимости в Вын. В свой ход заклинатель может сменить цель. Струю можно прицельно направить на часть тела.",
+    "range": "3м",
+    "duration": "Актив(1/2 затрат вын)",
+    "defence": "Уклонение/Блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+1d6/2",
+    "effects": [
+      {
+        "id": "first",
+        "name": "1d6 - урон кислоты за каждое вын"
+      },
+      {
+        "id": "_tqnjik8az",
+        "name": "1d6/2 - Разрушающий урон снаряжению за каждое вын",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892175,
+    "modifiedTime": 1685496638489,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "WJIsfi6DpFwQbXpy",
+  "folder": "QhyjillGyHuKzXly",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!WJIsfi6DpFwQbXpy"
+}

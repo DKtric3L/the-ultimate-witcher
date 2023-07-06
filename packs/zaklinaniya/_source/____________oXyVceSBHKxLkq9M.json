@@ -1,0 +1,70 @@
+{
+  "name": "Струя гнили",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/chlorinic3.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_a5r1vpsvopg"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "НЕКРОМАНТИЯ\nЗатраты пз - 1d6 за очко вын.\nХлориник теперь испускает постоянные поток едкой темной крови из руки заклинателя, наносящий 1d6 некротического урона за каждое затраченное очко Вын и 1d6 разрушающего урона оружию и броне. Струю гнили необходимо поддерживать, каждый раунд затрачивая количество Вын, равное 1/2 изначальной стоимости в Вын. В свой ход заклинатель может сменить цель. Струю можно прицельно направить на часть тела.",
+    "range": "3 метра",
+    "duration": "Актив(1/2 затрат вын)",
+    "defence": "Уклонение/Блок",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6+1d6+1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "+1d6 некротического урона заклинателю за 1 вын"
+      },
+      {
+        "id": "_1jy26we58",
+        "name": "1d6 - урон по жертве, +1d6 за очко вын",
+        "percentage": ""
+      },
+      {
+        "id": "_oxcyn4i38",
+        "name": "1d6 - разрушающий урон снаряжению",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892175,
+    "modifiedTime": 1685496638518,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "oXyVceSBHKxLkq9M",
+  "folder": "bwtndOBz5Q00m7So",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!oXyVceSBHKxLkq9M"
+}

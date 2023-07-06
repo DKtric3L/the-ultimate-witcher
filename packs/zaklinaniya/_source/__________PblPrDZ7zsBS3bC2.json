@@ -1,0 +1,72 @@
+{
+  "name": "Рука бури",
+  "type": "spell",
+  "img": "icons/magic/death/skull-horned-white-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_o81kbs4tuef"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "air",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Вызывая всю силу бури, вы обрушиваете силу на цель, которая может проявляться одним из 3 способов. С помощью мощного восходящего потока вы можете отправить цель, не прошедшую проверку Изменения позиции, или объект весом 1000 кг или легче, в полет на 14 м в воздух. Цель начинает падать в конце своего следующего хода. При ударе об землю цель и все, во что она попадает, получает 7к6 дробящего урона туловищу и сбивается с ног. Как вариант, мощным порывом можно заполнить 14-метровый конус мощным ветром. Любой существо в этой области, кто провалит проверку Изменения позиции или не смог покинуть область действия заклинания своим перемещением, отбрасывается на 14 м назад и получает таранящий урон, если во время полета ударится обо что-нибудь. Наконец, вы можете манипулировать объектом весом до 1000 кг так, как будто вы держите его в руке.",
+    "range": "20м",
+    "duration": "мгновенное",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "14",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "7d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Выбери один эффект."
+      },
+      {
+        "id": "_o8g9lvklu",
+        "name": "1)подкидывает на 14 м, при падении валит с ног",
+        "percentage": ""
+      },
+      {
+        "id": "_gdmuti73r",
+        "name": "2)жертва в конусе Отбрасывается на 14 м, получая таран урон",
+        "percentage": ""
+      },
+      {
+        "id": "_qnbb048ok",
+        "name": "3)Манипуляция предметов, будто держишь в руке",
+        "percentage": ""
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496638125,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "PblPrDZ7zsBS3bC2",
+  "folder": "KLhC0N9SxeP4F8bD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!PblPrDZ7zsBS3bC2"
+}

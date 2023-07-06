@@ -1,0 +1,66 @@
+{
+  "name": "Клевец",
+  "type": "weapon",
+  "img": "icons/weapons/hammers/hammer-war-spiked.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2nu7s87th96"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 2.5,
+    "cost": 860,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Колющее, Дробящее",
+      "slashing": false,
+      "piercing": true,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Common",
+    "damage": "2d6",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "1",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Разбег",
+        "percentage": ""
+      }
+    ],
+    "conceal": "L",
+    "enhancements": 1,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Melee",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863939,
+    "modifiedTime": 1685496598644,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "HXUOZda9hNy8BorX",
+  "folder": "gsQZsCuxdxZTti04",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!HXUOZda9hNy8BorX"
+}

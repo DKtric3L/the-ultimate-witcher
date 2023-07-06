@@ -1,0 +1,51 @@
+{
+  "name": "Триглав",
+  "type": "enhancement",
+  "img": "modules/the-ultimate-witcher/assets/runes/triglav.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.lAx0m7tA8jYhO4bJ"
+    },
+    "cf": {
+      "id": "temp_71hupsrmvi8"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 575,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "rune",
+    "applied": "",
+    "avail": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Дезориентирующее(-1)"
+      }
+    ],
+    "stopping": 0,
+    "bludgeoning": false,
+    "slashing": false,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868991,
+    "modifiedTime": 1685496603388,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "lAx0m7tA8jYhO4bJ",
+  "folder": "gY35AKdkeOXtFVMi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!lAx0m7tA8jYhO4bJ"
+}

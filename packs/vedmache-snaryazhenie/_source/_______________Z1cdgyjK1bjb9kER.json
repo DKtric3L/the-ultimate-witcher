@@ -1,0 +1,40 @@
+{
+  "name": "Отвар гаргульи",
+  "type": "alchemical",
+  "img": "modules/the-ultimate-witcher/assets/potions/kraken_potion.png",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_adni0hxf6rb"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.5,
+    "cost": 62,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "decoction",
+    "avail": "Rare",
+    "effect": "Вы получаете +5 к проверкам Борьбы, и вы наносите\nдополнительные 5 урона при ударах рукой или ногой.",
+    "time": "30 минут",
+    "toxicity": "75%"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162887308,
+    "modifiedTime": 1685496626883,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Z1cdgyjK1bjb9kER",
+  "folder": "bZrtgL1pmeTvxqzx",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Z1cdgyjK1bjb9kER"
+}

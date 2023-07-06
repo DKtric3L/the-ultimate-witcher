@@ -1,0 +1,60 @@
+{
+  "name": "Успокоение животного",
+  "type": "spell",
+  "img": "icons/magic/nature/leaf-juggle-humanoid-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.ueJg2XmVcGR9KZx9"
+    },
+    "cf": {
+      "id": "temp_1c4rnttvf2l"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "druid",
+    "domain": "",
+    "stamina": "5",
+    "staminaIsVar": false,
+    "effect": "Выбрав дикое существо в пределах дистанции, вы проникаете в его разум, и оно больше не видит в вас угрозы. Оно не только не нападает, но и защищает вас. Если у вас есть черта Единение с природой, вы получаете бонус +3 к Сотворению заклинаний.",
+    "range": "10м",
+    "duration": "2d6 раундов",
+    "defence": "Сопротивление магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "2d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длительность эффекта(раунды)"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892177,
+    "modifiedTime": 1685496639395,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ShhKx1chQYHvqMbn",
+  "folder": "5jxNfYqMGdfsQWI6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ShhKx1chQYHvqMbn"
+}

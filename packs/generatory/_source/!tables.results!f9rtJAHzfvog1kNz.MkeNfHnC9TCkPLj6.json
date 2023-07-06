@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    38,
+    38
+  ],
+  "drawn": false,
+  "text": "Пустая склянка",
+  "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "uvhH1oii6vo7Rh7a",
+  "_id": "MkeNfHnC9TCkPLj6",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.MkeNfHnC9TCkPLj6"
+}

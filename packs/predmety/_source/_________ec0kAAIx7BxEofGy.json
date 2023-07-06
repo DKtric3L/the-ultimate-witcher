@@ -1,0 +1,44 @@
+{
+  "name": "Сладости",
+  "type": "valuable",
+  "img": "icons/commodities/gems/gem-rough-ball-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_9bempw9mh8g",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.7yTHLN80j6epUfL7"
+    }
+  },
+  "system": {
+    "description": "Всякие вкусности вроде орехов в меду, сахарных волоконец, засахаренных ягод и прочего. На каждом углу не продаются, но стоят того, чтобы за ними в соседний посёлок съездить.",
+    "quantity": 1,
+    "weight": 1,
+    "cost": 5,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603795,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "ec0kAAIx7BxEofGy",
+  "folder": "Wl7XwqKi0AbU85lU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ec0kAAIx7BxEofGy"
+}

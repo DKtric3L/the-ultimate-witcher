@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "text": "Сметающий Аард",
+  "img": "modules/the-ultimate-witcher/assets/signs/sweeping_aard.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "iNtP2GEXblE94lq8",
+  "_id": "VzLbkaOrM6fVDlmz",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.VzLbkaOrM6fVDlmz"
+}

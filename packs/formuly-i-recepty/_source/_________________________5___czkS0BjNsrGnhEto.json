@@ -1,0 +1,162 @@
+{
+  "name": "Выслеживающие боеприпасы(5х)",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.czkS0BjNsrGnhEto"
+    },
+    "cf": {
+      "id": "temp_uxjqay5wmkq"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.3Edwi5Ag2GzbFzB7]{Выслеживающие боеприпасы}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "Ammunition",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 14,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "1",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_u5k4l4w0s",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_6282etzmh",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_p5xjos8bb",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_6ztjmhz0r",
+        "name": "Дубильные травы",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 76,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Выслеживающие боеприпасы",
+      "type": "weapon",
+      "img": "icons/skills/ranged/arrow-barbed-flying-poisoned-green.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 22,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": true,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Everywhere",
+        "damage": "",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "Выслеживание по запаху не требует проверок",
+            "percentage": ""
+          },
+          {
+            "id": "_0cro60ssk",
+            "name": "Пока снаряд в теле, в течение суток",
+            "percentage": ""
+          }
+        ],
+        "conceal": "S",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Brawling",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rol4jixhdr"
+        },
+        "core": {
+          "sourceId": "Compendium.world.vedmache-snaryazhenie.3Edwi5Ag2GzbFzB7"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863937,
+        "modifiedTime": 1672564351279,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848410,
+    "modifiedTime": 1685496579423,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "czkS0BjNsrGnhEto",
+  "folder": "i6EyT0d6h9MoqghR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!czkS0BjNsrGnhEto"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Эффект: Зелье петри",
+  "type": "effect",
+  "img": "modules/the-ultimate-witcher/assets/potions/petri_potion.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.6vh05pBR2BsTIo0G"
+    },
+    "cf": {
+      "id": "temp_d24zge9h815"
+    }
+  },
+  "system": {
+    "description": "15 раундов, 75% токсичности.\n+2 к Сотворению заклинаний, Наведению порчи и Проведению ритуалов",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_0xymbk24y",
+        "skill": "WITCHER.SkWillSpellcastLable",
+        "modifier": "2"
+      },
+      {
+        "id": "_n8e9q3jak",
+        "skill": "WITCHER.SkWillRitCraftLable",
+        "modifier": "2"
+      },
+      {
+        "id": "_x2922xdef",
+        "skill": "WITCHER.SkWillHexLable",
+        "modifier": "2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883182,
+    "modifiedTime": 1685496622135,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "r2K9RHeKIK1GcNLV",
+  "folder": "LzDekdlbqkuddQPT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!r2K9RHeKIK1GcNLV"
+}

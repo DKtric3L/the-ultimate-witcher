@@ -1,0 +1,57 @@
+{
+  "_id": "nvFprpKYo8TMIm7G",
+  "name": "Марионетка",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/puppet.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.ITNzJjYp5kWfzoUX"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "Water",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Аксий теперь способен управлять разумом противника, заставляя его сражаться на стороне заклинателя число раундов, равное количеству за траченных на сотворение знака очков Вын. Каждый раунд цель может совершать проверку Сопротивления магии против вашей проверки Сотворения заклинаний, чтобы попытаться освободиться от влияния знака.",
+    "range": "8м",
+    "duration": "1 раунд за 1 вын",
+    "defence": "сопр магии",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!dxyWHzqdwqA0HCFh.nvFprpKYo8TMIm7G"
+}

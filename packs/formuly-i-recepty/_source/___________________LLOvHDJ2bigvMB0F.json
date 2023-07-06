@@ -1,0 +1,127 @@
+{
+  "name": "Скеллигское стремя",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/blueprint-anchor.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.LLOvHDJ2bigvMB0F"
+    },
+    "cf": {
+      "id": "temp_fqv8637fa96"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.predmety.EtFfQyKjZItiQY58]{Скеллигское стремя}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 750,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor-nhancement",
+    "level": "novice",
+    "isFormulae": false,
+    "craftingDC": 10,
+    "alchemyDC": 0,
+    "craftingTime": "1ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Темная сталь"
+      },
+      {
+        "id": "_192mb90at",
+        "name": "Огров воск",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_4pxjk3ziv",
+        "name": "Кости животных",
+        "percentage": "",
+        "quantity": "6"
+      }
+    ],
+    "investment": 242,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Скеллигское стремя",
+      "type": "enhancement",
+      "img": "icons/tools/fasteners/chain-brass-yellow.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.5,
+        "cost": 375,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "rune",
+        "applied": "",
+        "avail": "Everywhere",
+        "effects": [
+          {
+            "id": "first",
+            "name": "Повышает надёжность арбалета на +5 и позволяет использовать его в\nкачестве дробящего оружия ближнего боя с уроном, равным урону от\nвыстрела, но со штрафом к точности -1"
+          }
+        ],
+        "stopping": 0,
+        "bludgeoning": false,
+        "slashing": false,
+        "piercing": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.predmety.EtFfQyKjZItiQY58"
+        },
+        "cf": {
+          "id": "temp_frzayswlhnf"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162868989,
+        "modifiedTime": 1672568082501,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848428,
+    "modifiedTime": 1685496579203,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "LLOvHDJ2bigvMB0F",
+  "folder": "7DuH2KUczRWqd15I",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!LLOvHDJ2bigvMB0F"
+}

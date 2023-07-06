@@ -1,0 +1,47 @@
+{
+  "name": "Обычные предметы",
+  "type": "valuable",
+  "img": "icons/commodities/treasure/token-engraved-question-green.webp",
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qkw8X9BmO2WZGgx2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "45b037a79578262cb53988ff24a74e87100c2946",
+      "sourceId": "Item.TDTWPb7sjejNJ0Sy"
+    },
+    "core": {
+      "sourceId": "Item.TDTWPb7sjejNJ0Sy"
+    },
+    "cf": {
+      "id": "temp_bn6m75vziea"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1672657970466,
+    "modifiedTime": 1685496603456,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "ln2LymRau6cDlTfF",
+  "sort": 0,
+  "_id": "qMEj8iJe7jbMuW6U",
+  "_key": "!items!qMEj8iJe7jbMuW6U"
+}

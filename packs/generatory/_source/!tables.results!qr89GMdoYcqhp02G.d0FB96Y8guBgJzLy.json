@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Боевой конь",
+  "img": "modules/the-ultimate-witcher/assets/monsters/battle_horse.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "hCv8q2IsQT4CgvWT",
+  "_id": "d0FB96Y8guBgJzLy",
+  "flags": {},
+  "_key": "!tables.results!qr89GMdoYcqhp02G.d0FB96Y8guBgJzLy"
+}

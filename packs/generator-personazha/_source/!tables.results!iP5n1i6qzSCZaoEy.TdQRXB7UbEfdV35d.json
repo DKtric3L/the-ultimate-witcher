@@ -1,0 +1,16 @@
+{
+  "_id": "TdQRXB7UbEfdV35d",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Граф. наибольшее влияние на вас оказал граф, научивший вас вести других за собой и управлять людьми. Снаряжение - Серебряное ожерелье.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!iP5n1i6qzSCZaoEy.TdQRXB7UbEfdV35d"
+}

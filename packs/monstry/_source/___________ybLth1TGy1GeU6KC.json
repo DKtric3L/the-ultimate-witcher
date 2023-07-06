@@ -1,0 +1,26 @@
+{
+  "_id": "ybLth1TGy1GeU6KC",
+  "name": "Поджигание",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Если цель попытается поразить хима горящим оружием\nили атакой огнём, способность хима Тело из теней перестанет действовать до конца раунда. Если же хим до конца\nраунда сумеет уйти из освещённой зоны, способность Тело\nиз теней вновь начнёт действовать в конце его хода"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!PcwXzXqzjq3WeFrz.ybLth1TGy1GeU6KC"
+}

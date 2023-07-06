@@ -1,0 +1,45 @@
+{
+  "name": "Реликты",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Relicts.png",
+  "description": "",
+  "results": [
+    "7pJ18q9szDQhv6e9",
+    "Dp8VX1ZBnFX92670",
+    "CFUaVJXBIt3nX0Eg",
+    "ekbgaXHy1S3dcq32",
+    "ADi68NXtbMRqvvsD",
+    "AEdwQmpjOiQ5HdYI",
+    "Zw1vRdWg7K9lO8zb",
+    "5J11PTKEgKMDVDSW",
+    "kFYX2URjB9dn890y",
+    "WKrJqwMMV30J5Wco",
+    "JrUAZRPUB0hzqaaW"
+  ],
+  "formula": "1d9",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "05FnK6TtcvMYb9FD": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.UftkW4tgbT4sfzN9"
+    },
+    "cf": {
+      "id": "temp_ekgrkgdnn3"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668589713531,
+    "modifiedTime": 1685496644271,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "h7do8QcOK5wnf57x",
+  "sort": 0,
+  "_id": "tQLIS5MUN5FQSzDC",
+  "_key": "!tables!tQLIS5MUN5FQSzDC"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "drawn": false,
+  "text": "Сталь",
+  "img": "icons/commodities/metal/ingot-steel.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "tRzD48yUGJQgg8gk",
+  "_id": "P5pKHRoysWNQD6BC",
+  "flags": {},
+  "_key": "!tables.results!1XoP3D4PjLB9Btpl.P5pKHRoysWNQD6BC"
+}

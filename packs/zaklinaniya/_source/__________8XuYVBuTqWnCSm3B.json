@@ -1,0 +1,58 @@
+{
+  "name": "Рой Яведа",
+  "type": "spell",
+  "img": "icons/creatures/invertebrates/fly-wasp-mosquito-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_zpcw9i6ph2"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "10",
+    "staminaIsVar": false,
+    "effect": "Рой Яведа позволяет контролировать большое количество насекомых из окружающей среды. После произнесения этого заклинания рой контролируемых насекомых выползает из ближайших расщелин и образует орду со Статистикой Скор 7, которая может поглотить одну цель, совершив атаку с Основой 14. Эта атака наносит 1d6 повреждений цели. торс, игнорирует всю надетую броню и имеет 100% шанс отравления. Орда имеет 15 хитов и Основу Уклонения 14.",
+    "range": "6м",
+    "duration": "10 мин",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Отравление",
+        "percentage": "100"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1685496637955,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "8XuYVBuTqWnCSm3B",
+  "folder": "b6tCkgZmKMYSuvxl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!8XuYVBuTqWnCSm3B"
+}

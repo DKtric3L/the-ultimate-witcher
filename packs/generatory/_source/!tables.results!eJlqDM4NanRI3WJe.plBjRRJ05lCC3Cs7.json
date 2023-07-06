@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "text": "Совершенный Рубин",
+  "img": "modules/the-ultimate-witcher/assets/gems/perfect_ruby.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "M8uSMMCPxwsIOzFm",
+  "_id": "plBjRRJ05lCC3Cs7",
+  "flags": {},
+  "_key": "!tables.results!eJlqDM4NanRI3WJe.plBjRRJ05lCC3Cs7"
+}

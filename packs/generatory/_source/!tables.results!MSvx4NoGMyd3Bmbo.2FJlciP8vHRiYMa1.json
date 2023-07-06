@@ -1,0 +1,16 @@
+{
+  "text": "Пламя Кората",
+  "type": 2,
+  "img": "icons/magic/air/fog-gas-smoke-dense-orange.webp",
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "2FJlciP8vHRiYMa1",
+  "documentId": "3qu5VBIqauyinShM",
+  "flags": {},
+  "_key": "!tables.results!MSvx4NoGMyd3Bmbo.2FJlciP8vHRiYMa1"
+}

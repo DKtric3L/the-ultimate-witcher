@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "text": "Духи",
+  "img": "systems/TheWitcherTRPG/assets/images/Monsters/Specters.png",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "Xqc5niSQ2i4iC98E",
+  "_id": "CjogFfPgnhLgbXtN",
+  "flags": {},
+  "_key": "!tables.results!5dw3HPCIpWSZvxDM.CjogFfPgnhLgbXtN"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Кольчужное усиление",
+  "type": "enhancement",
+  "img": "icons/equipment/shoulder/pauldron-segmented-steel-white.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.utWZy3qhNXPxkfaj"
+    },
+    "cf": {
+      "id": "temp_58lmmpxrkto"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 125,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "armor",
+    "applied": "",
+    "avail": "Poor",
+    "effects": [],
+    "stopping": 3,
+    "bludgeoning": true,
+    "slashing": true,
+    "piercing": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868977,
+    "modifiedTime": 1685496603235,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "utWZy3qhNXPxkfaj",
+  "folder": "tRUr0kPpmp01LWJ6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!utWZy3qhNXPxkfaj"
+}

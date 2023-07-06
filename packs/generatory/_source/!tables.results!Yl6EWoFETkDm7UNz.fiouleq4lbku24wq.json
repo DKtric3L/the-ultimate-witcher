@@ -1,0 +1,16 @@
+{
+  "text": "Паутина лжи",
+  "type": 2,
+  "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "_id": "fiouleq4lbku24wq",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "85AUCFxL2DoGZfwr",
+  "_key": "!tables.results!Yl6EWoFETkDm7UNz.fiouleq4lbku24wq"
+}

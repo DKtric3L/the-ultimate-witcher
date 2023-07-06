@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Компоненты - Новичок",
+  "img": "icons/sundries/documents/blueprint-magical.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "Tj2GArVExFFvU3zk",
+  "_id": "kQYpC3vj7OjcOilL",
+  "flags": {},
+  "_key": "!tables.results!2Z4Goh3pckdLWZwZ.kQYpC3vj7OjcOilL"
+}

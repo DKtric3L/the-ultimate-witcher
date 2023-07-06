@@ -1,0 +1,16 @@
+{
+  "text": "Телекинез",
+  "type": 2,
+  "img": "icons/magic/movement/chevrons-down-yellow.webp",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "zPR2pPwY2hGRUfB1",
+  "documentId": "VYkturOD7Lu8KgEu",
+  "flags": {},
+  "_key": "!tables.results!rv5uSmnoIpayehL5.zPR2pPwY2hGRUfB1"
+}

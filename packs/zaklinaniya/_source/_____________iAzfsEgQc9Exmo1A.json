@@ -1,0 +1,57 @@
+{
+  "name": "Поиск ищущих",
+  "type": "spell",
+  "img": "icons/magic/perception/hand-eye-fire-blue.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_a9snocl3pol"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "journeyman",
+    "source": "preacher",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Поиск ищущих создает вокруг вас магическую защиту, которая предупреждает вас о гадании, таком как Гидромантия или Пиромантия. Если вы или кто-либо в пределах 10 м от вас является целью гадания, вы будете предупреждены, как только оно будет произнесено, и вам будет показано лицо прорицателя. Любой, кто попытается шпионить за вами с помощью гадания, должен пройти проверку Образования или Магической подготовки с Сл:20, чтобы понять, что его поймали. Однако, если им удастся пройти эту проверку, вам сообщат, что они знают, что вы их поймали",
+    "range": "на себя",
+    "duration": "1 день",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892169,
+    "modifiedTime": 1685496638327,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "iAzfsEgQc9Exmo1A",
+  "folder": "vseZIvovion73VUQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!iAzfsEgQc9Exmo1A"
+}

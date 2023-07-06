@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "text": "Бомбы и ловушки",
+  "img": "icons/sundries/documents/document-official-capital.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "598wNzOrQpbWtxxp",
+  "_id": "kFrvvV2NP13nnOPc",
+  "flags": {},
+  "_key": "!tables.results!LHYC2pOz2YtuCn6c.kFrvvV2NP13nnOPc"
+}

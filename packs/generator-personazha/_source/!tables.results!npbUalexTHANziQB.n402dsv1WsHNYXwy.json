@@ -1,0 +1,16 @@
+{
+  "_id": "n402dsv1WsHNYXwy",
+  "type": 0,
+  "text": "Связь с церковью. Вас послали помочь Церкви Великого Солнца в магических делах. Вы получаете +1 к Харизме и Этикету.",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!npbUalexTHANziQB.n402dsv1WsHNYXwy"
+}

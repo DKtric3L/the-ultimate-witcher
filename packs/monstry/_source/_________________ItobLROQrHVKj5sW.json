@@ -1,0 +1,26 @@
+{
+  "_id": "ItobLROQrHVKj5sW",
+  "name": "Размашистый удар",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "В качестве действия полного хода циклоп может совершить Размашистый удар дубиной или кулаком. Он проводит одну атаку (удар дубиной или удар кулаком) со штрафом -3. При этом все цели в пределах досягаемости и конуса зрения циклопа должны защищаться, а при провале получают урон."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!5uEBp1Dg0RJq2yA1.ItobLROQrHVKj5sW"
+}

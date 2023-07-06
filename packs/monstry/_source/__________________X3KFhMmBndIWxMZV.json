@@ -1,0 +1,60 @@
+{
+  "_id": "X3KFhMmBndIWxMZV",
+  "name": "Магический ритуал",
+  "type": "spell",
+  "img": "icons/magic/symbols/star-inverted-yellow.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_bevxrojfkn9"
+    },
+    "core": {
+      "sourceId": "Compendium.world.zaklinaniya.IkfDDR68CtKuHIhK"
+    }
+  },
+  "system": {
+    "class": "Rituals",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "",
+    "stamina": "3",
+    "staminaIsVar": false,
+    "effect": "Создаёт магический круг, повышающий сопротивление тела магии, что даёт цели бонус к Энергии, равный половине значения навыка Проведение ритуалов заклинателя. Первый способный к магии персонаж, вошедший в круг и сосредоточившийся на нём, получает этот бонус на 5 часов. Или же заклинатель может истощить круг и получить ld6/2 пятой эссенции",
+    "range": "",
+    "duration": "одно использование",
+    "defence": "",
+    "components": "мелок(х2), стекло(х2), сера(х2), дымная пыль(xl)",
+    "alternateComponents": "",
+    "preparationTime": "5 раундов",
+    "dificultyCheck": "15",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!UH48FlY85LQFJuzE.X3KFhMmBndIWxMZV"
+}

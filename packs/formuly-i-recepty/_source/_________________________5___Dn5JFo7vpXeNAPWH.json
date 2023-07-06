@@ -1,0 +1,178 @@
+{
+  "name": "Разделяющиеся боеприпасы(5х)",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.Dn5JFo7vpXeNAPWH"
+    },
+    "cf": {
+      "id": "temp_uxjqay5wmkq"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.PIZ0qrWfpO9fml4E]{Разделяющиеся бое-сы}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": null,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "Ammunition",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 18,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "2",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_vspkrv817",
+        "name": "Сталь",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_z5llqiv7x",
+        "name": "Перья",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_ktbw8a233",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_xy7m2acm8",
+        "name": "Двойное полотно",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_v7yio30fk",
+        "name": "component",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 181,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Разделяющиеся боеприпасы",
+      "type": "weapon",
+      "img": "icons/skills/ranged/arrows-flying-salvo-blue.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 0.1,
+        "cost": 54,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": true,
+        "usingAmmo": false,
+        "accuracy": 0,
+        "avail": "Poor",
+        "damage": "",
+        "reliable": 10,
+        "maxReliability": 10,
+        "hands": "1",
+        "range": "",
+        "equiped": false,
+        "effects": [
+          {
+            "id": "first",
+            "name": "За каждый пункт свыше защиты цели,",
+            "percentage": ""
+          },
+          {
+            "id": "_nq2heem6n",
+            "name": "полученный при броске (максимум 3)",
+            "percentage": ""
+          },
+          {
+            "id": "_z92ganhur",
+            "name": "Вы наносите полный урон от оружия",
+            "percentage": ""
+          },
+          {
+            "id": "_xqprbz04k",
+            "name": "в случайную часть тела.",
+            "percentage": ""
+          }
+        ],
+        "conceal": "S",
+        "enhancements": 0,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Brawling",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rol4jixhdr"
+        },
+        "core": {
+          "sourceId": "Compendium.world.vedmache-snaryazhenie.PIZ0qrWfpO9fml4E"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863942,
+        "modifiedTime": 1672564383716,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848426,
+    "modifiedTime": 1685496579423,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "Dn5JFo7vpXeNAPWH",
+  "folder": "i6EyT0d6h9MoqghR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!Dn5JFo7vpXeNAPWH"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "1oWrYbk1pSqawG60",
+  "type": 0,
+  "text": "Контузия: Совершайте испытание устойчивости каждые 1d6 раундов, чтобы избежать дезориентации. -2 к инт, реа и лвк. Стабилизация: -1 к инт, реа и лвк. Лечение: -1 к инт и лвк.",
+  "weight": 1,
+  "range": [
+    1,
+    4
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!bYaPwiuM6nfKRL3j.1oWrYbk1pSqawG60"
+}

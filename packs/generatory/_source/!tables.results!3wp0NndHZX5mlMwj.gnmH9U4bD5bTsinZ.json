@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Случайный глиф",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "WkvPSXPzLEd3cQFk",
+  "_id": "gnmH9U4bD5bTsinZ",
+  "flags": {},
+  "_key": "!tables.results!3wp0NndHZX5mlMwj.gnmH9U4bD5bTsinZ"
+}

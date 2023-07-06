@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    2,
+    2
+  ],
+  "drawn": false,
+  "text": "Аксий",
+  "img": "modules/the-ultimate-witcher/assets/signs/aksii.webp",
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "f15TP199SyQ4qo3V",
+  "_id": "RSFNKop0F7kOpvff",
+  "flags": {},
+  "_key": "!tables.results!g5N58Pa9V80sszGb.RSFNKop0F7kOpvff"
+}

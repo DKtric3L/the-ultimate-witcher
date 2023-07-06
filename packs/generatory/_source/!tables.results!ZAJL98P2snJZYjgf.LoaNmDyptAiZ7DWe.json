@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "drawn": false,
+  "text": "Хиронекс",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Hironeks_Anna_Podedworna.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "jtdWOcvECp2Zaok4",
+  "_id": "LoaNmDyptAiZ7DWe",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.LoaNmDyptAiZ7DWe"
+}

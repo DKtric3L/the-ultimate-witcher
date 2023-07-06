@@ -1,0 +1,16 @@
+{
+  "_id": "d6KS3R5eEDFIeMmw",
+  "flags": {},
+  "type": 0,
+  "text": "Положение семьи: Семья грамотеев. Вы выросли в семье грамотеев. Ваши близкие вели летопись истории старших народов, стараясь сохранить её для потомков. Начальное снаряжение - Летопись(+1 к образованию).",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!NM8wbHFX7ZBsZVTf.d6KS3R5eEDFIeMmw"
+}

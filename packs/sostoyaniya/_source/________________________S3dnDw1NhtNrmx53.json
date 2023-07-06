@@ -1,0 +1,48 @@
+{
+  "name": "Симптом: Струпья и язвы",
+  "type": "effect",
+  "img": "icons/magic/acid/dissolve-vomit-green-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.DI8vPtpKHmpHZy1j"
+    },
+    "cf": {
+      "id": "temp_nxdlb2anpj"
+    }
+  },
+  "system": {
+    "description": "Ужасные на вид струпья разошлись по всему телу.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_egcz8rxui",
+        "skill": "WITCHER.SkEmpCharisma",
+        "modifier": "-2"
+      },
+      {
+        "id": "_ocuah656o",
+        "skill": "WITCHER.SkEmpSeduction",
+        "modifier": "-2"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162883173,
+    "modifiedTime": 1685496621715,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "S3dnDw1NhtNrmx53",
+  "folder": "gc7euHqdhcoTNbKd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!S3dnDw1NhtNrmx53"
+}

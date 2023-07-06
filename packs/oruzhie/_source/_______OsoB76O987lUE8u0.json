@@ -1,0 +1,66 @@
+{
+  "name": "Секира",
+  "type": "weapon",
+  "img": "icons/weapons/axes/axe-double-engraved-black.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_upy3ob71tu"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 3,
+    "cost": 460,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": {
+      "text": "Рубящее, Колющее, Дробящее",
+      "slashing": true,
+      "piercing": true,
+      "bludgeoning": true,
+      "elemental": false
+    },
+    "isAmmo": false,
+    "usingAmmo": false,
+    "accuracy": 0,
+    "avail": "Poor",
+    "damage": "4d6+2",
+    "reliable": 10,
+    "maxReliability": 10,
+    "hands": "2",
+    "range": "",
+    "equiped": false,
+    "effects": [
+      {
+        "id": "first",
+        "name": "Длинное",
+        "percentage": ""
+      }
+    ],
+    "conceal": "T",
+    "enhancements": 0,
+    "enhancementItems": [],
+    "rateOfFire": 1,
+    "attackSkill": "Staff/Spear",
+    "rollOnlyDmg": false,
+    "isThrowable": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162863942,
+    "modifiedTime": 1685496598757,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "OsoB76O987lUE8u0",
+  "folder": "MDcHQ3f7IkYwcIqy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!OsoB76O987lUE8u0"
+}

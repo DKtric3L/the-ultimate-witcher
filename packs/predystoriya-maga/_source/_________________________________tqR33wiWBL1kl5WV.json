@@ -1,0 +1,53 @@
+{
+  "name": "Жизнь в академии - Гвейсон хайль",
+  "img": "icons/environment/settlement/palast.webp",
+  "description": "",
+  "results": [
+    "krp9pmqrG5jVVi9a",
+    "5q0VormROOSLnudS",
+    "uSEePqu8lF7lxjv0",
+    "JUPxTqu2H2Q1gG4s",
+    "MQCt7cFNivDMzYmp",
+    "9t3vlCRN1fZGcMad",
+    "3U82xJR02JG5BJDg",
+    "CNt88DZPNEOuNB9X",
+    "n402dsv1WsHNYXwy",
+    "x1jSf6VvsDqN5ufX",
+    "wePVni7bODVDZnPA",
+    "B682YD6X9Gj0NK5E",
+    "nIdMN3zFP5HGDm55",
+    "WfDSn8HBo2yg5LHa",
+    "WG88IzvvZp35WiKr",
+    "PddGgspdoHHME130",
+    "eqUGwpXUCrrhdqtN",
+    "kt6Ds2BBQWEt4wCV",
+    "nr9NoIioDpvuHK92",
+    "dDtOlAKIsjNy6Qee",
+    "zVr0la1adNCRa3xt",
+    "TpymosRb8BbulaWA"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.VUIaaZ8lBPNZF7oc"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.288",
+    "createdTime": 1668163142128,
+    "modifiedTime": 1668163203655,
+    "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+  },
+  "_id": "tqR33wiWBL1kl5WV",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!tables!tqR33wiWBL1kl5WV"
+}

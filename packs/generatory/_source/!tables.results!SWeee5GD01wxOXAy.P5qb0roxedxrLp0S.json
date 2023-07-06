@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Разбой набег",
+  "img": "icons/svg/d20-grey.svg",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "SOe1MZwzFO30nA2h",
+  "_id": "P5qb0roxedxrLp0S",
+  "flags": {},
+  "_key": "!tables.results!SWeee5GD01wxOXAy.P5qb0roxedxrLp0S"
+}

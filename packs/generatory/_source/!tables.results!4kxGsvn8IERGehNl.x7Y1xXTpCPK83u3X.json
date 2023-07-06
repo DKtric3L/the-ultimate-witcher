@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "text": "Черная жемчужина",
+  "img": "icons/commodities/gems/pearl-brown-red.webp",
+  "documentCollection": "the-ultimate-witcher.komponenty",
+  "documentId": "6Lf00ASayZOMPdoX",
+  "_id": "x7Y1xXTpCPK83u3X",
+  "flags": {},
+  "_key": "!tables.results!4kxGsvn8IERGehNl.x7Y1xXTpCPK83u3X"
+}

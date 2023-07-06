@@ -1,0 +1,60 @@
+{
+  "name": "Трип",
+  "type": "spell",
+  "img": "icons/magic/earth/projectile-boulder-dust.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.3vdGATJ2lF0rjrYN"
+    },
+    "cf": {
+      "id": "temp_4w8bxpjli5a"
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "journeyman",
+    "source": "earth",
+    "domain": "",
+    "stamina": "8",
+    "staminaIsVar": false,
+    "effect": "Небольшой кусок земли вылетает из-за спины цели и сбивает ее с ног. Цель должна сделать проверку Защиты с штрафом -3, так как не видит приближения атаки. При провале цель сбита с ног.",
+    "range": "10м",
+    "duration": "Мгновенное",
+    "defence": "Уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892176,
+    "modifiedTime": 1685496638757,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "YRLRqLANEsKDhVtb",
+  "folder": "UWJmUntsU0DtqGaG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!YRLRqLANEsKDhVtb"
+}

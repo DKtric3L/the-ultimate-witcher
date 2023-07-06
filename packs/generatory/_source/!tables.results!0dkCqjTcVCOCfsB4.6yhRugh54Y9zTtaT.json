@@ -1,0 +1,16 @@
+{
+  "_id": "6yhRugh54Y9zTtaT",
+  "type": 2,
+  "text": "Ёмкости",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "wa4c0H22s3mlsxv3",
+  "_key": "!tables.results!0dkCqjTcVCOCfsB4.6yhRugh54Y9zTtaT"
+}

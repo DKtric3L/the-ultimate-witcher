@@ -1,0 +1,26 @@
+{
+  "_id": "lh82FtbRA0BlyDMK",
+  "name": "Невидимость для магии",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Альпов нельзя обнаружить с помощью ведьмачьего медальона. Маги должны совершить проверку Магических познаний против Сопротивления магии альпа, чтобы заметить его"
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!OCFTKPm3wTOGWxot.lh82FtbRA0BlyDMK"
+}

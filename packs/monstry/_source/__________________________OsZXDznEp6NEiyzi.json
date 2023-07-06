@@ -1,0 +1,26 @@
+{
+  "_id": "OsZXDznEp6NEiyzi",
+  "name": "Жрец - исцеляющая молитва",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "Жрец водяной может призвать силу своих богов. В качестве действия он может исцелить всех водяных в радиусе 3 м на 5 ПЗ. Эта способность стоит жрецу 7 Вын."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!wGqeJbkayTx9xytT.OsZXDznEp6NEiyzi"
+}

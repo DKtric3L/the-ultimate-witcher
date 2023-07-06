@@ -1,0 +1,16 @@
+{
+  "text": "Простой обед",
+  "type": 2,
+  "img": "icons/consumables/food/cooked-drumstick-chicken-turkey-brown.webp",
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "_id": "yb6kdw68nhjc2a1t",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "DsRHvdbLAc7mwqIq",
+  "_key": "!tables.results!e8vfp5SNiCReOXa9.yb6kdw68nhjc2a1t"
+}

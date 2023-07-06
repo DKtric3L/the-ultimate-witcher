@@ -1,0 +1,134 @@
+{
+  "name": "Когтезуб",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-letter-formal-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.N4erCGivcvATcfUE"
+    },
+    "cf": {
+      "id": "temp_qcbrs1shnce"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.vedmache-snaryazhenie.lvcI83XY7DdKHU6N]{Когтезуб}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "traps",
+    "level": "witcher",
+    "isFormulae": false,
+    "craftingDC": 16,
+    "alchemyDC": 0,
+    "craftingTime": "30м",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "3",
+        "name": "Древесина"
+      },
+      {
+        "id": "_g4g3zyxay",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_p1r5l2ixc",
+        "name": "Камень",
+        "percentage": "",
+        "quantity": "2"
+      },
+      {
+        "id": "_n38g48pwk",
+        "name": "Полотно",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_65j3nz2su",
+        "name": "Экстракт яда",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_dbfgrc3j5",
+        "name": "Уголь",
+        "percentage": "",
+        "quantity": "1"
+      }
+    ],
+    "investment": 74,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Когтезуб",
+      "type": "valuable",
+      "img": "modules/the-ultimate-witcher/assets/bombs/clawtooth.png",
+      "system": {
+        "description": "Радиус - 4 метра, Урон 5d6, тип - режущая ловушка.\nВсе в зоне взрыва получают урон, от которого с вероятностью\n60 % остаётся кровоточащая рана.",
+        "quantity": 1,
+        "weight": 2,
+        "cost": 111,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": "toolkit",
+        "avail": "Poor",
+        "effect": "",
+        "conceal": "T",
+        "quality": ""
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_5rbvvy0nejs"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.288",
+        "createdTime": 1668162887305,
+        "modifiedTime": 1668182810048,
+        "lastModifiedBy": "TzUlXsBoDDaZxlVp"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848417,
+    "modifiedTime": 1685496579796,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "N4erCGivcvATcfUE",
+  "folder": "vIuywOMpy1LOwsfX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!N4erCGivcvATcfUE"
+}

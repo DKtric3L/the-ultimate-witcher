@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "text": "Гравейр",
+  "img": "modules/the-ultimate-witcher/assets/monsters/graiver.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "HeGDutwhOFVW1wQQ",
+  "_id": "1zMhZeeeTsHOjG3y",
+  "flags": {},
+  "_key": "!tables.results!gI0IWCCh4ujCY0ac.1zMhZeeeTsHOjG3y"
+}

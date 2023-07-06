@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "IMfooxl0Ypd0Jc2C",
+  "text": "Это была ловушка для исполнителя.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!P10CatHPQPUgk5bO.IMfooxl0Ypd0Jc2C"
+}

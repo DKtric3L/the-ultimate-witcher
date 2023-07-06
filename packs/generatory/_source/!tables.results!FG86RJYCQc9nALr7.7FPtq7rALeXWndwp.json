@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Реданское Светлое",
+  "img": "modules/the-ultimate-witcher/assets/alcohol/redanian_light.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "BJ6VHJtSS7yO9pQ6",
+  "_id": "7FPtq7rALeXWndwp",
+  "flags": {},
+  "_key": "!tables.results!FG86RJYCQc9nALr7.7FPtq7rALeXWndwp"
+}

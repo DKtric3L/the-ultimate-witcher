@@ -1,0 +1,16 @@
+{
+  "text": "Глиф магии",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/magic.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "5sHKspkCqS7hMHQC",
+  "documentId": "xobbaBa4S6WCC331",
+  "flags": {},
+  "_key": "!tables.results!WkvPSXPzLEd3cQFk.5sHKspkCqS7hMHQC"
+}

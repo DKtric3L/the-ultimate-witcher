@@ -1,0 +1,70 @@
+{
+  "name": "Аагни",
+  "type": "spell",
+  "img": "modules/the-ultimate-witcher/assets/signs/aagni.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wvf8eYpqG9AWlex6"
+    },
+    "cf": {
+      "id": "temp_7aea2ggiqyw"
+    }
+  },
+  "system": {
+    "class": "Witcher",
+    "level": "novice",
+    "source": "mixedElements",
+    "domain": "alternate",
+    "stamina": "0",
+    "staminaIsVar": true,
+    "effect": "Аагни сочетает в себе силу Аарда и Игни. Обеими руками вы испускаете мощную волну огня, поражающую цели с 25%-ной вероятностью возгорания. За каждое потраченное очко Вын эта волна наносит 1d6 урона от магического огня и имеет 10% шанс сбить цели с ног. Так как для его использования необходимо применение обеих рук. Аагни нельзя создавать с оружием в руках",
+    "range": "2м конус",
+    "duration": "мгновенное",
+    "defence": "Изменение позиции",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": true,
+    "damage": "1d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "1d6 урона за каждое очко вын"
+      },
+      {
+        "id": "_otokto7tg",
+        "name": "Сбить с ног(За каждое вын +10%)",
+        "percentage": "10"
+      },
+      {
+        "id": "_5aedzg3o4",
+        "name": "Горение",
+        "percentage": "25"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892151,
+    "modifiedTime": 1685496638489,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "MhkO6PcAXKt6iUPV",
+  "folder": "QhyjillGyHuKzXly",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!MhkO6PcAXKt6iUPV"
+}

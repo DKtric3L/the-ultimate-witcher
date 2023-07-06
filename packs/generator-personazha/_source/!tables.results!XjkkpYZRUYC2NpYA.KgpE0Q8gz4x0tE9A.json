@@ -1,0 +1,16 @@
+{
+  "_id": "KgpE0Q8gz4x0tE9A",
+  "flags": {},
+  "type": 2,
+  "text": "Enemies: Who Was Wronged",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "UM77087N2bbc7Oaw",
+  "_key": "!tables.results!XjkkpYZRUYC2NpYA.KgpE0Q8gz4x0tE9A"
+}

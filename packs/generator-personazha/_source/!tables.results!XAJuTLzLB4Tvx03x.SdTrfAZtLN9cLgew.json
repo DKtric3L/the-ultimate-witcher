@@ -1,0 +1,16 @@
+{
+  "_id": "SdTrfAZtLN9cLgew",
+  "flags": {},
+  "type": 0,
+  "text": "Судьба семьи: По какой-то причине вашу семью лишили всех титулов. Вас выселили из дома, и вы еле сводите концы с концами.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!XAJuTLzLB4Tvx03x.SdTrfAZtLN9cLgew"
+}

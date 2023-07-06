@@ -1,0 +1,16 @@
+{
+  "text": "Затупленные боеприпасы(5х)",
+  "type": 2,
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "FzhOms9i8RBRZ0fT",
+  "documentId": "omR7zZ99wQAWg0b6",
+  "flags": {},
+  "_key": "!tables.results!GEoWOk0rs1JiUSAB.FzhOms9i8RBRZ0fT"
+}

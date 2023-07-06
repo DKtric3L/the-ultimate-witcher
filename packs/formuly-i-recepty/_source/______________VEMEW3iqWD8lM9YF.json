@@ -1,0 +1,166 @@
+{
+  "name": "Армейский лук",
+  "type": "diagrams",
+  "img": "icons/sundries/documents/document-tree-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.recepty.VEMEW3iqWD8lM9YF"
+    },
+    "cf": {
+      "id": "temp_k7co1fgxnla"
+    }
+  },
+  "system": {
+    "description": "<p>@Compendium[the-ultimate-witcher.oruzhie.3F0blWVRjGxoXkBT]{Армейский лук}</p>",
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1296,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "weapon",
+    "level": "master",
+    "isFormulae": false,
+    "craftingDC": 22,
+    "alchemyDC": 0,
+    "craftingTime": "11ч",
+    "components": "",
+    "craftingComponents": [
+      {
+        "id": "first",
+        "quantity": "6",
+        "name": "Укрепленное дерево"
+      },
+      {
+        "id": "_c4h7svfpt",
+        "name": "Нитки",
+        "percentage": "",
+        "quantity": "8"
+      },
+      {
+        "id": "_7gi2m5r7x",
+        "name": "Эфирная смазка",
+        "percentage": "",
+        "quantity": "3"
+      },
+      {
+        "id": "_ok26m7wrp",
+        "name": "Воск",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_q58huw6ek",
+        "name": "Темная сталь",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_g801j1z5d",
+        "name": "Смола",
+        "percentage": "",
+        "quantity": "4"
+      },
+      {
+        "id": "_ut7jkro6r",
+        "name": "component",
+        "percentage": "",
+        "quantity": "1"
+      },
+      {
+        "id": "_mod641c58",
+        "name": "Масло из дрейка",
+        "percentage": "",
+        "quantity": "2"
+      }
+    ],
+    "investment": 626,
+    "learned": false,
+    "alchemyComponents": {
+      "vitriol": 0,
+      "rebis": 0,
+      "aether": 0,
+      "quebrith": 0,
+      "hydragenum": 0,
+      "vermilion": 0,
+      "sol": 0,
+      "caelum": 0,
+      "fulgur": 0
+    },
+    "associatedItem": {
+      "name": "Армейский лук",
+      "type": "weapon",
+      "img": "icons/weapons/bows/bow-recurve-black.webp",
+      "system": {
+        "description": "",
+        "quantity": 1,
+        "weight": 3,
+        "cost": 835,
+        "isHidden": false,
+        "associatedDiagram": {},
+        "type": {
+          "text": "Колющее",
+          "slashing": false,
+          "piercing": true,
+          "bludgeoning": false,
+          "elemental": false
+        },
+        "isAmmo": false,
+        "usingAmmo": true,
+        "accuracy": 0,
+        "avail": "Common",
+        "damage": "6d6",
+        "reliable": 15,
+        "maxReliability": 15,
+        "hands": "2",
+        "range": "300",
+        "equiped": false,
+        "effects": [],
+        "conceal": "NA",
+        "enhancements": 1,
+        "enhancementItems": [],
+        "rateOfFire": 1,
+        "attackSkill": "Archery",
+        "rollOnlyDmg": false,
+        "isThrowable": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "TzUlXsBoDDaZxlVp": 3
+      },
+      "flags": {
+        "cf": {
+          "id": "temp_rpglc34ihvo"
+        }
+      },
+      "_stats": {
+        "systemId": "TheWitcherTRPG",
+        "systemVersion": "0.94",
+        "coreVersion": "10.291",
+        "createdTime": 1668162863936,
+        "modifiedTime": 1672564872827,
+        "lastModifiedBy": "qkw8X9BmO2WZGgx2"
+      },
+      "chatTemplate": {
+        "weapon": "systems/TheWitcherTRPG/templates/partials/chat/weapon-chat.html"
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162848409,
+    "modifiedTime": 1685496579607,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "VEMEW3iqWD8lM9YF",
+  "folder": "UX9sRvHOxhzs8SM0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!VEMEW3iqWD8lM9YF"
+}

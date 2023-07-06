@@ -1,0 +1,57 @@
+{
+  "name": "Предзнаменование несчастья (Нехалени)",
+  "type": "spell",
+  "img": "icons/magic/control/modfiy-luck-fortune-red.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_2cr0u952bb1"
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "arch priest",
+    "domain": "",
+    "stamina": "16",
+    "staminaIsVar": false,
+    "effect": "Вы позволяете Нехалени заполнить ваш разум тысячами проблесков возможного будущего, которые вы не можете сразу расшифровать. Бросайте 1к10, пока не получите 3 результата, не равных 1 и 10, и запишите эти числа. Во время этого вызова, если цель в пределах 20 м от вас выкинет одно из этих значений на 1d10, вы сразу же сможете распознать этот результат, что позволит вам, не предпринимая никаких действий, вмешаться незначительным образом и вместо этого заставить эту цель совершить критический провал",
+    "range": "на себя",
+    "duration": "1 день",
+    "defence": "нет",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "",
+    "templateType": "",
+    "causeDamages": false,
+    "damage": "",
+    "effects": [
+      {
+        "id": "first",
+        "name": "effect"
+      }
+    ]
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162892170,
+    "modifiedTime": 1685496638403,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "5w6ITPw24MEpkkZI",
+  "folder": "sjxIkZoXB1BFqj91",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!5w6ITPw24MEpkkZI"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Ведьмак школы Мантикоры",
+  "img": "modules/the-ultimate-witcher/assets/monsters/Varrit_Vsevidyashii_Zuza_Kapuscinska.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "CS4CydjSrkQZ1agY",
+  "_id": "RHGeuFxgll3s8uMf",
+  "flags": {},
+  "_key": "!tables.results!P6j1eECkRdy3xzoB.RHGeuFxgll3s8uMf"
+}

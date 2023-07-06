@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "drawn": false,
+  "text": "Утопец",
+  "img": "modules/the-ultimate-witcher/assets/monsters/drowned.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "0rL2ZosuNQMsKVL0",
+  "_id": "JMHRMrLqX2awVP4F",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.JMHRMrLqX2awVP4F"
+}

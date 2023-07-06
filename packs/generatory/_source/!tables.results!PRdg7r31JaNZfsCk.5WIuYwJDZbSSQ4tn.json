@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "text": "Доспехи - Великий мастер",
+  "img": "icons/sundries/books/book-symbol-tree-silver-green.webp",
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "MQqxOhcnwVdneHAU",
+  "_id": "5WIuYwJDZbSSQ4tn",
+  "flags": {},
+  "_key": "!tables.results!PRdg7r31JaNZfsCk.5WIuYwJDZbSSQ4tn"
+}

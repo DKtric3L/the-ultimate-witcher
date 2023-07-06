@@ -1,0 +1,26 @@
+{
+  "_id": "A68dtwCGxi2tNQzK",
+  "name": "Полет",
+  "type": "note",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "В качестве перемещения джинн может взлететь. Джинна можно сбить только дизориентировав его или нанеся более 10 урона одной атакой. Если джинна сбили, он возвращается на прежнюю позицию (примерно 1 м над землей) не получая урона."
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!prC328NUuCzCs2JS.A68dtwCGxi2tNQzK"
+}

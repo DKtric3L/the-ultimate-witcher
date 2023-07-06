@@ -1,0 +1,16 @@
+{
+  "_id": "Aupjx9gqdL7IdDsG",
+  "flags": {},
+  "type": 0,
+  "text": "Сосущая рана грудной клетки: Удар разорвал лёгкое персонажа, переполнив его грудь воздухом, и сдавливая органы. -3 к тел и скор, персонаж истекает кровью. Стабилизация: -2 к тел и скор. Лечение: -1 к тел и скор.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    8
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!dCJjGB6lKvY2je0y.Aupjx9gqdL7IdDsG"
+}

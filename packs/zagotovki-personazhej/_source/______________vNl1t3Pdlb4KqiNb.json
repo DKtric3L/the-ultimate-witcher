@@ -1,0 +1,44 @@
+{
+  "name": "Модная одежда",
+  "type": "valuable",
+  "img": "icons/equipment/head/hat-cocked-feather-green.webp",
+  "system": {
+    "description": "Лучший наряд — это модный наряд. На приёмах не будешь выбиваться из толпы. Проблема одна: мода через пару месяцев изменится, и придётся покупать новую одёжку.",
+    "quantity": 1,
+    "weight": 2,
+    "cost": 70,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "food-drink",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "flags": {
+    "cf": {
+      "id": "temp_as8hg69v7id",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.hdbuLj97i0wtPvH7"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.94",
+    "coreVersion": "10.290",
+    "createdTime": 1663424649090,
+    "modifiedTime": 1670417070039,
+    "lastModifiedBy": "92kKQj5Pnu6fnA0z"
+  },
+  "_id": "vNl1t3Pdlb4KqiNb",
+  "effects": [],
+  "folder": null,
+  "_key": "!actors.items!tXSRAIVui3uC4sEh.vNl1t3Pdlb4KqiNb"
+}

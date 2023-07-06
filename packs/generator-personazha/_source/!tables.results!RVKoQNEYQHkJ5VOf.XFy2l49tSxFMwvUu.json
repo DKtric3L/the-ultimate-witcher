@@ -1,0 +1,16 @@
+{
+  "_id": "XFy2l49tSxFMwvUu",
+  "flags": {},
+  "type": 0,
+  "text": "Ваш возлюбленный был убит монстром. Возможно, это была случайность, а может, и преднамеренное убийство.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!RVKoQNEYQHkJ5VOf.XFy2l49tSxFMwvUu"
+}

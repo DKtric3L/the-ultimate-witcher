@@ -1,0 +1,16 @@
+{
+  "text": "Стандартные боеприпасы(30х)",
+  "type": 2,
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.formuly-i-recepty",
+  "_id": "NF4zfCz5myteyiiI",
+  "documentId": "jby1W5qZkAzOPX37",
+  "flags": {},
+  "_key": "!tables.results!GEoWOk0rs1JiUSAB.NF4zfCz5myteyiiI"
+}

@@ -1,0 +1,16 @@
+{
+  "text": "Паутина корней",
+  "type": 2,
+  "img": "icons/magic/nature/root-vines-knot-brown.webp",
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "drawn": false,
+  "_id": "1o1orq1jpcnvgfgi",
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "documentId": "rixoSmd2SOOlwsFI",
+  "_key": "!tables.results!7sp0ZOwIAidBIVUx.1o1orq1jpcnvgfgi"
+}

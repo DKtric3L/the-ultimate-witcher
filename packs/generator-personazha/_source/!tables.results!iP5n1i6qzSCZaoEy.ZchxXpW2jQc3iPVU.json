@@ -1,0 +1,16 @@
+{
+  "_id": "ZchxXpW2jQc3iPVU",
+  "flags": {},
+  "type": 0,
+  "text": "Друг, оказавший влияние - Воин. Наибольшее влияние на вас оказал солдат, травивший байки об опасностях и приключениях. Снаряжение - Боевой трофей.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!iP5n1i6qzSCZaoEy.ZchxXpW2jQc3iPVU"
+}

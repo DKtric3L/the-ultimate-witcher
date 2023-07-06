@@ -1,0 +1,16 @@
+{
+  "_id": "BJSnWUWuLLZdzDQF",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Цинтра (+1 Понимание людей)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!78lzsNtasApP4bML.BJSnWUWuLLZdzDQF"
+}

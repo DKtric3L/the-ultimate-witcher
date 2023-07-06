@@ -1,0 +1,44 @@
+{
+  "name": "Курительная трубка",
+  "type": "valuable",
+  "img": "icons/sundries/misc/pipe-wooden-curved-oak.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_witw8a9x5dh",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.C4c9CLqscgaCe52q"
+    }
+  },
+  "system": {
+    "description": "Простейшая курительная трубка. Забиваешь её табаком, поджигаешь и куришь себе.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 19,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868978,
+    "modifiedTime": 1685496604005,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "d2iC3YmphfFHe9Jt",
+  "folder": "B7E0QXDoCNqK60SO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!d2iC3YmphfFHe9Jt"
+}

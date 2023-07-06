@@ -1,0 +1,44 @@
+{
+  "name": "Эссенция покаянника",
+  "type": "component",
+  "img": "modules/the-ultimate-witcher/assets/reagents/substances/monsters/essence_monstrous_64x64.png.6892.png",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.uwFzJRLPCc6fRBRQ"
+    },
+    "cf": {
+      "id": "temp_fg9eec92znn"
+    }
+  },
+  "system": {
+    "description": "",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 95,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "substances",
+    "rarity": "Rare",
+    "location": "Покаянники",
+    "quantityObtainable": "",
+    "forage": "",
+    "substanceType": "vitriol"
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162853708,
+    "modifiedTime": 1685496584148,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "9KBDxhaNjVVLZ5RL",
+  "folder": "7TZIuuDLQ1YmQET3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!9KBDxhaNjVVLZ5RL"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Мужчина нпс - ладони",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "EMrSmG7ghdKHhV4A",
+    "K0hCerSybfwIDJUe",
+    "TQLOBIZ3nkHx6ubB",
+    "hB4RZIYZmfApi7H8",
+    "3tyPgh5kWW16TKm2",
+    "hn9092yQC3ckNyCo",
+    "y9AauHbKM8i1ZeBB",
+    "7LJ8cTMfXHcnmjOO",
+    "kZsMIDIqwmgpgj0V",
+    "SaO6kEsPyTRElara"
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "92kKQj5Pnu6fnA0z": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.CRcT1fyJ3oCw6lcQ"
+    },
+    "cf": {
+      "id": "temp_lgusch5e0d"
+    }
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1671030610090,
+    "modifiedTime": 1685496652290,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "folder": "9vApEN5HFwIjiS6J",
+  "sort": 0,
+  "_id": "H9xXdQ6h1dtR9QIe",
+  "_key": "!tables!H9xXdQ6h1dtR9QIe"
+}

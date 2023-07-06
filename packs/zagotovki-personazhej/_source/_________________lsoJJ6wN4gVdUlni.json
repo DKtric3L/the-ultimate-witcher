@@ -1,0 +1,44 @@
+{
+  "_id": "lsoJJ6wN4gVdUlni",
+  "name": "Походная постель",
+  "type": "valuable",
+  "img": "icons/commodities/cloth/cloth-bolt-grey.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "cf": {
+      "id": "temp_hdwmzt8oxfu",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.world.predmety.O3VyBLuSuGP73JsH"
+    }
+  },
+  "system": {
+    "description": "Мне часто приходилось спать на земле, и походная постель в таких ситуациях — вещь незаменимая. А ведь как всё просто: подстилка да одеялко.",
+    "quantity": 1,
+    "weight": 1.5,
+    "cost": 16,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "genera",
+    "avail": "Everywhere",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "ownership": {
+    "default": 0,
+    "DL2Tb4DoN9q9bPQA": 3
+  },
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!actors.items!ChQxRzDf3bQR1XFH.lsoJJ6wN4gVdUlni"
+}

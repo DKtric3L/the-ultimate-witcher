@@ -1,0 +1,16 @@
+{
+  "text": "Дыхание огня",
+  "type": 2,
+  "img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.zaklinaniya",
+  "_id": "1FFN7WUZFttR7np3",
+  "documentId": "skzDg6PY31kOxz5o",
+  "flags": {},
+  "_key": "!tables.results!1UpkqubVx4wvUefg.1FFN7WUZFttR7np3"
+}

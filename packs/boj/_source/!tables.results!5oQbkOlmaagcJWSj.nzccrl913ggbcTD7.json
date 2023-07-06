@@ -1,0 +1,16 @@
+{
+  "_id": "nzccrl913ggbcTD7",
+  "type": 0,
+  "text": "6 урона.",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "flags": {},
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!5oQbkOlmaagcJWSj.nzccrl913ggbcTD7"
+}

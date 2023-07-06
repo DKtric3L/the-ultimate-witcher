@@ -1,0 +1,43 @@
+{
+  "name": "Скаковые шоры",
+  "type": "valuable",
+  "img": "icons/equipment/wrist/bracer-armored-steel-worn.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.predmety.4WkdiObm7PS62SH1"
+    },
+    "cf": {
+      "id": "temp_z182llqfigl"
+    }
+  },
+  "system": {
+    "description": "+2 к успокоению скакуна в проверках выживания в дикой природе.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 125,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "mount-accessories",
+    "avail": "Common",
+    "effect": "",
+    "conceal": "S",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868989,
+    "modifiedTime": 1685496603351,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "4WkdiObm7PS62SH1",
+  "folder": "5xI6WSosKuN8DC7c",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!4WkdiObm7PS62SH1"
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "drawn": false,
+  "text": "Гуль-Вожак",
+  "img": "modules/the-ultimate-witcher/assets/monsters/ghoul.webp",
+  "documentCollection": "the-ultimate-witcher.monstry",
+  "documentId": "8gDUb5kN7wJWBOrF",
+  "_id": "KWXDomlKI23O4ZYM",
+  "flags": {},
+  "_key": "!tables.results!ZAJL98P2snJZYjgf.KWXDomlKI23O4ZYM"
+}

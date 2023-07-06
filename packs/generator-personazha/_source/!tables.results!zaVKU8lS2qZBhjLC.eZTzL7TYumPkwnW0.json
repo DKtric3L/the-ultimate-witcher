@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "eZTzL7TYumPkwnW0",
+  "text": "Гордится своими знаниями",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!zaVKU8lS2qZBhjLC.eZTzL7TYumPkwnW0"
+}

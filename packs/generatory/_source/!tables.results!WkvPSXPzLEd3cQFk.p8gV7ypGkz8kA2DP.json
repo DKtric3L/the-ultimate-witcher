@@ -1,0 +1,16 @@
+{
+  "text": "Укрепление",
+  "type": 2,
+  "img": "modules/the-ultimate-witcher/assets/runes/glyph_strengthening.png",
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "_id": "p8gV7ypGkz8kA2DP",
+  "documentId": "jl9cFtLEWMV4l67U",
+  "flags": {},
+  "_key": "!tables.results!WkvPSXPzLEd3cQFk.p8gV7ypGkz8kA2DP"
+}

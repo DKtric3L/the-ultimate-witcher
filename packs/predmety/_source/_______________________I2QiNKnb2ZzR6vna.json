@@ -1,0 +1,40 @@
+{
+  "name": "Кольцо благосклонности",
+  "type": "valuable",
+  "img": "icons/equipment/finger/ring-ball-leaves-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_8uwkh0np5cd"
+    }
+  },
+  "system": {
+    "description": "Просто выглядещее, волшебное кольцо, сделанное из серебра и золота с выгравированными магическими знаками. Один раз за сессию персонаж, носящий Кольцо Благосклонности, может бросить 1к10. При результате 1, 5 или 10 персонаж восстанавливает все очки удачи, которые он потратил во время этой сессии.",
+    "quantity": 1,
+    "weight": 0.1,
+    "cost": 500,
+    "isHidden": false,
+    "associatedDiagram": {},
+    "type": "toolkit",
+    "avail": "Rare",
+    "effect": "",
+    "conceal": "T",
+    "quality": ""
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.299",
+    "createdTime": 1668162868976,
+    "modifiedTime": 1685496603627,
+    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+  },
+  "_id": "I2QiNKnb2ZzR6vna",
+  "folder": "lkP2gvXSA6oUXKA4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!I2QiNKnb2ZzR6vna"
+}

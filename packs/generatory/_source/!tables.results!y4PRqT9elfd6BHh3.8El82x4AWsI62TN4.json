@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "_id": "8El82x4AWsI62TN4",
+  "text": "Очень трудно - Следы уничтожены, приходится полагаться на словесное описание.",
+  "img": "icons/svg/d20-black.svg",
+  "documentId": null,
+  "flags": {},
+  "_key": "!tables.results!y4PRqT9elfd6BHh3.8El82x4AWsI62TN4"
+}

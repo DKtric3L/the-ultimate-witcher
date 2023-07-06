@@ -1,0 +1,16 @@
+{
+  "_id": "BJSnWUWuLLZdzDQF",
+  "flags": {},
+  "type": 0,
+  "text": "Родина - Этолия (+1 Храбрости)",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!P9HHqXymm9mINwdH.BJSnWUWuLLZdzDQF"
+}

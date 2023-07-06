@@ -1,0 +1,16 @@
+{
+  "_id": "cQfRuoxqB1FI58LA",
+  "flags": {},
+  "type": 0,
+  "text": "Предательство - Друг или любимый вас предал. Бросьте 1d10: 1-3 вас шантажировали, 4-7 раскрыли вашу тайну, 8-10 на вас напали.",
+  "img": "icons/svg/d20-black.svg",
+  "weight": 1,
+  "range": [
+    6,
+    6
+  ],
+  "drawn": false,
+  "documentCollection": "",
+  "documentId": null,
+  "_key": "!tables.results!T6UvpRgRnhXp4gV7.cQfRuoxqB1FI58LA"
+}

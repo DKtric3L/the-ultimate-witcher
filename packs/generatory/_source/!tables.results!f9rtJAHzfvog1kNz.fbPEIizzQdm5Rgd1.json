@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    22,
+    22
+  ],
+  "drawn": false,
+  "text": "Крюк-кошка",
+  "img": "icons/sundries/survival/climbing-anchor-steel-grey.webp",
+  "documentCollection": "the-ultimate-witcher.predmety",
+  "documentId": "AJn3vJLQ7SkUUHHo",
+  "_id": "fbPEIizzQdm5Rgd1",
+  "flags": {},
+  "_key": "!tables.results!f9rtJAHzfvog1kNz.fbPEIizzQdm5Rgd1"
+}

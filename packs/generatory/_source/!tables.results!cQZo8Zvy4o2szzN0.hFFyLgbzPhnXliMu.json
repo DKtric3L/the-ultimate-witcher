@@ -1,0 +1,16 @@
+{
+  "_id": "hFFyLgbzPhnXliMu",
+  "type": 2,
+  "text": "Формула - Мастер",
+  "img": "icons/svg/d20-grey.svg",
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "drawn": false,
+  "flags": {},
+  "documentCollection": "the-ultimate-witcher.generatory",
+  "documentId": "PZA6hmx0X6qnp1zz",
+  "_key": "!tables.results!cQZo8Zvy4o2szzN0.hFFyLgbzPhnXliMu"
+}

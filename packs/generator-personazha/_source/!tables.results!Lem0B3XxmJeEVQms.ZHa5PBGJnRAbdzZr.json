@@ -1,0 +1,16 @@
+{
+  "_id": "ZHa5PBGJnRAbdzZr",
+  "flags": {},
+  "type": 2,
+  "text": "Siblings: Personality",
+  "img": "icons/svg/circle.svg",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "drawn": false,
+  "documentCollection": "the-ultimate-witcher.generator-personazha",
+  "documentId": "Whbx0aq9TtxZTmL8",
+  "_key": "!tables.results!Lem0B3XxmJeEVQms.ZHa5PBGJnRAbdzZr"
+}
