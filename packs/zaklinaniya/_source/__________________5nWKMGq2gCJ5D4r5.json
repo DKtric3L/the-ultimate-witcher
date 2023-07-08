@@ -26,9 +26,9 @@
     "danger": "",
     "liftRequirement": "",
     "sideEffect": "",
-    "createTemplate": false,
-    "templateSize": "",
-    "templateType": "",
+    "createTemplate": true,
+    "templateSize": "6",
+    "templateType": "circle",
     "causeDamages": true,
     "damage": "2d10",
     "effects": [
@@ -36,19 +36,20 @@
         "id": "first",
         "name": "Длительность эффекта(раунды)"
       }
-    ]
+    ],
+    "visualEffectDuration": null
   },
   "_stats": {
     "systemId": "TheWitcherTRPG",
     "systemVersion": "0.96",
-    "coreVersion": "11.299",
+    "coreVersion": "11.304",
     "createdTime": 1668162892172,
-    "modifiedTime": 1685496637801,
-    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+    "modifiedTime": 1688760689095,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
   },
   "_id": "5nWKMGq2gCJ5D4r5",
   "folder": "1qvYxGy2tyjjpXzr",
-  "sort": 0,
+  "sort": 1200000,
   "ownership": {
     "default": 0,
     "TzUlXsBoDDaZxlVp": 3
