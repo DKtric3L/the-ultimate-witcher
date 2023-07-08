@@ -1,0 +1,254 @@
+{
+  "name": "Рука бури(Восходящий)",
+  "type": "spell",
+  "img": "icons/magic/death/skull-horned-white-purple.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_o81kbs4tuef"
+    },
+    "core": {},
+    "autoanimations": {
+      "id": "8db661e2-13f4-4e73-9fda-6e7f4a528393",
+      "label": "Рука бури(Восходящий)",
+      "levels3d": {
+        "type": "explosion",
+        "data": {
+          "color01": "#FFFFFF",
+          "color02": "#FFFFFF",
+          "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+        },
+        "sound": {
+          "enable": false
+        },
+        "secondary": {
+          "enable": false,
+          "data": {
+            "color01": "#FFFFFF",
+            "color02": "#FFFFFF",
+            "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+          }
+        }
+      },
+      "macro": {
+        "enable": false,
+        "playWhen": "0"
+      },
+      "menu": "range",
+      "primary": {
+        "video": {
+          "dbSection": "range",
+          "menuType": "generic",
+          "animation": "leaves",
+          "variant": "01",
+          "color": "greenorange",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "isReturning": false,
+          "isWait": false,
+          "onlyX": false,
+          "opacity": 1,
+          "playbackRate": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "tint": false,
+          "tintColor": "#0084ff",
+          "zIndex": 1
+        }
+      },
+      "secondary": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": true,
+          "isWait": false,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1.5,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "soundOnly": {
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        }
+      },
+      "source": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "isWait": true,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "target": {
+        "enable": true,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "whirlwind",
+          "variant": "01",
+          "color": "bluegrey",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "opacity": 1,
+          "persistent": false,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "unbindAlpha": false,
+          "unbindVisibility": false,
+          "zIndex": 1
+        }
+      },
+      "isEnabled": true,
+      "isCustomized": true,
+      "fromAmmo": false,
+      "version": 5
+    }
+  },
+  "system": {
+    "class": "Spells",
+    "level": "master",
+    "source": "air",
+    "domain": "",
+    "stamina": "25",
+    "staminaIsVar": false,
+    "effect": "Вызывая всю силу бури, вы обрушиваете силу на цель, которая может проявляться одним из 3 способов. С помощью мощного восходящего потока вы можете отправить цель, не прошедшую проверку Изменения позиции, или объект весом 1000 кг или легче, в полет на 14 м в воздух. Цель начинает падать в конце своего следующего хода. При ударе об землю цель и все, во что она попадает, получает 7к6 дробящего урона туловищу и сбивается с ног.",
+    "range": "20м",
+    "duration": "мгновенное",
+    "defence": "уклонение",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "14",
+    "templateType": "cone",
+    "causeDamages": true,
+    "damage": "7d6",
+    "effects": [],
+    "visualEffectDuration": null
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.301",
+    "createdTime": 1668162892172,
+    "modifiedTime": 1687735080987,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "folder": "KLhC0N9SxeP4F8bD",
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "_id": "8LXcFFoi9qpoA8tA",
+  "sort": 0,
+  "_key": "!items!8LXcFFoi9qpoA8tA"
+}

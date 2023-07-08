@@ -6,6 +6,214 @@
   "flags": {
     "cf": {
       "id": "temp_o81kbs4tuef"
+    },
+    "autoanimations": {
+      "id": "7284eb95-b5c5-4b33-9c9d-ce0546a4ed48",
+      "label": "Гроза",
+      "levels3d": {
+        "type": "explosion",
+        "data": {
+          "color01": "#FFFFFF",
+          "color02": "#FFFFFF",
+          "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+        },
+        "sound": {
+          "enable": false
+        },
+        "secondary": {
+          "enable": false,
+          "data": {
+            "color01": "#FFFFFF",
+            "color02": "#FFFFFF",
+            "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+          }
+        }
+      },
+      "macro": {
+        "enable": false,
+        "playWhen": "0"
+      },
+      "menu": "ontoken",
+      "primary": {
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "calllightning",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": true,
+          "isWait": false,
+          "opacity": 1,
+          "persistent": false,
+          "playbackRate": 1,
+          "playOn": "source",
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 10,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "unbindAlpha": false,
+          "unbindVisibility": false,
+          "zIndex": 1
+        }
+      },
+      "secondary": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": true,
+          "isWait": false,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1.5,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "soundOnly": {
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        }
+      },
+      "source": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "isWait": true,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "target": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "opacity": 1,
+          "persistent": false,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "unbindAlpha": false,
+          "unbindVisibility": false,
+          "zIndex": 1
+        }
+      },
+      "isEnabled": true,
+      "isCustomized": true,
+      "fromAmmo": false,
+      "version": 5
     }
   },
   "system": {
@@ -15,7 +223,7 @@
     "domain": "",
     "stamina": "25",
     "staminaIsVar": false,
-    "effect": "Призывает грозу с бьющими в случайные места молниями. Любой, кто окажется в зоне действия заклинания (кроме самого заклинателя), с вероятностью 35% попадёт под удар молнии. При попадании молнии цель должна совершить проверку Уклоне- ния/Изворотливости, чтобы не получить 8d6 урона в туловище с 75%-ным шансом горения.",
+    "effect": "Призывает грозу с бьющими в случайные места молниями. Любой, кто окажется в зоне действия заклинания (кроме самого заклинателя), с вероятностью 35% попадёт под удар молнии. При попадании молнии цель должна совершить проверку Уклонения/Изворотливости, чтобы не получить 8d6 урона в туловище с 75%-ным шансом горения.",
     "range": "радиус 20м",
     "duration": "Актив(6 вын)",
     "defence": "уклонение",
@@ -26,9 +234,9 @@
     "danger": "",
     "liftRequirement": "",
     "sideEffect": "",
-    "createTemplate": false,
-    "templateSize": "",
-    "templateType": "",
+    "createTemplate": true,
+    "templateSize": "20",
+    "templateType": "circle",
     "causeDamages": true,
     "damage": "8d6",
     "effects": [
@@ -42,15 +250,16 @@
         "name": "Удар молнией",
         "percentage": "35"
       }
-    ]
+    ],
+    "visualEffectDuration": null
   },
   "_stats": {
     "systemId": "TheWitcherTRPG",
     "systemVersion": "0.96",
-    "coreVersion": "11.299",
+    "coreVersion": "11.301",
     "createdTime": 1668162892157,
-    "modifiedTime": 1685496638125,
-    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+    "modifiedTime": 1687734613063,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
   },
   "_id": "2IVtbtpdsqhHuT1L",
   "folder": "KLhC0N9SxeP4F8bD",
