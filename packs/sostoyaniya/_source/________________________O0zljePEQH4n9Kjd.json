@@ -1,0 +1,38 @@
+{
+  "name": "Эффект: Коричневая нота",
+  "type": "effect",
+  "img": "icons/commodities/materials/slime-brown.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.O0zljePEQH4n9Kjd"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "В течение суток, в случайный отрезок времени, жертва порчи должна пройти проверку стойкости со штрафом -3. Провалив проверку, она страдает от сильнейшей диареи, которая не прекращается, пока жертва не совершит успешную проверку стойкости, либо пока ему не дадут отвар из двух единиц собачьей петрушки, единицы белого мирта, и 1 единицы ласточкиной травы. Отвар может приготовить любой персонаж. который пройдет проверку алхимии со сл 12, потратив 10 минут на приготовление. Отвар отменяет приступ, но на следующий день всё снова начнётся.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883169,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "O0zljePEQH4n9Kjd",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 5700000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!O0zljePEQH4n9Kjd"
+}

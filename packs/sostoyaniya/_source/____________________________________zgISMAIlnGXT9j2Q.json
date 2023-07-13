@@ -1,0 +1,49 @@
+{
+  "name": "Эффект: Землятрясение Стаммельфорда",
+  "type": "effect",
+  "img": "icons/magic/earth/barrier-stone-brown-green.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.GjcHEciCXUKC6HZf"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-2"
+      },
+      {
+        "id": "_i1tq3mbf3",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-3"
+      }
+    ],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883168,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "zgISMAIlnGXT9j2Q",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 5400000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!zgISMAIlnGXT9j2Q"
+}

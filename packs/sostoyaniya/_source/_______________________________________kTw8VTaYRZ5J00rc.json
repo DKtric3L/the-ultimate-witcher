@@ -1,0 +1,45 @@
+{
+  "name": "Эффект: Благословенный табун(Скорость)",
+  "type": "effect",
+  "img": "icons/creatures/mammals/spirit-deer-herd-blue.webp",
+  "system": {
+    "description": "",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "12"
+      }
+    ],
+    "derived": [],
+    "skills": [
+      {
+        "id": "_dqy5gfzx0",
+        "skill": "WITCHER.SkDexAthletics",
+        "modifier": "9"
+      }
+    ],
+    "isHUD": false
+  },
+  "effects": [],
+  "folder": "yylYsvGDwQABZRC4",
+  "ownership": {
+    "default": 0,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1689237502837,
+    "modifiedTime": 1689240570901,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "kTw8VTaYRZ5J00rc",
+  "sort": 0,
+  "_key": "!items!kTw8VTaYRZ5J00rc"
+}

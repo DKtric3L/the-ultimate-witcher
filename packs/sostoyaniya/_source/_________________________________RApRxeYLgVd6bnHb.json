@@ -1,0 +1,33 @@
+{
+  "name": "Эффект: Коррозия(Оружие или щит)",
+  "type": "effect",
+  "img": "icons/magic/unholy/hand-weapon-glow-black-green.webp",
+  "system": {
+    "description": "-2 к атаке оружием. Щит или оружие теряет 2d6 прочности.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "effects": [],
+  "folder": "yylYsvGDwQABZRC4",
+  "ownership": {
+    "default": 0,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1687822124439,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "RApRxeYLgVd6bnHb",
+  "sort": 5900000,
+  "_key": "!items!RApRxeYLgVd6bnHb"
+}

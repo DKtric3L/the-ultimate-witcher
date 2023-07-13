@@ -1,0 +1,51 @@
+{
+  "name": "Эффект: Вспышка Деметии Крест",
+  "type": "effect",
+  "img": "icons/magic/fire/barrier-wall-explosion-orange.webp",
+  "system": {
+    "description": "Создаёт вокруг заклинателя щит из чистой магии огня, блокирующий количество заклинаний воды, равное удвоенному значению его навыка Сотворение заклинаний. Снаряды, касающиеся щита, уничтожаются, а живые существа не могут пройти через него.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "first",
+        "stat": "",
+        "modifier": 0
+      }
+    ],
+    "derived": [
+      {
+        "id": "first",
+        "derivedStat": "",
+        "modifier": 0
+      }
+    ],
+    "skills": [
+      {
+        "id": "first",
+        "skill": "",
+        "modifier": 0
+      }
+    ],
+    "isHUD": false
+  },
+  "effects": [],
+  "folder": "yylYsvGDwQABZRC4",
+  "ownership": {
+    "default": 0,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1687739921757,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "kqxO5gfvluwaM2G5",
+  "sort": 5000000,
+  "_key": "!items!kqxO5gfvluwaM2G5"
+}

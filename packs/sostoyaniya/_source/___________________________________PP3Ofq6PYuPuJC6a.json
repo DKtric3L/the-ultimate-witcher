@@ -1,0 +1,33 @@
+{
+  "name": "Эффект: Благословенный табун(Сила)",
+  "type": "effect",
+  "img": "icons/creatures/mammals/spirit-deer-herd-blue.webp",
+  "system": {
+    "description": "+20 естественной брони. Модификатор управления +2, +5 верховой езды персонажу верхом.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "effects": [],
+  "folder": "yylYsvGDwQABZRC4",
+  "ownership": {
+    "default": 0,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1689237502837,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "PP3Ofq6PYuPuJC6a",
+  "sort": 300000,
+  "_key": "!items!PP3Ofq6PYuPuJC6a"
+}

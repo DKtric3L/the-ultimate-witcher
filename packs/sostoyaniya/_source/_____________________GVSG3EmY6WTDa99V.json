@@ -1,0 +1,38 @@
+{
+  "name": "Эффект: Дурной сглаз",
+  "type": "effect",
+  "img": "icons/magic/death/skeleton-worn-skull-tan.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.GVSG3EmY6WTDa99V"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Наложение Дурного глаза на объект плетет вокруг цели паутину несчастья, которая угрожает каждому его движению. Всякий раз, когда субъект совершает критический провал, она должна бросить дважды и выбрать худший результат.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883167,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "GVSG3EmY6WTDa99V",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 5100000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!GVSG3EmY6WTDa99V"
+}

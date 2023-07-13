@@ -1,0 +1,38 @@
+{
+  "name": "Эффект: Звериная порча",
+  "type": "effect",
+  "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.1RSEN2EnmmD8zWbJ"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Жертва становится ненавистна зверям и прочим животным. Когда жертва подходит к животному на 10 метров, оно относится к ней с недоверием, что даёт жертве штраф -3 к Выживанию в дикой природе при обращении с животными. Каждый раз, когда жертва оказывается в 10 метрах от животного, оно нападает с вероятностью 50 %.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883168,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "1RSEN2EnmmD8zWbJ",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 5300000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!1RSEN2EnmmD8zWbJ"
+}

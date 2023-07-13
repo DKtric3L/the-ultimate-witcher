@@ -32,14 +32,14 @@
   "_stats": {
     "systemId": "TheWitcherTRPG",
     "systemVersion": "0.96",
-    "coreVersion": "11.299",
+    "coreVersion": "11.304",
     "createdTime": 1668162883176,
-    "modifiedTime": 1685496621883,
-    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
   },
   "_id": "AmUAMUbtcsom0AEd",
   "folder": "yylYsvGDwQABZRC4",
-  "sort": 0,
+  "sort": 1100000,
   "ownership": {
     "default": 0,
     "TzUlXsBoDDaZxlVp": 3

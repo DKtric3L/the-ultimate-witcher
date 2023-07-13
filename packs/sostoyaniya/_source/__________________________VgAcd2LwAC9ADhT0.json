@@ -1,0 +1,49 @@
+{
+  "name": "Эффект: Коррозия(Доспехи)",
+  "type": "effect",
+  "img": "icons/magic/unholy/hand-weapon-glow-black-green.webp",
+  "system": {
+    "description": "Доспехи теряют 2d6 прочности, ношение приносит штрафы.",
+    "isActive": true,
+    "stats": [
+      {
+        "id": "_swui51wsf",
+        "stat": "WITCHER.Actor.Stat.Ref",
+        "modifier": "-2"
+      },
+      {
+        "id": "_yvz2rmdcr",
+        "stat": "WITCHER.Actor.Stat.Dex",
+        "modifier": "-2"
+      },
+      {
+        "id": "_85ix9iu12",
+        "stat": "WITCHER.Actor.Stat.Spd",
+        "modifier": "-2"
+      }
+    ],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "effects": [],
+  "folder": "yylYsvGDwQABZRC4",
+  "ownership": {
+    "default": 0,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1687822124439,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "VgAcd2LwAC9ADhT0",
+  "sort": 5800000,
+  "_key": "!items!VgAcd2LwAC9ADhT0"
+}

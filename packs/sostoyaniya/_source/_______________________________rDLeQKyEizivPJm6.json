@@ -1,0 +1,33 @@
+{
+  "name": "Эффект: Кристаллический Стазис",
+  "type": "effect",
+  "img": "icons/magic/water/barrier-ice-crystal-wall-green.webp",
+  "system": {
+    "description": "-3 к атаке и защите с 1 раунда концентрации, полное обездвиживание на второй, потеря сознания на третий.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "effects": [],
+  "folder": "yylYsvGDwQABZRC4",
+  "ownership": {
+    "default": 0,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1687739921757,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "rDLeQKyEizivPJm6",
+  "sort": 6100000,
+  "_key": "!items!rDLeQKyEizivPJm6"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Эффект: Отвратительная порча",
+  "type": "effect",
+  "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.g03oQHjfyQ1nfPRS"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Отвратительная порча окутывает объект и делает его отталкивающим. Будучи заколдованным, субъект всегда считается на один уровень ниже в таблице социального положения, если только он уже не был ненавидим. Это влияет на людей той же расы, что и субъект.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883170,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "g03oQHjfyQ1nfPRS",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 6400000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!g03oQHjfyQ1nfPRS"
+}

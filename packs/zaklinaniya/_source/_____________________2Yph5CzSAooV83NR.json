@@ -1,0 +1,263 @@
+{
+  "name": "Гнев природы(Болото)",
+  "type": "spell",
+  "img": "icons/magic/nature/plant-vines-skull-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ncc4fdr6vur"
+    },
+    "core": {},
+    "autoanimations": {
+      "id": "d43dace5-ea7d-46e4-87b3-9202b9efa76d",
+      "label": "Гнев природы(Болото)",
+      "levels3d": {
+        "type": "explosion",
+        "data": {
+          "color01": "#FFFFFF",
+          "color02": "#FFFFFF",
+          "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+        },
+        "sound": {
+          "enable": false
+        },
+        "secondary": {
+          "enable": false,
+          "data": {
+            "color01": "#FFFFFF",
+            "color02": "#FFFFFF",
+            "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+          }
+        }
+      },
+      "macro": {
+        "enable": false,
+        "playWhen": "0"
+      },
+      "menu": "ontoken",
+      "primary": {
+        "video": {
+          "dbSection": "static",
+          "menuType": "generic",
+          "animation": "smoke",
+          "variant": "03",
+          "color": "grey",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": true,
+          "isWait": false,
+          "opacity": 1,
+          "persistent": false,
+          "playbackRate": 1,
+          "playOn": "source",
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 3,
+          "tint": true,
+          "tintColor": "#11ff00",
+          "unbindAlpha": false,
+          "unbindVisibility": false,
+          "zIndex": 1
+        }
+      },
+      "secondary": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": true,
+          "isWait": false,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1.5,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "soundOnly": {
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        }
+      },
+      "source": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "isWait": true,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "target": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "opacity": 1,
+          "persistent": false,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "unbindAlpha": false,
+          "unbindVisibility": false,
+          "zIndex": 1
+        }
+      },
+      "isEnabled": true,
+      "isCustomized": true,
+      "fromAmmo": false,
+      "version": 5
+    }
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "druid",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Каждый ход вы можете потратить действие полного\nраунда, чтобы вызвать область болотного газа радиусом 6 м,\nкоторая извергается из-под земли. Любой, кто попал в газ,\nдолжен пройти проверку Стойкости против вашей проверки\nСотворения заклинаний, иначе он заболеет Болезнью. Этот\nгаз остается до окончания инвокации. \nКроме того, если\nоткрытое пламя присутствует в области этого газа, он\nвзрывается, в результате чего каждое существо находящееся\nв газе получает 5d6 повреждений туловища и имеет 75%\nшанс загореться.",
+    "range": "60м",
+    "duration": "актив(6 вын)",
+    "defence": "разное",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": true,
+    "templateSize": "6",
+    "templateType": "circle",
+    "causeDamages": false,
+    "damage": "1d6+0",
+    "effects": [],
+    "visualEffectDuration": null
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162892156,
+    "modifiedTime": 1689164503994,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "folder": "kk7yYFo1jLfJxLeF",
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "_id": "2Yph5CzSAooV83NR",
+  "sort": 100000,
+  "_key": "!items!2Yph5CzSAooV83NR"
+}

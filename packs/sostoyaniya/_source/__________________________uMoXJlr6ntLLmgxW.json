@@ -1,0 +1,38 @@
+{
+  "name": "Эффект: Дьявольская удача",
+  "type": "effect",
+  "img": "icons/tools/smithing/horsehoe-worn-steel-grey.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.uMoXJlr6ntLLmgxW"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Периодически жертву постигает неудача. В особо стрессовых ситуациях, например в бою или при необходимости выполнить что-то за установленный срок или совершить проверку со СЛ выше 15, жертва получает критический провал при выпадении 1 или 2 на d1O.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883167,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "uMoXJlr6ntLLmgxW",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 5200000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!uMoXJlr6ntLLmgxW"
+}

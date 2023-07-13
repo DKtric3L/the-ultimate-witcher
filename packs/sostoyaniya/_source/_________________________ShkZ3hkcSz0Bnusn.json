@@ -1,0 +1,38 @@
+{
+  "name": "Эффект: Стеклянные кости",
+  "type": "effect",
+  "img": "icons/skills/wounds/bone-broken-marrow-red.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.ShkZ3hkcSz0Bnusn"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Стеклянные кости волшебным образом делает кости субъекта полыми, делая их склонными к расщеплению. Когда субъект получит Критическое ранение «треснутые ребра», он вместо этого получит Критическое ранение «сломанные ребра». Когда они получают Критическое ранение Перелом Руки/Ноги, они вместо этого получают Критическое Ранение Открытый Перелом Руки/Ноги. Когда они должны были получить Критическое Ранение Небольшой Травмы Головы, вместо этого они получают Критическое Ранение Проломленный Череп. Кроме того, броски, сделанные для стабилизации или лечения этих критических ран, делаются со штрафом -3",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883174,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "ShkZ3hkcSz0Bnusn",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 7200000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!ShkZ3hkcSz0Bnusn"
+}

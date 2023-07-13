@@ -1,0 +1,38 @@
+{
+  "name": "Эффект: Бесконечная потребность",
+  "type": "effect",
+  "img": "icons/consumables/meat/shank-glowing-purple-blue.webp",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.world.sostoyaniya.nIWP0uyeLLvVc4Jd"
+    },
+    "cf": {
+      "id": "temp_3gdmarbg4c"
+    }
+  },
+  "system": {
+    "description": "Бесконечная потребность заставляет тело субъекта поглощаться ленью и обжорством, требуя больше сна и пищи для нормального функционирования. Субъект должен получать 10 часов непрерывного сна каждую ночь или получить штраф -3 к броскам на Лишение сна. Кроме того, субъект должен принимать пищу 5 раз в день или вдвое уменьшать свою общую Вын на следующий день.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162883164,
+    "modifiedTime": 1689240568569,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "nIWP0uyeLLvVc4Jd",
+  "folder": "yylYsvGDwQABZRC4",
+  "sort": 4800000,
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3
+  },
+  "_key": "!items!nIWP0uyeLLvVc4Jd"
+}

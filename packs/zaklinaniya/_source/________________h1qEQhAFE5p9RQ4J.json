@@ -6,6 +6,214 @@
   "flags": {
     "cf": {
       "id": "temp_ncc4fdr6vur"
+    },
+    "autoanimations": {
+      "id": "abf29ebe-9078-446e-9020-a71906846846",
+      "label": "Друидский тотем",
+      "levels3d": {
+        "type": "explosion",
+        "data": {
+          "color01": "#FFFFFF",
+          "color02": "#FFFFFF",
+          "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+        },
+        "sound": {
+          "enable": false
+        },
+        "secondary": {
+          "enable": false,
+          "data": {
+            "color01": "#FFFFFF",
+            "color02": "#FFFFFF",
+            "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+          }
+        }
+      },
+      "macro": {
+        "enable": false,
+        "playWhen": "0"
+      },
+      "menu": "ontoken",
+      "primary": {
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "entangle",
+          "variant": "01",
+          "color": "brown",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "isWait": false,
+          "opacity": 1,
+          "persistent": false,
+          "playbackRate": 1,
+          "playOn": "source",
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 0.5,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "unbindAlpha": false,
+          "unbindVisibility": false,
+          "zIndex": 1
+        }
+      },
+      "secondary": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": true,
+          "isWait": false,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1.5,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "soundOnly": {
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        }
+      },
+      "source": {
+        "enable": true,
+        "video": {
+          "dbSection": "static",
+          "menuType": "energy",
+          "animation": "sparkles",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "isWait": true,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "target": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "opacity": 1,
+          "persistent": false,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "unbindAlpha": false,
+          "unbindVisibility": false,
+          "zIndex": 1
+        }
+      },
+      "isEnabled": true,
+      "isCustomized": true,
+      "fromAmmo": false,
+      "version": 5
     }
   },
   "system": {
@@ -15,7 +223,7 @@
     "domain": "",
     "stamina": "14",
     "staminaIsVar": false,
-    "effect": "Друидский тотем позволяет вам пожертвовать своим посохом из Дуба и омелы, чтобы создать волшебный тотем, который соединяет вас с миром природы. После произнесения этой инвокации, вы должны пожертвовать фокусировкой, созданой Ритуалом Дуба и Омелы, посадив его в землю. Посох вырастает в двухметровый тотем с 20 хитами, напоминающий местную флору. Находясь в пределах 1 мили от этого тотема, вы всегда считаетесь имеющим Фокусировку со значением 4, все животные считаются дружественными к вам и вашим союзникам, и вы получаете дополнительное преимущество в зависимости от места, где вы разместили тотем. тотем. Вы можете иметь только один активный тотем одновременно, и создание нового тотема превращает старый тотем в немагическое растение.\n◆ Поля: Ваша значение Скор равна 12.\n◆ Горы: У вас есть сопротивление дробящему, рубящему и колющему урону.\n◆ Под землёй: У вас есть Улучшенное\nНочное Видение и получите +4 к\nпроверкам Скрытности.\n◆ Лес: Если вы потребляете фрукты,\nвыращенные в области вашего тотема, вы\nполучаете значение регенерации 3 на 1 час.\n◆ Болота: Вы невосприимчивы к состояниям\nотравления и болезни.\n◆ Берег: Вы можете дышать под водой и не\nимеете штрафов за бой или маневрирование в\nводе.\n◆ Пустыня: Вы невосприимчивы к\nэкстремальной жаре и всегда можете найти\nисточник воды. Один раз в день, когда вы\nпотребляете воду, собранную в области вашего\nтотема, вы восстанавливаете всю потерянную\nВын.\n◆ Тундра: Вы невосприимчивы к условиям\nСнега и Льда, вас нельзя поджечь или\nзаморозить, и вы получаете сопротивление\nурону от огня и льда",
+    "effect": "Друидский тотем позволяет вам пожертвовать своим посохом из Дуба и омелы, чтобы создать волшебный тотем, который соединяет вас с миром природы. После произнесения этой инвокации, вы должны пожертвовать фокусировкой, созданой Ритуалом Дуба и Омелы, посадив его в землю. Посох вырастает в двухметровый тотем с 20 хитами, напоминающий местную флору. Находясь в пределах 1.6 км от этого тотема, вы всегда считаетесь имеющим Фокусировку со значением 4, все животные считаются дружественными к вам и вашим союзникам, и вы получаете дополнительное преимущество в зависимости от места, где вы разместили тотем. тотем. Вы можете иметь только один активный тотем одновременно, и создание нового тотема превращает старый тотем в немагическое растение.\n◆ Поля: Ваша значение Скор равна 12.\n◆ Горы: У вас есть сопротивление дробящему, рубящему и колющему урону.\n◆ Под землёй: У вас есть Улучшенное\nНочное Видение и получите +4 к\nпроверкам Скрытности.\n◆ Лес: Если вы потребляете фрукты,\nвыращенные в области вашего тотема, вы\nполучаете значение регенерации 3 на 1 час.\n◆ Болота: Вы невосприимчивы к состояниям\nотравления и болезни.\n◆ Берег: Вы можете дышать под водой и не\nимеете штрафов за бой или маневрирование в\nводе.\n◆ Пустыня: Вы невосприимчивы к\nэкстремальной жаре и всегда можете найти\nисточник воды. Один раз в день, когда вы\nпотребляете воду, собранную в области вашего\nтотема, вы восстанавливаете всю потерянную\nВын.\n◆ Тундра: Вы невосприимчивы к условиям\nСнега и Льда, вас нельзя поджечь или\nзаморозить, и вы получаете сопротивление\nурону от огня и льда",
     "range": "2м",
     "duration": "мгновенное",
     "defence": "нет",
@@ -41,14 +249,14 @@
   "_stats": {
     "systemId": "TheWitcherTRPG",
     "systemVersion": "0.96",
-    "coreVersion": "11.299",
+    "coreVersion": "11.304",
     "createdTime": 1668162892158,
-    "modifiedTime": 1685496638213,
-    "lastModifiedBy": "SFdeLroDgLgy3uI9"
+    "modifiedTime": 1689189508459,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
   },
   "_id": "h1qEQhAFE5p9RQ4J",
   "folder": "kk7yYFo1jLfJxLeF",
-  "sort": 0,
+  "sort": 700000,
   "ownership": {
     "default": 0,
     "TzUlXsBoDDaZxlVp": 3

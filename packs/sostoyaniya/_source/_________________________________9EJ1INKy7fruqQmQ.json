@@ -1,0 +1,33 @@
+{
+  "name": "Эффект: Печать охоты(Безопасный)",
+  "type": "effect",
+  "img": "icons/skills/targeting/crosshair-mark-rough-pink.webp",
+  "system": {
+    "description": "Звери к цели дружелюбны, а монстры - нейтральны.",
+    "isActive": true,
+    "stats": [],
+    "derived": [],
+    "skills": [],
+    "isHUD": false
+  },
+  "effects": [],
+  "folder": "yylYsvGDwQABZRC4",
+  "ownership": {
+    "default": 0,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1689190050482,
+    "modifiedTime": 1689240629976,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "_id": "9EJ1INKy7fruqQmQ",
+  "sort": 0,
+  "_key": "!items!9EJ1INKy7fruqQmQ"
+}

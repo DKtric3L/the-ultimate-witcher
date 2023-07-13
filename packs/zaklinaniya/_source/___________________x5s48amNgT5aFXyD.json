@@ -1,0 +1,268 @@
+{
+  "name": "Гнев природы(Поля)",
+  "type": "spell",
+  "img": "icons/magic/nature/plant-vines-skull-green.webp",
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ncc4fdr6vur"
+    },
+    "autoanimations": {
+      "id": "d43dace5-ea7d-46e4-87b3-9202b9efa76d",
+      "label": "Гнев природы",
+      "levels3d": {
+        "type": "explosion",
+        "data": {
+          "color01": "#FFFFFF",
+          "color02": "#FFFFFF",
+          "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+        },
+        "sound": {
+          "enable": false
+        },
+        "secondary": {
+          "enable": false,
+          "data": {
+            "color01": "#FFFFFF",
+            "color02": "#FFFFFF",
+            "spritePath": "modules/levels-3d-preview/assets/particles/dust.png"
+          }
+        }
+      },
+      "macro": {
+        "enable": false,
+        "playWhen": "0"
+      },
+      "menu": "ontoken",
+      "primary": {
+        "video": {
+          "dbSection": "static",
+          "menuType": "conditions",
+          "animation": "light",
+          "variant": "pulse",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "isWait": false,
+          "opacity": 1,
+          "persistent": false,
+          "playbackRate": 1,
+          "playOn": "source",
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "unbindAlpha": false,
+          "unbindVisibility": false,
+          "zIndex": 1
+        }
+      },
+      "secondary": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": true,
+          "isWait": false,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1.5,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "soundOnly": {
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        }
+      },
+      "source": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "isWait": true,
+          "opacity": 1,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "zIndex": 1
+        }
+      },
+      "target": {
+        "enable": false,
+        "video": {
+          "dbSection": "static",
+          "menuType": "spell",
+          "animation": "curewounds",
+          "variant": "01",
+          "color": "blue",
+          "enableCustom": false,
+          "customPath": ""
+        },
+        "sound": {
+          "enable": false,
+          "delay": 0,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "startTime": 0,
+          "volume": 0.75
+        },
+        "options": {
+          "addTokenWidth": false,
+          "anchor": "0.5",
+          "contrast": 0,
+          "delay": 0,
+          "elevation": 1000,
+          "fadeIn": 250,
+          "fadeOut": 500,
+          "isMasked": false,
+          "isRadius": false,
+          "opacity": 1,
+          "persistent": false,
+          "repeat": 1,
+          "repeatDelay": 250,
+          "saturate": 0,
+          "size": 1,
+          "tint": false,
+          "tintColor": "#FFFFFF",
+          "unbindAlpha": false,
+          "unbindVisibility": false,
+          "zIndex": 1
+        }
+      },
+      "isEnabled": true,
+      "isCustomized": true,
+      "fromAmmo": false,
+      "version": 5
+    },
+    "core": {}
+  },
+  "system": {
+    "class": "Invocations",
+    "level": "master",
+    "source": "druid",
+    "domain": "",
+    "stamina": "6",
+    "staminaIsVar": false,
+    "effect": "Поля: Каждый ход вы можете потратить полный раунд, чтобы\nлибо коснуться нити торнадо в пределах 10 м от вас, либо\nнаправить одиночную нить торнадо в зону шторма. Нить\nторнадо покрывает кубическую площадь 4 м и когда вы\nнаправляете его, может перемещаться на 10 м за ход. Если он\nпроходит через через цель или попадает в них, эти цели\nдолжны пройти проверку Атлетики против вашей проверки\nСотворения заклинаний. Если они терпят неудачу, они\nполучают 4к6 повреждений туловища и отбрасываются на 10\nм в направлении, указанном мастером.",
+    "range": "60м",
+    "duration": "актив(6 вын)",
+    "defence": "разное",
+    "components": "",
+    "alternateComponents": "",
+    "preparationTime": "",
+    "dificultyCheck": "",
+    "danger": "",
+    "liftRequirement": "",
+    "sideEffect": "",
+    "createTemplate": false,
+    "templateSize": "4",
+    "templateType": "circle",
+    "causeDamages": true,
+    "damage": "4d6",
+    "effects": [
+      {
+        "id": "first",
+        "name": "Отбрасывание на 10м"
+      }
+    ],
+    "visualEffectDuration": null
+  },
+  "_stats": {
+    "systemId": "TheWitcherTRPG",
+    "systemVersion": "0.96",
+    "coreVersion": "11.304",
+    "createdTime": 1668162892156,
+    "modifiedTime": 1689164506110,
+    "lastModifiedBy": "Rcr49y7kKhnhIeHT"
+  },
+  "folder": "kk7yYFo1jLfJxLeF",
+  "ownership": {
+    "default": 0,
+    "TzUlXsBoDDaZxlVp": 3,
+    "Rcr49y7kKhnhIeHT": 3
+  },
+  "_id": "x5s48amNgT5aFXyD",
+  "sort": 0,
+  "_key": "!items!x5s48amNgT5aFXyD"
+}
